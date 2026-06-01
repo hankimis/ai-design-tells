@@ -24,7 +24,7 @@
 #align(center)[#block(width: 92%, inset: 9pt, stroke: 0.5pt + luma(170), radius: 4pt)[
   #set text(9.5pt)
   #set par(justify: true)
-  *Abstract.* Interfaces produced by generative models are instantly recognizable: an indigo-to-violet gradient, Inter on white, a hero followed by three emoji feature cards, one border-radius, one soft shadow, a headline that says _build the future of work_. Practitioners spend large amounts of time and tokens trying to make AI output _not look like AI_, yet the target is treated as ineffable taste. We argue the opposite: the "AI look" is a *finite, enumerable set of statistical defaults*, and is therefore measurable. We contribute (i) a taxonomy of *21 design tells* across seven families (color, type, layout, spacing, surface, motion, copy), each grounded in the documented mechanism of model convergence and in the published craft of human-crafted interfaces; (ii) a dependency-free static detector that resolves both raw CSS and utility classes and reports a *Tell Score* in $[0,100]$ (lower is better); and (iii) a harness — a CLI, an MCP server, and a drop-in prompt module — so any team or agent can audit and prevent the look. In a confound-controlled refactor that holds a page's content and structure fixed and changes only the tell-bearing properties, the Tell Score of a canonical AI landing page falls from *76 (grade F)* to *0 (grade A)*; across a six-page corpus the detector separates AI-default from designed pages with no overlap (nearest pair 49.5 points apart). We close with the epistemics: a discriminator of machine-default is not a judge of beauty, taste is the compression of lived choices that a median cannot hold, and if everyone optimizes the same score we risk a second-order convergence — the same homogenization our companion study finds in iterated creation. Code, data, figures and harness are open.
+  *Abstract.* Interfaces produced by generative models are instantly recognizable: an indigo-to-violet gradient, Inter on white, a hero followed by three emoji feature cards, one border-radius, one soft shadow, a headline that says _build the future of work_. Practitioners spend large amounts of time and tokens trying to make AI output _not look like AI_, yet the target is treated as ineffable taste. We argue the opposite: the "AI look" is a *finite, enumerable set of statistical defaults*, and is therefore measurable. We contribute (i) a taxonomy of *21 design tells* across seven families (color, type, layout, spacing, surface, motion, copy), each grounded in the documented mechanism of model convergence and in the published craft of human-crafted interfaces; (ii) a dependency-free static detector that resolves both raw CSS and utility classes and reports a *Tell Score* in $[0,100]$ (lower is better); and (iii) a harness, a CLI, an MCP server, and a drop-in prompt module, so any team or agent can audit and prevent the look. In a confound-controlled refactor that holds a page's content and structure fixed and changes only the tell-bearing properties, the Tell Score of a canonical AI landing page falls from *76 (grade F)* to *0 (grade A)*; across a six-page corpus the detector separates AI-default from designed pages with no overlap (nearest pair 49.5 points apart). We close with the epistemics: a discriminator of machine-default is not a judge of beauty, taste is the compression of lived choices that a median cannot hold, and if everyone optimizes the same score we risk a second-order convergence, the same homogenization our companion study finds in iterated creation. Code, data, figures and harness are open.
 ]]
 
 = Introduction
@@ -32,8 +32,8 @@
 There is a smell to a machine-made page. You know it before you can name it: the
 hero bathed in a blue-to-purple gradient, the body set in Inter, three cards each
 with an emoji and a one-line promise, every corner rounded to the same radius,
-every card lifted by the same soft shadow, and a headline — grammatically
-perfect, topically relevant, utterly forgettable — that announces you can _build
+every card lifted by the same soft shadow, and a headline, grammatically
+perfect, topically relevant, utterly forgettable, that announces you can _build
 the future of work_. The look is so consistent across tools (v0, Lovable, Bolt,
 and a raw model prompted for "a nice landing page") that designers have a name
 for the result: _AI slop_ @studio925_slop @axeweb_sameness.
@@ -48,7 +48,7 @@ position that *the AI look is not mysterious; it is a finite set of defaults*,
 and that anything finite and recurrent can be enumerated, measured, and audited.
 
 Why is the look so uniform? Because a language model, asked for a design without
-constraints, returns the centroid of its training distribution — "the median of
+constraints, returns the centroid of its training distribution, "the median of
 every Tailwind tutorial scraped from GitHub between 2019 and 2024" @prg_purple.
 The single most over-represented brand color in that corpus is indigo, in part
 because Tailwind's own component examples defaulted every button to
@@ -66,12 +66,12 @@ We make three contributions.
   defaults to it), and paired with the fix a designer would make. The taxonomy
   triangulates three literatures: the discourse on why AI converges
   @prg_purple @kai_purple @jackpearce_purple; the craft rules of human-crafted
-  interfaces — Refactoring UI @refactoring_ui, Linear @linear_redesign, the
+  interfaces, Refactoring UI @refactoring_ui, Linear @linear_redesign, the
   premium-UI "six microstates" @mantlr_premium, Toss's writing principles
   @toss_writing; and classic design theory @rams_principles @nielsen_heuristics.
 
   *2. A detector and a metric.* A static analyzer (§5) that parses a single HTML
-  document — its inline CSS, its `style` attributes, and its utility classes —
+  document, its inline CSS, its `style` attributes, and its utility classes,
   and emits a *Tell Score* in $[0,100]$, the weighted fraction of the maximum
   tell weight that fired. It is dependency-free and reproducible from one command.
 
@@ -82,7 +82,7 @@ We make three contributions.
 
 Our central empirical result is deliberately confound-controlled. We take one
 canonical AI landing page and refactor it so that *only the tell-bearing
-properties change* — same product, same sections, same information — and measure
+properties change*, same product, same sections, same information, and measure
 the Tell Score before and after. It falls from 76 (grade F, "textbook AI slop")
 to 0 (grade A, "reads as human-crafted"), a 76-point move attributable to design
 choices alone (@fig-money). The two rendered pages are shown in @fig-templates.
@@ -97,7 +97,7 @@ choices alone (@fig-money). The two rendered pages are shown in @fig-templates.
 = The look is a distribution, not a style
 
 It helps to be precise about _what_ is being escaped. The AI look is not a style
-in the way Swiss typography or brutalism is a style — a coherent system with
+in the way Swiss typography or brutalism is a style, a coherent system with
 internal logic. It is a *distributional artifact*: the set of choices that are
 individually unremarkable but collectively over-represented because they sit at
 the mode of the training data. Three properties follow.
@@ -110,7 +110,7 @@ the space @shumailov2024collapse. The look gets _louder_ over generations, not
 quieter.
 
 *It is legible.* Because the defaults are shared across tools, a human reader
-needs only a handful of cues — the gradient, the font, the emoji cards — to
+needs only a handful of cues, the gradient, the font, the emoji cards, to
 classify a page as machine-made. Legibility is exactly what makes the look a
 liability: it signals _nobody decided this_.
 
@@ -127,8 +127,8 @@ sufficient) condition for looking authored. We return to this in §9.
 
 = Related work
 
-*Why models converge.* The proximate mechanism — sampling the mode of the
-training distribution — is now well documented in practitioner writing
+*Why models converge.* The proximate mechanism, sampling the mode of the
+training distribution, is now well documented in practitioner writing
 @prg_purple @kai_purple @jackpearce_purple @studio925_slop and traces to specific
 historical defaults such as Tailwind's `bg-indigo-500` @wathan_indigo. At the
 population level this is the aesthetic case of a general phenomenon: shared models
@@ -140,15 +140,15 @@ driver as the _reflective loop_ rather than AI assistance per se @kim2026converg
 
 *The craft being defaulted away from.* The positive literature tells us what
 intentional looks like. _Refactoring UI_ @refactoring_ui codifies the
-non-artistic moves — hierarchy by size/weight/color, a spacing system rather than
-arbitrary values, restraint — that separate designed from accumulated interfaces.
+non-artistic moves, hierarchy by size/weight/color, a spacing system rather than
+arbitrary values, restraint, that separate designed from accumulated interfaces.
 Studies of premium products @mantlr_premium @pixeldarts_four name the level of
 finish: every interactive element designed across _six microstates_ (default,
 hover, focus, active, disabled, loading), a committed typeface (Stripe's Söhne,
 Vercel's Geist), color that is "restrained and meaning-driven," hairlines at low
 alpha, motion with defined curves and durations. Linear's engineering writing
-@linear_redesign @logrocket_linear gives concrete numbers — a perceptual LCH
-theme system, a 6px radius, display tracking of −0.22px — that we encode directly
+@linear_redesign @logrocket_linear gives concrete numbers, a perceptual LCH
+theme system, a 6px radius, display tracking of −0.22px, that we encode directly
 as fixes. Toss @toss_writing @toss_tds supplies the copy and consistency
 dimension: a CTA should hint at the next step, text is a foundational design
 element, and one voice should span dozens of services. Classic theory frames the
@@ -160,15 +160,15 @@ whole: Rams's "as little design as possible" and "thorough to the last detail"
 Aesthetics_ @anthropic_cookbook, which prescribes guiding specific dimensions,
 referencing inspirations, and explicitly prohibiting defaults ("avoid Inter,"
 "no purple gradients on white"). We build on it in two ways: we make the implicit
-checklist *explicit and weighted*, and we make it *measurable* — a prompt you can
+checklist *explicit and weighted*, and we make it *measurable*, a prompt you can
 score, not only assert.
 
 = The taxonomy of tells
 
 A *tell* is a measurable signal that an interface was produced by a model
 defaulting to its distribution rather than by a person making a choice. Each tell
-carries a weight (its contribution to the maximum score), a severity — *tell*
-(strong) or *smell* (weak, context-dependent) — a mechanistic rationale, and a
+carries a weight (its contribution to the maximum score), a severity, *tell*
+(strong) or *smell* (weak, context-dependent), a mechanistic rationale, and a
 fix. There are 21 tells in seven families; the maximum attainable weight is 109.
 @tab-taxonomy lists them; the full text with citations lives in `src/taxonomy.py`,
 the single source of truth from which the detector, this paper, and the harness
@@ -207,37 +207,37 @@ are generated.
   spacing, E surface, F motion, G copy). Weights sum to 109.],
 ) <tab-taxonomy>
 
-*A — Color (chromatic conformity).* The loudest family. A1 fires on any
+*A, Color (chromatic conformity).* The loudest family. A1 fires on any
 indigo/violet/purple/fuchsia value, whether a hex in the Tailwind ramp or a
 utility class; A2 on a blue-to-purple gradient, the literal signature of the
 builders; A3 on reliance on `*-500/600` utilities with no `--color-*` semantic
 tokens. The fix is to take a hue from the product's own brand or domain and
 derive a ramp in a perceptual space @linear_redesign.
 
-*B — Type.* B1, the second-loudest single tell, fires when the primary face is
+*B, Type.* B1, the second-loudest single tell, fires when the primary face is
 Inter, Roboto, Arial or the system stack with no custom display face
 @anthropic_cookbook. B2 flags the absence of a modular scale (too many ad-hoc
 sizes, or only one or two); B3 flags display headings left at default tracking.
 
-*C — Layout.* C1 detects the canonical template — a hero followed by a three-up
+*C, Layout.* C1 detects the canonical template, a hero followed by a three-up
 icon-card grid; C2 fires when most top-level blocks are centered; C3 when a single
 radius is reused across every surface; C4 on emoji standing in for an icon system.
 
-*D — Spacing.* D1 fires when one padding token dominates every card (the "same
+*D, Spacing.* D1 fires when one padding token dominates every card (the "same
 24px everywhere"); D2 when every section shares one vertical rhythm. Whitespace
 variance is, per Refactoring UI, the cheapest way to look authored @refactoring_ui.
 
-*E — Surface.* E1 detects the default diffuse shadow applied uniformly; E2
+*E, Surface.* E1 detects the default diffuse shadow applied uniformly; E2
 glassmorphism over-applied; E3, a strong tell, fires when there are no low-alpha
-hairlines _or_ no `:focus-visible` style — a direct signal that microstates and
+hairlines _or_ no `:focus-visible` style, a direct signal that microstates and
 accessibility were never designed @mantlr_premium @nielsen_heuristics.
 
-*F — Motion.* F1 flags one entrance fade on everything; F2, the strongest motion
-tell, fires when interactive elements lack designed hover/focus/active states —
+*F, Motion.* F1 flags one entrance fade on everything; F2, the strongest motion
+tell, fires when interactive elements lack designed hover/focus/active states,
 the inverse of the six-microstates standard @mantlr_premium; F3 flags transitions
 with no custom easing or duration.
 
-*G — Copy.* G1 detects vague aspirational phrasing (`build the future`,
+*G, Copy.* G1 detects vague aspirational phrasing (`build the future`,
 `all-in-one platform`, `seamlessly`, `unlock your`); G2 fires when the only CTAs
 are `Get Started`/`Learn More`, which predict nothing about the product
 @toss_writing; G3 on shipped placeholder copy.
@@ -250,8 +250,8 @@ The detector (`src/scorer.py`) parses one self-contained HTML document with the
 Python standard library only. It reads three surfaces a model fingerprints: raw
 declarations inside `<style>`, `style` attributes, and *utility class names*.
 Because models emit Tailwind utilities far more than hand-written CSS, we resolve
-a useful subset of Tailwind — color ramps to representative hexes, the spacing and
-radius scales, font-size steps — so the same predicate fires whether a page is
+a useful subset of Tailwind, color ramps to representative hexes, the spacing and
+radius scales, font-size steps, so the same predicate fires whether a page is
 authored in classes or in CSS. A small `var()` resolver expands custom properties
 one level, so a hairline declared as `border: 1px solid var(--line)` with
 `--line: rgba(...)` is recognized as designed rather than missing. Color hues are
@@ -292,14 +292,14 @@ Seeds are not needed because nothing is stochastic.
 A naive before/after is confounded: if the "after" page also has more whitespace,
 more words, a different product, then a lower score could come from content rather
 than from design. We remove the confound by construction. The refactor *holds the
-content and structure fixed* — the same product (a project tool called TaskFlow),
+content and structure fixed*, the same product (a project tool called TaskFlow),
 the same four sections (hero, three capabilities, CTA, footer), the same three
-capabilities, the same information — and changes *only the tell-bearing
+capabilities, the same information, and changes *only the tell-bearing
 properties*: the font, the color system, the alignment and grid, the radius
 hierarchy, the elevation and hairlines, the motion and microstates, and the
 specific wording (the copy tells are themselves design decisions in family G).
 Nothing else moves. Any change in the score is therefore attributable to the
-design dimensions the taxonomy names, not to the amount or kind of content — the
+design dimensions the taxonomy names, not to the amount or kind of content, the
 same logic by which a length-matched control isolates verbosity.
 
 #figure(
@@ -321,7 +321,7 @@ each holding the markup's meaning fixed and changing only the tell:
 #text(9pt)[*A1+A2 color.* The indigo→violet gradient becomes a single brand ink
 plus one considered accent, declared as semantic tokens.]
 ```css
-/* before — the tell */            /* after — the fix */
+/* before, the tell */            /* after, the fix */
 .hero { background:                :root { --color-action:#0f6f63;
   linear-gradient(to br,                   --color-ink:#16181d; }
   #6366f1, #9333ea); }             .hero { background:var(--color-ink); }
@@ -336,7 +336,7 @@ committed display face with optical tracking on large headings.]
 ```
 
 #text(9pt)[*F2+E3 microstates.* A bare button gains the designed states and a
-visible focus ring — the inverse of the six-microstates tell.]
+visible focus ring, the inverse of the six-microstates tell.]
 ```css
 /* before */ .btn{background:#4f46e5;color:#fff}
 /* after  */ .btn{background:var(--color-action);transition:transform .12s var(--ease)}
@@ -362,7 +362,7 @@ color, type, layout, and microstates first.
   image("figs/fig2_waterfall.png", width: 100%),
   caption: [Every fix pays down the score. Each bar removes one fired tell's
   weight, ordered by impact (teal = strong tell, light = smell). The first four
-  moves — color, type, the template layout, the gradient — do most of the work.],
+  moves, color, type, the template layout, the gradient, do most of the work.],
 ) <fig-waterfall>
 
 == Discriminant validity across a corpus
@@ -373,14 +373,14 @@ three designed pages (the refactor; a dark changelog; a pricing page in a
 different brand). @fig-distribution shows the result: the AI-default pages cluster
 at a mean of 60 (range 50–76) and the designed pages at 0, with no overlap; the
 nearest cross-family pair is 49.5 points apart. @fig-families shows _where_ the
-separation lives — color, type, layout, surface and motion separate hardest,
+separation lives, color, type, layout, surface and motion separate hardest,
 which matches the human experience of "what gives it away." @fig-heatmap shows the
 per-tell firing matrix: the designed pages are nearly empty columns.
 
 We are explicit about what this does and does not show. The designed pages score
 *exactly* 0 because they were authored to be tell-free; that is a demonstration
 that the fixes are sufficient to zero the score, *not* a discovery that designed
-pages in the wild score 0 (they will not — real designed pages make a few
+pages in the wild score 0 (they will not, real designed pages make a few
 defensible default choices). The honest, load-bearing result is the
 *confound-controlled refactor* and the *separation*: applying the documented
 fixes moves the score from F to A, and the detector cleanly distinguishes the two
@@ -396,7 +396,7 @@ which the single-document detector does not yet do (§9).
 #figure(
   image("figs/fig3_families.png", width: 86%),
   caption: [Mean per-family Tell Score across the corpus. Color, type, layout and
-  motion separate the families hardest — matching the human experience of what
+  motion separate the families hardest, matching the human experience of what
   gives a page away.],
 ) <fig-families>
 
@@ -419,7 +419,7 @@ prints a leaderboard across many files.
 *MCP server.* `mcp/server.py` exposes `score_design(html)`, `score_file(path)`,
 `list_tells()`, and `harness_prompt()` over the Model Context Protocol. An agent
 can therefore *audit the UI it just wrote before showing it to the user*, receive
-the specific fixes, and iterate — closing the loop without a human in the middle
+the specific fixes, and iterate, closing the loop without a human in the middle
 for the mechanical part.
 
 *Drop-in prompt module.* `harness/AI-DESIGN-TELLS.md` turns each _detected_ tell
@@ -453,8 +453,8 @@ surface tells do not). Live auditing via CSS resolution and DOM snapshotting is
 future work.
 
 *The look is time-bound.* The tells are the defaults of mid-2020s models. As
-training distributions shift — as today's "designed" choices themselves become
-over-represented — the taxonomy will need revision. The method (enumerate the
+training distributions shift, as today's "designed" choices themselves become
+over-represented, the taxonomy will need revision. The method (enumerate the
 current mode, weight it, measure it) outlives any particular list.
 
 *Goodhart.* If the score becomes a target, it can be gamed: swap indigo for a
@@ -467,12 +467,12 @@ craft.
 == What "looking human" actually is
 
 It is worth asking what we are really detecting. The honest answer is _not_
-humanity — a human using the same defaults produces the same tells, and a model
+humanity, a human using the same defaults produces the same tells, and a model
 given constraints produces none. What the score detects is *intentionality made
 legible in the artifact*: the visible residue of decisions. Taste, on this view,
 is not a faculty the model lacks so much as a _compression of a person's
-accumulated choices_ — every interface they have loved, every alignment they have
-nudged — into a prior the median of a corpus cannot represent. The model returns
+accumulated choices_, every interface they have loved, every alignment they have
+nudged, into a prior the median of a corpus cannot represent. The model returns
 the mean; a person returns a sample from their own much narrower, much weirder
 distribution. The tells are precisely the places where the mean shows through.
 
@@ -483,7 +483,7 @@ the page.
 
 == The map is not the territory
 
-The Tell Score is a map. It is useful exactly to the degree that it stays a map —
+The Tell Score is a map. It is useful exactly to the degree that it stays a map,
 a low-dimensional, legible projection of a high-dimensional thing (whether a page
 reads as authored). The danger of any such map is that optimizing it can pull the
 territory toward the map's blind spots: a page engineered to score 0 while being,
@@ -492,21 +492,21 @@ making every point traceable to a quoted piece of evidence and a real design
 principle, so that "improving the score" and "making a real decision" coincide as
 often as possible. But the reader should hold the number lightly. The purpose of
 the instrument is not the number; it is to make a previously ineffable judgment
-_discussable_ — to let a team point at a specific tell and argue about it, which
+_discussable_, to let a team point at a specific tell and argue about it, which
 is something taste alone never allowed.
 
 == The second-order convergence
 
 There is a final irony the companion study sharpens. _Convergence Pressure_ finds
 that what homogenizes a population is not AI assistance but the *reflective loop*
-— everyone consulting the same oracle and converging on its center
+, everyone consulting the same oracle and converging on its center
 @kim2026convergence @doshi2024generative. A single, widely adopted design score is
 such an oracle. If every team optimizes the same Tell Score with the same fixes,
-the escape from the indigo mean could become a new mean — a monoculture of
+the escape from the indigo mean could become a new mean, a monoculture of
 "de-slopped" pages as recognizable, in time, as the slop they replaced. The
 taxonomy cannot prevent this; only the diversity of human intent can. The right
 use of the harness is therefore the one we have argued for throughout: as a
-detector of the _absence_ of decision, a prompt to make a choice — not as a
+detector of the _absence_ of decision, a prompt to make a choice, not as a
 prescription of which choice to make. The score should send you toward your own
 distribution, not toward a new shared one.
 
@@ -521,7 +521,7 @@ overlap. The same taxonomy ships as a CLI, an MCP server, and a drop-in prompt, 
 the judgment "this looks like AI" becomes an auditable, fixable, preventable
 property rather than a sigh. The instrument's value is not its number but its
 effect: it turns an ineffable complaint into a list of decisions waiting to be
-made — and asks that you, not the median, make them.
+made, and asks that you, not the median, make them.
 
 #v(8pt)
 #line(length: 100%, stroke: 0.4pt + luma(180))

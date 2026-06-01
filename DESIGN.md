@@ -1,4 +1,4 @@
-# DESIGN.md — pre-registration
+# DESIGN.md, pre-registration
 
 The hypotheses, falsification conditions, and confound controls for *The Tells*,
 fixed before the figures were drawn. Kept in the repo so the result can be judged
@@ -33,7 +33,7 @@ documented design fixes while holding content constant.
 - **Corpus.** Six self-contained HTML fixtures: three AI-default (landing,
   pricing, dashboard) instantiating documented model defaults; three designed
   (landing refactor, changelog, pricing) applying the documented fixes. Fixtures,
-  not scraped sites — see *Confound & honesty* below.
+  not scraped sites, see *Confound & honesty* below.
 - **Centerpiece.** One landing page in two versions for the confound-controlled
   before/after. The "after" changes **only** font, color system, alignment/grid,
   radius hierarchy, elevation/hairlines, motion/microstates, and copy wording.
@@ -51,7 +51,7 @@ C<45, D<65, F≥65 are descriptive anchors only.
 
 - **Content/structure held fixed** in the refactor (the length-matching analog):
   any score change is attributable to design dimensions, not to more/less content.
-- **Designed fixtures score 0 by construction** — a demonstration that the fixes
+- **Designed fixtures score 0 by construction**, a demonstration that the fixes
   are *sufficient* to zero the score, **not** a claim that real designed sites
   score 0. Stated plainly in the paper and README.
 - **Single-document, static** detector: it does not resolve external stylesheets
@@ -73,6 +73,6 @@ C<45, D<65, F≥65 are descriptive anchors only.
 
 What "looking human" detects (intentionality made legible, not humanity); taste as
 the compression of lived choices a median cannot hold; the map-vs-territory limit
-of any single score; and the second-order convergence risk — if everyone optimizes
+of any single score; and the second-order convergence risk, if everyone optimizes
 one Tell Score, the escape from the indigo mean becomes a new mean (cf. the
 reflective-loop finding in *Convergence Pressure*).

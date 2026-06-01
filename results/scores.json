@@ -163,7 +163,7 @@
       "label": "AI-default",
       "path": "fixtures/ai-default.html",
       "score": 76.15,
-      "grade": "F — textbook AI slop",
+      "grade": "F, textbook AI slop",
       "family_scores": {
         "A": 100.0,
         "B": 70.59,
@@ -201,7 +201,7 @@
       "label": "AI-default",
       "path": "fixtures/slop-pricing.html",
       "score": 54.13,
-      "grade": "D — strong AI-default signature",
+      "grade": "D, strong AI-default signature",
       "family_scores": {
         "A": 100.0,
         "B": 70.59,
@@ -239,7 +239,7 @@
       "label": "AI-default",
       "path": "fixtures/slop-dashboard.html",
       "score": 49.54,
-      "grade": "D — strong AI-default signature",
+      "grade": "D, strong AI-default signature",
       "family_scores": {
         "A": 100.0,
         "B": 70.59,
@@ -277,7 +277,7 @@
       "label": "Designed",
       "path": "fixtures/refined.html",
       "score": 0.0,
-      "grade": "A — reads as human-crafted",
+      "grade": "A, reads as human-crafted",
       "family_scores": {
         "A": 0.0,
         "B": 0.0,
@@ -315,7 +315,7 @@
       "label": "Designed",
       "path": "fixtures/designed-docs.html",
       "score": 0.0,
-      "grade": "A — reads as human-crafted",
+      "grade": "A, reads as human-crafted",
       "family_scores": {
         "A": 0.0,
         "B": 0.0,
@@ -353,7 +353,7 @@
       "label": "Designed",
       "path": "fixtures/designed-pricing.html",
       "score": 0.0,
-      "grade": "A — reads as human-crafted",
+      "grade": "A, reads as human-crafted",
       "family_scores": {
         "A": 0.0,
         "B": 0.0,

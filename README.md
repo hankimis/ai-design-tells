@@ -1,5 +1,5 @@
 <h1 align="center">The Tells</h1>
-<p align="center"><b>A measurable taxonomy of the AI-generated design look — and a harness to escape it.</b></p>
+<p align="center"><b>A measurable taxonomy of the AI-generated design look, and a harness to escape it.</b></p>
 
 <p align="center">
   <img alt="license MIT" src="https://img.shields.io/badge/license-MIT-16181d">
@@ -12,7 +12,7 @@
 <p align="center">
   <img alt="Same page, the tells removed: Tell Score 76 to 0" src="paper/figs/gif_reveal.gif" width="80%">
 </p>
-<p align="center"><sub>The same landing page. <b>Only the tell-bearing choices change</b> — font, color, layout, motion, copy. Content and structure are held fixed. The Tell Score falls from <b>76 (F, textbook AI slop)</b> to <b>0 (A, reads as human-crafted)</b>.</sub></p>
+<p align="center"><sub>The same landing page. <b>Only the tell-bearing choices change</b>, font, color, layout, motion, copy. Content and structure are held fixed. The Tell Score falls from <b>76 (F, textbook AI slop)</b> to <b>0 (A, reads as human-crafted)</b>.</sub></p>
 
 ---
 
@@ -22,7 +22,7 @@ one soft shadow, and a headline that says *build the future of work*. Teams burn
 real time and tokens trying to make AI output **not look like AI**, and treat the
 target as ineffable taste.
 
-It isn't. **The AI look is a finite, enumerable set of statistical defaults** — so
+It isn't. **The AI look is a finite, enumerable set of statistical defaults**, so
 it can be written down, weighted, and measured. This repo is the taxonomy (21
 tells), a transparent detector (the **Tell Score**, 0–100, lower is better), and a
 harness so any team or coding agent can audit and prevent the look.
@@ -36,7 +36,7 @@ harness so any team or coding agent can audit and prevent the look.
 
 ## Quickstart
 
-The detector is **pure Python standard library** — no install needed to score a page.
+The detector is **pure Python standard library**, no install needed to score a page.
 
 ```bash
 git clone https://github.com/hankimis/ai-design-tells
@@ -62,25 +62,25 @@ python src/cli.py build/index.html && echo "ships clean" || echo "too many tells
 <p align="center">
   <img alt="the linter running in a terminal" src="paper/figs/gif_terminal.gif" width="78%">
 </p>
-<p align="center"><sub>The harness scoring a corpus, then auditing a designed page — reproducible with one command.</sub></p>
+<p align="center"><sub>The harness scoring a corpus, then auditing a designed page, reproducible with one command.</sub></p>
 
 ## The result
 
 The headline is **confound-controlled**: one page, refactored so that *only the
-tell-bearing properties change* — same product, same four sections, same
+tell-bearing properties change*, same product, same four sections, same
 information. Any score change is design, not content.
 
 <p align="center">
   <img alt="before and after templates side by side" src="paper/figs/fig_templates.png" width="100%">
 </p>
-<p align="center"><sub><b>Left:</b> the AI default (76, F) — gradient, Inter, centered, emoji cards, one radius, one shadow, vague headline. <b>Right:</b> the refactor (0, A) — a serif display with negative tracking, a brand ink + one accent as tokens, an editorial grid, hairline rows, designed microstates, a specific voice.</sub></p>
+<p align="center"><sub><b>Left:</b> the AI default (76, F), gradient, Inter, centered, emoji cards, one radius, one shadow, vague headline. <b>Right:</b> the refactor (0, A), a serif display with negative tracking, a brand ink + one accent as tokens, an editorial grid, hairline rows, designed microstates, a specific voice.</sub></p>
 
 | corpus page | family | Tell Score | grade |
 |---|---|---:|---|
-| `ai-default` (landing) | AI-default | **76** | F — textbook AI slop |
-| `slop-pricing` | AI-default | **54** | D — strong AI-default signature |
+| `ai-default` (landing) | AI-default | **76** | F, textbook AI slop |
+| `slop-pricing` | AI-default | **54** | D, strong AI-default signature |
 | `slop-dashboard` | AI-default | **50** | D |
-| `refined` (the refactor) | Designed | **0** | A — reads as human-crafted |
+| `refined` (the refactor) | Designed | **0** | A, reads as human-crafted |
 | `designed-docs` (changelog) | Designed | **0** | A |
 | `designed-pricing` | Designed | **0** | A |
 
@@ -92,7 +92,7 @@ points apart). Every fix pays down the score, in order of impact:
 </p>
 <p align="center"><sub>Color, type, the template layout, and the gradient do most of the work; microstates and copy close the gap to zero.</sub></p>
 
-> The designed pages score **0 by construction** — they were authored to be
+> The designed pages score **0 by construction**, they were authored to be
 > tell-free. That demonstrates the fixes are *sufficient* to zero the score; it is
 > **not** a claim that real sites in the wild score 0. The load-bearing results are
 > the confound-controlled refactor and the family separation. See [Honest limits](#honest-limits).
@@ -132,9 +132,9 @@ weak/context-dependent), a mechanistic reason, and a fix. Source of truth:
 The same taxonomy ships three ways, all generated from one source so guidance can
 never drift from measurement.
 
-**1 · CLI** — `python src/cli.py page.html`. Scores, prints fixes, exit-code gates CI.
+**1 · CLI**, `python src/cli.py page.html`. Scores, prints fixes, exit-code gates CI.
 
-**2 · MCP server** — so a coding agent can **audit the UI it just wrote before
+**2 · MCP server**, so a coding agent can **audit the UI it just wrote before
 showing it to you**, get the specific fixes, and iterate. Register in Claude Code:
 
 ```jsonc
@@ -145,7 +145,7 @@ showing it to you**, get the specific fixes, and iterate. Register in Claude Cod
 
 Tools: `score_design(html)`, `score_file(path)`, `list_tells()`, `harness_prompt()`.
 
-**3 · Drop-in prompt module** — [`harness/AI-DESIGN-TELLS.md`](harness/AI-DESIGN-TELLS.md)
+**3 · Drop-in prompt module**, [`harness/AI-DESIGN-TELLS.md`](harness/AI-DESIGN-TELLS.md)
 turns each *detected* tell into a *preventive* instruction plus a pre-ship
 checklist. Paste it into a system prompt, `CLAUDE.md`, `.cursorrules`, or a
 v0/Lovable custom-instructions field to shift the starting score down; the detector
@@ -169,8 +169,8 @@ The workflow: **generate → score → fix → re-score.**
 ## How it works
 
 The detector ([`src/scorer.py`](src/scorer.py)) statically parses one self-contained
-HTML document — inline `<style>`, `style=""` attributes, and **utility class
-names** — with the standard library only. It resolves a useful subset of Tailwind
+HTML document, inline `<style>`, `style=""` attributes, and **utility class
+names**, with the standard library only. It resolves a useful subset of Tailwind
 (color ramps → hexes, spacing/radius/text scales) so the same predicate fires
 whether a page is written in classes or in CSS, expands `var()` one level so
 token-based hairlines and easing are recognized, and computes color hue in HLS to
@@ -202,7 +202,7 @@ typst  compile paper/paper.typ paper/paper.pdf
 - **Authored fixtures.** The corpus is controlled fixtures; designed pages score 0
   by construction. Claims rest on the confound-controlled refactor and the
   separation, not the absolute zeros.
-- **Static & single-document.** No external CSS, no JS, no render — it under-detects
+- **Static & single-document.** No external CSS, no JS, no render, it under-detects
   on live SPAs (their color/surface tells hide in hashed external files). Live
   auditing via CSS resolution is future work.
 - **Time-bound.** These are mid-2020s model defaults; the list will need revision as
@@ -232,18 +232,18 @@ second-order convergence risk).
 ```
 
 Companion study on AI-mediated homogenization:
-[**Convergence Pressure**](https://github.com/hankimis/convergence-pressure) — the
+[**Convergence Pressure**](https://github.com/hankimis/convergence-pressure), the
 reflective loop, not AI assistance, is what collapses a population's diversity.
 
 ## Repo layout
 
 ```
-src/taxonomy.py     the 21 tells — single source of truth (detector, paper, harness derive from it)
+src/taxonomy.py     the 21 tells, single source of truth (detector, paper, harness derive from it)
 src/scorer.py       the static detector + Tell Score
 src/cli.py          the `aidt` command-line linter
 mcp/server.py       MCP server (score_design / score_file / list_tells / harness_prompt)
-harness/            AI-DESIGN-TELLS.md — drop-in prompt module (generated)
-fixtures/           the 6 corpus pages (3 AI-default, 3 designed) — viewable templates
+harness/            AI-DESIGN-TELLS.md, drop-in prompt module (generated)
+fixtures/           the 6 corpus pages (3 AI-default, 3 designed), viewable templates
 scripts/            run_audit, make_figures, make_gifs, render, gen_harness
 paper/              paper.typ, refs.bib, paper.pdf, figs/
 results/            scores.json

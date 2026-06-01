@@ -1,5 +1,5 @@
 """
-scorer.py — the AI Design Tells detector.
+scorer.py, the AI Design Tells detector.
 
 Static analysis of a single HTML document (with its inline <style> blocks,
 style="" attributes, and utility class names). Dependency-free: Python stdlib
@@ -7,8 +7,8 @@ only, so the harness runs anywhere with one command and no install.
 
 It parses two surfaces a generative model leaves fingerprints on:
 
-  1. Raw CSS  — declarations inside <style> and style="".
-  2. Utility classes — Tailwind-style class names (bg-indigo-500, rounded-lg,
+  1. Raw CSS, declarations inside <style> and style="".
+  2. Utility classes, Tailwind-style class names (bg-indigo-500, rounded-lg,
      shadow-lg, p-6, ...). Models emit these far more than hand-written CSS, so
      we resolve a useful subset of Tailwind to its underlying values.
 
@@ -535,14 +535,14 @@ class Report:
     def grade(self) -> str:
         s = self.score
         if s < 12:
-            return "A — reads as human-crafted"
+            return "A, reads as human-crafted"
         if s < 28:
-            return "B — mostly intentional, a few tells"
+            return "B, mostly intentional, a few tells"
         if s < 45:
-            return "C — visibly templated"
+            return "C, visibly templated"
         if s < 65:
-            return "D — strong AI-default signature"
-        return "F — textbook AI slop"
+            return "D, strong AI-default signature"
+        return "F, textbook AI slop"
 
 
 def score_document(html: str) -> Report:

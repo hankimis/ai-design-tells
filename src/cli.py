@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-aidt — the AI Design Tells linter CLI.
+aidt, the AI Design Tells linter CLI.
 
 Usage:
   python src/cli.py path/to/page.html            # score one file
@@ -60,7 +60,7 @@ def render(path, rep, verbose):
             if verbose:
                 print(f"        {C['cyan']}fix:{C['rst']} {r.fix}")
     else:
-        print(f"  {C['grn']}no tells fired — reads as intentional.{C['rst']}")
+        print(f"  {C['grn']}no tells fired, reads as intentional.{C['rst']}")
 
 
 def main():
@@ -95,7 +95,7 @@ def main():
         sys.exit(int(round(reports[0][1].score)))
 
     if "--quiet" in flags or "-q" in flags:
-        print(f"\n  {C['bold']}AI Design Tells — leaderboard{C['rst']}  {C['dim']}(Tell Score, lower is better){C['rst']}\n")
+        print(f"\n  {C['bold']}AI Design Tells, leaderboard{C['rst']}  {C['dim']}(Tell Score, lower is better){C['rst']}\n")
         for p, rep in sorted(reports, key=lambda x: x[1].score):
             col = colorize(rep.score)
             bar_len = 28

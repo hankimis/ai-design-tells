@@ -1,8 +1,8 @@
-<!-- AI DESIGN TELLS — drop-in design harness -->
+<!-- AI DESIGN TELLS, drop-in design harness -->
 <!-- Paste this whole block into your coding agent's system prompt, CLAUDE.md, -->
 <!-- .cursorrules, or a v0/Lovable custom-instructions field. It pre-empts the -->
 <!-- machine-default "AI slop" look the same way the detector scores it. -->
-<!-- Generated from the AI Design Tells taxonomy — do not edit by hand. -->
+<!-- Generated from the AI Design Tells taxonomy, do not edit by hand. -->
 
 # Design like a person, not the median of the training set
 
@@ -21,7 +21,7 @@ tell. Pick from the product's own brand, domain, content, and voice.
 
 
 
-## A. Color — Chromatic conformity
+## A. Color, Chromatic conformity
 
 - **Don't: Indigo/violet default palette.** Indigo-500 is the single most over-represented brand color in the training corpus, so models treat purple as the default 'modern' accent.
   **Do instead:** pick a hue from the product's own brand or domain; derive a ramp in a perceptual space (LCH/OKLCH) and expose it as semantic tokens.
@@ -30,7 +30,7 @@ tell. Pick from the product's own brand, domain, content, and voice.
 - **Don't: Default-ramp utilities, no semantic tokens.** _(minor)_ Scattering *-500/*-600 utilities with no --color-* tokens means color carries no system or meaning.
   **Do instead:** define semantic CSS custom properties (--color-action, --color-danger) before reaching for raw values.
 
-## B. Type — Typographic defaulting
+## B. Type, Typographic defaulting
 
 - **Don't: Inter/Roboto/system default font.** Inter and the system stack are the highest-frequency fonts in scraped templates; choosing them by default is the loudest type tell.
   **Do instead:** commit to one distinctive display face with personality (custom or commissioned, like Geist/Sohne) paired with a readable body face.
@@ -39,7 +39,7 @@ tell. Pick from the product's own brand, domain, content, and voice.
 - **Don't: No optical tracking on display type.** _(minor)_ Premium display type carries negative letter-spacing; leaving it at the browser default reads as untouched.
   **Do instead:** apply negative tracking to large headings (Linear uses -0.22px display / -0.11px body).
 
-## C. Layout — Compositional cliche
+## C. Layout, Compositional cliche
 
 - **Don't: Hero + three-feature-card template.** The hero, then a three-up icon-card grid, then a CTA is the canonical SaaS-template layout AI reproduces from tutorials.
   **Do instead:** let the content dictate structure; vary section shape, asymmetry and emphasis instead of the template.
@@ -50,14 +50,14 @@ tell. Pick from the product's own brand, domain, content, and voice.
 - **Don't: Emoji as iconography.** _(minor)_ Emoji in headings and feature cards is a hallmark of model-written marketing pages.
   **Do instead:** use a coherent icon set or custom glyphs that match the brand's weight and grid.
 
-## D. Spacing — Undifferentiated rhythm
+## D. Spacing, Undifferentiated rhythm
 
 - **Don't: One padding token on every card.** Identical padding and gaps on every block (the 'same 24px everywhere') is undifferentiated default rhythm.
   **Do instead:** vary spacing to express grouping and importance; whitespace is the cheapest way to look designed.
 - **Don't: Uniform section rhythm.** _(minor)_ Every section sharing one vertical padding means no passage of the page is emphasised over another.
   **Do instead:** modulate section spacing; give the hero and key moments more air.
 
-## E. Surface — Depth & state defaults
+## E. Surface, Depth & state defaults
 
 - **Don't: Generic diffuse shadow.** The default soft drop shadow (Tailwind shadow-lg / 0 10px 15px rgba(0,0,0,.1)) applied to every card is an un-designed depth cue.
   **Do instead:** design elevation: tight contained shadows, or layering and hairlines instead of blur (Linear's approach).
@@ -66,7 +66,7 @@ tell. Pick from the product's own brand, domain, content, and voice.
 - **Don't: No hairlines / no focus-visible.** Missing 1px low-alpha separators and missing :focus-visible styles reveal that microstates and accessibility were never designed.
   **Do instead:** add designed hairlines (0.5-1px low alpha) and a visible high-contrast focus ring.
 
-## F. Motion — Motion defaults
+## F. Motion, Motion defaults
 
 - **Don't: One fade applied to everything.** _(minor)_ The same entrance fade/slide on every element is the default AI motion gesture.
   **Do instead:** animate with intent; motion should follow navigation or storytelling, not decorate uniformly.
@@ -75,7 +75,7 @@ tell. Pick from the product's own brand, domain, content, and voice.
 - **Don't: Uneased transitions.** _(minor)_ Transitions with no custom duration/easing snap instead of feeling considered.
   **Do instead:** define curves and durations (~150ms hover, 300ms state change) as a small motion system.
 
-## G. Copy — Language defaults
+## G. Copy, Language defaults
 
 - **Don't: Vague aspirational headline.** 'Build the future of work', 'all-in-one platform' - grammatically perfect, topically relevant, completely forgettable copy is the language signature of generated marketing.
   **Do instead:** write in a real voice with a specific, opinionated claim a founder would actually say.
@@ -87,27 +87,27 @@ tell. Pick from the product's own brand, domain, content, and voice.
 ## Pre-ship checklist (all must be true)
 
 
-- [ ] **A** — Pick a hue from the product's own brand or domain; derive a ramp in a perceptual space (LCH/OKLCH) and expose it as semantic tokens.
-- [ ] **A** — Use a flat brand color or a restrained two-stop gradient within one hue; reserve gradients for meaning.
-- [ ] **A** — Define semantic CSS custom properties (--color-action, --color-danger) before reaching for raw values.
-- [ ] **B** — Commit to one distinctive display face with personality (custom or commissioned, like Geist/Sohne) paired with a readable body face.
-- [ ] **B** — Use a 4-6 step modular scale; size, weight and color together build hierarchy.
-- [ ] **B** — Apply negative tracking to large headings (Linear uses -0.22px display / -0.11px body).
-- [ ] **C** — Let the content dictate structure; vary section shape, asymmetry and emphasis instead of the template.
-- [ ] **C** — Use a real grid; left-align long-form, reserve centering for genuine focal moments.
-- [ ] **C** — Scale radius with element size; nested radii should differ (outer larger than inner).
-- [ ] **C** — Use a coherent icon set or custom glyphs that match the brand's weight and grid.
-- [ ] **D** — Vary spacing to express grouping and importance; whitespace is the cheapest way to look designed.
-- [ ] **D** — Modulate section spacing; give the hero and key moments more air.
-- [ ] **E** — Add designed hairlines (0.5-1px low alpha) and a visible high-contrast focus ring.
-- [ ] **E** — Design elevation: tight contained shadows, or layering and hairlines instead of blur (Linear's approach).
-- [ ] **E** — Reserve blur for genuinely layered surfaces; prefer solid, high-contrast panels.
-- [ ] **F** — Design all six microstates (default, hover, focus, active, disabled, loading) for every interactive element.
-- [ ] **F** — Animate with intent; motion should follow navigation or storytelling, not decorate uniformly.
-- [ ] **F** — Define curves and durations (~150ms hover, 300ms state change) as a small motion system.
-- [ ] **G** — Write in a real voice with a specific, opinionated claim a founder would actually say.
-- [ ] **G** — Write the real words; copy is UX, not filler (Toss treats text as a foundational design element).
-- [ ] **G** — Make the CTA predict what happens next in the product's own words (Toss: a button should hint at the next step).
+- [ ] **A**, Pick a hue from the product's own brand or domain; derive a ramp in a perceptual space (LCH/OKLCH) and expose it as semantic tokens.
+- [ ] **A**, Use a flat brand color or a restrained two-stop gradient within one hue; reserve gradients for meaning.
+- [ ] **A**, Define semantic CSS custom properties (--color-action, --color-danger) before reaching for raw values.
+- [ ] **B**, Commit to one distinctive display face with personality (custom or commissioned, like Geist/Sohne) paired with a readable body face.
+- [ ] **B**, Use a 4-6 step modular scale; size, weight and color together build hierarchy.
+- [ ] **B**, Apply negative tracking to large headings (Linear uses -0.22px display / -0.11px body).
+- [ ] **C**, Let the content dictate structure; vary section shape, asymmetry and emphasis instead of the template.
+- [ ] **C**, Use a real grid; left-align long-form, reserve centering for genuine focal moments.
+- [ ] **C**, Scale radius with element size; nested radii should differ (outer larger than inner).
+- [ ] **C**, Use a coherent icon set or custom glyphs that match the brand's weight and grid.
+- [ ] **D**, Vary spacing to express grouping and importance; whitespace is the cheapest way to look designed.
+- [ ] **D**, Modulate section spacing; give the hero and key moments more air.
+- [ ] **E**, Add designed hairlines (0.5-1px low alpha) and a visible high-contrast focus ring.
+- [ ] **E**, Design elevation: tight contained shadows, or layering and hairlines instead of blur (Linear's approach).
+- [ ] **E**, Reserve blur for genuinely layered surfaces; prefer solid, high-contrast panels.
+- [ ] **F**, Design all six microstates (default, hover, focus, active, disabled, loading) for every interactive element.
+- [ ] **F**, Animate with intent; motion should follow navigation or storytelling, not decorate uniformly.
+- [ ] **F**, Define curves and durations (~150ms hover, 300ms state change) as a small motion system.
+- [ ] **G**, Write in a real voice with a specific, opinionated claim a founder would actually say.
+- [ ] **G**, Write the real words; copy is UX, not filler (Toss treats text as a foundational design element).
+- [ ] **G**, Make the CTA predict what happens next in the product's own words (Toss: a button should hint at the next step).
 
 ## How to verify
 
@@ -118,7 +118,7 @@ python src/cli.py your_page.html        # or wire up the MCP `score_design` tool
 ```
 
 A score under ~12 reads as human-crafted; anything over ~45 is a strong AI-default
-signature. The point is not to chase a number — it is that every number you remove
+signature. The point is not to chase a number, it is that every number you remove
 corresponds to a real decision you made on purpose.
 
 

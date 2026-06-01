@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AI Design Tells — MCP server.
+AI Design Tells, MCP server.
 
 Exposes the Tell Score detector to any MCP client (Claude Code, Claude Desktop,
 Cursor, …) so an agent can audit the UI it just wrote *before* shipping it, and
@@ -53,7 +53,7 @@ def _report_dict(html: str) -> dict:
 def score_design(html: str) -> dict:
     """Score an HTML/CSS UI string for AI design tells.
 
-    Returns the Tell Score (0-100, lower is better — 0 reads as human-crafted,
+    Returns the Tell Score (0-100, lower is better, 0 reads as human-crafted,
     high reads as AI slop), a letter grade, per-family scores, and every tell
     that fired with concrete evidence and the specific fix to apply. Use this to
     audit a page you just generated before showing it to the user."""
@@ -94,7 +94,7 @@ def harness_prompt() -> str:
     # fallback: synthesize from the taxonomy
     lines = ["# Avoid these AI design tells\n"]
     for t in TELLS:
-        lines.append(f"- **{t.name}** — {t.why}. Instead: {t.fix}.")
+        lines.append(f"- **{t.name}**, {t.why}. Instead: {t.fix}.")
     return "\n".join(lines)
 
 

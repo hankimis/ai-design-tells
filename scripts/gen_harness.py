@@ -14,11 +14,11 @@ from taxonomy import TELLS, FAMILIES, tells_by_family  # noqa: E402
 
 OUT = os.path.join(ROOT, "harness", "AI-DESIGN-TELLS.md")
 
-HEADER = """<!-- AI DESIGN TELLS — drop-in design harness -->
+HEADER = """<!-- AI DESIGN TELLS, drop-in design harness -->
 <!-- Paste this whole block into your coding agent's system prompt, CLAUDE.md, -->
 <!-- .cursorrules, or a v0/Lovable custom-instructions field. It pre-empts the -->
 <!-- machine-default "AI slop" look the same way the detector scores it. -->
-<!-- Generated from the AI Design Tells taxonomy — do not edit by hand. -->
+<!-- Generated from the AI Design Tells taxonomy, do not edit by hand. -->
 
 # Design like a person, not the median of the training set
 
@@ -49,7 +49,7 @@ python src/cli.py your_page.html        # or wire up the MCP `score_design` tool
 ```
 
 A score under ~12 reads as human-crafted; anything over ~45 is a strong AI-default
-signature. The point is not to chase a number — it is that every number you remove
+signature. The point is not to chase a number, it is that every number you remove
 corresponds to a real decision you made on purpose.
 """
 
@@ -59,7 +59,7 @@ def main():
     parts = [HEADER]
     for k, tells in fams.items():
         name, blurb = FAMILIES[k]
-        parts.append(f"\n## {k}. {name} — {blurb}\n")
+        parts.append(f"\n## {k}. {name}, {blurb}\n")
         for t in tells:
             sev = "" if t.severity == "tell" else " _(minor)_"
             parts.append(f"- **Don't: {t.name}.**{sev} {t.why[0].upper() + t.why[1:]}.")
@@ -67,7 +67,7 @@ def main():
     # checklist
     parts.append(CHECKLIST_INTRO)
     for t in sorted(TELLS, key=lambda x: (x.family, -x.weight)):
-        parts.append(f"- [ ] **{t.family}** — {t.fix[0].upper() + t.fix[1:]}.")
+        parts.append(f"- [ ] **{t.family}**, {t.fix[0].upper() + t.fix[1:]}.")
     parts.append(FOOTER)
     parts.append(f"\n<!-- {len(TELLS)} tells across {len(FAMILIES)} families. "
                  f"Source of truth: src/taxonomy.py -->\n")

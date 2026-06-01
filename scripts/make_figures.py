@@ -251,8 +251,8 @@ def fig_templates():
             if os.path.exists(p):
                 return ImageFont.truetype(p, sz)
         return ImageFont.load_default()
-    d.text((pad, 30), "Before — Tell Score 76 (F, textbook AI slop)", font=font(30, True), fill=(109, 92, 246))
-    d.text((pad + ai.width + gap, 30), "After — Tell Score 0 (A, reads as human-crafted)",
+    d.text((pad, 30), "Before, Tell Score 76 (F, textbook AI slop)", font=font(30, True), fill=(109, 92, 246))
+    d.text((pad + ai.width + gap, 30), "After, Tell Score 0 (A, reads as human-crafted)",
            font=font(30, True), fill=(15, 111, 99))
     canvas.save(os.path.join(FIGS, "fig_templates.png"))
     print("fig_templates.png")
