@@ -1,0 +1,284 @@
+{
+  "url": "https://www.cloudflare.com",
+  "name": "www.cloudflare.com",
+  "title": "Cloudflare: Build for the agent era",
+  "fonts": {
+    "body": "ft kunst grotesk",
+    "heading": "ft kunst grotesk",
+    "loaded_count": 3,
+    "loaded_sample": [
+      "ft kunst grotesk",
+      "apercu mono pro",
+      "stk bureau sans"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      356,
+      17,
+      17,
+      17,
+      17,
+      17,
+      17
+    ],
+    "accent_sampled": 7,
+    "purple_accents": 0,
+    "any_gradients": 3,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      3,
+      53
+    ],
+    [
+      1,
+      50
+    ],
+    [
+      6,
+      44
+    ],
+    [
+      33554400,
+      39
+    ],
+    [
+      4,
+      32
+    ],
+    [
+      8,
+      21
+    ],
+    [
+      1.5,
+      8
+    ],
+    [
+      5,
+      4
+    ],
+    [
+      12,
+      4
+    ],
+    [
+      16,
+      3
+    ],
+    [
+      50,
+      3
+    ],
+    [
+      10,
+      2
+    ]
+  ],
+  "shadows": {
+    "other": 11
+  },
+  "paddings": [
+    [
+      "8px",
+      64
+    ],
+    [
+      "16px",
+      36
+    ],
+    [
+      "10px",
+      24
+    ],
+    [
+      "4px",
+      23
+    ],
+    [
+      "6px",
+      19
+    ],
+    [
+      "12px",
+      16
+    ],
+    [
+      "32px",
+      11
+    ],
+    [
+      "2px",
+      9
+    ],
+    [
+      "40px",
+      8
+    ],
+    [
+      "48px",
+      3
+    ],
+    [
+      "24px",
+      2
+    ],
+    [
+      "72px",
+      1
+    ],
+    [
+      "64px",
+      1
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ],
+    [
+      "36px",
+      1
+    ],
+    [
+      "1.92px",
+      1
+    ],
+    [
+      "5.6px",
+      1
+    ],
+    [
+      "128px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      1706
+    ],
+    [
+      12,
+      147
+    ],
+    [
+      14,
+      104
+    ],
+    [
+      32,
+      52
+    ],
+    [
+      13,
+      33
+    ],
+    [
+      18,
+      30
+    ],
+    [
+      19,
+      20
+    ],
+    [
+      56,
+      19
+    ],
+    [
+      10,
+      14
+    ],
+    [
+      48,
+      12
+    ]
+  ],
+  "heading": {
+    "big_count": 6,
+    "neg_tracked": 6
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 6,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 101,
+    "centered_fraction": 0.1188118811881188
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Everything we learned from powering 20% of the Internet—yours by default",
+    "buttons": [
+      "Products",
+      "Solutions",
+      "Resources",
+      "Pricing",
+      "Under attack?",
+      "Login",
+      "Contact sales",
+      "Start building",
+      "Start building for free",
+      "Shopify",
+      "Character.AI",
+      "Intercom",
+      "DoorDash",
+      "Discord",
+      "Zendesk",
+      "Lovable",
+      "npm",
+      "SiteGPT",
+      "Liveblocks",
+      "Leagued",
+      "Seated",
+      "Shopify",
+      "Character.AI",
+      "Intercom",
+      "DoorDash",
+      "Pause",
+      "Network & CDN",
+      "SASE / Zero Trust",
+      "Compute & Storage",
+      "See Free plan",
+      "See Pro plan",
+      "See Business plan",
+      "See Contract plan",
+      "See Free plan",
+      "See Pay-as-you-go plan",
+      "See Contract plan",
+      "See more",
+      "Workers",
+      "Durable Objects",
+      "Workers KV",
+      "See more",
+      "Workers",
+      "Durable Objects",
+      "Workers KV",
+      "Enter",
+      "Start building for free",
+      "View docs",
+      "Plans",
+      "Contact sales",
+      "Partners",
+      "Find a partner",
+      "Startups",
+      "Under attack?",
+      "Domain name search",
+      "About",
+      "Careers",
+      "Investors",
+      "Press",
+      "Press kit",
+      "Global network"
+    ]
+  },
+  "ok": true
+}

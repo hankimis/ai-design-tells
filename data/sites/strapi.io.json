@@ -1,0 +1,439 @@
+{
+  "url": "https://strapi.io",
+  "name": "strapi.io",
+  "title": "Strapi - Open-Source TypeScript Headless CMS for Next.js, Astro, Tanstack Start, and Nuxt.js",
+  "fonts": {
+    "body": "__poppins_6bee3b",
+    "heading": "__poppins_6bee3b",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "__poppins_6bee3b",
+      "__poppins_fallback_6bee3b",
+      "__inter_8b3a0b",
+      "__inter_fallback_8b3a0b"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      47,
+      47,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      241,
+      241,
+      274,
+      274,
+      270,
+      270,
+      241,
+      241,
+      241,
+      241,
+      241,
+      241,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      223,
+      223,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      270,
+      270,
+      241,
+      241,
+      241,
+      241,
+      240,
+      240,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      223,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240
+    ],
+    "accent_sampled": 180,
+    "purple_accents": 66,
+    "any_gradients": 2,
+    "blue_purple_gradients": 1
+  },
+  "radii": [
+    [
+      10,
+      22
+    ],
+    [
+      50,
+      19
+    ],
+    [
+      8,
+      16
+    ],
+    [
+      9999,
+      5
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      5,
+      1
+    ],
+    [
+      100,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 17,
+    "other": 16
+  },
+  "paddings": [
+    [
+      "24px",
+      9
+    ],
+    [
+      "5px",
+      7
+    ],
+    [
+      "80px",
+      6
+    ],
+    [
+      "40px",
+      6
+    ],
+    [
+      "10px",
+      5
+    ],
+    [
+      "16px",
+      5
+    ],
+    [
+      "2px",
+      4
+    ],
+    [
+      "120px",
+      3
+    ],
+    [
+      "38px",
+      3
+    ],
+    [
+      "14px",
+      2
+    ],
+    [
+      "15px",
+      1
+    ],
+    [
+      "13px",
+      1
+    ],
+    [
+      "136px",
+      1
+    ],
+    [
+      "8px",
+      1
+    ],
+    [
+      "4px",
+      1
+    ],
+    [
+      "56px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "18px",
+      1
+    ],
+    [
+      "30px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      552
+    ],
+    [
+      15,
+      79
+    ],
+    [
+      13,
+      75
+    ],
+    [
+      17,
+      52
+    ],
+    [
+      21,
+      40
+    ],
+    [
+      43,
+      14
+    ],
+    [
+      53,
+      13
+    ],
+    [
+      33,
+      7
+    ],
+    [
+      11,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 6,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 11,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 47,
+    "centered_fraction": 0.02127659574468085
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "The Open-Source Headless CMS for AI powered Websites and Apps",
+    "buttons": [
+      "Product",
+      "Solutions",
+      "Developers",
+      "Docs",
+      "Pricing",
+      "Cloud",
+      "72.3k",
+      "Contact Sales",
+      "Get Started",
+      "See how it works →",
+      "Copy",
+      "Request Demo",
+      "Learn more",
+      "Explore the Marketplace",
+      "Strapi Cloud",
+      "See more",
+      "Copy",
+      "Start Deploying",
+      "Explore Enterprise",
+      "Strapi 5",
+      "Strapi Cloud",
+      "Enterprise Edition",
+      "Features",
+      "Strapi AI",
+      "Roadmap",
+      "Changelog",
+      "Plugin Marketplace",
+      "Try live demo",
+      "Modern Websites",
+      "Mobile applications",
+      "Ecommerce",
+      "Backend Framework",
+      "Learning Management System",
+      "Intranet CMS",
+      "Product Information Systems",
+      "For developers",
+      "For content teams",
+      "For business teams",
+      "For Digital Agencies",
+      "Strapi CMS docs",
+      "Strapi Cloud Docs",
+      "Partner Directory",
+      "Strapi Events",
+      "Tutorials",
+      "GitHub repository",
+      "Case Studies",
+      "Strapi vs Wordpress",
+      "Strapi vs Contentful",
+      "Video Tutorials",
+      "All integrations",
+      "React CMS",
+      "Next.js CMS",
+      "Tanstack CMS",
+      "Vue.js CMS",
+      "Nuxt.js CMS",
+      "Astro CMS",
+      "Flutter CMS",
+      "Svelte CMS",
+      "React Native CMS",
+      "About us"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,373 @@
+{
+  "url": "https://clickup.com",
+  "name": "clickup.com",
+  "title": "ClickUp™ | Maximize productivity • Software, AI, and humans converge",
+  "fonts": {
+    "body": "plus jakarta sans",
+    "heading": "plus jakarta sans",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "shantell sans",
+      "plus jakarta sans",
+      "inter",
+      "sometype mono"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      210,
+      249,
+      249,
+      249,
+      249,
+      249,
+      249,
+      249,
+      249,
+      206,
+      206,
+      206,
+      206,
+      206
+    ],
+    "accent_sampled": 14,
+    "purple_accents": 8,
+    "any_gradients": 28,
+    "blue_purple_gradients": 6
+  },
+  "radii": [
+    [
+      50,
+      501
+    ],
+    [
+      12,
+      136
+    ],
+    [
+      9,
+      52
+    ],
+    [
+      54,
+      20
+    ],
+    [
+      8,
+      14
+    ],
+    [
+      14,
+      10
+    ],
+    [
+      16,
+      4
+    ],
+    [
+      18,
+      4
+    ],
+    [
+      24,
+      4
+    ],
+    [
+      653,
+      4
+    ],
+    [
+      20,
+      3
+    ],
+    [
+      32,
+      3
+    ],
+    [
+      6,
+      2
+    ],
+    [
+      39,
+      2
+    ],
+    [
+      15,
+      1
+    ],
+    [
+      26,
+      1
+    ],
+    [
+      28,
+      1
+    ],
+    [
+      45,
+      1
+    ],
+    [
+      654,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 11,
+    "diffuse": 7
+  },
+  "paddings": [
+    [
+      "3px",
+      501
+    ],
+    [
+      "9px",
+      57
+    ],
+    [
+      "4px",
+      12
+    ],
+    [
+      "4.33px",
+      11
+    ],
+    [
+      "80px",
+      10
+    ],
+    [
+      "8px",
+      9
+    ],
+    [
+      "14px",
+      8
+    ],
+    [
+      "12px",
+      7
+    ],
+    [
+      "20px",
+      6
+    ],
+    [
+      "48px",
+      4
+    ],
+    [
+      "34.857px",
+      4
+    ],
+    [
+      "40px",
+      3
+    ],
+    [
+      "10px",
+      3
+    ],
+    [
+      "32px",
+      3
+    ],
+    [
+      "24px",
+      3
+    ],
+    [
+      "56px",
+      2
+    ],
+    [
+      "7px",
+      2
+    ],
+    [
+      "35px",
+      2
+    ],
+    [
+      "5px",
+      1
+    ],
+    [
+      "128px",
+      1
+    ],
+    [
+      "60px",
+      1
+    ],
+    [
+      "11px",
+      1
+    ],
+    [
+      "13px",
+      1
+    ],
+    [
+      "16px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      1978
+    ],
+    [
+      14,
+      489
+    ],
+    [
+      18,
+      30
+    ],
+    [
+      12,
+      21
+    ],
+    [
+      26,
+      9
+    ],
+    [
+      8,
+      8
+    ],
+    [
+      34,
+      8
+    ],
+    [
+      76,
+      6
+    ],
+    [
+      48,
+      5
+    ],
+    [
+      40,
+      4
+    ],
+    [
+      52,
+      3
+    ],
+    [
+      42,
+      2
+    ],
+    [
+      9,
+      1
+    ],
+    [
+      15,
+      1
+    ],
+    [
+      17,
+      1
+    ],
+    [
+      19,
+      1
+    ],
+    [
+      24,
+      1
+    ],
+    [
+      60,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 12,
+    "neg_tracked": 12
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 13,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 84,
+    "centered_fraction": 0.023809523809523808
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Software to replace all software",
+    "buttons": [
+      "Brain AI",
+      "Product",
+      "Solutions",
+      "Learn",
+      "Pricing",
+      "Enterprise",
+      "Get a Demo",
+      "Login",
+      "Sign Up",
+      "Introducing ClickUp",
+      "Get started. It's FREE!",
+      "Activate →",
+      "Play Video",
+      "Dependencies",
+      "Connected  Search",
+      "Tasks",
+      "Mind Maps",
+      "Wikis",
+      "AI Notetaker",
+      "Calendar",
+      "Proofing",
+      "Portfolios",
+      "Templates",
+      "Reminders",
+      "Reporting",
+      "Goals",
+      "Projects",
+      "Docs",
+      "Sprints",
+      "Custom Status",
+      "AI Writer",
+      "API Calls",
+      "Milestones",
+      "Forms",
+      "Automations",
+      "Custom Fields",
+      "Timesheets",
+      "AI Q&A",
+      "Priorities",
+      "Time Estimates",
+      "Brain",
+      "Chat",
+      "Clips",
+      "Everything view",
+      "Single Sign-on",
+      "Emails",
+      "Dashboards",
+      "Time Tracking",
+      "Kanban Boards",
+      "Integrations",
+      "Guests",
+      "Tags",
+      "24/7 Support",
+      "Checklists",
+      "Scheduling",
+      "Spreadsheets",
+      "Whiteboards",
+      "Gantt Charts",
+      "Roadmaps",
+      "Inbox"
+    ]
+  },
+  "ok": true
+}

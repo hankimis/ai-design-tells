@@ -1,0 +1,199 @@
+{
+  "url": "https://www.perplexity.ai",
+  "name": "www.perplexity.ai",
+  "title": "Perplexity",
+  "fonts": {
+    "body": "pplxsans",
+    "heading": "pplxsans",
+    "loaded_count": 20,
+    "loaded_sample": [
+      "apple sd gothic neo",
+      "pingfang sc",
+      "hiragino sans",
+      "fkgroteskneue",
+      "berkeleymono",
+      "pplxsans",
+      "pplxsansmono",
+      "pplxserif",
+      "katex_ams",
+      "katex_caligraphic",
+      "katex_fraktur",
+      "katex_main"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      40,
+      47,
+      40,
+      40,
+      40,
+      47,
+      40,
+      40,
+      47,
+      40,
+      40,
+      47,
+      40,
+      40,
+      47,
+      40,
+      40,
+      47,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      47,
+      40,
+      47,
+      47,
+      40,
+      47,
+      40,
+      20,
+      184,
+      190,
+      47,
+      40,
+      47,
+      40,
+      47,
+      40,
+      47,
+      40,
+      47,
+      40,
+      40,
+      47,
+      40,
+      47
+    ],
+    "accent_sampled": 49,
+    "purple_accents": 0,
+    "any_gradients": 2,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      12,
+      17
+    ],
+    [
+      9999,
+      15
+    ],
+    [
+      6,
+      11
+    ],
+    [
+      16,
+      4
+    ],
+    [
+      8,
+      3
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      15,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 3
+  },
+  "paddings": [
+    [
+      "8px",
+      9
+    ],
+    [
+      "0.5px",
+      6
+    ],
+    [
+      "16px",
+      3
+    ],
+    [
+      "1px",
+      2
+    ],
+    [
+      "2px",
+      2
+    ],
+    [
+      "12px",
+      1
+    ],
+    [
+      "3px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      225
+    ],
+    [
+      14,
+      59
+    ],
+    [
+      12,
+      32
+    ],
+    [
+      11,
+      2
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 4,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 11,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "로그인",
+      "디스커버",
+      "재무",
+      "건강",
+      "학술",
+      "특허",
+      "검색",
+      "Computer",
+      "모델",
+      "+1(510) 270-0840",
+      "support@perplexity.ai",
+      "제공자, 계약 및 취소 정보",
+      "서비스 약관",
+      "사업자 정보: 455-80-03418",
+      "모두 허용",
+      "필수 항목만 허용"
+    ]
+  },
+  "ok": true
+}

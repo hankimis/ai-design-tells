@@ -1,0 +1,39 @@
+{
+  "_note": "Learned from the real-site corpus. Thresholds sit at the edge of where human-crafted sites live, so top sites score near zero and only the default bundle scores high.",
+  "n_sites": 202,
+  "default_indigo_hexes": [
+    "#4338ca",
+    "#4f46e5",
+    "#6366f1",
+    "#6d28d9",
+    "#7c3aed",
+    "#818cf8",
+    "#a5b4fc"
+  ],
+  "generic_fonts": [
+    "-apple-system",
+    "arial",
+    "helvetica",
+    "helvetica neue",
+    "inter",
+    "inter variable",
+    "lato",
+    "open sans",
+    "roboto",
+    "sans-serif",
+    "segoe ui",
+    "system-ui"
+  ],
+  "radius_distinct_min": 2,
+  "fontsize_low_max": 3,
+  "fontsize_high_min": 23,
+  "centered_fraction_min": 0.5,
+  "purple_exact_only": true,
+  "focus_min_readable_sheets": 3,
+  "craft_signals": {
+    "custom_display_font": "primary font not in generic_fonts",
+    "negative_tracking": "neg_tracked/big_count >= 0.5",
+    "radius_hierarchy": "distinct radii >= 4"
+  },
+  "radius_hierarchy_min": 4
+}

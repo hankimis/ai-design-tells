@@ -40,6 +40,25 @@ tell. Pick from the product's own brand, domain, content, and voice.
 CHECKLIST_INTRO = "\n## Pre-ship checklist (all must be true)\n\n"
 
 FOOTER = """
+## What 202 real top-tier sites actually do (use these as targets)
+
+Learned by rendering 202 human-crafted sites (Stripe, Linear, Toss, Apple, Vercel,
+Figma, ...) and reading their computed styles:
+
+- **Type:** a custom or commissioned display face is the norm; if you do use Inter
+  or the system stack (a quarter of top sites do, Linear included), earn it with a
+  real scale and optical tracking. ~78% negatively track large headings.
+- **Radius:** a *hierarchy*, not one value. Median 6 distinct radii per site (p90 = 12).
+- **Sizes:** a rich scale is normal, median 10 distinct sizes (p90 = 15). The tell
+  is the degenerate one-or-two-size page, not a high count.
+- **Layout:** top sites almost never center everything, median 2% of blocks centered.
+- **Focus:** ~96% define a visible focus state. Do too.
+- **Color:** a brand purple is fine (Stripe uses 123 purple accents and reads as
+  crafted). What is NOT fine is the *exact* default indigo with nothing else decided.
+
+The rule of thumb: any one default is forgivable if real craft sits next to it.
+The AI look is the *bundle* of defaults with nothing compensating.
+
 ## How to verify
 
 Run the detector on your output and drive the Tell Score toward 0:

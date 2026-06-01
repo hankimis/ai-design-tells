@@ -1,0 +1,203 @@
+{
+  "url": "https://stripe.press",
+  "name": "stripe.press",
+  "title": "Stripe Press — Ideas for progress",
+  "fonts": {
+    "body": "ivar text",
+    "heading": "ivar headline",
+    "loaded_count": 3,
+    "loaded_sample": [
+      "ivar display",
+      "ivar headline",
+      "ivar text"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      42,
+      42,
+      42,
+      42,
+      223,
+      344,
+      331,
+      331,
+      331,
+      331,
+      51,
+      240,
+      240,
+      240,
+      240,
+      227,
+      225,
+      225,
+      225,
+      225,
+      60,
+      192,
+      14,
+      23,
+      23,
+      23,
+      23,
+      360,
+      360,
+      360,
+      360,
+      32,
+      227,
+      227,
+      227,
+      227,
+      76,
+      41,
+      41,
+      41,
+      41,
+      238,
+      32,
+      32,
+      32,
+      32,
+      25,
+      0,
+      0,
+      0,
+      0,
+      241,
+      295,
+      295,
+      295,
+      295,
+      0,
+      207,
+      221,
+      158,
+      158,
+      158,
+      158,
+      353,
+      353
+    ],
+    "accent_sampled": 65,
+    "purple_accents": 9,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      2,
+      2
+    ],
+    [
+      3,
+      1
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "24.4px",
+      3
+    ],
+    [
+      "1px",
+      1
+    ],
+    [
+      "14px",
+      1
+    ],
+    [
+      "12px",
+      1
+    ],
+    [
+      "2px",
+      1
+    ],
+    [
+      "4px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      118
+    ],
+    [
+      17,
+      34
+    ],
+    [
+      14,
+      9
+    ],
+    [
+      15,
+      8
+    ],
+    [
+      25,
+      3
+    ],
+    [
+      18,
+      2
+    ],
+    [
+      21,
+      2
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": false,
+    "hairline_rule": false,
+    "sheets_read": 1,
+    "sheets_blocked": 40
+  },
+  "layout": {
+    "blocks": 11,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Stripe Press",
+    "buttons": [
+      "Maintenance",
+      "The Origins of Efficiency",
+      "The Scaling Era",
+      "Boom\n      \n    \n    Byrne Hobart",
+      "Boom",
+      "Poor Charlie’s Almanack",
+      "Scaling People",
+      "Pieces of the Action",
+      "Where Is My Flying Car?",
+      "The Big Score",
+      "Scientific Freedom",
+      "Working in Public",
+      "The Making of Prince of Persia",
+      "Get Together",
+      "An Elegant Puzzle",
+      "The Revolt of the Public",
+      "Stubborn Attachments",
+      "The Dream Machine",
+      "High Growth Handbook",
+      "Submit",
+      "Privacy Policy",
+      "Privacy Policy",
+      "Cookie Settings",
+      "stripepress@stripe.com",
+      "Return to shelf",
+      "We Are As Gods",
+      "Beneath the Surface"
+    ]
+  },
+  "ok": true
+}

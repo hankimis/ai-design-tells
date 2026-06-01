@@ -1,0 +1,427 @@
+{
+  "url": "https://plaid.com",
+  "name": "plaid.com",
+  "title": "Plaid: Enabling all companies to build fintech solutions",
+  "fonts": {
+    "body": "cern",
+    "heading": "plaid sans",
+    "loaded_count": 5,
+    "loaded_sample": [
+      "cern",
+      "inconsolata",
+      "bowery lane",
+      "bowery street",
+      "plaid sans"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      207,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      190,
+      188,
+      210,
+      210,
+      216,
+      216
+    ],
+    "accent_sampled": 95,
+    "purple_accents": 0,
+    "any_gradients": 62,
+    "blue_purple_gradients": 49
+  },
+  "radii": [
+    [
+      100,
+      100
+    ],
+    [
+      20,
+      81
+    ],
+    [
+      8,
+      42
+    ],
+    [
+      24,
+      14
+    ],
+    [
+      6,
+      9
+    ],
+    [
+      50,
+      6
+    ],
+    [
+      40,
+      5
+    ],
+    [
+      999,
+      5
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      16,
+      3
+    ],
+    [
+      46,
+      3
+    ],
+    [
+      12,
+      2
+    ],
+    [
+      1000,
+      2
+    ],
+    [
+      35,
+      1
+    ],
+    [
+      27.088,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 8,
+    "other": 50
+  },
+  "paddings": [
+    [
+      "8px",
+      29
+    ],
+    [
+      "12px",
+      14
+    ],
+    [
+      "1px",
+      9
+    ],
+    [
+      "13px",
+      7
+    ],
+    [
+      "24px",
+      6
+    ],
+    [
+      "29px",
+      5
+    ],
+    [
+      "32px",
+      4
+    ],
+    [
+      "16px",
+      3
+    ],
+    [
+      "13.5px",
+      3
+    ],
+    [
+      "70px",
+      2
+    ],
+    [
+      "20px",
+      2
+    ],
+    [
+      "17px",
+      2
+    ],
+    [
+      "26px",
+      1
+    ],
+    [
+      "4px",
+      1
+    ],
+    [
+      "73px",
+      1
+    ],
+    [
+      "250px",
+      1
+    ],
+    [
+      "25px",
+      1
+    ],
+    [
+      "164px",
+      1
+    ],
+    [
+      "5px",
+      1
+    ],
+    [
+      "3px",
+      1
+    ],
+    [
+      "2px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      1299
+    ],
+    [
+      20,
+      273
+    ],
+    [
+      30,
+      45
+    ],
+    [
+      14,
+      38
+    ],
+    [
+      13,
+      16
+    ],
+    [
+      27,
+      16
+    ],
+    [
+      12,
+      11
+    ],
+    [
+      26,
+      10
+    ],
+    [
+      24,
+      9
+    ],
+    [
+      70,
+      8
+    ],
+    [
+      17,
+      5
+    ],
+    [
+      36,
+      4
+    ],
+    [
+      18,
+      2
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      50,
+      1
+    ],
+    [
+      58,
+      1
+    ],
+    [
+      76,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 7,
+    "neg_tracked": 7
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 320,
+    "sheets_blocked": 2
+  },
+  "layout": {
+    "blocks": 69,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Turn data into revolutionary financial products",
+    "buttons": [
+      "Skip to main content",
+      "Products",
+      "Industries",
+      "Developers",
+      "Resources",
+      "Pricing",
+      "Payments",
+      "Fraud & Risk",
+      "Financial Management",
+      "Credit Underwriting",
+      "Onboarding",
+      "Open Finance",
+      "AuthVerified account & routing numbers",
+      "SignalComplete ACH risk platform",
+      "IdentityBank account-holder information",
+      "BalanceReal-time balance checks",
+      "TransferPayment processing",
+      "Inbound bank payments",
+      "Outbound bank payments",
+      "Billing & recurring payments",
+      "AI companies",
+      "Auto",
+      "Banks & credit unions",
+      "Gaming",
+      "Consumer lending",
+      "Healthcare",
+      "Insurance",
+      "Government & public sector",
+      "Platforms & marketplaces",
+      "Mortgage",
+      "Property management",
+      "Quickstart",
+      "Documentation",
+      "Libraries",
+      "GitHub",
+      "Product demos",
+      "Blog",
+      "Library",
+      "Industry resources",
+      "Customer stories",
+      "Events",
+      "Intelligent finance",
+      "Troubleshoot connection",
+      "Trust and safety",
+      "Connect your data",
+      "See all customer stories",
+      "Log in",
+      "Contact sales",
+      "Talk with our team",
+      "Start building",
+      "See all products",
+      "Explore intelligent finance",
+      "Get the API keys",
+      "Read the docs",
+      "Previous items",
+      "Next items",
+      "Read the story",
+      "Read the story",
+      "Read the story",
+      "Read the story"
+    ]
+  },
+  "ok": true
+}

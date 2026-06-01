@@ -1,0 +1,283 @@
+{
+  "url": "https://www.onepeloton.com",
+  "name": "www.onepeloton.com",
+  "title": "Peloton: Innovative exercise equipment and personalized workout plans",
+  "fonts": {
+    "body": "inter",
+    "heading": "inter",
+    "loaded_count": 2,
+    "loaded_sample": [
+      "brandon-grotesque",
+      "inter"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      218,
+      218,
+      218,
+      354,
+      354,
+      354
+    ],
+    "accent_sampled": 6,
+    "purple_accents": 0,
+    "any_gradients": 67,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      6,
+      66
+    ],
+    [
+      50,
+      46
+    ],
+    [
+      4,
+      34
+    ],
+    [
+      8,
+      10
+    ],
+    [
+      24,
+      7
+    ],
+    [
+      28,
+      6
+    ],
+    [
+      18,
+      5
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      12,
+      4
+    ],
+    [
+      20,
+      2
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      5,
+      1
+    ],
+    [
+      204,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 9,
+    "diffuse": 3
+  },
+  "paddings": [
+    [
+      "8px",
+      35
+    ],
+    [
+      "24px",
+      8
+    ],
+    [
+      "16px",
+      8
+    ],
+    [
+      "80px",
+      6
+    ],
+    [
+      "18px",
+      5
+    ],
+    [
+      "32px",
+      5
+    ],
+    [
+      "48px",
+      2
+    ],
+    [
+      "4px",
+      1
+    ],
+    [
+      "12px",
+      1
+    ],
+    [
+      "38px",
+      1
+    ],
+    [
+      "104px",
+      1
+    ],
+    [
+      "14px",
+      1
+    ],
+    [
+      "17px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      991
+    ],
+    [
+      12,
+      115
+    ],
+    [
+      14,
+      104
+    ],
+    [
+      15,
+      84
+    ],
+    [
+      18,
+      23
+    ],
+    [
+      32,
+      7
+    ],
+    [
+      13,
+      6
+    ],
+    [
+      11,
+      3
+    ],
+    [
+      20,
+      3
+    ],
+    [
+      36,
+      3
+    ],
+    [
+      48,
+      2
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      26,
+      1
+    ],
+    [
+      44,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 13,
+    "neg_tracked": 13
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 9,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 93,
+    "centered_fraction": 0.03225806451612903
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Refurbished Original Bikes. Get yours for as low as $695.*",
+    "buttons": [
+      "Privacy Policy",
+      "Reject All Cookies",
+      "Accept All Cookies",
+      "English",
+      "Deutsch",
+      "en",
+      "Manage Cookie Settings",
+      "Consent powered by Ethyca",
+      "Skip to main content",
+      "Peloton Logo",
+      "Deals",
+      "BikesArrow",
+      "TreadsArrow",
+      "RowArrow",
+      "AppsArrow",
+      "AccessoriesArrow",
+      "Apparel",
+      "Account",
+      "Cart",
+      "Shop now",
+      "Tread+Arrow",
+      "TreadArrow",
+      "Bike+Arrow",
+      "BikeArrow",
+      "Row+Arrow",
+      "Play",
+      "Play",
+      "Learn more",
+      "Discover all classes",
+      "Arrow",
+      "Arrow",
+      "Strength",
+      "Preview strength classes",
+      "Cycling",
+      "Preview cycling classes",
+      "Yoga",
+      "Preview yoga classes",
+      "Running",
+      "Preview running classes",
+      "Upper Body",
+      "Preview boxing classes",
+      "Rowing",
+      "Preview rowing classes",
+      "Meditation",
+      "Preview meditation classes",
+      "Strength",
+      "Preview barre classes",
+      "Stretching",
+      "Preview stretching classes",
+      "Walking",
+      "Preview walking classes",
+      "Preview Pilates classes",
+      "Strength",
+      "Preview strength classes",
+      "Cycling",
+      "Preview cycling classes",
+      "Yoga",
+      "Preview yoga classes",
+      "Running",
+      "Preview running classes"
+    ]
+  },
+  "ok": true
+}

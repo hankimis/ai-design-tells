@@ -1,0 +1,267 @@
+{
+  "url": "https://www.klaviyo.com",
+  "name": "www.klaviyo.com",
+  "title": "Klaviyo: AI Email Marketing & SMS | B2C CRM",
+  "fonts": {
+    "body": "instrument sans",
+    "heading": "klaviyo degular",
+    "loaded_count": 12,
+    "loaded_sample": [
+      "bad habits",
+      "instrument sans",
+      "sohne",
+      "sohne mono",
+      "reckless neue",
+      "sohne schmal",
+      "klaviyo degular",
+      "dm mono",
+      "inter-klaviyo-hosted",
+      "kanit-klaviyo-hosted",
+      "nunito-sans-klaviyo-hosted",
+      "poppins-klaviyo-hosted"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      2,
+      9
+    ],
+    [
+      50,
+      5
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      32,
+      1
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "4px",
+      46
+    ],
+    [
+      "8px",
+      30
+    ],
+    [
+      "24px",
+      17
+    ],
+    [
+      "12px",
+      5
+    ],
+    [
+      "13px",
+      5
+    ],
+    [
+      "28px",
+      5
+    ],
+    [
+      "80px",
+      3
+    ],
+    [
+      "20px",
+      2
+    ],
+    [
+      "175px",
+      2
+    ],
+    [
+      "6px",
+      1
+    ],
+    [
+      "22px",
+      1
+    ],
+    [
+      "16px",
+      1
+    ],
+    [
+      "130px",
+      1
+    ],
+    [
+      "120px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ],
+    [
+      "60px",
+      1
+    ],
+    [
+      "135px",
+      1
+    ],
+    [
+      "10px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      468
+    ],
+    [
+      12,
+      254
+    ],
+    [
+      14,
+      86
+    ],
+    [
+      20,
+      64
+    ],
+    [
+      18,
+      41
+    ],
+    [
+      80,
+      17
+    ],
+    [
+      60,
+      12
+    ],
+    [
+      32,
+      9
+    ],
+    [
+      24,
+      5
+    ],
+    [
+      64,
+      2
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      22,
+      1
+    ],
+    [
+      40,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 8,
+    "neg_tracked": 4
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 12,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 48,
+    "centered_fraction": 0.041666666666666664
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "AI marketing & service to grow relationships",
+    "buttons": [
+      "___",
+      "Skip to main content",
+      "Home",
+      "Help center",
+      "Enterprise",
+      "Partners",
+      "Careers",
+      "United States - EN",
+      "Log in",
+      "What’s New",
+      "Pricing",
+      "Sign up",
+      "Get a demo",
+      "Sign up",
+      "Learn more",
+      "Explore Marketing Agent",
+      "Explore Customer Agent",
+      "Explore the platform",
+      "Explore Marketing",
+      "Email marketing",
+      "SMS marketing",
+      "WhatsApp marketing",
+      "Mobile push",
+      "Reviews",
+      "Social marketing",
+      "RCS for Business",
+      "Email templates",
+      "Explore AI",
+      "Marketing Agent",
+      "Customer Agent",
+      "Remix",
+      "MCP Server",
+      "Explore Service",
+      "Customer Agent",
+      "Customer Hub",
+      "Helpdesk",
+      "Explore Analytics",
+      "Marketing Analytics",
+      "Benchmarks",
+      "Explore Data Platform",
+      "Apps + APIs",
+      "Profiles",
+      "Segments",
+      "Advanced KDP",
+      "Explore the app marketplace",
+      "See pricing",
+      "autonomous B2C CRM",
+      "AI marketing platform",
+      "free plan with core features",
+      "Shopify",
+      "email",
+      "SMS",
+      "WhatsApp",
+      "omnichannel marketing",
+      "enterprise brands",
+      "About Klaviyo",
+      "Newsroom",
+      "Investor relations",
+      "Contact us",
+      "Careers"
+    ]
+  },
+  "ok": true
+}

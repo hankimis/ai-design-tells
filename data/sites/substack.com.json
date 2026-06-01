@@ -1,0 +1,211 @@
+{
+  "url": "https://substack.com",
+  "name": "substack.com",
+  "title": "Substack - A new economic engine for culture",
+  "fonts": {
+    "body": "spectral",
+    "heading": "spectral",
+    "loaded_count": 2,
+    "loaded_sample": [
+      "cahuenga",
+      "spectral"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      203,
+      203,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      203,
+      203,
+      20
+    ],
+    "accent_sampled": 21,
+    "purple_accents": 0,
+    "any_gradients": 2,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      8,
+      52
+    ],
+    [
+      9999,
+      48
+    ],
+    [
+      12,
+      22
+    ],
+    [
+      4,
+      4
+    ]
+  ],
+  "shadows": {
+    "other": 10
+  },
+  "paddings": [
+    [
+      "8px",
+      6
+    ],
+    [
+      "20px",
+      6
+    ],
+    [
+      "12px",
+      5
+    ],
+    [
+      "24px",
+      4
+    ],
+    [
+      "16px",
+      3
+    ],
+    [
+      "4px",
+      2
+    ],
+    [
+      "32px",
+      2
+    ],
+    [
+      "10px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      15,
+      410
+    ],
+    [
+      13,
+      76
+    ],
+    [
+      19,
+      70
+    ],
+    [
+      20,
+      44
+    ],
+    [
+      11,
+      2
+    ],
+    [
+      24,
+      2
+    ],
+    [
+      16,
+      1
+    ],
+    [
+      32,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": false,
+    "hairline_rule": false,
+    "sheets_read": 5,
+    "sheets_blocked": 16
+  },
+  "layout": {
+    "blocks": 12,
+    "centered_fraction": 0.16666666666666666
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "Home",
+      "Subscriptions",
+      "Chat",
+      "Activity",
+      "Explore",
+      "Profile",
+      "Create",
+      "Start your Substack",
+      "Learn more",
+      "For you",
+      "Hamish McKenzie",
+      "1h",
+      "Subscribe",
+      "Simon Owens",
+      "2h",
+      "22",
+      "3",
+      "1",
+      "Sari Botton",
+      "2h",
+      "Subscribe",
+      "Sari Botton",
+      "7h",
+      "Oldster Magazine",
+      "21",
+      "3",
+      "The Conscious Lee",
+      "2h",
+      "Subscribe",
+      "9",
+      "Start your Substack",
+      "Learn more",
+      "jo youngje",
+      "18h",
+      "Subscribe",
+      "Korean FE article",
+      "Emily Sundberg",
+      "4h",
+      "Subscribe",
+      "41",
+      "3",
+      "5",
+      "Start your Substack",
+      "Learn more",
+      "harry",
+      "2h",
+      "Subscribe",
+      "Delia Cai",
+      "Deez Links",
+      "2",
+      "1",
+      "Start your Substack",
+      "Sign in",
+      "Get app",
+      "privacy policy",
+      "Manage",
+      "Reject",
+      "Accept"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,370 @@
+{
+  "url": "https://www.docker.com",
+  "name": "www.docker.com",
+  "title": "Docker: Accelerated Container Application Development",
+  "fonts": {
+    "body": "inter",
+    "heading": "repro",
+    "loaded_count": 3,
+    "loaded_sample": [
+      "ibm plex mono",
+      "inter",
+      "repro"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      224,
+      224,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      217,
+      224,
+      220,
+      224,
+      217,
+      217,
+      224,
+      220,
+      218,
+      218,
+      218,
+      218,
+      217,
+      224,
+      220,
+      224,
+      220,
+      217,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      224,
+      220,
+      217,
+      224,
+      224,
+      224,
+      224,
+      220,
+      224,
+      220,
+      217,
+      224,
+      224,
+      217,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      224,
+      224,
+      224,
+      224,
+      224,
+      224,
+      224,
+      224,
+      224,
+      224,
+      224,
+      224,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      95,
+      95,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220
+    ],
+    "accent_sampled": 168,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      8,
+      10
+    ],
+    [
+      4,
+      7
+    ],
+    [
+      2,
+      4
+    ]
+  ],
+  "shadows": {
+    "other": 20,
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "20px",
+      24
+    ],
+    [
+      "48px",
+      20
+    ],
+    [
+      "12px",
+      17
+    ],
+    [
+      "32px",
+      14
+    ],
+    [
+      "8px",
+      7
+    ],
+    [
+      "24px",
+      3
+    ],
+    [
+      "10px",
+      1
+    ],
+    [
+      "6px",
+      1
+    ],
+    [
+      "10.24px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      429
+    ],
+    [
+      14,
+      108
+    ],
+    [
+      20,
+      19
+    ],
+    [
+      12,
+      15
+    ],
+    [
+      13,
+      9
+    ],
+    [
+      18,
+      7
+    ],
+    [
+      32,
+      6
+    ],
+    [
+      40,
+      5
+    ],
+    [
+      48,
+      4
+    ],
+    [
+      24,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 11,
+    "neg_tracked": 11
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 69,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 80,
+    "centered_fraction": 0.1375
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "A safer container ecosystem, for everyone",
+    "buttons": [
+      "Products",
+      "Support",
+      "Pricing",
+      "Get started",
+      "Buy now",
+      "Buy now",
+      "Buy now",
+      "Contact sales",
+      "Blog",
+      "Docs",
+      "Sign In",
+      "Get Started",
+      "Get started with DHI",
+      "Download Docker Desktop",
+      "Security",
+      "MCP",
+      "Agents",
+      "Containers",
+      "Get started with DHI",
+      "Try enterprise",
+      "Watch video",
+      "Discover Docker’s approach",
+      "Explore Helm Charts in Docker Hub",
+      "Learn core concepts of Docker security",
+      "Sign in to try DHI Enterprise",
+      "Start building with Docker Desktop",
+      "Go to Docker Hub",
+      "Choose plan",
+      "Download Docker Desktop",
+      "Products Overview",
+      "Docker Desktop",
+      "Docker Hub",
+      "Docker Scout",
+      "Docker Build Cloud",
+      "Testcontainers Desktop",
+      "Testcontainers Cloud",
+      "Docker MCP Catalog and Toolkit",
+      "Docker Hardened Images",
+      "Command Line Interface",
+      "IDE Extensions",
+      "Container Runtime",
+      "Docker Extensions",
+      "Trusted Open Source Content",
+      "Secure Software Supply Chain",
+      "Documentation",
+      "Getting Started",
+      "Trainings",
+      "Extensions SDK",
+      "Community",
+      "Open Source",
+      "Preview Program",
+      "Newsletter",
+      "Personal",
+      "Pro",
+      "Team",
+      "Business",
+      "Premium Support and TAM",
+      "Pricing FAQ",
+      "Contact Sales",
+      "About Us"
+    ]
+  },
+  "ok": true
+}

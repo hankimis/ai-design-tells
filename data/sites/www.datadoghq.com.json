@@ -1,0 +1,243 @@
+{
+  "url": "https://www.datadoghq.com",
+  "name": "www.datadoghq.com",
+  "title": "서비스형 클라우드 모니터링 | Datadog",
+  "fonts": {
+    "body": "noto sans kr",
+    "heading": "nationalweb",
+    "loaded_count": 12,
+    "loaded_sample": [
+      "noto sans kr",
+      "nationalweb",
+      "robotomono-regular",
+      "robotomono-bold",
+      "robotomono-medium",
+      "noto sans jp",
+      "noto sans variable",
+      "noto sans tc",
+      "calibre",
+      "simplon-mono",
+      "iconfont",
+      "robotomono"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      267,
+      267,
+      267,
+      267,
+      267
+    ],
+    "accent_sampled": 5,
+    "purple_accents": 5,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      4,
+      6
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      6,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "4px",
+      107
+    ],
+    [
+      "8.5px",
+      10
+    ],
+    [
+      "20px",
+      8
+    ],
+    [
+      "2px",
+      6
+    ],
+    [
+      "10px",
+      4
+    ],
+    [
+      "16px",
+      3
+    ],
+    [
+      "129px",
+      1
+    ],
+    [
+      "5px",
+      1
+    ],
+    [
+      "14px",
+      1
+    ],
+    [
+      "60px",
+      1
+    ],
+    [
+      "11px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ],
+    [
+      "64px",
+      1
+    ],
+    [
+      "50px",
+      1
+    ],
+    [
+      "12px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      18,
+      322
+    ],
+    [
+      14,
+      129
+    ],
+    [
+      16,
+      18
+    ],
+    [
+      12,
+      10
+    ],
+    [
+      22,
+      9
+    ],
+    [
+      32,
+      9
+    ],
+    [
+      36,
+      3
+    ],
+    [
+      20,
+      2
+    ],
+    [
+      17,
+      1
+    ],
+    [
+      30,
+      1
+    ],
+    [
+      52,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 3,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 8,
+    "sheets_blocked": 3
+  },
+  "layout": {
+    "blocks": 27,
+    "centered_fraction": 0.07407407407407407
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "AI 기반 옵저버빌리티 & 보안",
+    "buttons": [
+      "제품",
+      "고객",
+      "요금",
+      "솔루션",
+      "문서",
+      "소개",
+      "블로그",
+      "로그인",
+      "무료로 시작하세요\n무료 체험판",
+      "무료 체험",
+      "플랫폼 소개",
+      "지금 등록하세요",
+      "더 알아보기",
+      "자세히 보기",
+      "자세히 보기",
+      "자세히 보기",
+      "자세히 보기",
+      "자세히 보기",
+      "자세히 보기",
+      "자세히 보기",
+      "자세히 보기",
+      "자세히 알아보기",
+      "자세히 알아보기",
+      "무료 체험 시작하기",
+      "Infrastructure Monitoring",
+      "Network Monitoring",
+      "Container Monitoring",
+      "Serverless",
+      "Cloud Cost Management",
+      "Cloudcraft",
+      "Kubernetes Autoscaling",
+      "Application Performance Monitoring",
+      "Software Catalog",
+      "Universal Service Monitoring",
+      "Data Streams Monitoring",
+      "Jobs Monitoring",
+      "Quality Monitoring",
+      "Database Monitoring",
+      "Continuous Profiler",
+      "Dynamic Instrumentation",
+      "Log Management",
+      "Sensitive Data Scanner",
+      "Audit Trail",
+      "Observability Pipelines",
+      "Cloud Security",
+      "Cloud Security Posture Management",
+      "Workload Protection",
+      "Vulnerability Management",
+      "Compliance",
+      "App and API Protection",
+      "Software Composition Analysis",
+      "Code Security",
+      "Static Code Analysis (SAST)",
+      "Runtime Code Analysis (IAST)",
+      "IaC Security",
+      "Cloud SIEM",
+      "Browser Real User Monitoring",
+      "Mobile Real User Monitoring",
+      "Product Analytics",
+      "Experiments"
+    ]
+  },
+  "ok": true
+}

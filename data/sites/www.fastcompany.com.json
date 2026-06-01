@@ -1,0 +1,229 @@
+{
+  "url": "https://www.fastcompany.com",
+  "name": "www.fastcompany.com",
+  "title": "Fast Company | Business News, Innovation, Technology, Work Life and Design",
+  "fonts": {
+    "body": "ui-sans-serif",
+    "heading": "centra",
+    "loaded_count": 16,
+    "loaded_sample": [
+      "meretpro",
+      "meretpro fallback",
+      "centra",
+      "centra fallback",
+      "zizousans",
+      "zizousans fallback",
+      "tiempos",
+      "tiempos fallback",
+      "grifitol",
+      "grifitol fallback",
+      "grifitom",
+      "grifitom fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      232,
+      232,
+      232,
+      232,
+      232
+    ],
+    "accent_sampled": 5,
+    "purple_accents": 0,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      3,
+      8
+    ],
+    [
+      18,
+      7
+    ],
+    [
+      50,
+      3
+    ],
+    [
+      9999,
+      3
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      8,
+      1
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "16px",
+      52
+    ],
+    [
+      "12px",
+      13
+    ],
+    [
+      "25px",
+      4
+    ],
+    [
+      "8px",
+      3
+    ],
+    [
+      "376.875px",
+      2
+    ],
+    [
+      "15px",
+      1
+    ],
+    [
+      "24px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ],
+    [
+      "5.5px",
+      1
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "56px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      686
+    ],
+    [
+      13,
+      139
+    ],
+    [
+      12,
+      91
+    ],
+    [
+      20,
+      74
+    ],
+    [
+      14,
+      51
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      28,
+      7
+    ],
+    [
+      32,
+      4
+    ],
+    [
+      18,
+      2
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 8,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 97,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "LOGIN",
+      "SUBSCRIBE",
+      "News",
+      "Tech",
+      "Design",
+      "Leadership",
+      "Work Life",
+      "Most Innovative Companies",
+      "Games",
+      "Podcasts",
+      "Video",
+      "EVENTS",
+      "Custom Studio",
+      "IBM",
+      "Texas A&M University",
+      "BILLIONAIRE URBANISM",
+      "COSTCO PANIC BUYING",
+      "AI BOOM",
+      "TECH",
+      "NEWS",
+      "TECH",
+      "MODERN CEO",
+      "NEWS",
+      "TECH",
+      "NEWS",
+      "TECH",
+      "FAST COMPANY CUSTOM STUDIO",
+      "Lay's",
+      "NEWS",
+      "DESIGN",
+      "Subscribe today for full access!",
+      "Latest",
+      "MostPopular",
+      "UltimateGuides",
+      "Design enters its frenemies era",
+      "The middle manager’s AI survival guide",
+      "See all subscriber exclusives",
+      "See all subscriber exclusives",
+      "IMPACT COUNCIL",
+      "AI made building easy",
+      "TECH",
+      "TECH",
+      "LEADERSHIP",
+      "IMPACT COUNCIL",
+      "IMPACT COUNCIL",
+      "Brand New World",
+      "See all Podcasts",
+      "See all Podcasts",
+      "TECH",
+      "LEADERSHIP",
+      "IMPACT COUNCIL",
+      "NEWS",
+      "FAST COMPANY EXECUTIVE BOARD",
+      "TECH",
+      "IMPACT COUNCIL",
+      "FAST COMPANY EXECUTIVE BOARD",
+      "NEWS",
+      "IMPACT COUNCIL",
+      "FAST COMPANY EXECUTIVE BOARD",
+      "FAST COMPANY EXECUTIVE BOARD"
+    ]
+  },
+  "ok": true
+}

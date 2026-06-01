@@ -1,0 +1,274 @@
+{
+  "url": "https://arc.net",
+  "name": "arc.net",
+  "title": "Arc from The Browser Company",
+  "fonts": {
+    "body": "marlin",
+    "heading": "marlin soft sq",
+    "loaded_count": 12,
+    "loaded_sample": [
+      "marlin",
+      "marlin soft basic",
+      "inter",
+      "intervariable",
+      "sohne breit",
+      "space mono",
+      "sohne breit extrafett",
+      "eb garamond",
+      "abc favorit mono",
+      "marlin soft sq",
+      "abc oracle",
+      "exposure var"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      51,
+      51,
+      51,
+      51,
+      252,
+      252,
+      51,
+      51,
+      252,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      238,
+      51,
+      51,
+      252,
+      252,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51
+    ],
+    "accent_sampled": 81,
+    "purple_accents": 5,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      8,
+      9
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      22,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1,
+    "other": 3
+  },
+  "paddings": [
+    [
+      "24px",
+      16
+    ],
+    [
+      "8px",
+      9
+    ],
+    [
+      "3px",
+      5
+    ],
+    [
+      "4px",
+      4
+    ],
+    [
+      "32px",
+      3
+    ],
+    [
+      "72px",
+      1
+    ],
+    [
+      "150px",
+      1
+    ],
+    [
+      "128px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "16px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      182
+    ],
+    [
+      12,
+      43
+    ],
+    [
+      14,
+      24
+    ],
+    [
+      17,
+      10
+    ],
+    [
+      28,
+      6
+    ],
+    [
+      24,
+      5
+    ],
+    [
+      40,
+      4
+    ],
+    [
+      46,
+      3
+    ],
+    [
+      13,
+      1
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      36,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 1,
+    "neg_tracked": 1
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 6,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 29,
+    "centered_fraction": 0.5862068965517241
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Arc is the Chrome  replacement I've been  waiting for.",
+    "buttons": [
+      "Max",
+      "Mobile",
+      "Developers",
+      "Students",
+      "Blog",
+      "Try Dia",
+      "Download Arc for Mac",
+      "Download Arc for Mac",
+      "Download Arc for Windows",
+      "Download Arc for Windows",
+      "“Arc is a great name.”",
+      "“Arc is a great name.”",
+      "“Arc is a great name.”",
+      "“Arc is a great name.”",
+      "Learn more about privacy in Arc →",
+      "Download Arc for Mac",
+      "Download Arc for Mac",
+      "Download",
+      "Privacy Policy",
+      "Terms of Use",
+      "Security",
+      "Arc Max",
+      "Arc for iPhone",
+      "Integrations",
+      "Credits",
+      "Resource Center",
+      "Release Notes",
+      "Students",
+      "FAQ",
+      "Careers @ BCNY"
+    ]
+  },
+  "ok": true
+}

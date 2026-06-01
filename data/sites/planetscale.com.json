@@ -1,0 +1,165 @@
+{
+  "url": "https://planetscale.com",
+  "name": "planetscale.com",
+  "title": "PlanetScale - the world’s fastest and most scalable cloud hosting for Vitess and Postgres",
+  "fonts": {
+    "body": "ui-monospace",
+    "heading": "ui-monospace",
+    "loaded_count": 0,
+    "loaded_sample": []
+  },
+  "color": {
+    "accent_hues": [
+      45,
+      18,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208
+    ],
+    "accent_sampled": 38,
+    "purple_accents": 0,
+    "any_gradients": 6,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      9999,
+      1
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "24px",
+      7
+    ],
+    [
+      "16px",
+      4
+    ],
+    [
+      "8px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      331
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 2,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 16,
+    "centered_fraction": 0.0625
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "The world’s fastest and most scalable cloud databases",
+    "buttons": [
+      "Learn more",
+      "Log in",
+      "Get started",
+      "Get in touch",
+      "Platform▾",
+      "Resources▾",
+      "Documentation",
+      "Pricing",
+      "Contact",
+      "fastest databases",
+      "NVMe drives",
+      "deployment options",
+      "PlanetScale Managed",
+      "Tier 0 databases",
+      "Read case study",
+      "Read case study",
+      "Read case study",
+      "Read blog post",
+      "Read case study",
+      "Read case study",
+      "Read blog post",
+      "Vitess",
+      "Postgres",
+      "Neki",
+      "Vitess",
+      "Performance",
+      "PlanetScale Metal",
+      "Benchmarking page",
+      "Uptime",
+      "SLA commitment",
+      "Deploy schema changes fully online",
+      "Online cluster resizing and resharding",
+      "status page",
+      "Cost",
+      "reach out to us",
+      "PlanetScale Managed",
+      "AWS Marketplace",
+      "GCP Marketplace",
+      "realize additional savings",
+      "Security",
+      "security documentation",
+      "Trust Center",
+      "Features",
+      "and more",
+      "vector data",
+      "Roll back",
+      "with Insights",
+      "explicit sharding workflows",
+      "and more",
+      "best-in-class support",
+      "About",
+      "Brand",
+      "Blog",
+      "Changelog",
+      "Careers",
+      "Events",
+      "Case studies",
+      "Enterprise",
+      "Pricing",
+      "Benchmarks"
+    ]
+  },
+  "ok": true
+}

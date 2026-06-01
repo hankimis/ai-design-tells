@@ -1,0 +1,398 @@
+{
+  "url": "https://www.descript.com",
+  "name": "www.descript.com",
+  "title": "Descript – AI Video & Podcast Editor | Free, Online",
+  "fonts": {
+    "body": "__booton_bab293",
+    "heading": "__brett_523e52",
+    "loaded_count": 7,
+    "loaded_sample": [
+      "__gamuthdisplay_a7185b",
+      "__gamuthdisplay_fallback_a7185b",
+      "__booton_bab293",
+      "__booton_fallback_bab293",
+      "__brett_523e52",
+      "__brett_fallback_523e52",
+      "wistiaplayerinternumberssemibold"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      220,
+      336,
+      220,
+      336,
+      220,
+      336,
+      220,
+      336,
+      220,
+      335,
+      220,
+      0,
+      315,
+      220,
+      340,
+      220,
+      340,
+      220,
+      340,
+      220,
+      340,
+      220,
+      340,
+      220,
+      340,
+      220,
+      340,
+      220,
+      340,
+      220,
+      340,
+      220,
+      340,
+      220,
+      340,
+      220,
+      340,
+      220,
+      335,
+      220,
+      335,
+      220,
+      340,
+      220,
+      335,
+      220,
+      240,
+      220,
+      340,
+      338,
+      220,
+      340,
+      338,
+      220,
+      0,
+      240,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220
+    ],
+    "accent_sampled": 107,
+    "purple_accents": 2,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      4,
+      50
+    ],
+    [
+      12,
+      30
+    ],
+    [
+      100,
+      10
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9999,
+      4
+    ]
+  ],
+  "shadows": {
+    "other": 5
+  },
+  "paddings": [
+    [
+      "24px",
+      16
+    ],
+    [
+      "28px",
+      16
+    ],
+    [
+      "6px",
+      15
+    ],
+    [
+      "340.203px",
+      11
+    ],
+    [
+      "16px",
+      8
+    ],
+    [
+      "4px",
+      7
+    ],
+    [
+      "32px",
+      7
+    ],
+    [
+      "45.0469px",
+      5
+    ],
+    [
+      "88px",
+      4
+    ],
+    [
+      "12px",
+      4
+    ],
+    [
+      "8px",
+      4
+    ],
+    [
+      "104px",
+      3
+    ],
+    [
+      "2px",
+      3
+    ],
+    [
+      "17px",
+      2
+    ],
+    [
+      "23px",
+      2
+    ],
+    [
+      "92px",
+      1
+    ],
+    [
+      "160px",
+      1
+    ],
+    [
+      "189px",
+      1
+    ],
+    [
+      "280.875px",
+      1
+    ],
+    [
+      "186.75px",
+      1
+    ],
+    [
+      "185.625px",
+      1
+    ],
+    [
+      "287.984px",
+      1
+    ],
+    [
+      "177.75px",
+      1
+    ],
+    [
+      "357.344px",
+      1
+    ],
+    [
+      "120px",
+      1
+    ],
+    [
+      "85.3333px",
+      1
+    ],
+    [
+      "21.3333px",
+      1
+    ],
+    [
+      "56px",
+      1
+    ],
+    [
+      "242.203px",
+      1
+    ],
+    [
+      "31.4531px",
+      1
+    ],
+    [
+      "20.8125px",
+      1
+    ],
+    [
+      "16.2812px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      1274
+    ],
+    [
+      14,
+      443
+    ],
+    [
+      18,
+      168
+    ],
+    [
+      20,
+      28
+    ],
+    [
+      56,
+      21
+    ],
+    [
+      24,
+      19
+    ],
+    [
+      40,
+      4
+    ],
+    [
+      88,
+      3
+    ]
+  ],
+  "heading": {
+    "big_count": 4,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 140,
+    "sheets_blocked": 4
+  },
+  "layout": {
+    "blocks": 117,
+    "centered_fraction": 0.2905982905982906
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "AI Video Editor",
+    "buttons": [
+      "Underlord",
+      "Pricing",
+      "Contact sales",
+      "Sign in",
+      "Sign up",
+      "Get started for free",
+      "Explore teams",
+      "Read the full story",
+      "Get started",
+      "Get started",
+      "Get started",
+      "Underlord",
+      "Video Editing",
+      "Podcasting",
+      "Create Clips",
+      "Transcription",
+      "Remote Recording",
+      "Screen Recording",
+      "Captions and Subtitles",
+      "Translate Video",
+      "Eye Contact",
+      "Text-to-Speech",
+      "Studio Sound",
+      "Regenerate",
+      "Green Screen",
+      "Pricing",
+      "Download",
+      "Status",
+      "Changelog",
+      "Feature Requests",
+      "Integrations",
+      "Blog",
+      "Tools",
+      "Community & Events",
+      "Affiliate Program",
+      "Help & Support",
+      "About Us",
+      "Careers",
+      "Lyrebird",
+      "Ethics",
+      "Privacy",
+      "Terms",
+      "All guides",
+      "How to start a podcast",
+      "How to record a podcast",
+      "How to start a YouTube channel",
+      "All tools",
+      "Video Editor",
+      "Video Enhancer",
+      "Speech to Text Converter",
+      "Split Audio Online",
+      "YouTube Clip Maker",
+      "Descript for Teams",
+      "Descript for Enterprise"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,227 @@
+{
+  "url": "https://www.economist.com",
+  "name": "www.economist.com",
+  "title": "The Economist | Go beyond breaking news",
+  "fonts": {
+    "body": "economistserif",
+    "heading": "economistsans",
+    "loaded_count": 19,
+    "loaded_sample": [
+      "economistserifosf",
+      "economistserifsc",
+      "economistseriflf",
+      "economistsanslf",
+      "economistsanssc",
+      "economistsansosf",
+      "economistsansheadline",
+      "twaneue",
+      "twaneuealt",
+      "twaneuerounded",
+      "narrowfat",
+      "narrowfatstencil"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      240,
+      240,
+      230,
+      240,
+      240,
+      230,
+      240,
+      240
+    ],
+    "accent_sampled": 8,
+    "purple_accents": 6,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      4,
+      12
+    ],
+    [
+      32,
+      7
+    ],
+    [
+      50,
+      4
+    ],
+    [
+      20,
+      2
+    ]
+  ],
+  "shadows": {
+    "other": 4,
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "16px",
+      28
+    ],
+    [
+      "8px",
+      20
+    ],
+    [
+      "6px",
+      4
+    ],
+    [
+      "32px",
+      3
+    ],
+    [
+      "12px",
+      2
+    ],
+    [
+      "3px",
+      2
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "24px",
+      1
+    ],
+    [
+      "4px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      17,
+      844
+    ],
+    [
+      20,
+      125
+    ],
+    [
+      15,
+      105
+    ],
+    [
+      13,
+      32
+    ],
+    [
+      23,
+      8
+    ],
+    [
+      34,
+      6
+    ],
+    [
+      40,
+      4
+    ],
+    [
+      44,
+      3
+    ],
+    [
+      26,
+      2
+    ],
+    [
+      16,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 2,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 76,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 76,
+    "centered_fraction": 0.11842105263157894
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "Subscribe",
+      "The Economist Pro",
+      "Log in",
+      "Menu",
+      "Skip to content",
+      "Subscribe",
+      "The Economist Pro",
+      "Log in",
+      "Menu",
+      "Weekly edition",
+      "World in brief",
+      "United States",
+      "China",
+      "Business",
+      "Finance & economics",
+      "Europe",
+      "Asia",
+      "Middle East",
+      "Americas",
+      "Artificial intelligence",
+      "Culture",
+      "Cartoons & games",
+      "Why China is so bad at football",
+      "Why you should never skip a TV intro",
+      "Insider",
+      "Add to calendar",
+      "Latest videos",
+      "Columns",
+      "India’s republic of uncles",
+      "How the Treat conquered politics",
+      "How the boomers screwed Europe",
+      "How the boomers screwed Europe",
+      "The best books of 2026 so far",
+      "The other China shock",
+      "Six books to understand the Vietnam war",
+      "Mapping the Iran war’s trade disruption",
+      "Liberalism: A brief history",
+      "Against the tyranny of the majority",
+      "De Tocqueville and the French exception",
+      "The prophets of illiberal progress",
+      "The new shape of war",
+      "Myths about immigration",
+      "Don’t invade Cuba",
+      "How to mint millionaires",
+      "Marilyn Monroe and dead celebrities",
+      "⇒Read latest edition",
+      "Business",
+      "How should bosses talk about AI?",
+      "Finance & economics",
+      "United States",
+      "The US in Brief: New Jersey’s ICE test",
+      "Artificial intelligence",
+      "How should bosses talk about AI?",
+      "1843",
+      "By Invitation",
+      "The pain to come in private credit",
+      "Why China is so bad at football",
+      "Newsletters",
+      "Podcasts",
+      "The new shape of war"
+    ]
+  },
+  "ok": true
+}

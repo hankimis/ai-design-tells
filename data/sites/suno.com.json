@@ -1,0 +1,281 @@
+{
+  "url": "https://suno.com",
+  "name": "suno.com",
+  "title": "Suno | AI Music Generator",
+  "fonts": {
+    "body": "neue montreal",
+    "heading": "neue montreal",
+    "loaded_count": 3,
+    "loaded_sample": [
+      "editorial new",
+      "input sans",
+      "neue montreal"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      38,
+      38,
+      38,
+      38,
+      38,
+      38,
+      38,
+      38,
+      38,
+      38,
+      38,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      38,
+      38,
+      38,
+      38,
+      38,
+      38,
+      38,
+      38,
+      38,
+      38,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      38
+    ],
+    "accent_sampled": 57,
+    "purple_accents": 0,
+    "any_gradients": 4,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      20,
+      34
+    ],
+    [
+      33554400,
+      29
+    ],
+    [
+      6,
+      26
+    ],
+    [
+      12,
+      26
+    ],
+    [
+      24,
+      9
+    ]
+  ],
+  "shadows": {
+    "other": 3,
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "4px",
+      26
+    ],
+    [
+      "32px",
+      9
+    ],
+    [
+      "24px",
+      9
+    ],
+    [
+      "8px",
+      3
+    ],
+    [
+      "12px",
+      3
+    ],
+    [
+      "16px",
+      3
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ],
+    [
+      "100px",
+      1
+    ],
+    [
+      "2px",
+      1
+    ],
+    [
+      "64px",
+      1
+    ],
+    [
+      "60px",
+      1
+    ],
+    [
+      "6px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      375
+    ],
+    [
+      24,
+      211
+    ],
+    [
+      13,
+      156
+    ],
+    [
+      12,
+      30
+    ],
+    [
+      20,
+      14
+    ],
+    [
+      17,
+      13
+    ],
+    [
+      18,
+      8
+    ],
+    [
+      72,
+      7
+    ],
+    [
+      14,
+      4
+    ],
+    [
+      15,
+      4
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      11,
+      2
+    ],
+    [
+      40,
+      2
+    ],
+    [
+      140,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 7,
+    "neg_tracked": 2
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 6,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 71,
+    "centered_fraction": 0.09859154929577464
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Make any song you can imagine",
+    "buttons": [
+      "Log in",
+      "Join Suno for free",
+      "Advanced",
+      "Create",
+      "43K",
+      "31K",
+      "30K",
+      "57K",
+      "20K",
+      "51K",
+      "22K",
+      "31K",
+      "37K",
+      "28K",
+      "45K",
+      "39K",
+      "22K",
+      "Download on iPhone",
+      "Download on Android",
+      "@timbaland",
+      "@spellspellspell",
+      "@nickfloats",
+      "@milesmusickid",
+      "@devanibiza",
+      "@techguyver",
+      "How do I make a song with Suno?+",
+      "Can I use AI to make music?+",
+      "Is Suno free to use?+",
+      "See the full FAQ →",
+      "Join Suno for free",
+      "About",
+      "Work at Suno",
+      "Blog",
+      "Pricing",
+      "Hub",
+      "Help",
+      "Contact Us",
+      "Community Guidelines",
+      "FAQs",
+      "Terms of Service",
+      "Privacy Policy",
+      "English"
+    ]
+  },
+  "ok": true
+}

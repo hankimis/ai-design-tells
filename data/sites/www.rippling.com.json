@@ -1,0 +1,359 @@
+{
+  "url": "https://www.rippling.com",
+  "name": "www.rippling.com",
+  "title": "Rippling: #1 Workforce Management System | HR, IT, Finance",
+  "fonts": {
+    "body": "__basel_e55247",
+    "heading": "__basel_e55247",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "__basel_e55247",
+      "__basel_fallback_e55247",
+      "__styrenea_d301d6",
+      "__styrenea_fallback_d301d6"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      37,
+      220,
+      220,
+      220,
+      37,
+      220,
+      37,
+      25,
+      220,
+      25,
+      220,
+      25,
+      220,
+      25,
+      220,
+      25,
+      220,
+      25,
+      220,
+      37,
+      220,
+      37,
+      220,
+      220,
+      24,
+      220,
+      220,
+      220,
+      220,
+      220,
+      24,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      24,
+      220,
+      314,
+      220,
+      37,
+      220,
+      37,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220
+    ],
+    "accent_sampled": 128,
+    "purple_accents": 0,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      12,
+      23
+    ],
+    [
+      8,
+      21
+    ],
+    [
+      4,
+      18
+    ],
+    [
+      5,
+      2
+    ],
+    [
+      9999,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 2,
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "16px",
+      15
+    ],
+    [
+      "4px",
+      13
+    ],
+    [
+      "32px",
+      10
+    ],
+    [
+      "24px",
+      9
+    ],
+    [
+      "80px",
+      6
+    ],
+    [
+      "40px",
+      5
+    ],
+    [
+      "48px",
+      4
+    ],
+    [
+      "120px",
+      3
+    ],
+    [
+      "12px",
+      3
+    ],
+    [
+      "8px",
+      2
+    ],
+    [
+      "64px",
+      2
+    ],
+    [
+      "6px",
+      1
+    ],
+    [
+      "42px",
+      1
+    ],
+    [
+      "52px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      770
+    ],
+    [
+      15,
+      278
+    ],
+    [
+      24,
+      101
+    ],
+    [
+      18,
+      28
+    ],
+    [
+      12,
+      8
+    ],
+    [
+      48,
+      5
+    ],
+    [
+      42,
+      4
+    ],
+    [
+      30,
+      3
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      14,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 7,
+    "neg_tracked": 7
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 7,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 73,
+    "centered_fraction": 0.1095890410958904
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "AI that works across your entire business",
+    "buttons": [
+      "Products",
+      "Platform",
+      "Solutions",
+      "Global",
+      "Resources",
+      "Pricing",
+      "Login",
+      "See a demo",
+      "Create free account",
+      "Learn more",
+      "Take a product tour",
+      "Learn more",
+      "Explore prompts",
+      "Get a demo",
+      "Get a demo",
+      "Get a demo",
+      "Get a demo",
+      "Get a demo",
+      "Get a demo",
+      "Get a demo",
+      "Learn more",
+      "AI capabilities",
+      "Explore prompts",
+      "Play video1:00",
+      "Request live demo",
+      "Watch tour video",
+      "Rippling Overview",
+      "Workflow Studio",
+      "Analytics",
+      "Policies",
+      "Permissions",
+      "Integrations",
+      "App Studio",
+      "HRIS",
+      "HR Services",
+      "Recruiting",
+      "Headcount Planning",
+      "Performance",
+      "Surveys",
+      "Learning Management",
+      "Benefits Administration",
+      "PEO",
+      "Time & Attendance",
+      "Scheduling",
+      "Chat",
+      "Identity & Access",
+      "Device Management",
+      "Inventory Management",
+      "Payroll",
+      "Contractors",
+      "Global Payroll",
+      "Employer of Record",
+      "Contractor of Record",
+      "Global Contractors",
+      "Expense Management",
+      "Corporate Cards",
+      "Bill Pay",
+      "Travel",
+      "Employer of Record",
+      "Global Payroll"
+    ]
+  },
+  "ok": true
+}

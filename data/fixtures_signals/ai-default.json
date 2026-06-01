@@ -1,0 +1,90 @@
+{
+  "url": "file:///Users/hankim/아이오브연구소/ai-design-tells/.claude/worktrees/build/fixtures/ai-default.html",
+  "name": "file:___Users_hankim_아이오브연구소_ai-design-tells_.claude_worktrees_build_fixtures_ai-default.html",
+  "title": "TaskFlow · Get Started",
+  "fonts": {
+    "body": "inter",
+    "heading": "inter",
+    "loaded_count": 0,
+    "loaded_sample": []
+  },
+  "color": {
+    "accent_hues": [
+      243,
+      220,
+      243,
+      220,
+      243,
+      220
+    ],
+    "accent_sampled": 6,
+    "purple_accents": 3,
+    "any_gradients": 2,
+    "blue_purple_gradients": 2
+  },
+  "radii": [
+    [
+      8,
+      6
+    ]
+  ],
+  "shadows": {
+    "diffuse": 3
+  },
+  "paddings": [
+    [
+      "96px",
+      4
+    ],
+    [
+      "12px",
+      3
+    ],
+    [
+      "24px",
+      3
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      18
+    ],
+    [
+      48,
+      6
+    ],
+    [
+      20,
+      5
+    ],
+    [
+      18,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 3,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": false,
+    "hairline_rule": false,
+    "sheets_read": 1,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 5,
+    "centered_fraction": 1
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Build the future of work",
+    "buttons": [
+      "Get Started",
+      "Learn More",
+      "Get Started"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,318 @@
+{
+  "url": "https://posthog.com",
+  "name": "posthog.com",
+  "title": "PostHog – We make dev tools for product engineers",
+  "fonts": {
+    "body": "ibm plex sans variable",
+    "heading": "ibm plex sans variable",
+    "loaded_count": 8,
+    "loaded_sample": [
+      "source code pro",
+      "ibm plex sans variable",
+      "fairytale",
+      "computer modern",
+      "squeak",
+      "open runde",
+      "charter",
+      "swiper-icons"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      38,
+      75,
+      38,
+      75,
+      75,
+      77,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      70,
+      75,
+      75,
+      75,
+      70,
+      75,
+      75,
+      75,
+      75,
+      75,
+      38,
+      75,
+      38,
+      38,
+      38,
+      36,
+      38,
+      75,
+      216,
+      221,
+      221,
+      221,
+      221,
+      36,
+      38,
+      36,
+      38,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      221,
+      217,
+      217,
+      38,
+      38,
+      19,
+      19
+    ],
+    "accent_sampled": 96,
+    "purple_accents": 0,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      4,
+      48
+    ],
+    [
+      6,
+      17
+    ],
+    [
+      2,
+      16
+    ],
+    [
+      9999,
+      11
+    ],
+    [
+      5,
+      2
+    ],
+    [
+      8,
+      2
+    ]
+  ],
+  "shadows": {
+    "other": 5
+  },
+  "paddings": [
+    [
+      "8px",
+      28
+    ],
+    [
+      "4px",
+      26
+    ],
+    [
+      "6px",
+      23
+    ],
+    [
+      "2px",
+      21
+    ],
+    [
+      "16px",
+      8
+    ],
+    [
+      "10px",
+      4
+    ],
+    [
+      "12px",
+      1
+    ],
+    [
+      "64px",
+      1
+    ],
+    [
+      "24px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      15,
+      571
+    ],
+    [
+      16,
+      216
+    ],
+    [
+      14,
+      194
+    ],
+    [
+      13,
+      101
+    ],
+    [
+      12,
+      16
+    ],
+    [
+      24,
+      16
+    ],
+    [
+      21,
+      15
+    ],
+    [
+      18,
+      4
+    ],
+    [
+      20,
+      2
+    ],
+    [
+      19,
+      1
+    ],
+    [
+      36,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 6,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 62,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "Product OS",
+      "Pricing",
+      "Docs",
+      "Community",
+      "Company",
+      "More",
+      "Get started – free",
+      "1",
+      "home.mdx",
+      "Product OS",
+      "Pricing",
+      "customers.mdx",
+      "demo.mov",
+      "Docs",
+      "Talk to a human",
+      "Ask a question",
+      "Sign up ↗",
+      "Switch to website mode",
+      "Why PostHog?",
+      "Changelog",
+      "Company handbook",
+      "Store",
+      "Work here",
+      "Trash",
+      "home.mdx",
+      "Zoom",
+      "Font",
+      "Get started - free",
+      "Get started - free",
+      "Install with AI",
+      "npx @posthog/wizard",
+      "Learn more",
+      "MCP",
+      "Watch a demo",
+      "Talk to a human",
+      "Understand product usage",
+      "One place for product data",
+      "Debug & fix issues",
+      "Test & roll out changes",
+      "has changed a lot",
+      "PostHog AI",
+      "Web Analytics",
+      "Product Analytics",
+      "Session Replay",
+      "Funnels",
+      "Heatmaps",
+      "Graphs & trends",
+      "Lifecycle",
+      "User Paths",
+      "Evals",
+      "Traces",
+      "Generations",
+      "Shuffle companies",
+      "Open customers.mdx",
+      "README: PostHog data stack.md",
+      "Product Analytics",
+      "Session Replay",
+      "Feature Flags",
+      "Managed warehouse",
+      "Explore pricing"
+    ]
+  },
+  "ok": true
+}

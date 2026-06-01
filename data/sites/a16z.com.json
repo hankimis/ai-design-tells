@@ -1,0 +1,109 @@
+{
+  "url": "https://a16z.com",
+  "name": "a16z.com",
+  "title": "Andreessen Horowitz | Software Is Eating the World",
+  "fonts": {
+    "body": "domaine-text",
+    "heading": "domaine-text",
+    "loaded_count": 8,
+    "loaded_sample": [
+      "termina",
+      "icomoon",
+      "orpheus-pro",
+      "domaine-text",
+      "domaine-sans-text",
+      "eb garamond",
+      "messina",
+      "messina condensed"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220
+    ],
+    "accent_sampled": 16,
+    "purple_accents": 0,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      9999,
+      6
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "8px",
+      3
+    ],
+    [
+      "96px",
+      1
+    ],
+    [
+      "44px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      68
+    ],
+    [
+      11,
+      19
+    ],
+    [
+      14,
+      1
+    ],
+    [
+      50,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 9,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 8,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "Subscribe for today’s big ideas",
+      "Terms of Use",
+      "Privacy Policy",
+      "Disclosures",
+      "Sitemap"
+    ]
+  },
+  "ok": true
+}

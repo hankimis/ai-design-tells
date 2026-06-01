@@ -1,0 +1,333 @@
+{
+  "url": "https://www.raycast.com",
+  "name": "www.raycast.com",
+  "title": "Raycast - Your shortcut to everything",
+  "fonts": {
+    "body": "inter",
+    "heading": "inter",
+    "loaded_count": 5,
+    "loaded_sample": [
+      "inter",
+      "inter fallback",
+      "jetbrains mono",
+      "jetbrains mono fallback",
+      "geistmono"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      350
+    ],
+    "accent_sampled": 1,
+    "purple_accents": 0,
+    "any_gradients": 235,
+    "blue_purple_gradients": 3
+  },
+  "radii": [
+    [
+      11,
+      159
+    ],
+    [
+      8,
+      109
+    ],
+    [
+      6,
+      63
+    ],
+    [
+      12,
+      55
+    ],
+    [
+      20,
+      35
+    ],
+    [
+      16,
+      29
+    ],
+    [
+      99999,
+      24
+    ],
+    [
+      4,
+      15
+    ],
+    [
+      100,
+      13
+    ],
+    [
+      9,
+      12
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      2.5,
+      5
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      86,
+      2
+    ],
+    [
+      19,
+      1
+    ],
+    [
+      22,
+      1
+    ],
+    [
+      31,
+      1
+    ],
+    [
+      36,
+      1
+    ],
+    [
+      43,
+      1
+    ],
+    [
+      1000,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 274,
+    "diffuse": 48
+  },
+  "paddings": [
+    [
+      "14.5px",
+      159
+    ],
+    [
+      "24px",
+      54
+    ],
+    [
+      "8px",
+      37
+    ],
+    [
+      "16px",
+      20
+    ],
+    [
+      "12px",
+      18
+    ],
+    [
+      "4px",
+      7
+    ],
+    [
+      "224px",
+      7
+    ],
+    [
+      "2.5px",
+      6
+    ],
+    [
+      "50px",
+      6
+    ],
+    [
+      "1px",
+      4
+    ],
+    [
+      "32px",
+      4
+    ],
+    [
+      "40px",
+      3
+    ],
+    [
+      "48px",
+      3
+    ],
+    [
+      "10px",
+      3
+    ],
+    [
+      "20px",
+      3
+    ],
+    [
+      "96px",
+      3
+    ],
+    [
+      "2px",
+      2
+    ],
+    [
+      "370px",
+      1
+    ],
+    [
+      "34px",
+      1
+    ],
+    [
+      "200px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      1153
+    ],
+    [
+      24,
+      366
+    ],
+    [
+      13,
+      307
+    ],
+    [
+      14,
+      231
+    ],
+    [
+      32,
+      220
+    ],
+    [
+      12,
+      32
+    ],
+    [
+      18,
+      28
+    ],
+    [
+      20,
+      20
+    ],
+    [
+      11,
+      9
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      22,
+      2
+    ],
+    [
+      56,
+      1
+    ],
+    [
+      64,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 1,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 16,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 103,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Your shortcut to everything.",
+    "buttons": [
+      "Store",
+      "Pro",
+      "AI",
+      "iOS",
+      "Windows",
+      "Teams",
+      "Developers",
+      "Blog",
+      "Pricing",
+      "Log in",
+      "Download",
+      "Download for Mac",
+      "Download for Windows (beta)",
+      "Install via homebrew",
+      "Try the new RaycastLearn more",
+      "Download",
+      "Productivity",
+      "Engineering",
+      "Design",
+      "Writing",
+      "Plus thousands more...Browse the store",
+      "Browse thousands more",
+      "More about AI",
+      "Send",
+      "It can take notes.",
+      "Track your flights.",
+      "Convert anything.",
+      "Search files.",
+      "Run scripts.",
+      "Manage your windows.",
+      "Plan your day.",
+      "Remind you of stuff.",
+      "Translate into any language.",
+      "Block distractions.",
+      "Find text in screenshots.",
+      "Insert Emojis.",
+      "And much, much more.",
+      "Learn more",
+      "Get started",
+      "Download for Mac",
+      "Download for Windows (beta)",
+      "Install via homebrew",
+      "Store",
+      "Pro",
+      "Teams",
+      "Pricing",
+      "Changelog",
+      "Browser Extension",
+      "Developers",
+      "iOS",
+      "Windows",
+      "Raycast 2.0",
+      "API Docs",
+      "Manual",
+      "Troubleshooting",
+      "Raycast vs Alfred",
+      "FAQ",
+      "Raycast AI",
+      "Raycast Notes",
+      "Raycast Focus"
+    ]
+  },
+  "ok": true
+}

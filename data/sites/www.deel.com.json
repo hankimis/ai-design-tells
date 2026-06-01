@@ -1,0 +1,101 @@
+{
+  "url": "https://www.deel.com",
+  "name": "www.deel.com",
+  "title": "Deel | Global Payroll, Compliance, HR Solutions | HRIS",
+  "fonts": {
+    "body": "inter",
+    "heading": "bagosscondensedfont",
+    "loaded_count": 11,
+    "loaded_sample": [
+      "bagoss condensed",
+      "inter",
+      "inter fallback",
+      "bagosscondensedfont",
+      "bagosscondensedfont fallback",
+      "bagossstandardfont",
+      "bagossstandardfont fallback",
+      "bagossextendedfont",
+      "bagossextendedfont fallback",
+      "bagossstandardvf",
+      "bagossstandardvf fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      240,
+      240
+    ],
+    "accent_sampled": 2,
+    "purple_accents": 2,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      8,
+      1
+    ],
+    [
+      200,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 1
+  },
+  "paddings": [
+    [
+      "24px",
+      1
+    ],
+    [
+      "5.25px",
+      1
+    ],
+    [
+      "6px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      14,
+      39
+    ],
+    [
+      16,
+      4
+    ],
+    [
+      15,
+      2
+    ],
+    [
+      28,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 5,
+    "neg_tracked": 5
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 9,
+    "sheets_blocked": 4
+  },
+  "layout": {
+    "blocks": 6,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Hire, manage, pay, & equip anyone, anywhere.",
+    "buttons": [
+      "___",
+      "Show details"
+    ]
+  },
+  "ok": true
+}

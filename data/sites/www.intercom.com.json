@@ -1,0 +1,221 @@
+{
+  "url": "https://www.intercom.com",
+  "name": "www.intercom.com",
+  "title": "Intercom | The only helpdesk designed for the AI Agent era",
+  "fonts": {
+    "body": "ui-sans-serif",
+    "heading": "saans",
+    "loaded_count": 27,
+    "loaded_sample": [
+      "mediumll",
+      "mediumll fallback",
+      "ivoryll",
+      "ivoryll fallback",
+      "dmmono",
+      "dmmono fallback",
+      "maxi",
+      "maxi fallback",
+      "ozik",
+      "ozik fallback",
+      "planar",
+      "planar fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      45
+    ],
+    "accent_sampled": 1,
+    "purple_accents": 0,
+    "any_gradients": 69,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      4,
+      10
+    ],
+    [
+      6,
+      9
+    ],
+    [
+      50,
+      3
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "24px",
+      10
+    ],
+    [
+      "16px",
+      5
+    ],
+    [
+      "64px",
+      5
+    ],
+    [
+      "8px",
+      4
+    ],
+    [
+      "12px",
+      4
+    ],
+    [
+      "32px",
+      4
+    ],
+    [
+      "48px",
+      3
+    ],
+    [
+      "112px",
+      3
+    ],
+    [
+      "80px",
+      2
+    ],
+    [
+      "146.328px",
+      1
+    ],
+    [
+      "216px",
+      1
+    ],
+    [
+      "20px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      714
+    ],
+    [
+      14,
+      208
+    ],
+    [
+      12,
+      15
+    ],
+    [
+      20,
+      13
+    ],
+    [
+      54,
+      10
+    ],
+    [
+      28,
+      9
+    ],
+    [
+      24,
+      8
+    ],
+    [
+      40,
+      8
+    ],
+    [
+      26,
+      6
+    ],
+    [
+      80,
+      2
+    ]
+  ],
+  "heading": {
+    "big_count": 6,
+    "neg_tracked": 6
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 21,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 128,
+    "centered_fraction": 0.015625
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "The only helpdesk designed for the AI Agent era",
+    "buttons": [
+      "Product",
+      "Customers",
+      "Resources",
+      "Pricing",
+      "Log in",
+      "Contact sales",
+      "View demo",
+      "Start free trial",
+      "Fin AI Agent",
+      "Fin",
+      "Start free trial",
+      "View demo",
+      "Start free trial",
+      "View demo",
+      "Fin",
+      "Fin",
+      "Learn more",
+      "Fin",
+      "Anthropic",
+      "Clay",
+      "Lightspeed",
+      "Rocket Money",
+      "Gamma",
+      "more",
+      "Learn more",
+      "Start free trial",
+      "View demo",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Fin",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Fin",
+      "Per Outcome",
+      "Learn more",
+      "Start free trial",
+      "View demo",
+      "Intercom 2",
+      "Inbox",
+      "Copilot",
+      "Tickets",
+      "Omnichannel",
+      "Help Center",
+      "Apps & Integrations",
+      "Reporting",
+      "Knowledge Hub",
+      "Outbound",
+      "Fin overview",
+      "Capabilities",
+      "AI Engine",
+      "Intercom pricing"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,319 @@
+{
+  "url": "https://linear.app",
+  "name": "linear.app",
+  "title": "Linear – The system for product development",
+  "fonts": {
+    "body": "inter variable",
+    "heading": "inter variable",
+    "loaded_count": 2,
+    "loaded_sample": [
+      "inter variable",
+      "berkeley mono"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      234,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      64
+    ],
+    "accent_sampled": 26,
+    "purple_accents": 0,
+    "any_gradients": 14,
+    "blue_purple_gradients": 1
+  },
+  "radii": [
+    [
+      2,
+      46
+    ],
+    [
+      6,
+      42
+    ],
+    [
+      50,
+      38
+    ],
+    [
+      4,
+      29
+    ],
+    [
+      12,
+      23
+    ],
+    [
+      9999,
+      16
+    ],
+    [
+      8,
+      12
+    ],
+    [
+      22,
+      5
+    ],
+    [
+      16,
+      3
+    ],
+    [
+      7,
+      2
+    ],
+    [
+      20,
+      2
+    ],
+    [
+      400,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 64,
+    "diffuse": 8
+  },
+  "paddings": [
+    [
+      "8px",
+      23
+    ],
+    [
+      "12px",
+      12
+    ],
+    [
+      "24px",
+      6
+    ],
+    [
+      "96px",
+      5
+    ],
+    [
+      "1px",
+      3
+    ],
+    [
+      "28px",
+      2
+    ],
+    [
+      "16px",
+      2
+    ],
+    [
+      "22px",
+      2
+    ],
+    [
+      "32px",
+      2
+    ],
+    [
+      "20px",
+      2
+    ],
+    [
+      "72px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "1.225px",
+      1
+    ],
+    [
+      "14px",
+      1
+    ],
+    [
+      "17px",
+      1
+    ],
+    [
+      "26px",
+      1
+    ],
+    [
+      "10px",
+      1
+    ],
+    [
+      "56px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      1239
+    ],
+    [
+      13,
+      397
+    ],
+    [
+      14,
+      272
+    ],
+    [
+      12,
+      164
+    ],
+    [
+      15,
+      92
+    ],
+    [
+      10,
+      60
+    ],
+    [
+      18,
+      16
+    ],
+    [
+      48,
+      8
+    ],
+    [
+      24,
+      5
+    ],
+    [
+      64,
+      4
+    ],
+    [
+      11,
+      3
+    ],
+    [
+      32,
+      2
+    ],
+    [
+      17,
+      1
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      72,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 9,
+    "neg_tracked": 9
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 2,
+    "sheets_blocked": 18
+  },
+  "layout": {
+    "blocks": 78,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "The product development system for teams and agentsThe product developmentsystem for teams and agentsThe product development system for teams and agents",
+    "buttons": [
+      "Skip to content →",
+      "Product",
+      "Resources",
+      "Customers",
+      "Pricing",
+      "Now",
+      "Contact",
+      "Log in",
+      "Sign up",
+      "Issue tracking is deadlinear.app/next →",
+      "Linear",
+      "Inbox",
+      "My issues",
+      "Reviews",
+      "Pulse",
+      "Workspace",
+      "Initiatives",
+      "Projects",
+      "More",
+      "Favorites",
+      "Faster app launch",
+      "Agent tasks",
+      "UI Refresh",
+      "Agents Insights",
+      "Performance",
+      "iOS",
+      "1.0Intake→",
+      "1.1Linear Agent +",
+      "1.2Triage +",
+      "1.3Customer Requests +",
+      "1.4Linear Asks +",
+      "2.0Plan→",
+      "Core Product99",
+      "APAC Expansion21",
+      "2.1Projects +",
+      "2.2Documents +",
+      "2.3Initiatives +",
+      "2.4Visual planning +",
+      "3.0Build→",
+      "3.1Issues +",
+      "3.2Agents +",
+      "3.3Linear MCP +",
+      "3.4Git automations +",
+      "3.5Cycles +",
+      "4.0Diffs→",
+      "Linear",
+      "5.0Monitor→",
+      "Listen",
+      "1.0×",
+      "5.1Pulse +",
+      "5.2Insights +",
+      "5.3Dashboards +",
+      "View all→",
+      "Customer stories→",
+      "Get started",
+      "Contact sales",
+      "Intake",
+      "Plan",
+      "Build",
+      "Diffs"
+    ]
+  },
+  "ok": true
+}

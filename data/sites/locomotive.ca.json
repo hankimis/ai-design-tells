@@ -1,0 +1,156 @@
+{
+  "url": "https://locomotive.ca",
+  "name": "locomotive.ca",
+  "title": "Locomotive | Montreal web agency",
+  "fonts": {
+    "body": "helveticanowdisplay",
+    "heading": "locomotivenew",
+    "loaded_count": 3,
+    "loaded_sample": [
+      "helveticanowdisplay",
+      "locomotivenew",
+      "swiper-icons"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 2,
+    "blue_purple_gradients": 0
+  },
+  "radii": [],
+  "shadows": {},
+  "paddings": [
+    [
+      "7px",
+      16
+    ],
+    [
+      "20px",
+      6
+    ],
+    [
+      "10px",
+      3
+    ],
+    [
+      "16px",
+      2
+    ],
+    [
+      "6.56px",
+      2
+    ],
+    [
+      "150px",
+      1
+    ],
+    [
+      "6.4px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      26,
+      364
+    ],
+    [
+      15,
+      68
+    ],
+    [
+      70,
+      22
+    ],
+    [
+      110,
+      17
+    ],
+    [
+      16,
+      7
+    ],
+    [
+      13,
+      6
+    ],
+    [
+      14,
+      2
+    ],
+    [
+      28,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 2,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 2,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 35,
+    "centered_fraction": 0.17142857142857143
+  },
+  "emoji_headings": 1,
+  "copy": {
+    "h1": "🔶 Locomotive®  \n                        Digital-first Design Agency🍺🔞",
+    "buttons": [
+      "Locomotive®",
+      "Work",
+      "Agency",
+      "Careers",
+      "Store",
+      "Let's talk",
+      "The dynasty",
+      "Read more about this project",
+      "Read more about this project",
+      "Read more about this project",
+      "Read more about this project",
+      "Read more about this project",
+      "See all projects",
+      "Agency",
+      "Careers",
+      "(2024) Locomotive in Jamaica",
+      "(2023) Locomotive in Samaná",
+      "(2022) Locomotive in Playa del Carmen",
+      "(2019) Locomotive in Mexico",
+      "(2018) Locomotive in Jamaica",
+      "(2017) Locomotive in Samaná",
+      "Check out our gear",
+      "Buy now→",
+      "Buy now→",
+      "Work",
+      "Agency",
+      "Careers",
+      "Let's talk",
+      "Privacy",
+      "Français",
+      "Cookie preferences",
+      "Newsletter ↓",
+      "Instagram",
+      "Twitter",
+      "LinkedIn",
+      "Behance",
+      "GitHub",
+      "Store",
+      "Locomotive Scroll",
+      "Annual trips",
+      "Dynasty",
+      "Telephone +1 514 524 5678📞",
+      "info🔂@locomotive.ca",
+      "Let me choose",
+      "Accept All",
+      "Accept Necessary",
+      "privacy policy"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,124 @@
+{
+  "url": "https://remix.run",
+  "name": "remix.run",
+  "title": "Remix - A Web Framework for Building Anything",
+  "fonts": {
+    "body": "jetbrains mono",
+    "heading": "inter variable",
+    "loaded_count": 2,
+    "loaded_sample": [
+      "inter",
+      "jetbrains mono"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      210,
+      210,
+      210,
+      210,
+      210,
+      210
+    ],
+    "accent_sampled": 6,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      24,
+      7
+    ],
+    [
+      999,
+      3
+    ],
+    [
+      4,
+      1
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "24px",
+      7
+    ],
+    [
+      "120px",
+      5
+    ],
+    [
+      "10px",
+      3
+    ],
+    [
+      "324.036px",
+      1
+    ],
+    [
+      "5px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      13,
+      189
+    ],
+    [
+      16,
+      61
+    ],
+    [
+      12,
+      6
+    ],
+    [
+      56,
+      6
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      14,
+      1
+    ],
+    [
+      84,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 7,
+    "neg_tracked": 7
+  },
+  "focus": {
+    "focus_visible": false,
+    "hairline_rule": false,
+    "sheets_read": 3,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 16,
+    "centered_fraction": 0.0625
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "A web framework for building anything",
+    "buttons": [
+      "Watch the repo",
+      "Subscribe",
+      "licensed under MIT",
+      "Shopify, Inc."
+    ]
+  },
+  "ok": true
+}

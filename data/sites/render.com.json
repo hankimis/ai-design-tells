@@ -1,0 +1,243 @@
+{
+  "url": "https://render.com",
+  "name": "render.com",
+  "title": "Render | The cloud for builders",
+  "fonts": {
+    "body": "ui-sans-serif",
+    "heading": "roobert",
+    "loaded_count": 6,
+    "loaded_sample": [
+      "ppneuemontrealmono",
+      "ppneuemontrealmono fallback",
+      "ppneuemontreal",
+      "ppneuemontreal fallback",
+      "roobert",
+      "roobert fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      271,
+      271,
+      271,
+      271,
+      271
+    ],
+    "accent_sampled": 5,
+    "purple_accents": 5,
+    "any_gradients": 11,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      2,
+      1
+    ],
+    [
+      937,
+      1
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "5px",
+      26
+    ],
+    [
+      "90px",
+      12
+    ],
+    [
+      "20px",
+      12
+    ],
+    [
+      "36px",
+      10
+    ],
+    [
+      "23px",
+      7
+    ],
+    [
+      "16px",
+      5
+    ],
+    [
+      "10px",
+      4
+    ],
+    [
+      "8px",
+      2
+    ],
+    [
+      "24px",
+      2
+    ],
+    [
+      "120px",
+      2
+    ],
+    [
+      "72px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ],
+    [
+      "60px",
+      1
+    ],
+    [
+      "50px",
+      1
+    ],
+    [
+      "1px",
+      1
+    ],
+    [
+      "270px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      1607
+    ],
+    [
+      18,
+      54
+    ],
+    [
+      20,
+      27
+    ],
+    [
+      40,
+      17
+    ],
+    [
+      12,
+      15
+    ],
+    [
+      14,
+      12
+    ],
+    [
+      24,
+      9
+    ],
+    [
+      64,
+      6
+    ],
+    [
+      80,
+      5
+    ],
+    [
+      32,
+      3
+    ],
+    [
+      11,
+      2
+    ],
+    [
+      48,
+      1
+    ],
+    [
+      56,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 4,
+    "neg_tracked": 4
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 5,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 55,
+    "centered_fraction": 0.05454545454545454
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Your fastest path to production forany work<",
+    "buttons": [
+      "Get your ticket",
+      "Product",
+      "Platform Overview",
+      "Workflows",
+      "Autoscaling",
+      "Private Networking",
+      "Persistent Disks",
+      "Infrastructure as Code",
+      "Preview Environments",
+      "Zero Downtime Deploys",
+      "Render API",
+      "Static Sites",
+      "Web Services",
+      "Private Services",
+      "Background Workers",
+      "Cron Jobs",
+      "Render Postgres",
+      "Render Key Value",
+      "Developers",
+      "Framework Quickstarts",
+      "Templates",
+      "Blog",
+      "Changelog",
+      "Solutions",
+      "Render for Startups",
+      "HIPAA on Render",
+      "Heroku Migration Guide",
+      "Railway Migration Guide",
+      "Pricing",
+      "Company",
+      "About Us",
+      "Security",
+      "Careers",
+      "Press",
+      "Contact",
+      "Sign In",
+      "Get Started",
+      "Start for free",
+      "Get in touch",
+      "View Templates",
+      "Preview environment docs →",
+      "Autoscaling docs →",
+      "Workflow docs →",
+      "Postgres docs →",
+      "Observability docs →",
+      "Trust center",
+      "HIPAA on Render",
+      "Deploy your app for free",
+      "Render CLI",
+      "Render MCP",
+      "Autoscaling",
+      "Private Networking",
+      "Persistent Disks",
+      "Infrastructure As Code",
+      "Preview Environments",
+      "Zero Downtime Deploys",
+      "Docker support",
+      "REST API",
+      "Static Sites",
+      "Web Services"
+    ]
+  },
+  "ok": true
+}

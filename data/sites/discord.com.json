@@ -1,0 +1,201 @@
+{
+  "url": "https://discord.com",
+  "name": "discord.com",
+  "title": "Discord - Group Chat That’s All Fun & Games",
+  "fonts": {
+    "body": "ggsans",
+    "heading": "abcgintodiscordnord",
+    "loaded_count": 27,
+    "loaded_sample": [
+      "webflow-icons",
+      "gg sans",
+      "ggsans",
+      "abcgintonord 800",
+      "abcgintodiscord",
+      "abcgintodiscordnord",
+      "abcgintonormal-bold",
+      "abcgintodiscordnord-italic",
+      "abc ginto normal",
+      "ggsansmono",
+      "abc ginto nord",
+      "abc ginto nord discord"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      144,
+      235
+    ],
+    "accent_sampled": 2,
+    "purple_accents": 0,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      12,
+      13
+    ],
+    [
+      16,
+      10
+    ],
+    [
+      104,
+      6
+    ],
+    [
+      120,
+      6
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "10px",
+      10
+    ],
+    [
+      "28px",
+      6
+    ],
+    [
+      "95px",
+      2
+    ],
+    [
+      "13.008px",
+      1
+    ],
+    [
+      "144px",
+      1
+    ],
+    [
+      "15px",
+      1
+    ],
+    [
+      "19.5px",
+      1
+    ],
+    [
+      "141px",
+      1
+    ],
+    [
+      "190px",
+      1
+    ],
+    [
+      "136px",
+      1
+    ],
+    [
+      "151px",
+      1
+    ],
+    [
+      "12px",
+      1
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "17.5px",
+      1
+    ],
+    [
+      "76px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      339
+    ],
+    [
+      61,
+      16
+    ],
+    [
+      20,
+      14
+    ],
+    [
+      36,
+      6
+    ],
+    [
+      48,
+      2
+    ],
+    [
+      56,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 8,
+    "neg_tracked": 8
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 22,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 78,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Group chat that’s all fun & games",
+    "buttons": [
+      "Skip to main content",
+      "Download1 of 9",
+      "Nitro2 of 9",
+      "Discover3 of 9",
+      "Safety 4 of 9",
+      "Quests 5 of 9",
+      "Support 6 of 9",
+      "Blog 7 of 9",
+      "Developers 8 of 9",
+      "Careers9 of 9",
+      "Log In",
+      "Download for Mac",
+      "Open Discord in your browser",
+      "Download for Mac",
+      "English",
+      "Download",
+      "Nitro",
+      "Status",
+      "App Directory",
+      "About",
+      "Jobs",
+      "Brand",
+      "Newsroom",
+      "Support",
+      "Safety",
+      "Blog",
+      "Creators",
+      "Community",
+      "Developers",
+      "Quests",
+      "Official 3rd Party Merch",
+      "Feedback",
+      "Terms",
+      "Privacy",
+      "Cookie Settings",
+      "Guidelines",
+      "Acknowledgements",
+      "Licenses",
+      "Company Information"
+    ]
+  },
+  "ok": true
+}

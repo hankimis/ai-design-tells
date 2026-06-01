@@ -1,0 +1,227 @@
+{
+  "url": "https://www.warp.dev",
+  "name": "www.warp.dev",
+  "title": "Warp — The Agentic Development Environment",
+  "fonts": {
+    "body": "inter",
+    "heading": "matter",
+    "loaded_count": 9,
+    "loaded_sample": [
+      "inter",
+      "inter fallback",
+      "dm mono",
+      "dm mono fallback",
+      "instrument serif",
+      "instrument serif fallback",
+      "abel",
+      "abel fallback",
+      "matter"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      3,
+      35
+    ],
+    [
+      33554400,
+      19
+    ],
+    [
+      4,
+      15
+    ],
+    [
+      2,
+      8
+    ],
+    [
+      16,
+      5
+    ]
+  ],
+  "shadows": {
+    "other": 12,
+    "diffuse": 7
+  },
+  "paddings": [
+    [
+      "4px",
+      35
+    ],
+    [
+      "64px",
+      5
+    ],
+    [
+      "16px",
+      5
+    ],
+    [
+      "24px",
+      5
+    ],
+    [
+      "14px",
+      5
+    ],
+    [
+      "8px",
+      4
+    ],
+    [
+      "12px",
+      3
+    ],
+    [
+      "10px",
+      1
+    ],
+    [
+      "112px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      306
+    ],
+    [
+      14,
+      158
+    ],
+    [
+      12,
+      30
+    ],
+    [
+      10,
+      15
+    ],
+    [
+      18,
+      11
+    ],
+    [
+      72,
+      6
+    ],
+    [
+      45,
+      5
+    ],
+    [
+      36,
+      4
+    ],
+    [
+      24,
+      3
+    ],
+    [
+      11,
+      1
+    ],
+    [
+      64,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 6,
+    "neg_tracked": 6
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 4,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 73,
+    "centered_fraction": 0.0547945205479452
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Ship better software with any agent",
+    "buttons": [
+      "Learn More",
+      "Products",
+      "Solutions",
+      "Resources",
+      "Enterprise",
+      "Pricing",
+      "61k",
+      "Contact sales",
+      "DownloadD",
+      "Download",
+      "Contact Sales",
+      "Since 2023",
+      "Since 2023",
+      "Since 2023",
+      "Livestream",
+      "Livestream",
+      "Case Study",
+      "Launch Partner",
+      "Course Partner",
+      "Warp Terminal",
+      "Oz Agent Platform",
+      "Warp Agent",
+      "Scale Across Your Team",
+      "Learn More",
+      "Explore Oz",
+      "Meet Warp Agent",
+      "Explore Enterprise",
+      "Read more",
+      "Download",
+      "Contact Sales",
+      "Warp Preview",
+      "macOSVersion 10.14+",
+      ".debDebian, Ubuntu",
+      ".rpmRed Hat, Fedora, SUSE",
+      "x64",
+      "ARM64",
+      "x64",
+      "ARM64",
+      "x64",
+      "ARM64",
+      "x64",
+      "ARM64",
+      ".exeWindows 11/10 x64",
+      ".exeWindows 11/10 ARM64",
+      "x64",
+      "ARM64",
+      "Download",
+      "Pricing",
+      "Enterprise",
+      "Changelog",
+      "Docs",
+      "Open Source",
+      "Status",
+      "Blog",
+      "FAQ",
+      "Community",
+      "Support",
+      "Do Things with Warp",
+      "Terminus",
+      "About"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,240 @@
+{
+  "url": "https://www.awwwards.com",
+  "name": "www.awwwards.com",
+  "title": "Awwwards - Website Awards - Best Web Design Trends",
+  "fonts": {
+    "body": "inter tight",
+    "heading": "inter tight",
+    "loaded_count": 1,
+    "loaded_sample": [
+      "inter tight"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 26,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      8,
+      42
+    ],
+    [
+      50,
+      34
+    ],
+    [
+      14,
+      22
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      12,
+      1
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "28.8px",
+      20
+    ],
+    [
+      "30px",
+      12
+    ],
+    [
+      "24px",
+      10
+    ],
+    [
+      "32px",
+      7
+    ],
+    [
+      "20px",
+      6
+    ],
+    [
+      "28px",
+      5
+    ],
+    [
+      "2px",
+      3
+    ],
+    [
+      "43.2px",
+      3
+    ],
+    [
+      "57.6px",
+      2
+    ],
+    [
+      "71px",
+      1
+    ],
+    [
+      "6px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      14,
+      420
+    ],
+    [
+      15,
+      173
+    ],
+    [
+      21,
+      70
+    ],
+    [
+      18,
+      68
+    ],
+    [
+      16,
+      44
+    ],
+    [
+      13,
+      32
+    ],
+    [
+      19,
+      31
+    ],
+    [
+      24,
+      16
+    ],
+    [
+      42,
+      11
+    ],
+    [
+      11,
+      10
+    ],
+    [
+      12,
+      9
+    ],
+    [
+      7,
+      7
+    ],
+    [
+      127,
+      7
+    ],
+    [
+      22,
+      6
+    ],
+    [
+      9,
+      4
+    ],
+    [
+      32,
+      4
+    ],
+    [
+      10,
+      3
+    ]
+  ],
+  "heading": {
+    "big_count": 2,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 6,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 55,
+    "centered_fraction": 0.10909090909090909
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "Directory",
+      "Academy\n\t\t\t\t\t\t\t\t\tNew",
+      "Jobs",
+      "Market",
+      "Be Pro",
+      "Submit Website",
+      "Rogier de Boevé",
+      "Thomas Aufresne",
+      "arpeegee",
+      "NRG | Build Your Data Center",
+      "Hildén & Kaira",
+      "View Nominees",
+      "Vaulk",
+      "ZettaJoule",
+      "Sowieso Wero",
+      "Cdiscount - Jumping Max",
+      "AIR",
+      "Razorpay Sprint 26",
+      "Razorpay Design",
+      "View Winners",
+      "Learn UI Design with Figma from Scratch",
+      "View Academy",
+      "Trippy Sites",
+      "CSS Animations",
+      "View Collections",
+      "UPQODE",
+      "upqode.com",
+      "FIFTYSEVEN",
+      "fiftyseven.co",
+      "View",
+      "View",
+      "View",
+      "View",
+      "View Directory",
+      "Trendy Gradients in Web Design",
+      "View Blog",
+      "View Product",
+      "TD_Axis",
+      "View Product",
+      "View Product",
+      "View Market",
+      "Submit Website",
+      "FAQs",
+      "Be Pro",
+      "FAQs",
+      "Nominees",
+      "Courses",
+      "Collections",
+      "Directory",
+      "Market",
+      "Visit Sotd.",
+      "Websites",
+      "Collections",
+      "Elements",
+      "Academy",
+      "Jobs",
+      "Market",
+      "Directory",
+      "Conferences",
+      "FAQs"
+    ]
+  },
+  "ok": true
+}

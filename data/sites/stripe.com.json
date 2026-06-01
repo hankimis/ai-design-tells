@@ -1,0 +1,480 @@
+{
+  "url": "https://stripe.com",
+  "name": "stripe.com",
+  "title": "Stripe | Financial Infrastructure to Grow Your Revenue",
+  "fonts": {
+    "body": "sohne-var",
+    "heading": "sohne-var",
+    "loaded_count": 2,
+    "loaded_sample": [
+      "sohne-var",
+      "sourcecodepro"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      248,
+      248,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      248,
+      248,
+      248,
+      248,
+      240,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      218,
+      218,
+      248,
+      248,
+      235,
+      236,
+      248,
+      236,
+      236,
+      248,
+      236,
+      236,
+      248,
+      236,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      237,
+      240,
+      240,
+      240,
+      240,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      247,
+      231,
+      231,
+      231,
+      231,
+      231,
+      231,
+      237,
+      237,
+      248,
+      240,
+      248,
+      240,
+      248,
+      240,
+      248,
+      240,
+      248,
+      240,
+      248,
+      240,
+      248,
+      240,
+      248,
+      240,
+      240,
+      210,
+      240,
+      210,
+      248,
+      248,
+      240,
+      248,
+      248,
+      248,
+      248,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216
+    ],
+    "accent_sampled": 179,
+    "purple_accents": 123,
+    "any_gradients": 22,
+    "blue_purple_gradients": 15
+  },
+  "radii": [
+    [
+      4,
+      56
+    ],
+    [
+      6,
+      37
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      8,
+      6
+    ],
+    [
+      100,
+      3
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      16,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 6,
+    "other": 1
+  },
+  "paddings": [
+    [
+      "6px",
+      14
+    ],
+    [
+      "14.5px",
+      11
+    ],
+    [
+      "11px",
+      9
+    ],
+    [
+      "15.5px",
+      8
+    ],
+    [
+      "2px",
+      8
+    ],
+    [
+      "32px",
+      6
+    ],
+    [
+      "12px",
+      5
+    ],
+    [
+      "96px",
+      5
+    ],
+    [
+      "10px",
+      4
+    ],
+    [
+      "4px",
+      4
+    ],
+    [
+      "40px",
+      4
+    ],
+    [
+      "64px",
+      4
+    ],
+    [
+      "8px",
+      3
+    ],
+    [
+      "9px",
+      3
+    ],
+    [
+      "24px",
+      3
+    ],
+    [
+      "80px",
+      3
+    ],
+    [
+      "5.5px",
+      3
+    ],
+    [
+      "36px",
+      2
+    ],
+    [
+      "14px",
+      2
+    ],
+    [
+      "10.5px",
+      1
+    ],
+    [
+      "1px",
+      1
+    ],
+    [
+      "52px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "18px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      1420
+    ],
+    [
+      10,
+      107
+    ],
+    [
+      14,
+      61
+    ],
+    [
+      26,
+      32
+    ],
+    [
+      9,
+      29
+    ],
+    [
+      22,
+      20
+    ],
+    [
+      8,
+      18
+    ],
+    [
+      48,
+      17
+    ],
+    [
+      12,
+      11
+    ],
+    [
+      18,
+      11
+    ],
+    [
+      32,
+      11
+    ],
+    [
+      11,
+      5
+    ],
+    [
+      15,
+      1
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      56,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 7,
+    "neg_tracked": 7
+  },
+  "focus": {
+    "focus_visible": false,
+    "hairline_rule": false,
+    "sheets_read": 0,
+    "sheets_blocked": 9
+  },
+  "layout": {
+    "blocks": 119,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Financial infrastructure to grow your revenue. Accept payments, offer financial services, and implement custom revenue models—from your first transaction to your billionth.",
+    "buttons": [
+      "Products",
+      "Solutions",
+      "Developers",
+      "Resources",
+      "Pricing",
+      "Sign inSign in",
+      "Contact sales",
+      "Get started",
+      "Sign up with Google",
+      "Monetize through agentic commerce",
+      "Create a card issuing program",
+      "Embed payments in your platform",
+      "Watch now",
+      "135+",
+      "$1.9T",
+      "99.999%",
+      "historical uptime",
+      "200M+",
+      "Stripe for enterprises",
+      "Hertz unifies commerce with Stripe.",
+      "Read the story",
+      "Read the story",
+      "Read the story",
+      "Read the story",
+      "View services",
+      "View partners",
+      "View plans",
+      "Stripe for startups",
+      "Stripe for platforms",
+      "Read the guide",
+      "Read the guide",
+      "Read the guide",
+      "Read the story",
+      "Read the story",
+      "Read the story",
+      "Read the story",
+      "View developer docs",
+      "View Stripe’s GitHub",
+      "Explore no-code",
+      "See directory",
+      "Get started",
+      "Read the letter",
+      "See the numbers",
+      "Get the data",
+      "Watch video",
+      "Learn how",
+      "View announcement",
+      "Read more",
+      "Get the report",
+      "Stripe Press",
+      "Works in Progress",
+      "Start now",
+      "Contact sales",
+      "Pricing details",
+      "Integration options",
+      "Pricing",
+      "Atlas",
+      "Authorization Boost",
+      "Billing",
+      "Capital"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,169 @@
+{
+  "url": "https://pentagram.com",
+  "name": "pentagram.com",
+  "title": "Pentagram — The world’s largest independent design consultancy",
+  "fonts": {
+    "body": "plain",
+    "heading": "plain",
+    "loaded_count": 2,
+    "loaded_sample": [
+      "plain",
+      "swiper-icons"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      4,
+      147
+    ],
+    [
+      9999,
+      12
+    ],
+    [
+      8,
+      6
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "8px",
+      147
+    ],
+    [
+      "4px",
+      89
+    ],
+    [
+      "24px",
+      20
+    ],
+    [
+      "48px",
+      11
+    ],
+    [
+      "7px",
+      7
+    ],
+    [
+      "6px",
+      4
+    ]
+  ],
+  "font_sizes": [
+    [
+      19,
+      934
+    ],
+    [
+      16,
+      408
+    ],
+    [
+      13,
+      278
+    ],
+    [
+      32,
+      14
+    ],
+    [
+      52,
+      7
+    ],
+    [
+      27,
+      2
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 1,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 147,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Pentagram",
+    "buttons": [
+      "Pentagram",
+      "Work",
+      "About",
+      "News",
+      "Contact",
+      "Archive",
+      "Technology",
+      "Health",
+      "Arts & Culture",
+      "Non-profits",
+      "Health",
+      "Technology",
+      "Arts & Culture",
+      "Arts & Culture",
+      "Arts & Culture",
+      "Civic & Public",
+      "Entertainment",
+      "Arts & Culture",
+      "Industrial/Product Design",
+      "Technology",
+      "Fashion & Beauty",
+      "Arts & Culture",
+      "Transport",
+      "Consumer Brands",
+      "Technology",
+      "Consumer Brands",
+      "Technology",
+      "Fashion & Beauty",
+      "Education",
+      "Manufacturing & Industrials",
+      "Education",
+      "Manufacturing & Industrials",
+      "Food & Drink",
+      "Season 50",
+      "The Art of the SNL Portrait",
+      "Season 48",
+      "Season 46",
+      "Season 44",
+      "Season 40",
+      "Saturday Night Live: The Book",
+      "Season 38",
+      "Show more",
+      "Civic & Public",
+      "Climate & Sustainability",
+      "Arts & Culture",
+      "Non-profits",
+      "Civic & Public",
+      "Manufacturing & Industrials",
+      "Entertainment",
+      "Arts & Culture",
+      "Arts & Culture",
+      "Data Driven Experiences",
+      "Non-profits",
+      "Publishing",
+      "Arts & Culture",
+      "Civic & Public",
+      "Transport",
+      "Non-profits",
+      "Technology",
+      "Climate & Sustainability"
+    ]
+  },
+  "ok": true
+}

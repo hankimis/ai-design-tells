@@ -97,13 +97,16 @@ def _hue_is_purple(h):
 # --------------------------------------------------------------------------
 
 def _a1(doc):
-    hits = [c for c in doc.colors if c.normalized in PURPLE_HEXES or _hue_is_purple(c.hue)]
+    # Calibrated on 202 real sites: a *brand* purple (e.g. Stripe #635bff) is common
+    # in good design and is NOT a tell. Only the exact AI-default ramp (Tailwind/
+    # shadcn indigo-violet hexes) or the named utility classes discriminate.
+    hits = [c for c in doc.colors if c.normalized in PURPLE_HEXES]
     cls = doc.find_classes(PURPLE_NAME_RE)
     ev = []
     if hits:
-        ev.append(f"{len(hits)} purple-family color value(s), e.g. {hits[0].raw}")
+        ev.append(f"{len(hits)} exact default-indigo value(s), e.g. {hits[0].raw}")
     if cls:
-        ev.append(f"purple utility class(es): {', '.join(sorted(set(cls))[:4])}")
+        ev.append(f"default purple utility class(es): {', '.join(sorted(set(cls))[:4])}")
     fired = bool(hits or cls)
     return fired, ev
 
@@ -142,10 +145,13 @@ def _b2(doc):
     n = len(sizes)
     if n == 0:
         return False, []
-    if n > 9:
-        return True, [f"{n} distinct font sizes (no modular scale; >9)"]
+    # Calibrated on 202 real sites: the human median is 10 distinct sizes and p90 is
+    # 15, so a high count is NORMAL, not "no scale". Only the degenerate low end (a
+    # multi-section page with 1-2 sizes = no hierarchy) is a real tell.
     if n <= 2 and doc.has_multiple_sections():
         return True, [f"only {n} distinct font size(s) across a multi-section page (no hierarchy)"]
+    if n > 18:
+        return True, [f"{n} distinct font sizes (beyond any real type scale)"]
     return False, []
 
 

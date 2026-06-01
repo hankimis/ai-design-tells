@@ -1,0 +1,234 @@
+{
+  "url": "https://lusion.co",
+  "name": "lusion.co",
+  "title": "Lusion - Award Winning 3D and Interactive Web Studio",
+  "fonts": {
+    "body": "aeonik",
+    "heading": "aeonik",
+    "loaded_count": 3,
+    "loaded_sample": [
+      "aeonik",
+      "ibmplexmono",
+      "lusionmono"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      228,
+      229
+    ],
+    "accent_sampled": 2,
+    "purple_accents": 0,
+    "any_gradients": 1,
+    "blue_purple_gradients": 1
+  },
+  "radii": [
+    [
+      100,
+      13
+    ],
+    [
+      15,
+      10
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      324,
+      2
+    ],
+    [
+      87.5,
+      2
+    ],
+    [
+      76.5,
+      2
+    ],
+    [
+      18,
+      1
+    ],
+    [
+      16.2,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 3
+  },
+  "paddings": [
+    [
+      "50px",
+      8
+    ],
+    [
+      "16px",
+      5
+    ],
+    [
+      "411.828px",
+      5
+    ],
+    [
+      "411.844px",
+      5
+    ],
+    [
+      "14.4px",
+      3
+    ],
+    [
+      "30px",
+      1
+    ],
+    [
+      "25px",
+      1
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "326.688px",
+      1
+    ],
+    [
+      "1px",
+      1
+    ],
+    [
+      "57.6px",
+      1
+    ],
+    [
+      "478.188px",
+      1
+    ],
+    [
+      "870.547px",
+      1
+    ],
+    [
+      "11.25px",
+      1
+    ],
+    [
+      "50.4px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      43,
+      691
+    ],
+    [
+      14,
+      156
+    ],
+    [
+      16,
+      104
+    ],
+    [
+      144,
+      68
+    ],
+    [
+      18,
+      26
+    ],
+    [
+      86,
+      14
+    ],
+    [
+      115,
+      13
+    ],
+    [
+      13,
+      11
+    ],
+    [
+      26,
+      11
+    ],
+    [
+      20,
+      7
+    ],
+    [
+      22,
+      5
+    ],
+    [
+      38,
+      4
+    ],
+    [
+      12,
+      3
+    ],
+    [
+      49,
+      3
+    ],
+    [
+      36,
+      1
+    ],
+    [
+      50,
+      1
+    ],
+    [
+      108,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 1,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 1,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 40,
+    "centered_fraction": 0.125
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "We create 3D visual storytelling and interactive web experiences that help brands stand out",
+    "buttons": [
+      "Let's talk",
+      "Menu Close",
+      "Home Home",
+      "About us About us",
+      "Projects Projects",
+      "Contact Contact",
+      "Labs Labs",
+      "Our Approach",
+      "See all projects",
+      "Twitter / X",
+      "Instagram",
+      "Linkedin",
+      "hello@lusion.co",
+      "business@lusion.co",
+      "R&D: labs.lusion.co"
+    ]
+  },
+  "ok": true
+}

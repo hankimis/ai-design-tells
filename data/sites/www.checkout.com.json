@@ -1,0 +1,341 @@
+{
+  "url": "https://www.checkout.com",
+  "name": "www.checkout.com",
+  "title": "Payment services to power your performance | Checkout.com",
+  "fonts": {
+    "body": "inter",
+    "heading": "checkout apercu semimono",
+    "loaded_count": 5,
+    "loaded_sample": [
+      "webflow-icons",
+      "graphik lc",
+      "checkout apercu semimono",
+      "inter",
+      "graphik"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      219,
+      219,
+      219,
+      219,
+      219,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      219,
+      229,
+      219,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      229,
+      219
+    ],
+    "accent_sampled": 58,
+    "purple_accents": 0,
+    "any_gradients": 5,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      20,
+      410
+    ],
+    [
+      24,
+      35
+    ],
+    [
+      50,
+      31
+    ],
+    [
+      16,
+      28
+    ],
+    [
+      8,
+      27
+    ],
+    [
+      10,
+      26
+    ],
+    [
+      6,
+      12
+    ],
+    [
+      100,
+      6
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      12,
+      2
+    ],
+    [
+      40,
+      2
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      32,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "12px",
+      62
+    ],
+    [
+      "8px",
+      34
+    ],
+    [
+      "16px",
+      27
+    ],
+    [
+      "24px",
+      9
+    ],
+    [
+      "80px",
+      9
+    ],
+    [
+      "32px",
+      6
+    ],
+    [
+      "10.4px",
+      5
+    ],
+    [
+      "1px",
+      2
+    ],
+    [
+      "120px",
+      2
+    ],
+    [
+      "5px",
+      1
+    ],
+    [
+      "11px",
+      1
+    ],
+    [
+      "68px",
+      1
+    ],
+    [
+      "64px",
+      1
+    ],
+    [
+      "14px",
+      1
+    ],
+    [
+      "6px",
+      1
+    ],
+    [
+      "15px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      18,
+      1324
+    ],
+    [
+      101,
+      1072
+    ],
+    [
+      16,
+      239
+    ],
+    [
+      14,
+      77
+    ],
+    [
+      24,
+      38
+    ],
+    [
+      11,
+      26
+    ],
+    [
+      20,
+      13
+    ],
+    [
+      48,
+      10
+    ],
+    [
+      32,
+      9
+    ],
+    [
+      80,
+      3
+    ],
+    [
+      200,
+      3
+    ],
+    [
+      40,
+      2
+    ],
+    [
+      1,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 13,
+    "neg_tracked": 10
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 19,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 76,
+    "centered_fraction": 0.19736842105263158
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "where",
+    "buttons": [
+      "Learn more",
+      "Business",
+      "Personal",
+      "ProductsProducts",
+      "SolutionsSolutions",
+      "CompanyCompany",
+      "Sign in",
+      "Get in touch",
+      "Get in touch",
+      "Learn more",
+      "Learn more",
+      "Read report",
+      "Read more",
+      "Get in touch",
+      "payment methods directory",
+      "Global (English)",
+      "Global (English)",
+      "Accept Online",
+      "Flow",
+      "Payouts",
+      "Issuing",
+      "Payment Integrations",
+      "Integrated Platforms",
+      "Payment Methods",
+      "Payment Processing",
+      "Fraud Detection",
+      "Authentication",
+      "Intelligent Acceptance",
+      "Identity Verification",
+      "Vault",
+      "Real-Time Account Updater",
+      "Network Tokens",
+      "Pricing",
+      "Ecommerce",
+      "Fintech",
+      "Gaming",
+      "Crypto",
+      "Marketplace",
+      "Payment facilitators",
+      "Travel",
+      "International Coverage",
+      "Our Partners",
+      "Our mission",
+      "Our customers",
+      "Leadership",
+      "Contact us",
+      "Careers at Checkout.com",
+      "Explore opportunities",
+      "Life at Checkout",
+      "Carbon Offsetting",
+      "For developers",
+      "API reference",
+      "Test account",
+      "Trust center",
+      "Blog",
+      "Case studies",
+      "Newsroom",
+      "Support",
+      "Terms & policies",
+      "Service terms"
+    ]
+  },
+  "ok": true
+}

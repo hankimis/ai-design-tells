@@ -1,0 +1,6 @@
+{
+  "url": "https://greatest.work",
+  "name": "greatest.work",
+  "ok": false,
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://greatest.work/\nCall log:\n  - navigating to \"https://greatest.work/\", waiting until \"domcontentloaded\"\n"
+}

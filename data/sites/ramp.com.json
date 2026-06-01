@@ -1,0 +1,172 @@
+{
+  "url": "https://ramp.com",
+  "name": "ramp.com",
+  "title": "Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp",
+  "fonts": {
+    "body": "lausanne",
+    "heading": "lausanne",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "material icons",
+      "material icons outlined",
+      "lausanne",
+      "lausanne fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 4,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      12,
+      21
+    ],
+    [
+      6,
+      12
+    ],
+    [
+      4,
+      9
+    ],
+    [
+      33554400,
+      2
+    ],
+    [
+      10,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 1
+  },
+  "paddings": [
+    [
+      "24px",
+      13
+    ],
+    [
+      "6px",
+      9
+    ],
+    [
+      "12px",
+      2
+    ],
+    [
+      "32px",
+      2
+    ],
+    [
+      "64px",
+      1
+    ],
+    [
+      "8px",
+      1
+    ],
+    [
+      "1px",
+      1
+    ],
+    [
+      "16px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      8,
+      631
+    ],
+    [
+      12,
+      628
+    ],
+    [
+      16,
+      532
+    ],
+    [
+      32,
+      435
+    ],
+    [
+      10,
+      405
+    ],
+    [
+      14,
+      126
+    ],
+    [
+      7,
+      90
+    ],
+    [
+      24,
+      89
+    ],
+    [
+      9,
+      54
+    ],
+    [
+      18,
+      5
+    ],
+    [
+      20,
+      2
+    ],
+    [
+      40,
+      2
+    ],
+    [
+      64,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 5,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 8,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 17,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Time is money. Save both.",
+    "buttons": [
+      "Products",
+      "Partners",
+      "Solutions",
+      "Resources",
+      "Customers",
+      "Pricing",
+      "Sign in",
+      "Sign in",
+      "See a demo",
+      "banking*",
+      "Get started for free",
+      "Read the report",
+      "add",
+      "add",
+      "Make the switch"
+    ]
+  },
+  "ok": true
+}

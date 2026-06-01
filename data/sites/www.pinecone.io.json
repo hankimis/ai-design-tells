@@ -1,0 +1,314 @@
+{
+  "url": "https://www.pinecone.io",
+  "name": "www.pinecone.io",
+  "title": "The vector database to build knowledgeable AI | Pinecone",
+  "fonts": {
+    "body": "__gtplanar_9a6492",
+    "heading": "__gtplanar_9a6492",
+    "loaded_count": 20,
+    "loaded_sample": [
+      "__jetbrains_mono_3c557b",
+      "__jetbrains_mono_fallback_3c557b",
+      "__gtplanar_9a6492",
+      "__gtplanar_fallback_9a6492",
+      "__appleiipro_ff0bc9",
+      "__appleiipro_fallback_ff0bc9",
+      "__appleiialtpro_a59715",
+      "__appleiialtpro_fallback_a59715",
+      "katex_ams",
+      "katex_caligraphic",
+      "katex_fraktur",
+      "katex_main"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      241,
+      241,
+      241,
+      241,
+      230,
+      230,
+      230,
+      230,
+      240,
+      240,
+      230,
+      230,
+      215,
+      213,
+      221,
+      213,
+      230,
+      215,
+      213,
+      215,
+      213,
+      230,
+      215,
+      213,
+      221,
+      213,
+      215,
+      214,
+      215,
+      213,
+      215,
+      213,
+      215,
+      213,
+      210,
+      221,
+      213,
+      215,
+      213,
+      215,
+      213,
+      210,
+      221,
+      213,
+      215,
+      213,
+      215,
+      213,
+      215,
+      213,
+      215,
+      213,
+      215,
+      213,
+      240,
+      240,
+      240,
+      240,
+      230
+    ],
+    "accent_sampled": 59,
+    "purple_accents": 4,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      50,
+      13
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      33554400,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1,
+    "other": 1
+  },
+  "paddings": [
+    [
+      "8px",
+      43
+    ],
+    [
+      "32px",
+      16
+    ],
+    [
+      "10px",
+      15
+    ],
+    [
+      "7px",
+      14
+    ],
+    [
+      "16px",
+      10
+    ],
+    [
+      "11px",
+      10
+    ],
+    [
+      "2px",
+      9
+    ],
+    [
+      "12px",
+      7
+    ],
+    [
+      "4px",
+      7
+    ],
+    [
+      "96px",
+      6
+    ],
+    [
+      "3px",
+      6
+    ],
+    [
+      "24px",
+      5
+    ],
+    [
+      "6px",
+      4
+    ],
+    [
+      "64px",
+      3
+    ],
+    [
+      "80px",
+      3
+    ],
+    [
+      "13px",
+      3
+    ],
+    [
+      "14px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      618
+    ],
+    [
+      13,
+      76
+    ],
+    [
+      14,
+      72
+    ],
+    [
+      11,
+      66
+    ],
+    [
+      12,
+      63
+    ],
+    [
+      15,
+      19
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      20,
+      10
+    ],
+    [
+      32,
+      9
+    ],
+    [
+      9,
+      3
+    ],
+    [
+      18,
+      3
+    ],
+    [
+      24,
+      3
+    ],
+    [
+      44,
+      2
+    ]
+  ],
+  "heading": {
+    "big_count": 7,
+    "neg_tracked": 1
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 6,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 83,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Give agents knowledge",
+    "buttons": [
+      "이 대화 상자 닫기",
+      "쿠키 정책",
+      "환경 설정 관리",
+      "모두 동의",
+      "필수적이지 않은 항목 거부",
+      "Dismiss",
+      "Products",
+      "Enterprise",
+      "Customers",
+      "Resources",
+      "Pricing",
+      "Contact",
+      "Start Building",
+      "Start Building",
+      "Get a Demo",
+      "FoxThe Washington Post",
+      "FoxThe Washington Post",
+      "{Claude Code}",
+      "{Cursor}",
+      "{Copilot}",
+      "{Codex}",
+      "{Gemini}",
+      "{CLI}",
+      "{MCP}",
+      "View Docs",
+      "Copy",
+      "See full pricing",
+      "RAG pipeline",
+      "passion project",
+      "Get an estimate",
+      "app.pinecone.io",
+      "+ Create index",
+      "···",
+      "Connect",
+      "Upsert record",
+      "Filter",
+      "Rerank",
+      "Search",
+      "···",
+      "Connect",
+      "15m",
+      "4hrs",
+      "12hrs",
+      "1d",
+      "2d",
+      "1w",
+      "Query",
+      "Upsert",
+      "Update",
+      "Delete",
+      "Fetch",
+      "List",
+      "Read the whitepaper",
+      "Explore Enterprise",
+      "Start Building",
+      "Get a Demo",
+      "Subscribe",
+      "Vector Database",
+      "Dedicated Read Nodes",
+      "Assistant"
+    ]
+  },
+  "ok": true
+}

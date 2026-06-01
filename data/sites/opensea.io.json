@@ -1,0 +1,204 @@
+{
+  "url": "https://opensea.io",
+  "name": "opensea.io",
+  "title": "OpenSea, exchange everything — token trading and NFT marketplace",
+  "fonts": {
+    "body": "gtamerica",
+    "heading": "gtamerica",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "gtamerica",
+      "gtamerica fallback",
+      "gtamericamono",
+      "gtamericamono fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209
+    ],
+    "accent_sampled": 10,
+    "purple_accents": 0,
+    "any_gradients": 26,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      8,
+      128
+    ],
+    [
+      4,
+      58
+    ],
+    [
+      6,
+      54
+    ],
+    [
+      33554400,
+      42
+    ],
+    [
+      12,
+      2
+    ]
+  ],
+  "shadows": {
+    "other": 91
+  },
+  "paddings": [
+    [
+      "12px",
+      37
+    ],
+    [
+      "8px",
+      21
+    ],
+    [
+      "24px",
+      14
+    ],
+    [
+      "4px",
+      12
+    ],
+    [
+      "20px",
+      6
+    ],
+    [
+      "2px",
+      3
+    ],
+    [
+      "16px",
+      1
+    ],
+    [
+      "3px",
+      1
+    ],
+    [
+      "10px",
+      1
+    ],
+    [
+      "6px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      1309
+    ],
+    [
+      14,
+      868
+    ],
+    [
+      12,
+      63
+    ],
+    [
+      20,
+      9
+    ],
+    [
+      32,
+      6
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 5,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 124,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Discover",
+    "buttons": [
+      "Discover",
+      "Collections",
+      "Tokens",
+      "Swap",
+      "Drops",
+      "Activity",
+      "Rewards",
+      "Studio",
+      "Profile",
+      "Resources",
+      "Settings",
+      "Support",
+      "Connect Wallet",
+      "All",
+      "Gaming",
+      "Gaming",
+      "Art",
+      "Art",
+      "PFPs",
+      "PFPs",
+      "More",
+      "All",
+      "three.ws$2.8M+841%",
+      "CTR$13.7M+7.3%",
+      "Circle xStock$53M-5.3%",
+      "Wrapped PROS$2.4M+6.7%",
+      "HYPE$69B+5.4%",
+      "Checkmate$55M-1.7%",
+      "PowerGacha$4.7M+162%",
+      "Hidden Gem Formula$156.5K+453%",
+      "Zcash$41.1M-1.1%",
+      "AI Rig Complex$77.8M+3%",
+      "R3ORDRFloor price: 0.0228 ETH-62%",
+      "The Gh0stsFloor price: 0.0068 ETH+30.8%",
+      "HeraldiaFloor price: 0.0118 ETH+70.5%",
+      "GLiFS by EfdotJune 4 at 12:00 AM GMT+9",
+      "Corrine ReloadedMinting now0.011 ETH",
+      "TelepixelsMinting now0.002 ETH",
+      "Gemesis0.01 ETH+5.6%",
+      "Gemesis",
+      "TheColossal< 0.01 ETH",
+      "TheColossal",
+      "GLHFers0.14 ETH+19.8%",
+      "GLHFers",
+      "Garbage Friends0.02 ETH+23.2%",
+      "Garbage Friends",
+      "Everyday People< 0.01 ETH+123.4%",
+      "Everyday People",
+      "Shellmates0.02 ETH+3.9%",
+      "Shellmates",
+      "TinyHyperCats7.19 HYPE+4.4%",
+      "TinyHyperCats",
+      "Mortals0.09 ETH+12.1%",
+      "Mortals",
+      "Human Resources0.02 ETH+14%",
+      "Human Resources",
+      "NOIDS< 0.01 ETH-14%",
+      "NOIDS",
+      "HeraldiaFloor price: 0.0118 ETH+70.5%",
+      "The Gh0stsFloor price: 0.0068 ETH+30.8%"
+    ]
+  },
+  "ok": true
+}

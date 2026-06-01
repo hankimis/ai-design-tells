@@ -1,0 +1,368 @@
+{
+  "url": "https://bun.sh",
+  "name": "bun.sh",
+  "title": "Bun — A fast all-in-one JavaScript runtime",
+  "fonts": {
+    "body": "system-ui",
+    "heading": "system-ui",
+    "loaded_count": 0,
+    "loaded_sample": []
+  },
+  "color": {
+    "accent_hues": [
+      220,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      329,
+      230,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      231,
+      231,
+      216,
+      216,
+      329,
+      220,
+      216,
+      231,
+      329,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      268,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      329,
+      216
+    ],
+    "accent_sampled": 79,
+    "purple_accents": 1,
+    "any_gradients": 12,
+    "blue_purple_gradients": 1
+  },
+  "radii": [
+    [
+      9999,
+      115
+    ],
+    [
+      8,
+      111
+    ],
+    [
+      4,
+      79
+    ],
+    [
+      6,
+      14
+    ],
+    [
+      3,
+      9
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      12,
+      6
+    ],
+    [
+      7,
+      4
+    ],
+    [
+      3.5,
+      3
+    ],
+    [
+      30,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 11
+  },
+  "paddings": [
+    [
+      "16px",
+      192
+    ],
+    [
+      "6px",
+      46
+    ],
+    [
+      "4px",
+      35
+    ],
+    [
+      "2px",
+      25
+    ],
+    [
+      "12px",
+      20
+    ],
+    [
+      "24px",
+      16
+    ],
+    [
+      "8px",
+      12
+    ],
+    [
+      "7px",
+      12
+    ],
+    [
+      "150px",
+      7
+    ],
+    [
+      "128px",
+      4
+    ],
+    [
+      "96px",
+      2
+    ],
+    [
+      "20px",
+      2
+    ],
+    [
+      "3px",
+      2
+    ],
+    [
+      "10px",
+      2
+    ],
+    [
+      "32px",
+      2
+    ],
+    [
+      "15px",
+      1
+    ],
+    [
+      "120px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      1762
+    ],
+    [
+      14,
+      545
+    ],
+    [
+      18,
+      106
+    ],
+    [
+      12,
+      92
+    ],
+    [
+      20,
+      56
+    ],
+    [
+      13,
+      28
+    ],
+    [
+      24,
+      17
+    ],
+    [
+      48,
+      17
+    ],
+    [
+      19,
+      8
+    ],
+    [
+      60,
+      6
+    ],
+    [
+      21,
+      5
+    ],
+    [
+      53,
+      4
+    ],
+    [
+      11,
+      2
+    ],
+    [
+      15,
+      2
+    ],
+    [
+      72,
+      2
+    ],
+    [
+      30,
+      1
+    ],
+    [
+      36,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 13,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 13,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 55,
+    "centered_fraction": 0.12727272727272726
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Bun is a fast JavaScripta|",
+    "buttons": [
+      "Build",
+      "Docs",
+      "Reference",
+      "Guides",
+      "Blog",
+      "Discord",
+      "Ask AI",
+      "Bun v1.3.14 is here! →",
+      "test runner",
+      "package manager",
+      "Linux & macOS",
+      "Windows",
+      "View install script",
+      "Bundler",
+      "Express",
+      "Postgres",
+      "WebSockets",
+      "View benchmark →",
+      "Node.js API compatibility",
+      "TypeScript, JSX & React (zero config)",
+      "Comprehensive builtin standard library",
+      "PostgreSQL, Redis, MySQL, SQLite",
+      "Hot & watch mode built-in",
+      "Environment variables with .env",
+      "Simple migration from npm/pnpm/yarn",
+      "Eliminate phantom dependencies",
+      "Workspaces, monorepos",
+      "Dependency auditing with bun audit",
+      "Block malicious packages",
+      "Jest-compatible expect() API",
+      "Snapshot testing",
+      "Watch mode & lifecycle hooks",
+      "DOM APIs via happy-dom",
+      "Built-in code coverage",
+      "TypeScript & JSX built-in (no config)",
+      "CSS imports & bundling",
+      "Build for the browser, Bun, and Node.js",
+      "Single-file executables",
+      ".html, .css, .ts, .tsx, .jsx & more",
+      "single file executables",
+      "Learn about single file executables",
+      "Deploy on Railway",
+      "WebSocket server",
+      "Learn about Bun's WebSocket server",
+      "Glob APIGlob patterns for file matching",
+      "Bun.serve()HTTP & WebSocket server",
+      "Bun.sqlPostgreSQL, MySQL, SQLite",
+      "Bun.s3S3-compatible cloud storage",
+      "Bun.redisRedis client with Pub/Sub",
+      "Bun.file()Fast file reading & streaming",
+      "Bun.GlobFast file pattern matching",
+      "Bun.write()Write files efficiently",
+      "bun testJest-compatible test runner",
+      "snapshotsSnapshot testing built-in",
+      "expect()Jest-compatible assertions",
+      "bun buildFast bundler with tree-shaking",
+      "--compileSingle-file executables",
+      "--hotHot reload without restarts",
+      "TypeScript & JSXNo config required",
+      "import \"*.yaml\"YAML & TOML imports"
+    ]
+  },
+  "ok": true
+}

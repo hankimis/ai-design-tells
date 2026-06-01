@@ -1,0 +1,289 @@
+{
+  "url": "https://www.behance.net",
+  "name": "www.behance.net",
+  "title": "작품 전시, 발견, 크리에이터 채용 :: Behance",
+  "fonts": {
+    "body": "acumin-pro",
+    "heading": "acumin-pro-wide",
+    "loaded_count": 5,
+    "loaded_sample": [
+      "acumin-pro",
+      "acumin-pro-wide",
+      "adobe-clean",
+      "adobe-clean-han-japanese",
+      "beicons"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      222,
+      220,
+      221,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      222,
+      220,
+      221,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220
+    ],
+    "accent_sampled": 77,
+    "purple_accents": 0,
+    "any_gradients": 12,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      4,
+      119
+    ],
+    [
+      6,
+      66
+    ],
+    [
+      100,
+      34
+    ],
+    [
+      28,
+      2
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      50,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1,
+    "other": 1
+  },
+  "paddings": [
+    [
+      "258.125px",
+      24
+    ],
+    [
+      "15px",
+      3
+    ],
+    [
+      "6px",
+      1
+    ],
+    [
+      "57px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ],
+    [
+      "24px",
+      1
+    ],
+    [
+      "82px",
+      1
+    ],
+    [
+      "35px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      12,
+      1152
+    ],
+    [
+      14,
+      216
+    ],
+    [
+      16,
+      116
+    ],
+    [
+      13,
+      28
+    ],
+    [
+      11,
+      27
+    ],
+    [
+      15,
+      25
+    ],
+    [
+      9,
+      6
+    ],
+    [
+      20,
+      2
+    ],
+    [
+      80,
+      2
+    ],
+    [
+      22,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 1,
+    "neg_tracked": 1
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 260,
+    "sheets_blocked": 5
+  },
+  "layout": {
+    "blocks": 31,
+    "centered_fraction": 0.03225806451612903
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Behance에서 세계 최고 수준의 크리에이터 만나기",
+    "buttons": [
+      "메인 콘텐츠로 건너뛰기",
+      "바닥글로 건너뛰기",
+      "BehanceBehancebehance.net으로 이동",
+      "둘러보기",
+      "직업",
+      "리소스",
+      "채용",
+      "지금 구매",
+      "로그인",
+      "Adobe, Inc.Adobe, Inc.adobe.com으로 이동",
+      "프리랜서 채용",
+      "Behance Pro 사용해 보기",
+      "닫기 아이콘 접기필터",
+      "프로젝트",
+      "인물",
+      "에셋",
+      "이미지",
+      "baseIcon",
+      "추천",
+      "추천 항목 별 모양 아이콘For You",
+      "팔로잉 하트 아이콘Following",
+      "Behance 추천 아이콘최고의 Behance",
+      "그래픽 디자인",
+      "포토그래피",
+      "일러스트레이션",
+      "3D Art",
+      "UI/UX",
+      "모션",
+      "건축",
+      "제품 디자인",
+      "패션",
+      "광고",
+      "미술",
+      "공예",
+      "게임 디자인",
+      "사운드",
+      "Photoshop",
+      "Lightroom",
+      "Illustrator",
+      "InDesign",
+      "Premiere Pro",
+      "After Effects",
+      "Stock",
+      "Capture",
+      "Substance 3D Designer",
+      "Substance 3D Painter",
+      "Substance 3D Sampler",
+      "Substance 3D Stager",
+      "Fresco",
+      "저장",
+      "Slyce pickleball",
+      "Murtaza Lokhandwala",
+      "저장",
+      "Microsonic",
+      "여러 소유자",
+      "지금 구매",
+      "저장",
+      "Ahmed Gamal",
+      "Pro",
+      "저장"
+    ]
+  },
+  "ok": true
+}

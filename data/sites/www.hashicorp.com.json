@@ -1,0 +1,272 @@
+{
+  "url": "https://www.hashicorp.com",
+  "name": "www.hashicorp.com",
+  "title": "HashiCorp: 혁신을 위한 인프라",
+  "fonts": {
+    "body": "system-ui",
+    "heading": "__hashicorpsans_96f0ca",
+    "loaded_count": 5,
+    "loaded_sample": [
+      "dejavu-sans-mono-web",
+      "__hashicorpsans_96f0ca",
+      "__hashicorpsans_fallback_96f0ca",
+      "__dejavusansmono_7cac6c",
+      "__dejavusansmono_fallback_7cac6c"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      218,
+      218,
+      218,
+      218,
+      220,
+      220,
+      220,
+      218,
+      218,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      213,
+      228,
+      210,
+      213,
+      213,
+      213,
+      228,
+      210,
+      220,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218
+    ],
+    "accent_sampled": 52,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      6,
+      66
+    ],
+    [
+      5,
+      31
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      8,
+      5
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      3,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 35,
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "4px",
+      26
+    ],
+    [
+      "24px",
+      25
+    ],
+    [
+      "3px",
+      20
+    ],
+    [
+      "8px",
+      8
+    ],
+    [
+      "11px",
+      7
+    ],
+    [
+      "88px",
+      6
+    ],
+    [
+      "64px",
+      4
+    ],
+    [
+      "13px",
+      4
+    ],
+    [
+      "9px",
+      3
+    ],
+    [
+      "48px",
+      2
+    ],
+    [
+      "1px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      545
+    ],
+    [
+      13,
+      58
+    ],
+    [
+      14,
+      32
+    ],
+    [
+      19,
+      25
+    ],
+    [
+      15,
+      15
+    ],
+    [
+      52,
+      10
+    ],
+    [
+      20,
+      2
+    ],
+    [
+      34,
+      2
+    ],
+    [
+      82,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 7,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 70,
+    "sheets_blocked": 2
+  },
+  "layout": {
+    "blocks": 36,
+    "centered_fraction": 0.027777777777777776
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "혁신을 실현하는 인프라",
+    "buttons": [
+      "Skip to main content",
+      "플랫폼",
+      "제품",
+      "Pricing",
+      "개발자",
+      "리소스",
+      "회사",
+      "Log in",
+      "문의하기",
+      "무료로 체험하세요",
+      "HashiCorp에 문의하기",
+      "백서 다운로드",
+      "제품 개요 다운로드",
+      "제품 개요 다운로드",
+      "제품 개요 다운로드",
+      "제품 개요 다운로드",
+      "고객 사례 다운로드",
+      "모든 고객 사례",
+      "고객 사례 다운로드",
+      "고객 사례 다운로드",
+      "고객 사례 다운로드",
+      "고객 사례 다운로드",
+      "고객 사례 다운로드",
+      "고객 사례 다운로드",
+      "고객 사례 다운로드",
+      "모든 웨비나 보기",
+      "비디오 시청하기",
+      "비디오 시청하기",
+      "비디오 시청하기",
+      "비디오 시청하기",
+      "비디오 시청하기",
+      "비디오 시청하기",
+      "비디오 보기",
+      "비디오 보기",
+      "비디오 보기",
+      "모든 파트너 보기",
+      "https://www.megazone.com/kr/",
+      "HashiCorp에 문의하기",
+      "Privacy Policy",
+      "Subscribe",
+      "Terraform",
+      "Packer",
+      "Waypoint",
+      "Nomad",
+      "Vagrant",
+      "Vault",
+      "Boundary",
+      "Consul",
+      "이벤트",
+      "자료",
+      "문의하기",
+      "한국어",
+      "System Status",
+      "Cookie Manager",
+      "이용약관",
+      "신뢰 센터",
+      "상표 정책",
+      "거래 관리",
+      "GitHub",
+      "X"
+    ]
+  },
+  "ok": true
+}

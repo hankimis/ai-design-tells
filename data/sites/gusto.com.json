@@ -1,0 +1,342 @@
+{
+  "url": "https://gusto.com",
+  "name": "gusto.com",
+  "title": "Gusto | Online HR Services: Payroll, Benefits and everything else",
+  "fonts": {
+    "body": "gcentra",
+    "heading": "clearface",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "gcentra",
+      "clearface",
+      "moonstone-regular",
+      "gcentraextrabold"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      240,
+      240,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      44,
+      180,
+      7,
+      180,
+      151,
+      180,
+      207,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180
+    ],
+    "accent_sampled": 128,
+    "purple_accents": 2,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      8,
+      93
+    ],
+    [
+      14,
+      20
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      5,
+      2
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "12px",
+      14
+    ],
+    [
+      "22px",
+      11
+    ],
+    [
+      "24px",
+      9
+    ],
+    [
+      "64px",
+      7
+    ],
+    [
+      "32px",
+      5
+    ],
+    [
+      "72px",
+      3
+    ],
+    [
+      "8px",
+      2
+    ],
+    [
+      "40px",
+      1
+    ],
+    [
+      "16px",
+      1
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "15px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      672
+    ],
+    [
+      14,
+      82
+    ],
+    [
+      42,
+      14
+    ],
+    [
+      13,
+      13
+    ],
+    [
+      18,
+      11
+    ],
+    [
+      32,
+      7
+    ],
+    [
+      48,
+      4
+    ],
+    [
+      12,
+      1
+    ],
+    [
+      56,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 5,
+    "neg_tracked": 4
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 188,
+    "sheets_blocked": 10
+  },
+  "layout": {
+    "blocks": 55,
+    "centered_fraction": 0.3090909090909091
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Payroll, HR, Benefits. Simplified.",
+    "buttons": [
+      "Why Gusto",
+      "Products",
+      "Businesses",
+      "Accountants",
+      "Resources",
+      "Pricing",
+      "See demo",
+      "Create free account",
+      "How it works",
+      "Sign in",
+      "Create free account",
+      "How Gusto works",
+      "Payroll takes just a few clicks",
+      "Learn more about payroll →",
+      "Sync hours with payroll",
+      "Why Gusto",
+      "Read the full story",
+      "Learn more about benefits",
+      "Learn more about hiring and onboarding",
+      "Time",
+      "Talent",
+      "Insights",
+      "New business",
+      "Remote",
+      "Compare plans",
+      "Compare Gusto",
+      "Get started",
+      "Compare Gusto",
+      "Help center",
+      "(800) 936-0383",
+      "See demo",
+      "View pricing",
+      "Starting a business",
+      "Switch to Gusto",
+      "Remote and Global",
+      "Why Gusto",
+      "Become a partner",
+      "Gusto Pro dashboard",
+      "Partner community",
+      "Professional Development",
+      "People Advisory",
+      "Accountant blog",
+      "Resources",
+      "Gusto Embedded Payroll",
+      "Build apps with Gusto",
+      "Developer tools",
+      "Interactive Demo",
+      "Contact Sales -  (800) 936-0383",
+      "Small Business Platform",
+      "Full-service payroll",
+      "Employee Benefits",
+      "HR",
+      "Health Benefits",
+      "Financial Benefits",
+      "R&D tax credits",
+      "Time and attendance",
+      "Hiring and onboarding",
+      "Talent management",
+      "Insights and reporting",
+      "Workers’ compensation"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,166 @@
+{
+  "url": "https://zora.co",
+  "name": "zora.co",
+  "title": "Zora",
+  "fonts": {
+    "body": "monumentgrotesk",
+    "heading": "monumentgrotesk",
+    "loaded_count": 7,
+    "loaded_sample": [
+      "monumentgrotesk",
+      "arial narrow",
+      "arial mono",
+      "arial",
+      "helvetica neue lt pro",
+      "arialmedium",
+      "arialbolditalic"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      120,
+      120,
+      120,
+      120,
+      120,
+      120
+    ],
+    "accent_sampled": 6,
+    "purple_accents": 0,
+    "any_gradients": 9,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      8,
+      21
+    ],
+    [
+      9999,
+      11
+    ],
+    [
+      12,
+      9
+    ],
+    [
+      50,
+      7
+    ],
+    [
+      999,
+      4
+    ],
+    [
+      4,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1,
+    "other": 3
+  },
+  "paddings": [
+    [
+      "4px",
+      13
+    ],
+    [
+      "12px",
+      7
+    ],
+    [
+      "16px",
+      3
+    ],
+    [
+      "3px",
+      2
+    ],
+    [
+      "24px",
+      2
+    ],
+    [
+      "5px",
+      2
+    ],
+    [
+      "72px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      15,
+      453
+    ],
+    [
+      11,
+      2
+    ],
+    [
+      13,
+      2
+    ],
+    [
+      17,
+      2
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 9,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 2,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "Learn more",
+      "Reject",
+      "Accept",
+      "Login",
+      "Sign up",
+      "huskymom",
+      "huskymom",
+      "NEW",
+      "Buy",
+      "5 years ago",
+      "dexmeme",
+      "dexmeme",
+      "$127$127",
+      "1",
+      "Buy",
+      "cryptogrannyno5",
+      "1 other",
+      "CryptoGrannyArt",
+      "cryptogrannyno5",
+      "cryptogrannyno5",
+      "tchaggo",
+      "tchaggo",
+      "NEW",
+      "Buy",
+      "flor",
+      "janicemascarenhas",
+      "janicemascarenhas",
+      "Follow",
+      "joec",
+      "joec",
+      "Follow",
+      "starsamauri",
+      "starsamauri",
+      "Follow"
+    ]
+  },
+  "ok": true
+}

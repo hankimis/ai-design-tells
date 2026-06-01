@@ -22,13 +22,14 @@ to validity.
 """
 
 from __future__ import annotations
+import os
 import re
 import colorsys
 from dataclasses import dataclass, field
 from html.parser import HTMLParser
 from typing import Dict, List, Optional, Tuple
 
-from taxonomy import TELLS, FAMILIES, max_score
+from taxonomy import TELLS, FAMILIES, max_score, VAGUE_HEADLINE_RE, GENERIC_CTA
 
 
 # --------------------------------------------------------------------------
@@ -543,6 +544,127 @@ class Report:
         if s < 65:
             return "D, strong AI-default signature"
         return "F, textbook AI slop"
+
+
+_CALIB_CACHE = None
+
+
+def _load_calib():
+    global _CALIB_CACHE
+    if _CALIB_CACHE is None:
+        import json
+        path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "calibration.json")
+        try:
+            with open(path, encoding="utf-8") as f:
+                _CALIB_CACHE = json.load(f)
+        except FileNotFoundError:
+            _CALIB_CACHE = {}
+    return _CALIB_CACHE
+
+
+def craft_credits(sig, calib):
+    """Compensating-craft signals. Their presence offsets cosmetic tells, because
+    the data shows top sites freely use purple/Inter *with* real craft (Stripe,
+    Linear). Returns (count, list-of-present-credits)."""
+    g = set(calib.get("generic_fonts", []))
+    present = []
+    hd = sig.get("heading", {})
+    if sig.get("fonts", {}).get("heading", "") not in g:
+        present.append("custom display font")
+    if hd.get("big_count") and hd["neg_tracked"] / max(1, hd["big_count"]) >= 0.5:
+        present.append("optical tracking on display")
+    if len(sig.get("radii", [])) >= calib.get("radius_hierarchy_min", 4):
+        present.append("radius hierarchy")
+    f = sig.get("focus", {})
+    if f.get("sheets_read", 0) >= calib.get("focus_min_readable_sheets", 3) and f.get("focus_visible"):
+        present.append("designed focus state")
+    return len(present), present
+
+
+def score_signals(sig, calib=None):
+    """Recalibrated detector for LIVE sites (computed-style signals from scrape.py).
+    Cosmetic tells (color, font) are gated on the absence of compensating craft;
+    structural tells (one radius, center-everything, emoji, missing focus) stand
+    on their own. Thresholds are learned in data/calibration.json. Lower is better."""
+    calib = calib or _load_calib()
+    g = set(calib.get("generic_fonts", []))
+    credits, credit_list = craft_credits(sig, calib)
+    lazy = credits <= 1            # "no compensating craft" -> cosmetic defaults count
+    col = sig.get("color", {})
+    hd = sig.get("heading", {})
+    foc = sig.get("focus", {})
+    radii = sig.get("radii", [])
+    fsizes = sig.get("font_sizes", [])
+
+    # (id, family, name, weight, severity, fired, evidence)
+    rows = []
+    def add(tid, fam, name, w, sev, fired, ev):
+        rows.append(TellResult(tid, fam, name, w, sev, fired, ev if isinstance(ev, list) else [ev], ""))
+
+    # A, color (gated by craft)
+    add("A1", "A", "Indigo/violet default palette", 7.0, "tell",
+        col.get("purple_accents", 0) >= 6 and lazy,
+        [f"{col.get('purple_accents',0)} purple accents and no compensating craft"] if lazy else
+        [f"{col.get('purple_accents',0)} purple accents, but offset by craft ({', '.join(credit_list)})"])
+    add("A2", "A", "Blue->purple hero gradient", 5.0, "tell",
+        col.get("blue_purple_gradients", 0) >= 2 and lazy,
+        [f"{col.get('blue_purple_gradients',0)} blue->purple gradients"])
+    # B, type (gated)
+    body_generic = sig.get("fonts", {}).get("body", "") in g
+    no_track = not (hd.get("big_count") and hd["neg_tracked"]/max(1, hd["big_count"]) >= 0.5)
+    add("B1", "B", "Generic font with no compensating craft", 8.0, "tell",
+        body_generic and no_track and lazy,
+        [f"primary font '{sig.get('fonts',{}).get('body','')}' with no compensating craft"])
+    add("B2", "B", "No type scale (degenerate)", 4.0, "tell",
+        0 < len(fsizes) <= calib.get("fontsize_low_max", 3),
+        [f"only {len(fsizes)} distinct font sizes"])
+    add("B3", "B", "No optical tracking on display", 3.0, "smell",
+        bool(hd.get("big_count")) and no_track and lazy,
+        ["large headings with no negative tracking and no compensating craft"])
+    # C, layout (structural, ungated)
+    cf = sig.get("layout", {}).get("centered_fraction", 0)
+    add("C2", "C", "Center-everything composition", 5.0, "tell",
+        cf >= calib.get("centered_fraction_min", 0.6),
+        [f"{cf*100:.0f}% of large blocks centered"])
+    add("C3", "C", "One border-radius everywhere", 4.0, "tell",
+        0 < len(radii) <= calib.get("radius_distinct_min", 2),
+        [f"only {len(radii)} distinct border-radii (no hierarchy)"])
+    add("C4", "C", "Emoji as iconography", 3.0, "smell",
+        sig.get("emoji_headings", 0) >= 2,
+        [f"{sig.get('emoji_headings',0)} headings use emoji"])
+    # E, surface
+    diffuse = sig.get("shadows", {}).get("diffuse", 0)
+    add("E1", "E", "Generic diffuse shadow (uniform)", 4.0, "smell",
+        diffuse >= 6 and lazy, [f"{diffuse} diffuse default shadows"])
+    readable = foc.get("sheets_read", 0) >= calib.get("focus_min_readable_sheets", 3)
+    add("E3", "E", "No focus-visible (where measurable)", 6.0, "tell",
+        readable and not foc.get("focus_visible", False),
+        ["no :focus-visible style in readable CSS"] if readable else
+        ["focus state not measurable (CSS cross-origin)"])
+    # G, copy
+    import re as _re
+    h1 = (sig.get("copy", {}).get("h1", "") or "")
+    vague = _re.findall(VAGUE_HEADLINE_RE, h1, _re.I)
+    add("G1", "G", "Vague aspirational headline", 6.0, "tell",
+        bool(vague), [f"headline: {h1[:60]!r}"] if vague else [])
+    btns = [b.strip().lower() for b in sig.get("copy", {}).get("buttons", [])]
+    only_generic = len(btns) >= 2 and sum(1 for b in btns if b in GENERIC_CTA) / len(btns) >= 0.5
+    add("G2", "G", "Mostly generic CTAs", 4.0, "smell", only_generic,
+        ["calls to action are mostly generic (Get Started / Learn More)"])
+
+    maxw = sum(r.weight for r in rows)
+    fired_w = sum(r.weight for r in rows if r.fired)
+    fam_fired, fam_max = {k: 0.0 for k in FAMILIES}, {k: 0.0 for k in FAMILIES}
+    for r in rows:
+        fam_max[r.family] += r.weight
+        if r.fired:
+            fam_fired[r.family] += r.weight
+    fam_scores = {k: (100*fam_fired[k]/fam_max[k] if fam_max[k] else 0.0) for k in FAMILIES}
+    rep = Report(score=100*fired_w/maxw if maxw else 0.0, fired_weight=fired_w,
+                 max_weight=maxw, results=rows, family_scores=fam_scores)
+    rep.credits = credits
+    rep.credit_list = credit_list
+    return rep
 
 
 def score_document(html: str) -> Report:

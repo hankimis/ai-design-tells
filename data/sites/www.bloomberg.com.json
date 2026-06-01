@@ -1,0 +1,359 @@
+{
+  "url": "https://www.bloomberg.com",
+  "name": "www.bloomberg.com",
+  "title": "Bloomberg Asia",
+  "fonts": {
+    "body": "bwhaasgroteskweb",
+    "heading": "bwhaasgroteskweb",
+    "loaded_count": 9,
+    "loaded_sample": [
+      "noto sans jp",
+      "avenirnextpforbbg",
+      "bloomberg logotypes",
+      "bwhaasgroteskweb",
+      "bwhaashead",
+      "publicohead",
+      "publicotext",
+      "publicotextmono",
+      "videojs"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      72,
+      220,
+      72,
+      220,
+      33,
+      220,
+      72,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      4,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220
+    ],
+    "accent_sampled": 96,
+    "purple_accents": 0,
+    "any_gradients": 12,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      12,
+      48
+    ],
+    [
+      4,
+      36
+    ],
+    [
+      50,
+      24
+    ],
+    [
+      8,
+      22
+    ],
+    [
+      6,
+      9
+    ],
+    [
+      28,
+      8
+    ],
+    [
+      9999,
+      8
+    ],
+    [
+      120,
+      6
+    ],
+    [
+      5,
+      3
+    ],
+    [
+      13986,
+      2
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      14,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 3
+  },
+  "paddings": [
+    [
+      "12px",
+      46
+    ],
+    [
+      "8px",
+      45
+    ],
+    [
+      "6px",
+      40
+    ],
+    [
+      "32px",
+      38
+    ],
+    [
+      "10px",
+      19
+    ],
+    [
+      "3px",
+      11
+    ],
+    [
+      "4px",
+      8
+    ],
+    [
+      "2px",
+      5
+    ],
+    [
+      "16px",
+      5
+    ],
+    [
+      "7px",
+      2
+    ],
+    [
+      "15px",
+      1
+    ],
+    [
+      "7.5px",
+      1
+    ],
+    [
+      "258.188px",
+      1
+    ],
+    [
+      "198.562px",
+      1
+    ],
+    [
+      "24px",
+      1
+    ],
+    [
+      "6.5px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      2148
+    ],
+    [
+      14,
+      411
+    ],
+    [
+      12,
+      80
+    ],
+    [
+      28,
+      22
+    ],
+    [
+      10,
+      17
+    ],
+    [
+      32,
+      16
+    ],
+    [
+      9,
+      5
+    ],
+    [
+      20,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 133,
+    "sheets_blocked": 34
+  },
+  "layout": {
+    "blocks": 147,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "Bloomberg Terminal Demo Request",
+      "Sign In",
+      "Subscribe",
+      "Search",
+      "Live TV",
+      "Markets",
+      "Finance",
+      "Economics",
+      "Industries",
+      "Tech",
+      "Politics",
+      "Businessweek",
+      "Opinion",
+      "Video",
+      "Asia EditionChevron Down",
+      "LIVE",
+      "PlayJoin Now",
+      "Exit",
+      "Top SecuritiesChevron Down",
+      "S&P 5007,589.68Arrow Up0.13%",
+      "Nasdaq27,096.27Arrow Up0.46%",
+      "B5002,748.24Arrow Up0.31%",
+      "US 10 Yr4.47Arrow Down0.27%",
+      "Crude Oil92.67Arrow Up6.08%",
+      "FTSE 10010,338.95Arrow Down0.68%",
+      "Gold4,506.00Arrow Down1.89%",
+      "Euro1.16Arrow Down0.23%",
+      "Pound/Dollar1.35Arrow Up0.06%",
+      "Back",
+      "Forward",
+      "Unmute",
+      "Share",
+      "SPXArrow Up0.13%",
+      "Follow",
+      "Dhiraj Singh/Bloomberg",
+      "Jade Gao/AFP/Getty Images",
+      "Bloomberg Opinion",
+      "Qilai Shen/Bloomberg",
+      "Bertha Wang/Bloomberg",
+      "What to Know",
+      "Lowered Valuation Target",
+      "How It Stacks Up",
+      "9:28",
+      "Explore More",
+      "5:16",
+      "36:10",
+      "6:15",
+      "5:05",
+      "Latest",
+      "All categoriesChevron Down",
+      "See all latest",
+      "War With Iran",
+      "US Stocks",
+      "Trump’s Second Term",
+      "War in Ukraine",
+      "Extreme Weather",
+      "Nvidia",
+      "Arrow Right",
+      "76:09",
+      "34:02"
+    ]
+  },
+  "ok": true
+}

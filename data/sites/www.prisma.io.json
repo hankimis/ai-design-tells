@@ -1,0 +1,374 @@
+{
+  "url": "https://www.prisma.io",
+  "name": "www.prisma.io",
+  "title": "Prisma | Serverless Postgres, Type-Safe ORM, and Database Tools",
+  "fonts": {
+    "body": "inter",
+    "heading": "mona sans vf",
+    "loaded_count": 9,
+    "loaded_sample": [
+      "mona sans mono vf",
+      "mona sans vf",
+      "inter",
+      "inter fallback",
+      "font awesome kit",
+      "font awesome kit duotone",
+      "font awesome 7 pro",
+      "font awesome 7 brands",
+      "font awesome 7 duotone"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      234,
+      234,
+      234,
+      234,
+      234,
+      234,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      220,
+      221,
+      214,
+      173,
+      214,
+      173,
+      214,
+      220,
+      221,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      173,
+      214,
+      221,
+      214,
+      221,
+      214,
+      221,
+      214,
+      221,
+      214,
+      173,
+      214,
+      220,
+      221,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      217,
+      214,
+      175,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      217,
+      214,
+      216,
+      214,
+      216,
+      214,
+      166,
+      175,
+      214
+    ],
+    "accent_sampled": 145,
+    "purple_accents": 0,
+    "any_gradients": 8,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      6,
+      94
+    ],
+    [
+      10,
+      48
+    ],
+    [
+      12,
+      22
+    ],
+    [
+      8,
+      21
+    ],
+    [
+      9,
+      5
+    ],
+    [
+      33554400,
+      5
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      16,
+      1
+    ],
+    [
+      50,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1,
+    "other": 7
+  },
+  "paddings": [
+    [
+      "12px",
+      54
+    ],
+    [
+      "8px",
+      31
+    ],
+    [
+      "6px",
+      25
+    ],
+    [
+      "16px",
+      8
+    ],
+    [
+      "48px",
+      5
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "160px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ],
+    [
+      "46px",
+      1
+    ],
+    [
+      "4px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      572
+    ],
+    [
+      12,
+      161
+    ],
+    [
+      18,
+      100
+    ],
+    [
+      11,
+      96
+    ],
+    [
+      14,
+      25
+    ],
+    [
+      22,
+      12
+    ],
+    [
+      20,
+      5
+    ],
+    [
+      40,
+      2
+    ],
+    [
+      24,
+      1
+    ],
+    [
+      30,
+      1
+    ],
+    [
+      36,
+      1
+    ],
+    [
+      64,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 5,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 6,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 29,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Postgres, perfectly managed.",
+    "buttons": [
+      "Customise",
+      "Reject All",
+      "Accept All",
+      "Products",
+      "Pricing",
+      "Resources",
+      "Docs",
+      "Blog",
+      "45.5K46.0K",
+      "Login",
+      "Get started",
+      "Create database",
+      "$ npx prisma init",
+      "Explore Pricing",
+      "@supastarter",
+      "@supastarter",
+      "@stockleapp",
+      "@stockleapp",
+      "Create your first Database",
+      "Explore Pricing",
+      "ORM",
+      "Studio",
+      "Query Insights",
+      "Pricing",
+      "Changelog",
+      "Platform status",
+      "Docs",
+      "Ecosystem",
+      "Customer stories",
+      "Data guide",
+      "Benchmarks",
+      "Community",
+      "Support",
+      "Partners",
+      "Enterprise",
+      "OSS Friends",
+      "About",
+      "Blog",
+      "Careers",
+      "Legal",
+      "Platform Status:All Systems Operational"
+    ]
+  },
+  "ok": true
+}

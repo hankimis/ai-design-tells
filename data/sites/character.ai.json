@@ -1,0 +1,149 @@
+{
+  "url": "https://character.ai",
+  "name": "character.ai",
+  "title": "character.ai | AI 채팅의 진화 - 말하는 대로, 펼쳐지는 세상.",
+  "fonts": {
+    "body": "athauss",
+    "heading": "athauss",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "swiper-icons",
+      "athauss",
+      "charactersans",
+      "inter"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214,
+      214
+    ],
+    "accent_sampled": 15,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      12,
+      3
+    ],
+    [
+      30,
+      2
+    ],
+    [
+      24,
+      1
+    ],
+    [
+      32,
+      1
+    ],
+    [
+      9999,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 1
+  },
+  "paddings": [
+    [
+      "8px",
+      9
+    ],
+    [
+      "22px",
+      1
+    ],
+    [
+      "4px",
+      1
+    ],
+    [
+      "24px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      52
+    ],
+    [
+      14,
+      7
+    ],
+    [
+      12,
+      5
+    ],
+    [
+      11,
+      3
+    ],
+    [
+      24,
+      3
+    ],
+    [
+      36,
+      3
+    ],
+    [
+      18,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 1,
+    "neg_tracked": 1
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 6,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 14,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "천만 개 이상의 캐릭터를 이용하세요",
+    "buttons": [
+      "채팅에 가입하기",
+      "로그인",
+      "Google(으)로 계속",
+      "Apple(으)로 계속",
+      "이메일로 계속",
+      "약관",
+      "개인정보 보호정책",
+      "정보",
+      "채용",
+      "보안 센터",
+      "블로그",
+      "쿠키 정책",
+      "개인 정보 보호 정책",
+      "서비스 약관",
+      "Charms 이용 약관",
+      "?"
+    ]
+  },
+  "ok": true
+}

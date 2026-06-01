@@ -1,0 +1,254 @@
+{
+  "url": "https://squareup.com",
+  "name": "squareup.com",
+  "title": "Power your entire business | Square",
+  "fonts": {
+    "body": "square sans text vf",
+    "heading": "square sans display vf",
+    "loaded_count": 10,
+    "loaded_sample": [
+      "square sans text",
+      "square sans text vf",
+      "square sans mono",
+      "square sans mono vf",
+      "square sans display",
+      "square sans display vf",
+      "cash sans mono",
+      "cash sans",
+      "exact block",
+      "noto sans jp"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      215
+    ],
+    "accent_sampled": 1,
+    "purple_accents": 0,
+    "any_gradients": 9,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      50,
+      16
+    ],
+    [
+      6,
+      14
+    ],
+    [
+      4,
+      10
+    ],
+    [
+      5,
+      2
+    ],
+    [
+      100,
+      2
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      12,
+      1
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      10000,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 1,
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "10px",
+      15
+    ],
+    [
+      "20px",
+      9
+    ],
+    [
+      "18px",
+      8
+    ],
+    [
+      "120px",
+      4
+    ],
+    [
+      "40px",
+      3
+    ],
+    [
+      "80px",
+      3
+    ],
+    [
+      "4px",
+      2
+    ],
+    [
+      "21px",
+      1
+    ],
+    [
+      "5px",
+      1
+    ],
+    [
+      "160px",
+      1
+    ],
+    [
+      "12px",
+      1
+    ],
+    [
+      "60px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      507
+    ],
+    [
+      14,
+      181
+    ],
+    [
+      40,
+      50
+    ],
+    [
+      18,
+      21
+    ],
+    [
+      81,
+      13
+    ],
+    [
+      20,
+      8
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      72,
+      7
+    ],
+    [
+      56,
+      4
+    ],
+    [
+      24,
+      3
+    ],
+    [
+      64,
+      3
+    ],
+    [
+      12,
+      2
+    ]
+  ],
+  "heading": {
+    "big_count": 8,
+    "neg_tracked": 8
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 111,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 73,
+    "centered_fraction": 0.0684931506849315
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Local legend or global icon. Make it big on your block.",
+    "buttons": [
+      "Skip to Content",
+      "Square",
+      "Business types",
+      "Products",
+      "Hardware",
+      "Pricing",
+      "What's new",
+      "Sign in",
+      "Support",
+      "Your Cart",
+      "Get started",
+      "Get started",
+      "Contact sales",
+      "Shop  deals",
+      "Learn  more",
+      "Learn  more",
+      "Learn  more",
+      "Learn  more",
+      "Learn  more",
+      "Learn  more",
+      "Learn  more",
+      "Get started",
+      "Try free for 30 days",
+      "Try free for 30 days",
+      "Get started",
+      "Contact sales",
+      "Submit",
+      "Privacy Policy",
+      "Point of sale",
+      "Payments",
+      "Websites",
+      "Kiosk",
+      "Invoices",
+      "Marketing",
+      "Loyalty",
+      "Customer Directory",
+      "Banking",
+      "Staff",
+      "Payroll",
+      "Buy Now, Pay Later",
+      "Hardware",
+      "Business software & solutions",
+      "Food & Beverage",
+      "Quick Service",
+      "Full Service",
+      "Bars & Breweries",
+      "Retail",
+      "Beauty Salon",
+      "Barbershop",
+      "Hair Salon",
+      "Nail Salon",
+      "Day Spa",
+      "Tattoo & Piercing",
+      "Med spa",
+      "Fitness",
+      "Professional Services",
+      "Home & Repair",
+      "Franchises",
+      "Pricing",
+      "Why Square?"
+    ]
+  },
+  "ok": true
+}

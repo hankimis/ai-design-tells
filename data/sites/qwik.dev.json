@@ -1,0 +1,323 @@
+{
+  "url": "https://qwik.dev",
+  "name": "qwik.dev",
+  "title": "Framework reimagined for the edge! 📚 Qwik Documentation",
+  "fonts": {
+    "body": "poppins",
+    "heading": "poppins",
+    "loaded_count": 1,
+    "loaded_sample": [
+      "poppins"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      216,
+      212,
+      212,
+      197,
+      263,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      202,
+      197,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      263,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160
+    ],
+    "accent_sampled": 68,
+    "purple_accents": 2,
+    "any_gradients": 21,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      11,
+      14
+    ],
+    [
+      8,
+      11
+    ],
+    [
+      16,
+      9
+    ],
+    [
+      100,
+      7
+    ],
+    [
+      50,
+      3
+    ],
+    [
+      6,
+      1
+    ],
+    [
+      17,
+      1
+    ],
+    [
+      40,
+      1
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "5px",
+      11
+    ],
+    [
+      "30px",
+      8
+    ],
+    [
+      "421.188px",
+      6
+    ],
+    [
+      "15px",
+      5
+    ],
+    [
+      "16.6562px",
+      4
+    ],
+    [
+      "80px",
+      4
+    ],
+    [
+      "214px",
+      3
+    ],
+    [
+      "14px",
+      2
+    ],
+    [
+      "90px",
+      2
+    ],
+    [
+      "12px",
+      1
+    ],
+    [
+      "250px",
+      1
+    ],
+    [
+      "16px",
+      1
+    ],
+    [
+      "112px",
+      1
+    ],
+    [
+      "275px",
+      1
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "182.391px",
+      1
+    ],
+    [
+      "120px",
+      1
+    ],
+    [
+      "487.906px",
+      1
+    ],
+    [
+      "480.141px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ],
+    [
+      "103px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      357
+    ],
+    [
+      14,
+      45
+    ],
+    [
+      20,
+      24
+    ],
+    [
+      64,
+      23
+    ],
+    [
+      12,
+      20
+    ],
+    [
+      19,
+      18
+    ],
+    [
+      17,
+      16
+    ],
+    [
+      40,
+      12
+    ],
+    [
+      22,
+      6
+    ],
+    [
+      48,
+      6
+    ],
+    [
+      24,
+      5
+    ],
+    [
+      80,
+      4
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 14,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 76,
+    "centered_fraction": 0.05263157894736842
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "Qwik Homepage",
+      "Docs",
+      "Ecosystem",
+      "Tutorial",
+      "Qwik Sandbox",
+      "Blog",
+      "Search",
+      "Auto",
+      "GitHub",
+      "@QwikDev",
+      "Discord",
+      "Explore the docs",
+      "resumability",
+      "Learn More",
+      "94%Builder Velocity",
+      "98%Reflect.app",
+      "96%Builder.io - Design to Code to Live",
+      "95%Burgers on Fleek",
+      "97%TatbiqIT",
+      "99%Necati Koçlu",
+      "See more examples",
+      "View Examples",
+      "Online Examples",
+      "PodcastBuild Resumable Apps with Qwik",
+      "CourseQwik School by HiRez.io",
+      "CourseQwik Crash Course",
+      "VideoQwik First Impressions",
+      "PodcastQwik Chat with Theo",
+      "PresentationQwik @ WWC22",
+      "See All",
+      "Docs",
+      "Qwik City",
+      "Ecosystem",
+      "Playground",
+      "Integrations",
+      "Deployments",
+      "Media",
+      "Showcase",
+      "Tutorial",
+      "Presentations",
+      "Community",
+      "Press"
+    ]
+  },
+  "ok": true
+}

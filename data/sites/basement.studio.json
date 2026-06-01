@@ -1,0 +1,191 @@
+{
+  "url": "https://basement.studio",
+  "name": "basement.studio",
+  "title": "basement.studio | We make cool shit that performs.",
+  "fonts": {
+    "body": "geist",
+    "heading": "geist",
+    "loaded_count": 6,
+    "loaded_sample": [
+      "geist mono",
+      "geist mono fallback",
+      "geist",
+      "geist fallback",
+      "flauta",
+      "flauta fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220
+    ],
+    "accent_sampled": 66,
+    "purple_accents": 0,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [],
+  "shadows": {},
+  "paddings": [
+    [
+      "16px",
+      5
+    ],
+    [
+      "56px",
+      1
+    ],
+    [
+      "64px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      257
+    ],
+    [
+      13,
+      42
+    ],
+    [
+      38,
+      42
+    ],
+    [
+      20,
+      35
+    ],
+    [
+      12,
+      14
+    ],
+    [
+      76,
+      7
+    ],
+    [
+      24,
+      4
+    ],
+    [
+      87,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 2,
+    "neg_tracked": 2
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 3,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 47,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "A digital studio & branding powerhouse making cool shit that performs",
+    "buttons": [
+      "Home",
+      "Services",
+      "Showcase",
+      "People",
+      "Blog",
+      "Lab",
+      "Contact Us",
+      "Vercel Ship",
+      "Daylight",
+      "KidSuper",
+      "Shop MrBeast",
+      "Websites & Features",
+      "Visual Branding",
+      "IRL Experience Design",
+      "Marketing Execution",
+      "hello@basement.studio",
+      "Home",
+      "Services",
+      "Showcase(25)",
+      "People",
+      "Blog(28)",
+      "Lab",
+      "Contact Us",
+      "Roll Me In",
+      "X (Twitter)",
+      "Instagram",
+      "GitHub",
+      "LinkedIn"
+    ]
+  },
+  "ok": true
+}

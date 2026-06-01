@@ -1,0 +1,213 @@
+{
+  "url": "https://www.nike.com",
+  "name": "www.nike.com",
+  "title": "Nike. Just Do It. Nike.com",
+  "fonts": {
+    "body": "helvetica now text",
+    "heading": "helvetica now display medium",
+    "loaded_count": 11,
+    "loaded_sample": [
+      "nike-glyphs",
+      "nike tg",
+      "nike futura nd",
+      "nike futura",
+      "helvetica now text",
+      "helvetica now text medium",
+      "helvetica now display medium",
+      "palatino lt pro light",
+      "videojs",
+      "helvetica now display bold",
+      "helvetica now display xbold"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      30,
+      27
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      24,
+      3
+    ],
+    [
+      50,
+      3
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      8,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 2,
+    "other": 4
+  },
+  "paddings": [
+    [
+      "36px",
+      32
+    ],
+    [
+      "6px",
+      19
+    ],
+    [
+      "12px",
+      3
+    ],
+    [
+      "5px",
+      2
+    ],
+    [
+      "48px",
+      2
+    ],
+    [
+      "24px",
+      2
+    ],
+    [
+      "15px",
+      1
+    ],
+    [
+      "25px",
+      1
+    ],
+    [
+      "7px",
+      1
+    ],
+    [
+      "2px",
+      1
+    ],
+    [
+      "8px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      953
+    ],
+    [
+      12,
+      240
+    ],
+    [
+      14,
+      184
+    ],
+    [
+      24,
+      6
+    ],
+    [
+      20,
+      5
+    ],
+    [
+      9,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 271,
+    "sheets_blocked": 2
+  },
+  "layout": {
+    "blocks": 58,
+    "centered_fraction": 0.034482758620689655
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "현재 위치가 대한민국로 추정됩니다.위치를 업데이트하시겠습니까?",
+    "buttons": [
+      "United States",
+      "대한민국",
+      "Privacy & Cookie Policy",
+      "Learn More About Ad Partners",
+      "Learn More About Ad Partners",
+      "Confirm Choices",
+      "Accept All",
+      "Skip to main content",
+      "Accessibility at Nike",
+      "Find a Store",
+      "Help",
+      "Help",
+      "Order Status",
+      "Shipping & Delivery",
+      "Returns",
+      "Order Cancellation",
+      "Size Charts",
+      "Contact Us",
+      "Membership",
+      "Promotions & Discounts",
+      "Product Advice",
+      "Send Us Feedback",
+      "Join Us",
+      "Sign In",
+      "Men",
+      "New & Featured",
+      "New Arrivals",
+      "Best Sellers",
+      "Latest Drops",
+      "Father's Day Shop",
+      "SNKRS Launch Calendar",
+      "Shop All Sale",
+      "Shoes",
+      "All Shoes",
+      "Basketball",
+      "Father's Day Shoes",
+      "Jordan",
+      "Lifestyle",
+      "Running",
+      "Sandals & Slides",
+      "Soccer",
+      "Training & Gym",
+      "Custom Shoes",
+      "Clothing",
+      "All Clothing",
+      "Father's Day Clothing",
+      "Hoodies & Sweatshirts",
+      "Jackets & Vests",
+      "Pants",
+      "Shorts",
+      "Swim",
+      "Tops & Graphic Tees",
+      "Accessories",
+      "All Accessories",
+      "Bags & Backpacks",
+      "Hats & Headwear",
+      "Socks",
+      "Women",
+      "New & Featured",
+      "New Arrivals"
+    ]
+  },
+  "ok": true
+}

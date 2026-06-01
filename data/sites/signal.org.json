@@ -1,0 +1,142 @@
+{
+  "url": "https://signal.org",
+  "name": "signal.org",
+  "title": "Signal >> Home",
+  "fonts": {
+    "body": "inter",
+    "heading": "inter",
+    "loaded_count": 1,
+    "loaded_sample": [
+      "inter"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      233,
+      233,
+      220,
+      220,
+      220,
+      220
+    ],
+    "accent_sampled": 6,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      16,
+      7
+    ],
+    [
+      8,
+      2
+    ]
+  ],
+  "shadows": {
+    "other": 2,
+    "diffuse": 4
+  },
+  "paddings": [
+    [
+      "12px",
+      18
+    ],
+    [
+      "8px",
+      7
+    ],
+    [
+      "48px",
+      7
+    ],
+    [
+      "30px",
+      4
+    ],
+    [
+      "16px",
+      2
+    ],
+    [
+      "85px",
+      1
+    ],
+    [
+      "9px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      123
+    ],
+    [
+      20,
+      7
+    ],
+    [
+      28,
+      4
+    ],
+    [
+      40,
+      4
+    ],
+    [
+      60,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 5,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 2,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 28,
+    "centered_fraction": 0.03571428571428571
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Speak Freely",
+    "buttons": [
+      "Get Signal",
+      "Help",
+      "Blog",
+      "Developers",
+      "Careers",
+      "Donate",
+      "English",
+      "Get Signal",
+      "Donate to Signal",
+      "more info here",
+      "press@signal.org",
+      "Donate",
+      "Careers",
+      "Blog",
+      "Brand Assets",
+      "Terms & Privacy Policy",
+      "Android",
+      "iPhone & iPad",
+      "Windows",
+      "Mac",
+      "Linux",
+      "Bluesky",
+      "GitHub",
+      "Instagram",
+      "Mastodon",
+      "X",
+      "Support Center",
+      "Community"
+    ]
+  },
+  "ok": true
+}

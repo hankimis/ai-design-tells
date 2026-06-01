@@ -1,0 +1,213 @@
+{
+  "url": "https://www.atlassian.com",
+  "name": "www.atlassian.com",
+  "title": "Collaboration software for software, IT and business teams | Atlassian",
+  "fonts": {
+    "body": "charlie text",
+    "heading": "charlie text",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "atlassian sans",
+      "atlassian mono",
+      "charlie display",
+      "charlie text"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      215,
+      215,
+      215,
+      215,
+      215,
+      215,
+      215,
+      215,
+      215,
+      215,
+      215,
+      215,
+      215
+    ],
+    "accent_sampled": 13,
+    "purple_accents": 0,
+    "any_gradients": 2,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      3,
+      12
+    ],
+    [
+      20,
+      12
+    ],
+    [
+      4,
+      8
+    ],
+    [
+      10000,
+      8
+    ],
+    [
+      100,
+      6
+    ],
+    [
+      32,
+      1
+    ],
+    [
+      40,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 6
+  },
+  "paddings": [
+    [
+      "24px",
+      20
+    ],
+    [
+      "8px",
+      13
+    ],
+    [
+      "16px",
+      2
+    ],
+    [
+      "19.5px",
+      2
+    ],
+    [
+      "4px",
+      1
+    ],
+    [
+      "10px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ],
+    [
+      "1px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ],
+    [
+      "14px",
+      1
+    ],
+    [
+      "6px",
+      1
+    ],
+    [
+      "64px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      977
+    ],
+    [
+      12,
+      33
+    ],
+    [
+      20,
+      29
+    ],
+    [
+      24,
+      28
+    ],
+    [
+      13,
+      26
+    ],
+    [
+      18,
+      18
+    ],
+    [
+      14,
+      7
+    ],
+    [
+      52,
+      5
+    ],
+    [
+      68,
+      2
+    ],
+    [
+      84,
+      2
+    ]
+  ],
+  "heading": {
+    "big_count": 6,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 11,
+    "sheets_blocked": 4
+  },
+  "layout": {
+    "blocks": 69,
+    "centered_fraction": 0.043478260869565216
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Unleash your teams and their agents",
+    "buttons": [
+      "Get access now",
+      "Skip to content",
+      "Atlassian",
+      "Products",
+      "JiraFlexible project management",
+      "ConfluenceKnowledge, all in one place",
+      "Solutions",
+      "Why Atlassian?",
+      "Resources",
+      "Enterprise",
+      "Sign in",
+      "Get started with Jira",
+      "Contact us",
+      "Teamwork",
+      "Strategy",
+      "Service",
+      "Software",
+      "Product",
+      "Explore Teamwork Collection",
+      "Explore Strategy Collection",
+      "Explore Service Collection",
+      "Explore Software Collection",
+      "Explore Product Collection",
+      "Watch now",
+      "Read report",
+      "Read now",
+      "Watch now",
+      "Read now",
+      "Watch now",
+      "Skip"
+    ]
+  },
+  "ok": true
+}

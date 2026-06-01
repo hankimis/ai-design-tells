@@ -1,0 +1,269 @@
+{
+  "url": "https://huggingface.co",
+  "name": "huggingface.co",
+  "title": "Hugging Face – The AI community building the future.",
+  "fonts": {
+    "body": "source sans pro",
+    "heading": "source sans pro",
+    "loaded_count": 15,
+    "loaded_sample": [
+      "charter",
+      "source sans pro",
+      "ibm plex mono",
+      "katex_ams",
+      "katex_caligraphic",
+      "katex_fraktur",
+      "katex_main",
+      "katex_math",
+      "katex_sansserif",
+      "katex_script",
+      "katex_size1",
+      "katex_size2"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 51,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      8,
+      41
+    ],
+    [
+      33554400,
+      17
+    ],
+    [
+      25.6,
+      12
+    ],
+    [
+      12,
+      10
+    ],
+    [
+      4,
+      9
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      50,
+      4
+    ],
+    [
+      32,
+      2
+    ],
+    [
+      25,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 44
+  },
+  "paddings": [
+    [
+      "8px",
+      25
+    ],
+    [
+      "2px",
+      23
+    ],
+    [
+      "6px",
+      19
+    ],
+    [
+      "24px",
+      12
+    ],
+    [
+      "4px",
+      5
+    ],
+    [
+      "32px",
+      4
+    ],
+    [
+      "12px",
+      3
+    ],
+    [
+      "40px",
+      3
+    ],
+    [
+      "80px",
+      2
+    ],
+    [
+      "96px",
+      2
+    ],
+    [
+      "48px",
+      2
+    ],
+    [
+      "1px",
+      1
+    ],
+    [
+      "56px",
+      1
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "64px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      425
+    ],
+    [
+      14,
+      157
+    ],
+    [
+      12,
+      74
+    ],
+    [
+      18,
+      51
+    ],
+    [
+      20,
+      33
+    ],
+    [
+      15,
+      14
+    ],
+    [
+      30,
+      10
+    ],
+    [
+      60,
+      9
+    ],
+    [
+      13,
+      5
+    ],
+    [
+      96,
+      4
+    ],
+    [
+      24,
+      3
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      48,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 4,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 2,
+    "sheets_blocked": 3
+  },
+  "layout": {
+    "blocks": 23,
+    "centered_fraction": 0.21739130434782608
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "The AI community building the future.",
+    "buttons": [
+      "Hugging Face",
+      "Models",
+      "Datasets",
+      "Spaces",
+      "Buckets new",
+      "Docs",
+      "Pricing",
+      "Tasks",
+      "HuggingChat",
+      "Collections",
+      "Languages",
+      "Organizations",
+      "Blog",
+      "Posts",
+      "Daily Papers",
+      "Learn",
+      "Discord",
+      "Forum",
+      "GitHub",
+      "Team & Enterprise",
+      "Hugging Face PRO",
+      "Enterprise Support",
+      "Inference Providers",
+      "Inference Endpoints",
+      "Storage Buckets",
+      "Log In",
+      "Sign Up",
+      "Explore AI Apps",
+      "Browse 2M+ models",
+      "Browse 2M+ models",
+      "Browse 1M+ applications",
+      "Browse 500k+ datasets",
+      "Sign Up",
+      "Getting started",
+      "Single Sign-On",
+      "Regions",
+      "Priority Support",
+      "Audit Logs",
+      "Resource Groups",
+      "Private Datasets Viewer",
+      "Explore Models",
+      "Inference Endpoints",
+      "Spaces applications",
+      "View pricing",
+      "System theme",
+      "Models",
+      "Datasets",
+      "Spaces",
+      "Changelog",
+      "Inference Endpoints",
+      "HuggingChat",
+      "About",
+      "Brand assets",
+      "Terms of service",
+      "Privacy",
+      "Careers",
+      "Press",
+      "Learn",
+      "Documentation",
+      "Blog"
+    ]
+  },
+  "ok": true
+}

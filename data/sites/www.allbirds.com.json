@@ -1,0 +1,211 @@
+{
+  "url": "https://www.allbirds.com",
+  "name": "www.allbirds.com",
+  "title": "Allbirds: Comfortable, Sustainable Shoes & Apparel",
+  "fonts": {
+    "body": "geograph",
+    "heading": "geograph",
+    "loaded_count": 3,
+    "loaded_sample": [
+      "geograph",
+      "self modern",
+      "akkurat mono"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      75
+    ],
+    "accent_sampled": 1,
+    "purple_accents": 0,
+    "any_gradients": 5,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      33554400,
+      56
+    ],
+    [
+      16,
+      19
+    ],
+    [
+      20,
+      5
+    ],
+    [
+      24,
+      5
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      12,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 11,
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "8px",
+      43
+    ],
+    [
+      "16px",
+      8
+    ],
+    [
+      "80px",
+      3
+    ],
+    [
+      "10px",
+      3
+    ],
+    [
+      "32px",
+      3
+    ],
+    [
+      "6px",
+      2
+    ],
+    [
+      "24px",
+      2
+    ],
+    [
+      "112px",
+      1
+    ],
+    [
+      "4px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      422
+    ],
+    [
+      12,
+      101
+    ],
+    [
+      14,
+      46
+    ],
+    [
+      40,
+      5
+    ],
+    [
+      24,
+      3
+    ],
+    [
+      9,
+      1
+    ],
+    [
+      20,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 4,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 10,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 43,
+    "centered_fraction": 0.06976744186046512
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Wildly Comfortable. Super Natural.",
+    "buttons": [
+      "Men",
+      "Women",
+      "Sale",
+      "About",
+      "0",
+      "Shop Womens",
+      "Shop Mens",
+      "Shop Socks",
+      "Shop Women's Sale",
+      "Shop Men's Sale",
+      "Shop Men",
+      "Shop Women",
+      "Shop Men",
+      "Shop Women",
+      "Pause",
+      "Shop Men",
+      "Shop Women",
+      "Shop Men",
+      "Shop Women",
+      "Shop Men",
+      "Shop Women",
+      "NEW ARRIVALS",
+      "Shop Men",
+      "Shop Women",
+      "New Arrivals",
+      "Women's Tree GliderBurlwood$140",
+      "Men's Canvas CruiserSea Spray$75",
+      "Women's Breezer Mary JaneDusty Pink$115",
+      "Men's Dasher NZSeagrass$140",
+      "Women's Varsity StrapBurlwood$115",
+      "Women's Canvas CruiserStormy Lilac$75",
+      "Shop Men",
+      "Shop Women",
+      "Shop Men",
+      "Shop Women",
+      "Shop Men",
+      "Shop Women",
+      "Sign Up",
+      "Live Chat",
+      "Call Us",
+      "Text Us",
+      "help@allbirds.com",
+      "FAQ/Contact Us",
+      "Returns/Exchanges",
+      "Men's Shoes",
+      "Women's Shoes",
+      "Men's Apparel",
+      "Women's Apparel",
+      "Socks",
+      "Refer a Friend",
+      "Store Locator",
+      "Our Story",
+      "Our Materials",
+      "Sustainability",
+      "Investors",
+      "Shoe Care",
+      "Affiliates",
+      "Bulk Orders",
+      "Press",
+      "Careers"
+    ]
+  },
+  "ok": true
+}

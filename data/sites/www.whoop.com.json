@@ -1,0 +1,325 @@
+{
+  "url": "https://www.whoop.com",
+  "name": "www.whoop.com",
+  "title": "WHOOP | Unlock Human Performance & Healthspan",
+  "fonts": {
+    "body": "proxima-nova",
+    "heading": "proxima-nova",
+    "loaded_count": 5,
+    "loaded_sample": [
+      "proxima-nova",
+      "proxima-nova-condensed",
+      "proxima-nova-extra-condensed",
+      "proxima-nova-wide",
+      "proxima-nova-extra-wide"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      220,
+      220,
+      237,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      0,
+      0
+    ],
+    "accent_sampled": 50,
+    "purple_accents": 0,
+    "any_gradients": 11,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      24,
+      42
+    ],
+    [
+      50,
+      15
+    ],
+    [
+      9999,
+      15
+    ],
+    [
+      16,
+      11
+    ],
+    [
+      20,
+      7
+    ],
+    [
+      60,
+      6
+    ],
+    [
+      8,
+      4
+    ],
+    [
+      300,
+      3
+    ],
+    [
+      30,
+      2
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      12,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 13
+  },
+  "paddings": [
+    [
+      "24px",
+      13
+    ],
+    [
+      "19.9547px",
+      8
+    ],
+    [
+      "10px",
+      8
+    ],
+    [
+      "33px",
+      7
+    ],
+    [
+      "28px",
+      6
+    ],
+    [
+      "15px",
+      6
+    ],
+    [
+      "20px",
+      4
+    ],
+    [
+      "12px",
+      4
+    ],
+    [
+      "40px",
+      3
+    ],
+    [
+      "8px",
+      3
+    ],
+    [
+      "50px",
+      2
+    ],
+    [
+      "99.975px",
+      1
+    ],
+    [
+      "5px",
+      1
+    ],
+    [
+      "75px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      641
+    ],
+    [
+      14,
+      47
+    ],
+    [
+      24,
+      32
+    ],
+    [
+      32,
+      7
+    ],
+    [
+      100,
+      6
+    ],
+    [
+      13,
+      5
+    ],
+    [
+      12,
+      3
+    ],
+    [
+      19,
+      2
+    ],
+    [
+      35,
+      2
+    ],
+    [
+      40,
+      2
+    ],
+    [
+      15,
+      1
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      50,
+      1
+    ],
+    [
+      120,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 7,
+    "neg_tracked": 7
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 10,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 68,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "The wearable designed for lasting progress",
+    "buttons": [
+      "Join now",
+      "WHOOP Logo",
+      "Memberships",
+      "How it works",
+      "Why WHOOP",
+      "Accessories",
+      "Join now",
+      "Join Now",
+      "START WITH ONE",
+      "LEARN MORE",
+      "START WITH PEAK",
+      "LEARN MORE",
+      "START WITH LIFE",
+      "LEARN MORE",
+      "Additional medical information below.",
+      "Zero distractions",
+      "Always on sensors",
+      "14+ day battery life",
+      "Completely customizable",
+      "LeatherLuxe",
+      "SportFlex",
+      "CloudKnit",
+      "SuperKnit",
+      "CoreKnit",
+      "WHOOP Body",
+      "here",
+      "here",
+      "Member Support",
+      "Order Status",
+      "Rejoin WHOOP",
+      "Member Login",
+      "WHOOP Labs Boston",
+      "Digital WHOOP Labs",
+      "WHOOP Advanced Labs",
+      "WHOOP Community",
+      "Support",
+      "Developers",
+      "Engineering",
+      "Careers",
+      "Our Mission",
+      "Terms of Use",
+      "Terms of Sale",
+      "Sales Terms",
+      "Privacy",
+      "Minimum Advertised Pricing Policy",
+      "Security",
+      "Patent",
+      "Full Privacy Policy",
+      "Consumer Health Notice",
+      "Become an Affiliate",
+      "Developers",
+      "Get WHOOP",
+      "Refer a Friend",
+      "Gift WHOOP",
+      "Corporate Gifting",
+      "Accessories",
+      "Hero Discounts",
+      "Student Discount",
+      "Store Locator",
+      "The Locker"
+    ]
+  },
+  "ok": true
+}

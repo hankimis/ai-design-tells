@@ -1,0 +1,252 @@
+{
+  "url": "https://deno.com",
+  "name": "deno.com",
+  "title": "Deno, the next-generation JavaScript runtime",
+  "fonts": {
+    "body": "inter",
+    "heading": "inter",
+    "loaded_count": 3,
+    "loaded_sample": [
+      "inter",
+      "moranga",
+      "recursive"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      165,
+      165,
+      165,
+      146,
+      216,
+      146,
+      146,
+      146,
+      146,
+      50,
+      216,
+      144,
+      216,
+      194,
+      216,
+      194,
+      216,
+      194,
+      216,
+      291,
+      291,
+      144,
+      216,
+      291,
+      50,
+      216,
+      194,
+      216,
+      291,
+      146,
+      146
+    ],
+    "accent_sampled": 31,
+    "purple_accents": 4,
+    "any_gradients": 22,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      4,
+      88
+    ],
+    [
+      6,
+      47
+    ],
+    [
+      8,
+      33
+    ],
+    [
+      33554400,
+      20
+    ],
+    [
+      9997,
+      11
+    ],
+    [
+      9999,
+      11
+    ],
+    [
+      12,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 33
+  },
+  "paddings": [
+    [
+      "4px",
+      88
+    ],
+    [
+      "32px",
+      30
+    ],
+    [
+      "16px",
+      25
+    ],
+    [
+      "8px",
+      22
+    ],
+    [
+      "12px",
+      13
+    ],
+    [
+      "2px",
+      11
+    ],
+    [
+      "144px",
+      11
+    ],
+    [
+      "64px",
+      5
+    ],
+    [
+      "24px",
+      1
+    ],
+    [
+      "20px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      616
+    ],
+    [
+      14,
+      537
+    ],
+    [
+      12,
+      90
+    ],
+    [
+      18,
+      75
+    ],
+    [
+      44,
+      18
+    ],
+    [
+      20,
+      13
+    ],
+    [
+      72,
+      11
+    ],
+    [
+      36,
+      8
+    ],
+    [
+      28,
+      5
+    ],
+    [
+      27,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 10,
+    "neg_tracked": 10
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 14,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 68,
+    "centered_fraction": 0.14705882352941177
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Uncomplicate JavaScript",
+    "buttons": [
+      "Skip to main content",
+      "Read the post->",
+      "Dismiss",
+      "Products",
+      "Docs",
+      "Modules",
+      "Community",
+      "Blog",
+      "Docs",
+      "GitHub",
+      "Release notes",
+      "MacOS/Linux(Currently selected)",
+      "Windows",
+      "Copy command",
+      "Learn more",
+      "More about TypeScript in Deno",
+      "Node and npm support",
+      "TC39",
+      "WinterCG",
+      "Web APIs in Deno",
+      "Skip past APIs list",
+      "Worker",
+      "MessageEvent",
+      "WritableStreamDefaultController",
+      "structuredClone",
+      "DecompressionStream",
+      "CompressionStream",
+      "setInterval",
+      "PromiseRejectionEvent",
+      "clearInterval",
+      "Blob",
+      "fetch",
+      "btoa",
+      "localStorage",
+      "Navigator",
+      "clearTimeout",
+      "ReadableStreamDefaultController",
+      "Response.json()",
+      "EventTarget",
+      "caches",
+      "CacheStorage",
+      "MessagePort",
+      "Location",
+      "DedicatedWorkerGlobalScope",
+      "WebSocket",
+      "queueMicrotask",
+      "CryptoKey",
+      "ErrorEvent",
+      "PerformanceMark",
+      "WorkerNavigator",
+      "ReadableStreamBYOBRequest",
+      "TextDecoder",
+      "WorkerLocation",
+      "TextEncoderStream",
+      "ReadableByteStreamController",
+      "TransformStream",
+      "File",
+      "CustomEvent",
+      "Event",
+      "performance"
+    ]
+  },
+  "ok": true
+}

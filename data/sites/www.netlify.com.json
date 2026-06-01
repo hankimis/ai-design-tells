@@ -1,0 +1,239 @@
+{
+  "url": "https://www.netlify.com",
+  "name": "www.netlify.com",
+  "title": "Push your ideas to the web | Netlify",
+  "fonts": {
+    "body": "instrument sans",
+    "heading": "figtree",
+    "loaded_count": 3,
+    "loaded_sample": [
+      "instrument sans",
+      "figtree",
+      "martian mono"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      179,
+      179,
+      179,
+      179,
+      179,
+      179,
+      179,
+      179,
+      179
+    ],
+    "accent_sampled": 9,
+    "purple_accents": 0,
+    "any_gradients": 4,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      4,
+      26
+    ],
+    [
+      6,
+      8
+    ],
+    [
+      360,
+      6
+    ],
+    [
+      16,
+      4
+    ],
+    [
+      50,
+      4
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      12,
+      3
+    ],
+    [
+      8,
+      2
+    ]
+  ],
+  "shadows": {
+    "other": 2,
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "8px",
+      13
+    ],
+    [
+      "16px",
+      13
+    ],
+    [
+      "4px",
+      6
+    ],
+    [
+      "10px",
+      6
+    ],
+    [
+      "96px",
+      6
+    ],
+    [
+      "12px",
+      6
+    ],
+    [
+      "24px",
+      5
+    ],
+    [
+      "32px",
+      4
+    ],
+    [
+      "48px",
+      4
+    ],
+    [
+      "2px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      863
+    ],
+    [
+      14,
+      76
+    ],
+    [
+      18,
+      28
+    ],
+    [
+      13,
+      5
+    ],
+    [
+      32,
+      4
+    ],
+    [
+      37,
+      4
+    ],
+    [
+      64,
+      4
+    ],
+    [
+      21,
+      3
+    ],
+    [
+      24,
+      3
+    ],
+    [
+      48,
+      3
+    ],
+    [
+      12,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 4,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 18,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 25,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Push your ideas to the web",
+    "buttons": [
+      "Go to homepage",
+      "Skip to content",
+      "Toggle platform submenu",
+      "Toggle solutions submenu",
+      "Toggle developers submenu",
+      "Toggle resources submenu",
+      "Pricing",
+      "Search",
+      "Contact",
+      "Log in",
+      "Sign up",
+      "Start building",
+      "Talk to sales",
+      "Explore the platform",
+      "AI apps",
+      "Marketing sites",
+      "SaaS apps",
+      "Ecommerce",
+      "Internal tools",
+      "Explore AI Gateway",
+      "Start for free",
+      "Import a project",
+      "Get started with CLI",
+      "Try Netlify Drop",
+      "Go to Netlify homepage",
+      "GitHub",
+      "LinkedIn",
+      "Bluesky",
+      "YouTube",
+      "Discourse",
+      "Agent Runners",
+      "Deploy Previews",
+      "Functions",
+      "Observability",
+      "Security",
+      "Netlify CLI",
+      "Enterprise",
+      "Pricing",
+      "Docs",
+      "Status",
+      "Support",
+      "Developer guides",
+      "Changelog",
+      "Integrations",
+      "Guides",
+      "Hire an agency",
+      "About",
+      "Agent Experience",
+      "Blog",
+      "Customers",
+      "Partners",
+      "Careers",
+      "Press",
+      "Sales",
+      "Support",
+      "Status",
+      "Forums",
+      "Trust Center",
+      "Privacy",
+      "GDPR/CCPA"
+    ]
+  },
+  "ok": true
+}

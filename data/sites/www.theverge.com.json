@@ -1,0 +1,263 @@
+{
+  "url": "https://www.theverge.com",
+  "name": "www.theverge.com",
+  "title": "The Verge",
+  "fonts": {
+    "body": "ui-sans-serif",
+    "heading": "__polysans_9afc27",
+    "loaded_count": 8,
+    "loaded_sample": [
+      "__fkromanstandard_cfceed",
+      "__fkromanstandard_fallback_cfceed",
+      "__manuka_62afb5",
+      "__manuka_fallback_62afb5",
+      "__polysans_9afc27",
+      "__polysans_fallback_9afc27",
+      "__polysansmono_0b836e",
+      "__polysansmono_fallback_0b836e"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      166,
+      166,
+      166,
+      166,
+      166,
+      166,
+      166,
+      166
+    ],
+    "accent_sampled": 8,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      3,
+      36
+    ],
+    [
+      50,
+      26
+    ],
+    [
+      2,
+      13
+    ],
+    [
+      24,
+      3
+    ],
+    [
+      1,
+      2
+    ]
+  ],
+  "shadows": {
+    "other": 128,
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "16px",
+      22
+    ],
+    [
+      "20px",
+      18
+    ],
+    [
+      "24px",
+      18
+    ],
+    [
+      "10px",
+      12
+    ],
+    [
+      "8px",
+      12
+    ],
+    [
+      "6px",
+      10
+    ],
+    [
+      "21px",
+      8
+    ],
+    [
+      "14px",
+      7
+    ],
+    [
+      "40px",
+      6
+    ],
+    [
+      "15px",
+      6
+    ],
+    [
+      "35px",
+      4
+    ],
+    [
+      "12px",
+      3
+    ],
+    [
+      "18px",
+      2
+    ],
+    [
+      "30px",
+      2
+    ],
+    [
+      "4px",
+      1
+    ],
+    [
+      "50px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      1555
+    ],
+    [
+      11,
+      879
+    ],
+    [
+      20,
+      79
+    ],
+    [
+      18,
+      64
+    ],
+    [
+      24,
+      41
+    ],
+    [
+      14,
+      25
+    ],
+    [
+      13,
+      19
+    ],
+    [
+      19,
+      12
+    ],
+    [
+      26,
+      8
+    ],
+    [
+      15,
+      5
+    ],
+    [
+      12,
+      4
+    ],
+    [
+      34,
+      4
+    ],
+    [
+      90,
+      2
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 5,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 72,
+    "centered_fraction": 0.05555555555555555
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "Skip to main content",
+      "Subscribe",
+      "Sign In",
+      "The VergeThe Verge logo.",
+      "Tech",
+      "Reviews",
+      "Science",
+      "Entertainment",
+      "AI",
+      "Policy",
+      "Notifications",
+      "Hamburger Navigation Button",
+      "CommentsComment Icon Bubble112",
+      "CommentsComment Icon Bubble8",
+      "CommentsComment Icon Bubble22",
+      "CommentsComment Icon Bubble76",
+      "CommentsComment Icon Bubble3",
+      "CommentsComment Icon Bubble14",
+      "CommentsComment Icon Bubble37",
+      "CommentsComment Icon Bubble22",
+      "CommentsComment Icon Bubble21",
+      "View all stories",
+      "CommentsComment Icon Bubble60",
+      "CommentsComment Icon Bubble19",
+      "CommentsComment Icon Bubble2",
+      "CommentsComment Icon Bubble73",
+      "CommentsComment Icon Bubble2",
+      "CommentsComment Icon Bubble29",
+      "CommentsComment Icon Bubble144",
+      "View all stories",
+      "CommentsComment Icon Bubble56",
+      "The Pope isn’t AGI-pilled",
+      "CommentsComment Icon Bubble12",
+      "CommentsComment Icon Bubble152",
+      "CommentsComment Icon Bubble112",
+      "CommentsComment Icon Bubble76",
+      "CommentsComment Icon Bubble152",
+      "CommentsComment Icon Bubble60",
+      "CommentsComment Icon Bubble37",
+      "Latest",
+      "Following",
+      "Twitch says",
+      "CommentsComment Icon Bubble0",
+      "Link",
+      "CommentsComment Icon Bubble8",
+      "CommentsComment Icon Bubble1",
+      "criminal investigation",
+      "CommentsComment Icon Bubble5",
+      "Link",
+      "@obamawhitehouse",
+      "by TMZ",
+      "also hijacked",
+      "several",
+      "users",
+      "reported",
+      "getting",
+      "Allow",
+      "CommentsComment Icon Bubble0",
+      "Link",
+      "rumored design"
+    ]
+  },
+  "ok": true
+}

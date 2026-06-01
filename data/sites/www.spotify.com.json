@@ -1,0 +1,201 @@
+{
+  "url": "https://www.spotify.com",
+  "name": "www.spotify.com",
+  "title": "Spotify - Web Player: Music for everyone",
+  "fonts": {
+    "body": "spotifymixui",
+    "heading": "spotifymixui",
+    "loaded_count": 8,
+    "loaded_sample": [
+      "circularsp-deva",
+      "circularsp-grek",
+      "circularsp-arab",
+      "circularsp-cyrl",
+      "circularsp-hebr",
+      "spotifymixui",
+      "spotifymixuititle",
+      "spotifymixuititlevariable"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      240,
+      240
+    ],
+    "accent_sampled": 2,
+    "purple_accents": 2,
+    "any_gradients": 3,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      9999,
+      104
+    ],
+    [
+      6,
+      103
+    ],
+    [
+      500,
+      41
+    ],
+    [
+      50,
+      31
+    ],
+    [
+      2,
+      9
+    ],
+    [
+      8,
+      5
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      16,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 3,
+    "diffuse": 81
+  },
+  "paddings": [
+    [
+      "12px",
+      43
+    ],
+    [
+      "8px",
+      19
+    ],
+    [
+      "4px",
+      6
+    ],
+    [
+      "16px",
+      5
+    ],
+    [
+      "2px",
+      3
+    ],
+    [
+      "11px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      869
+    ],
+    [
+      13,
+      211
+    ],
+    [
+      14,
+      210
+    ],
+    [
+      12,
+      23
+    ],
+    [
+      24,
+      9
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 6,
+    "sheets_blocked": 13
+  },
+  "layout": {
+    "blocks": 43,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "내 라이브러리",
+    "buttons": [
+      "Spotify",
+      "Premium",
+      "지원",
+      "다운로드하기",
+      "앱 설치하기",
+      "가입하기",
+      "로그인하기",
+      "플레이리스트 만들기",
+      "팟캐스트 둘러보기",
+      "법률 정보",
+      "안전 및 개인정보 보호 센터",
+      "개인정보 처리방침",
+      "광고 상세정보",
+      "접근성",
+      "쿠키",
+      "한국어",
+      "무료로 가입하기",
+      "인기 상승 곡",
+      "모두 표시",
+      "LEMONADE",
+      "aespa",
+      "갑자기",
+      "아이오아이",
+      "LOVE ATTACK",
+      "RESCENE",
+      "BOOMPALA",
+      "LE SSERAFIM",
+      "REDRED",
+      "CORTIS",
+      "It's Me",
+      "ILLIT",
+      "입춘",
+      "HANRORO",
+      "hate that i made you love me",
+      "Ariana Grande",
+      "LLLM (feat. 개코, ZICO) [prod. Tray B]",
+      "Tray B",
+      "개코",
+      "지코",
+      "FLYING HIGH WITH U",
+      "빈첸",
+      "가짜사랑",
+      "CHOIJUNSEONG (Jun S)",
+      "캐치 캐치",
+      "YENA",
+      "Sweet Escape",
+      "BewhY",
+      "Drowning",
+      "WOODZ",
+      "너드커넥션",
+      "Billie Jean",
+      "Michael Jackson",
+      "Heavy Serenade",
+      "NMIXX",
+      "LIVE FAST DIE SLOW",
+      "태양",
+      "Lovey Dovey (Solo Ver.)",
+      "BIG Naughty (서동현)",
+      "404 (New Era)",
+      "KiiiKiii"
+    ]
+  },
+  "ok": true
+}

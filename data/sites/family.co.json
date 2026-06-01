@@ -1,0 +1,338 @@
+{
+  "url": "https://family.co",
+  "name": "family.co",
+  "title": "Family",
+  "fonts": {
+    "body": "inter",
+    "heading": "family",
+    "loaded_count": 3,
+    "loaded_sample": [
+      "family",
+      "lfe sans",
+      "inter"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      43,
+      43,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210
+    ],
+    "accent_sampled": 8,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      10,
+      30
+    ],
+    [
+      40,
+      30
+    ],
+    [
+      72,
+      27
+    ],
+    [
+      12,
+      25
+    ],
+    [
+      6,
+      10
+    ],
+    [
+      7.5,
+      9
+    ],
+    [
+      8,
+      7
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      50,
+      6
+    ],
+    [
+      32,
+      4
+    ],
+    [
+      9.6,
+      2
+    ],
+    [
+      17,
+      1
+    ],
+    [
+      24,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 3,
+    "other": 38
+  },
+  "paddings": [
+    [
+      "12px",
+      39
+    ],
+    [
+      "8px",
+      37
+    ],
+    [
+      "32px",
+      36
+    ],
+    [
+      "4px",
+      6
+    ],
+    [
+      "9px",
+      4
+    ],
+    [
+      "16px",
+      4
+    ],
+    [
+      "24px",
+      4
+    ],
+    [
+      "2px",
+      4
+    ],
+    [
+      "11px",
+      3
+    ],
+    [
+      "10px",
+      2
+    ],
+    [
+      "51px",
+      2
+    ],
+    [
+      "104px",
+      2
+    ],
+    [
+      "100px",
+      2
+    ],
+    [
+      "116px",
+      2
+    ],
+    [
+      "30px",
+      1
+    ],
+    [
+      "1px",
+      1
+    ],
+    [
+      "120px",
+      1
+    ],
+    [
+      "74px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ],
+    [
+      "56px",
+      1
+    ],
+    [
+      "102px",
+      1
+    ],
+    [
+      "90px",
+      1
+    ],
+    [
+      "96px",
+      1
+    ],
+    [
+      "66px",
+      1
+    ],
+    [
+      "124px",
+      1
+    ],
+    [
+      "44px",
+      1
+    ],
+    [
+      "132px",
+      1
+    ],
+    [
+      "78px",
+      1
+    ],
+    [
+      "68px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      1971
+    ],
+    [
+      44,
+      129
+    ],
+    [
+      15,
+      96
+    ],
+    [
+      17,
+      87
+    ],
+    [
+      13,
+      64
+    ],
+    [
+      14,
+      56
+    ],
+    [
+      19,
+      21
+    ],
+    [
+      20,
+      6
+    ],
+    [
+      68,
+      5
+    ],
+    [
+      12,
+      3
+    ],
+    [
+      23,
+      2
+    ]
+  ],
+  "heading": {
+    "big_count": 13,
+    "neg_tracked": 13
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 3,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 53,
+    "centered_fraction": 0.018867924528301886
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Your favorite crypto wallet.",
+    "buttons": [
+      "Developers",
+      "FamilyDedicated self-custody account.",
+      "Resources",
+      "Blog",
+      "Changelog",
+      "Help & Support",
+      "FAQs",
+      "X (Twitter)",
+      "Log In",
+      "Log In",
+      "Get Started",
+      "Download on iOS",
+      "Watch the Video",
+      "Manage your collectiblesWatch the demo",
+      "Watching WalletsWatch the demo",
+      "Wallet ActivityWatch the demo",
+      "Follow Family",
+      "floguo",
+      "Daniel Feodoroff",
+      "emm",
+      "skytracker.lens(🌸, 🌿)",
+      "Ilya Komolkin",
+      "miguel piedrafita",
+      "Shiv",
+      "floguo",
+      "Daniel Feodoroff",
+      "emm",
+      "skytracker.lens(🌸, 🌿)",
+      "Ilya Komolkin",
+      "miguel piedrafita",
+      "Shiv",
+      "Zora Zine",
+      "liquid density",
+      "Tani",
+      "Maxim Bogun",
+      "artiom",
+      "Clayo",
+      "Guillermo Torres",
+      "Adam Waterhouse",
+      "Zora Zine",
+      "liquid density",
+      "Tani",
+      "Maxim Bogun",
+      "artiom",
+      "Clayo",
+      "Guillermo Torres",
+      "Adam Waterhouse",
+      "audited by Zellic",
+      "Import from MetaMask",
+      "Import from Phantom",
+      "See More FAQs",
+      "Download for iOS",
+      "Documentation",
+      "ConnectKit",
+      "GitHub",
+      "Audit Report",
+      "Changelog",
+      "Blog",
+      "FAQs",
+      "Press Kit"
+    ]
+  },
+  "ok": true
+}

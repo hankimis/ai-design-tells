@@ -1,0 +1,432 @@
+{
+  "url": "https://www.craft.do",
+  "name": "www.craft.do",
+  "title": "Craft — 노트, 작업, 문서를 위한 생산성 앱",
+  "fonts": {
+    "body": "untitledsansfont",
+    "heading": "untitledseriffont",
+    "loaded_count": 22,
+    "loaded_sample": [
+      "source serif 4",
+      "source serif 4 fallback",
+      "inter",
+      "inter fallback",
+      "notosanssc",
+      "notosanssc fallback",
+      "notoserifsc",
+      "notoserifsc fallback",
+      "ibmplexsanskr",
+      "ibmplexsanskr fallback",
+      "hahmlet",
+      "hahmlet fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      134,
+      60,
+      60,
+      134,
+      60,
+      60,
+      134,
+      60,
+      60,
+      134,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "accent_sampled": 125,
+    "purple_accents": 0,
+    "any_gradients": 29,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      24,
+      83
+    ],
+    [
+      14,
+      68
+    ],
+    [
+      4,
+      26
+    ],
+    [
+      33554400,
+      26
+    ],
+    [
+      32,
+      13
+    ],
+    [
+      16,
+      11
+    ],
+    [
+      8,
+      10
+    ],
+    [
+      12,
+      8
+    ],
+    [
+      20,
+      3
+    ],
+    [
+      18,
+      1
+    ],
+    [
+      26,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 33,
+    "diffuse": 38
+  },
+  "paddings": [
+    [
+      "4px",
+      24
+    ],
+    [
+      "8px",
+      19
+    ],
+    [
+      "24px",
+      18
+    ],
+    [
+      "3px",
+      15
+    ],
+    [
+      "16px",
+      11
+    ],
+    [
+      "12px",
+      9
+    ],
+    [
+      "32px",
+      7
+    ],
+    [
+      "2px",
+      7
+    ],
+    [
+      "60px",
+      6
+    ],
+    [
+      "48px",
+      4
+    ],
+    [
+      "13px",
+      2
+    ],
+    [
+      "5px",
+      2
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "120px",
+      1
+    ],
+    [
+      "18px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ],
+    [
+      "6px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      904
+    ],
+    [
+      12,
+      118
+    ],
+    [
+      14,
+      78
+    ],
+    [
+      18,
+      23
+    ],
+    [
+      13,
+      22
+    ],
+    [
+      10,
+      17
+    ],
+    [
+      15,
+      17
+    ],
+    [
+      24,
+      14
+    ],
+    [
+      32,
+      12
+    ],
+    [
+      20,
+      7
+    ],
+    [
+      54,
+      7
+    ],
+    [
+      36,
+      4
+    ],
+    [
+      28,
+      3
+    ],
+    [
+      46,
+      3
+    ],
+    [
+      30,
+      2
+    ],
+    [
+      19,
+      1
+    ],
+    [
+      56,
+      1
+    ],
+    [
+      66,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 7,
+    "neg_tracked": 7
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 7,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 87,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "노트, 작업, 아이디어를 위한 나만의 공간",
+    "buttons": [
+      "제품",
+      "상상해보기",
+      "커뮤니티",
+      "가격",
+      "학습",
+      "다운로드",
+      "로그인",
+      "Craft 무료로 체험하기",
+      "Craft 무료로 체험하기",
+      "더 알아보기",
+      "더 알아보기",
+      "Claude",
+      "ChatGPT",
+      "Claude Code",
+      "Windsurf",
+      "Cursor",
+      "Visual Studio Code",
+      "Raycast",
+      "Other MCP Clients",
+      "Lovable",
+      "Replit",
+      "Apple Shortcuts",
+      "Bolt",
+      "v0",
+      "Claude Code",
+      "Codex CLI",
+      "Other Tools",
+      "Blog Publisher",
+      "Reading Tracker",
+      "Plant Dashboard",
+      "Dream Journal",
+      "더 알아보기",
+      "더 알아보기",
+      "Discord함께 토론하고, 공유하고, 탐험해 보세요",
+      "@craftdocs팁, 튜토리얼, 그리고 기능 심층 분석",
+      "Slack새로운 기능을 가장 먼저 만나보세요",
+      "@craftdocsCraft의 최신 소식을 받아보세요",
+      "시작하기",
+      "Plus로 업그레이드",
+      "그룹 할인에 대해 더 알아보기",
+      "웹으로 계속하기",
+      "App Store에서 다운로드",
+      "새 기능 소식",
+      "작성",
+      "플랜",
+      "정리",
+      "맞춤 설정",
+      "Imagine With Craft",
+      "가격",
+      "교육용 플랜",
+      "Discord",
+      "YouTube",
+      "X / Twitter",
+      "학습",
+      "시작 가이드",
+      "템플릿 갤러리",
+      "도움말 센터",
+      "고객 지원 문의",
+      "회사 소개",
+      "블로그"
+    ]
+  },
+  "ok": true
+}

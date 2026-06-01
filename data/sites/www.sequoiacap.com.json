@@ -1,0 +1,193 @@
+{
+  "url": "https://www.sequoiacap.com",
+  "name": "www.sequoiacap.com",
+  "title": "Home | Sequoia Capital",
+  "fonts": {
+    "body": "rosart",
+    "heading": "rosart",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "pitchsans",
+      "rosart",
+      "unica",
+      "icons"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      164,
+      162,
+      162,
+      162,
+      162,
+      20,
+      162,
+      162,
+      34,
+      38,
+      164,
+      162,
+      164,
+      201,
+      38,
+      38,
+      38,
+      38
+    ],
+    "accent_sampled": 18,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      50,
+      3
+    ],
+    [
+      990,
+      2
+    ],
+    [
+      999,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 1
+  },
+  "paddings": [
+    [
+      "24px",
+      15
+    ],
+    [
+      "12px",
+      4
+    ],
+    [
+      "16px",
+      3
+    ],
+    [
+      "15px",
+      2
+    ],
+    [
+      "5px",
+      2
+    ],
+    [
+      "10px",
+      2
+    ],
+    [
+      "42px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ],
+    [
+      "33px",
+      1
+    ],
+    [
+      "62px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      18,
+      217
+    ],
+    [
+      14,
+      35
+    ],
+    [
+      32,
+      13
+    ],
+    [
+      12,
+      12
+    ],
+    [
+      17,
+      7
+    ],
+    [
+      19,
+      4
+    ],
+    [
+      52,
+      4
+    ],
+    [
+      20,
+      3
+    ],
+    [
+      24,
+      2
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      16,
+      1
+    ],
+    [
+      40,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 15,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 8,
+    "sheets_blocked": 3
+  },
+  "layout": {
+    "blocks": 19,
+    "centered_fraction": 0.21052631578947367
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "We help the daring build legendary companies.",
+    "buttons": [
+      "Our Founders",
+      "Our Companies",
+      "Our Team",
+      "Stories",
+      "Podcasts",
+      "Arc",
+      "Open search",
+      "Explore our companies",
+      "Find Jobs at Sequoia Companies",
+      "Accept",
+      "Decline",
+      "Our Ethos",
+      "Our History",
+      "Jobs",
+      "Legal",
+      "Sequoia Capital",
+      "Sequoia Heritage",
+      "Sequoia Capital Global Equities",
+      "LP Login",
+      "Sequoia Ampersand Login",
+      "On\n\t\t\t\t\t\tOff"
+    ]
+  },
+  "ok": true
+}

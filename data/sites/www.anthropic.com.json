@@ -1,0 +1,201 @@
+{
+  "url": "https://www.anthropic.com",
+  "name": "www.anthropic.com",
+  "title": "Home \\ Anthropic",
+  "fonts": {
+    "body": "anthropic serif",
+    "heading": "anthropic sans",
+    "loaded_count": 5,
+    "loaded_sample": [
+      "webflow-icons",
+      "jetbrains mono",
+      "anthropic sans",
+      "anthropic serif",
+      "anthropic mono"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      48,
+      48,
+      48,
+      48,
+      48,
+      48,
+      48,
+      48,
+      48,
+      48,
+      48,
+      48
+    ],
+    "accent_sampled": 12,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      8,
+      17
+    ],
+    [
+      24,
+      4
+    ],
+    [
+      16,
+      3
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "4px",
+      78
+    ],
+    [
+      "12px",
+      8
+    ],
+    [
+      "22.4px",
+      5
+    ],
+    [
+      "8px",
+      5
+    ],
+    [
+      "16px",
+      5
+    ],
+    [
+      "31.4776px",
+      3
+    ],
+    [
+      "90.7755px",
+      1
+    ],
+    [
+      "75.8204px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      12,
+      289
+    ],
+    [
+      20,
+      137
+    ],
+    [
+      16,
+      88
+    ],
+    [
+      61,
+      22
+    ],
+    [
+      15,
+      11
+    ],
+    [
+      24,
+      9
+    ],
+    [
+      18,
+      7
+    ],
+    [
+      91,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 2,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 17,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 22,
+    "centered_fraction": 0.13636363636363635
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "AI research and products that put safety at the frontierAI research and products that put safety at the frontier",
+    "buttons": [
+      "Skip to main content",
+      "Skip to footer",
+      "Research",
+      "Economic Futures",
+      "Commitments",
+      "Learn",
+      "News",
+      "Try Claude",
+      "Learn more about Claude",
+      "research",
+      "products",
+      "research",
+      "products",
+      "Read the story",
+      "Model details",
+      "Read announcement",
+      "Read the post",
+      "Read the story",
+      "Claude",
+      "Claude Code",
+      "Claude Code for Enterprise",
+      "Claude Cowork",
+      "Claude Security",
+      "Claude for Chrome",
+      "Claude for Slack",
+      "Claude for Microsoft 365",
+      "Skills",
+      "Max plan",
+      "Team plan",
+      "Enterprise plan",
+      "Download app",
+      "Pricing",
+      "Log in to Claude",
+      "Mythos Preview",
+      "Opus",
+      "Sonnet",
+      "Haiku",
+      "AI agents",
+      "Code modernization",
+      "Coding",
+      "Customer support",
+      "Education",
+      "Financial services",
+      "Government",
+      "Healthcare",
+      "Legal",
+      "Life sciences",
+      "Nonprofits",
+      "Security",
+      "Small business",
+      "Overview",
+      "Developer docs",
+      "Pricing",
+      "Marketplace",
+      "Regional compliance",
+      "Claude on AWS",
+      "Google Cloud",
+      "Microsoft Foundry",
+      "Console login",
+      "Blog"
+    ]
+  },
+  "ok": true
+}

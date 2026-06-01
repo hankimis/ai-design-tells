@@ -1,0 +1,359 @@
+{
+  "url": "https://astro.build",
+  "name": "astro.build",
+  "title": "Astro",
+  "fonts": {
+    "body": "ui-sans-serif",
+    "heading": "obviously",
+    "loaded_count": 6,
+    "loaded_sample": [
+      "obviously",
+      "inter",
+      "mdio",
+      "md-io-fallback",
+      "obviously-fallback",
+      "inter-fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      226,
+      210,
+      220,
+      220,
+      220,
+      220,
+      226,
+      210,
+      220,
+      210,
+      220,
+      210,
+      220,
+      210,
+      220,
+      210,
+      220,
+      210,
+      220,
+      210,
+      220,
+      210,
+      220,
+      210,
+      220,
+      210,
+      220,
+      223,
+      193,
+      224,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      210,
+      220,
+      210,
+      220,
+      210,
+      220,
+      210,
+      220,
+      210,
+      220,
+      210,
+      220,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      220,
+      210,
+      220,
+      210,
+      220,
+      210,
+      220,
+      210,
+      220,
+      210,
+      220,
+      210,
+      210,
+      210,
+      220,
+      210,
+      210,
+      220,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220
+    ],
+    "accent_sampled": 119,
+    "purple_accents": 0,
+    "any_gradients": 51,
+    "blue_purple_gradients": 15
+  },
+  "radii": [
+    [
+      9999,
+      58
+    ],
+    [
+      8,
+      31
+    ],
+    [
+      12,
+      25
+    ],
+    [
+      16,
+      21
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      3.2,
+      2
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      24,
+      1
+    ],
+    [
+      7.5,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 3
+  },
+  "paddings": [
+    [
+      "8px",
+      23
+    ],
+    [
+      "16px",
+      22
+    ],
+    [
+      "24px",
+      17
+    ],
+    [
+      "4px",
+      15
+    ],
+    [
+      "12px",
+      10
+    ],
+    [
+      "2px",
+      10
+    ],
+    [
+      "10px",
+      5
+    ],
+    [
+      "32px",
+      4
+    ],
+    [
+      "3px",
+      3
+    ],
+    [
+      "6px",
+      1
+    ],
+    [
+      "160px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      849
+    ],
+    [
+      14,
+      155
+    ],
+    [
+      12,
+      15
+    ],
+    [
+      30,
+      12
+    ],
+    [
+      20,
+      10
+    ],
+    [
+      36,
+      3
+    ],
+    [
+      13,
+      2
+    ],
+    [
+      18,
+      1
+    ],
+    [
+      48,
+      1
+    ],
+    [
+      200,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 9,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 3,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 56,
+    "centered_fraction": 0.10714285714285714
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "The web framework for content-driven websites",
+    "buttons": [
+      "Skip to content",
+      "Astro Logo",
+      "Documentation",
+      "Blog",
+      "Go to Astro's GitHub repo",
+      "Astro 6.4    \n          Available now!",
+      "Get Started",
+      "View the full dataset",
+      "HTTP Archive",
+      "Chrome UX Report",
+      "Integrate your favorite framework",
+      "React",
+      "Vue",
+      "Preact",
+      "Svelte",
+      "Solid",
+      "Add to cart",
+      "Content Collections",
+      "Zero JavaScript, By Default",
+      "View Transitions",
+      "Optimized Images",
+      "UI Integrations",
+      "File-Based Routing",
+      "Middleware",
+      "Actions",
+      "Deployment Adapters",
+      "Simple Templating",
+      "Instant Page Loads",
+      "AI-Ready",
+      "Environment Variables",
+      "Dev Toolbar",
+      "Trending",
+      "E-Commerce",
+      "Blogs",
+      "Docs",
+      "Portfolios",
+      "Landing Pages",
+      "View Theme",
+      "View Theme",
+      "View Theme",
+      "View Theme",
+      "View Theme",
+      "Browse more themes",
+      "Explore partner agencies",
+      "Bejamas",
+      "Bits&Letters",
+      "Seibert Group GmbH",
+      "Lucky Media",
+      "Get Started",
+      "Netlify",
+      "Webflow",
+      "Cloudflare",
+      "Mux",
+      "ImageKit",
+      "CloudCannon",
+      "Mintlify",
+      "ArcJet",
+      "Datadog",
+      "Duende",
+      "Databento"
+    ]
+  },
+  "ok": true
+}

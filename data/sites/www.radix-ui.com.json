@@ -1,0 +1,349 @@
+{
+  "url": "https://www.radix-ui.com",
+  "name": "www.radix-ui.com",
+  "title": "Radix UI",
+  "fonts": {
+    "body": "untitled sans",
+    "heading": "adobe text pro",
+    "loaded_count": 6,
+    "loaded_sample": [
+      "adobe text pro",
+      "untitled sans",
+      "söhne mono",
+      "segoe ui (custom)",
+      "open sans (custom)",
+      "consolas (custom)"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      210,
+      210,
+      210,
+      210,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      222,
+      226,
+      226,
+      210,
+      240,
+      240,
+      222,
+      226,
+      226,
+      226,
+      226,
+      226,
+      219,
+      219,
+      226,
+      226,
+      219,
+      219,
+      226,
+      226,
+      219,
+      219,
+      226,
+      226,
+      219,
+      219,
+      226,
+      226,
+      219,
+      219,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      226,
+      226,
+      226,
+      226,
+      226,
+      226,
+      226,
+      226,
+      226,
+      226,
+      210,
+      210,
+      358,
+      358,
+      226,
+      210,
+      210,
+      226,
+      226,
+      226,
+      210,
+      210,
+      226,
+      226,
+      358,
+      358,
+      226,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      240,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      226,
+      226,
+      210,
+      210,
+      226,
+      226,
+      210,
+      210,
+      226,
+      226,
+      210,
+      210,
+      226,
+      226,
+      210,
+      210,
+      210,
+      210
+    ],
+    "accent_sampled": 144,
+    "purple_accents": 3,
+    "any_gradients": 1,
+    "blue_purple_gradients": 1
+  },
+  "radii": [
+    [
+      4,
+      29
+    ],
+    [
+      6,
+      29
+    ],
+    [
+      100,
+      19
+    ],
+    [
+      12,
+      10
+    ],
+    [
+      9999,
+      10
+    ],
+    [
+      9998,
+      9
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      8,
+      4
+    ],
+    [
+      999,
+      4
+    ]
+  ],
+  "shadows": {
+    "other": 30,
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "6px",
+      13
+    ],
+    [
+      "32px",
+      11
+    ],
+    [
+      "2px",
+      9
+    ],
+    [
+      "4px",
+      8
+    ],
+    [
+      "1px",
+      3
+    ],
+    [
+      "8px",
+      2
+    ],
+    [
+      "40px",
+      1
+    ],
+    [
+      "12px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      374
+    ],
+    [
+      14,
+      221
+    ],
+    [
+      13,
+      53
+    ],
+    [
+      12,
+      25
+    ],
+    [
+      20,
+      17
+    ],
+    [
+      24,
+      11
+    ],
+    [
+      35,
+      9
+    ],
+    [
+      18,
+      6
+    ],
+    [
+      78,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 1,
+    "neg_tracked": 1
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 6,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 12,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Start buildingyour app now",
+    "buttons": [
+      "Radix Homepage",
+      "Made by WorkOS",
+      "ThemesThemes",
+      "PrimitivesPrimitives",
+      "IconsIcons",
+      "ColorsColors",
+      "Documentation",
+      "Playground",
+      "Blog",
+      "Read about Radix Themes 3.0",
+      "Get started",
+      "Playground",
+      "Invite",
+      "Emmeline Labrie",
+      "Zac Wight",
+      "Poppy Nicholls",
+      "Da-Xia Wu",
+      "Marisa Palermo",
+      "Downgrade",
+      "Go to Billing",
+      "Upgrade",
+      "Forgot password?",
+      "Create an account",
+      "Sign in",
+      "Freeze",
+      "Done",
+      "Next invoice",
+      "Done",
+      "#3463",
+      "Reject",
+      "Approve",
+      "#3461",
+      "15 office chairs",
+      "2 drum sets",
+      "#7514",
+      "4 invoices",
+      "Acme Co.",
+      "a new report",
+      "#34",
+      "#384",
+      "Acme Co.",
+      "requested",
+      "#85",
+      "#3456"
+    ]
+  },
+  "ok": true
+}

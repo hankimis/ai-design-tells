@@ -1,0 +1,118 @@
+{
+  "url": "https://www.cognition.ai",
+  "name": "www.cognition.ai",
+  "title": "Cognition",
+  "fonts": {
+    "body": "stkbureauserif",
+    "heading": "nbinternational",
+    "loaded_count": 5,
+    "loaded_sample": [
+      "geistmono",
+      "nbinternational",
+      "nbinternational fallback",
+      "stkbureauserif",
+      "stkbureauserif fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      248,
+      248
+    ],
+    "accent_sampled": 2,
+    "purple_accents": 2,
+    "any_gradients": 3,
+    "blue_purple_gradients": 0
+  },
+  "radii": [],
+  "shadows": {},
+  "paddings": [
+    [
+      "1px",
+      8
+    ],
+    [
+      "8px",
+      6
+    ],
+    [
+      "180px",
+      1
+    ],
+    [
+      "2px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      402
+    ],
+    [
+      15,
+      30
+    ],
+    [
+      12,
+      9
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      36,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 1,
+    "neg_tracked": 1
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 1,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 10,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Cognition operates Devin, the first autonomous software engineer.",
+    "buttons": [
+      "Home",
+      "Careers",
+      "Research",
+      "Blog",
+      "Contact",
+      "Devin",
+      "Windsurf",
+      "Explore roles",
+      "More Devins in More Places05.27.26",
+      "Devin in Windsurf04.15.26",
+      "Introducing Devin 2.202.24.26",
+      "Linkedin",
+      "X [Twitter]",
+      "Website Terms of Use",
+      "Enterprise Terms of Service",
+      "Platform Terms of Service",
+      "Privacy Policy",
+      "Acceptable Use Policy",
+      "Data Processing Addendum",
+      "Security"
+    ]
+  },
+  "ok": true
+}

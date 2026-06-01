@@ -1,0 +1,235 @@
+{
+  "url": "https://www.mistral.ai",
+  "name": "www.mistral.ai",
+  "title": "Frontier AI LLMs, assistants, agents, services | Mistral AI",
+  "fonts": {
+    "body": "inter",
+    "heading": "inter",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "altmistral",
+      "space mono",
+      "inter",
+      "source sans 3"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      240,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240
+    ],
+    "accent_sampled": 25,
+    "purple_accents": 19,
+    "any_gradients": 6,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      6,
+      39
+    ],
+    [
+      4,
+      32
+    ],
+    [
+      8,
+      12
+    ],
+    [
+      32,
+      6
+    ],
+    [
+      12,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "16px",
+      38
+    ],
+    [
+      "4px",
+      35
+    ],
+    [
+      "8px",
+      22
+    ],
+    [
+      "12px",
+      14
+    ],
+    [
+      "40px",
+      12
+    ],
+    [
+      "24px",
+      10
+    ],
+    [
+      "32px",
+      6
+    ],
+    [
+      "80px",
+      5
+    ],
+    [
+      "128px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      1709
+    ],
+    [
+      14,
+      226
+    ],
+    [
+      11,
+      42
+    ],
+    [
+      32,
+      16
+    ],
+    [
+      13,
+      12
+    ],
+    [
+      44,
+      8
+    ],
+    [
+      20,
+      7
+    ],
+    [
+      56,
+      5
+    ],
+    [
+      24,
+      4
+    ],
+    [
+      96,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 4,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 136,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Frontier AI.\nIn your hands.",
+    "buttons": [
+      "Products",
+      "Solutions",
+      "Models",
+      "Developers",
+      "Blog",
+      "Customers",
+      "Company",
+      "Contact sales",
+      "Start building",
+      "Vibe    AI agent for long-horizon work.",
+      "Plans",
+      "API pricing",
+      "For enterprises",
+      "Delivery methodology",
+      "Model customization",
+      "Financial services",
+      "Public sector & government",
+      "Manufacturing",
+      "Use case overview",
+      "Coding",
+      "Document intelligence",
+      "Speech",
+      "Mistral Medium 3.5",
+      "Mistral Small 4",
+      "Mistral 3",
+      "Voxtral TTS",
+      "See all models",
+      "Docs",
+      "API Reference",
+      "Cookbooks",
+      "AI Now Summit 2026",
+      "Vibe gets to work.",
+      "Introducing Search Toolkit",
+      "Read all news",
+      "Product",
+      "Research",
+      "Engineering",
+      "Solutions",
+      "Company",
+      "ASML",
+      "CMA CGM",
+      "HSBC",
+      "BMW",
+      "See all",
+      "About us",
+      "Careers",
+      "Brand",
+      "Community",
+      "Partners",
+      "Help center",
+      "Products",
+      "Solutions",
+      "Models",
+      "Developers",
+      "Blog",
+      "Customers",
+      "Company",
+      "Studio",
+      "Vibe",
+      "Vibe for Code"
+    ]
+  },
+  "ok": true
+}

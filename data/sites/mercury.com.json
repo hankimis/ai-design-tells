@@ -1,0 +1,406 @@
+{
+  "url": "https://mercury.com",
+  "name": "mercury.com",
+  "title": "Online Business Banking For Startups, Small Businesses & Scaling Companies",
+  "fonts": {
+    "body": "arcadia",
+    "heading": "arcadiadisplay",
+    "loaded_count": 6,
+    "loaded_sample": [
+      "arcadia",
+      "arcadia fallback",
+      "arcadiadisplay",
+      "arcadiadisplay fallback",
+      "tiemposheadline",
+      "tiemposheadline fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      232,
+      240,
+      240,
+      232,
+      240,
+      235,
+      234,
+      240,
+      234,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      221,
+      240,
+      240,
+      221,
+      240,
+      240,
+      221,
+      240,
+      240,
+      232,
+      221,
+      240,
+      240,
+      221,
+      240,
+      240,
+      240,
+      240,
+      221,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240
+    ],
+    "accent_sampled": 186,
+    "purple_accents": 173,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      4,
+      97
+    ],
+    [
+      12,
+      28
+    ],
+    [
+      8,
+      13
+    ],
+    [
+      40,
+      9
+    ],
+    [
+      32,
+      5
+    ],
+    [
+      33554400,
+      5
+    ]
+  ],
+  "shadows": {
+    "other": 2
+  },
+  "paddings": [
+    [
+      "12px",
+      13
+    ],
+    [
+      "32px",
+      9
+    ],
+    [
+      "72px",
+      8
+    ],
+    [
+      "24px",
+      7
+    ],
+    [
+      "40px",
+      7
+    ],
+    [
+      "112px",
+      3
+    ],
+    [
+      "16px",
+      1
+    ],
+    [
+      "8px",
+      1
+    ],
+    [
+      "128px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      928
+    ],
+    [
+      12,
+      69
+    ],
+    [
+      18,
+      61
+    ],
+    [
+      28,
+      17
+    ],
+    [
+      21,
+      14
+    ],
+    [
+      32,
+      8
+    ],
+    [
+      65,
+      8
+    ],
+    [
+      42,
+      7
+    ],
+    [
+      14,
+      6
+    ],
+    [
+      24,
+      6
+    ],
+    [
+      49,
+      2
+    ]
+  ],
+  "heading": {
+    "big_count": 4,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": false,
+    "hairline_rule": false,
+    "sheets_read": 2,
+    "sheets_blocked": 5
+  },
+  "layout": {
+    "blocks": 115,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Radically different banking",
+    "buttons": [
+      "Products",
+      "Solutions",
+      "Resources",
+      "About",
+      "Pricing",
+      "Log in",
+      "Open account",
+      "1",
+      "Open account",
+      "Business banking & more",
+      "2",
+      "3",
+      "Cards & expense management",
+      "4",
+      "Payments & invoicing",
+      "Accounting",
+      "Launch demo",
+      "1",
+      "Apply online in 10 minutes",
+      "Get a credit card instantly4",
+      "4",
+      "Explore credit cards",
+      "Tackle banking tasks in seconds",
+      "5",
+      "Earn 1.5% cashback on credit spend",
+      "Explore credit cards",
+      "2",
+      "Explore Treasury",
+      "6",
+      "7",
+      "1",
+      "Open account",
+      "Contact sales",
+      "1",
+      "Explore demo",
+      "1",
+      "8",
+      "Learn more",
+      "Business Checking & Savings",
+      "Treasury",
+      "Business Credit Cards",
+      "Working Capital Loans",
+      "Venture Debt",
+      "Personal Banking",
+      "Pricing",
+      "Switch to Mercury",
+      "Security",
+      "API",
+      "Perks",
+      "Help Center",
+      "Meridian",
+      "Blog",
+      "Tools",
+      "Events",
+      "Business Formation Resources",
+      "Peak Season",
+      "Product Releases",
+      "Financial Workflows",
+      "Payments",
+      "Bill Pay"
+    ]
+  },
+  "ok": true
+}

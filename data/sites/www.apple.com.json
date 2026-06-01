@@ -1,0 +1,315 @@
+{
+  "url": "https://www.apple.com",
+  "name": "www.apple.com",
+  "title": "Apple",
+  "fonts": {
+    "body": "sf pro text",
+    "heading": "sf pro display",
+    "loaded_count": 38,
+    "loaded_sample": [
+      "apple legacy chevron",
+      "apple icons 100",
+      "apple icons 200",
+      "apple icons 300",
+      "apple icons 400",
+      "apple icons 500",
+      "apple icons 600",
+      "apple icons 700",
+      "apple icons 800",
+      "apple icons 900",
+      "sf pro display",
+      "sf pro display 100"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      209,
+      209,
+      210,
+      209,
+      209,
+      210,
+      209,
+      209,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209
+    ],
+    "accent_sampled": 87,
+    "purple_accents": 0,
+    "any_gradients": 18,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      980,
+      32
+    ],
+    [
+      50,
+      2
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      11,
+      1
+    ],
+    [
+      999,
+      1
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "8px",
+      26
+    ],
+    [
+      "11px",
+      14
+    ],
+    [
+      "15px",
+      9
+    ],
+    [
+      "53px",
+      7
+    ],
+    [
+      "9.6px",
+      6
+    ],
+    [
+      "24px",
+      6
+    ],
+    [
+      "56px",
+      3
+    ],
+    [
+      "114px",
+      1
+    ],
+    [
+      "13px",
+      1
+    ],
+    [
+      "17px",
+      1
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "37px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      17,
+      373
+    ],
+    [
+      12,
+      263
+    ],
+    [
+      14,
+      30
+    ],
+    [
+      21,
+      22
+    ],
+    [
+      44,
+      22
+    ],
+    [
+      40,
+      6
+    ],
+    [
+      18,
+      4
+    ],
+    [
+      56,
+      4
+    ],
+    [
+      28,
+      3
+    ],
+    [
+      24,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 4,
+    "neg_tracked": 4
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 10,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 44,
+    "centered_fraction": 0.20454545454545456
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Apple",
+    "buttons": [
+      "대한민국",
+      "계속",
+      "Apple",
+      "Store",
+      "Mac",
+      "iPad",
+      "iPhone",
+      "Watch",
+      "Vision",
+      "AirPods",
+      "TV & Home",
+      "Entertainment",
+      "Accessories",
+      "Support",
+      "0+",
+      "Add to calendar",
+      "Learn more",
+      "Buy",
+      "Learn more",
+      "Buy",
+      "Learn more",
+      "Learn more",
+      "Buy",
+      "Learn more",
+      "Buy",
+      "Learn more",
+      "Buy",
+      "Learn more",
+      "Get your estimate",
+      "Item 1",
+      "Item 2",
+      "Item 3",
+      "Item 4",
+      "Item 5",
+      "Item 6",
+      "Item 7",
+      "Apple",
+      "Goldman Sachs",
+      "Apple Card Customer Agreement",
+      "Store",
+      "Mac",
+      "iPad",
+      "iPhone",
+      "Watch",
+      "Vision",
+      "AirPods",
+      "TV & Home",
+      "AirTag",
+      "Accessories",
+      "Gift Cards",
+      "Wallet",
+      "Apple Card",
+      "Apple Pay",
+      "Apple Cash",
+      "Manage Your Apple Account",
+      "Apple Store Account",
+      "iCloud.com",
+      "Apple One",
+      "Apple TV",
+      "Apple Music"
+    ]
+  },
+  "ok": true
+}

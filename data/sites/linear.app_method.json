@@ -1,0 +1,154 @@
+{
+  "url": "https://linear.app/method",
+  "name": "linear.app_method",
+  "title": "Linear Method – Practices for building",
+  "fonts": {
+    "body": "inter variable",
+    "heading": "tiempos headline",
+    "loaded_count": 3,
+    "loaded_sample": [
+      "inter variable",
+      "berkeley mono",
+      "tiempos headline"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      234
+    ],
+    "accent_sampled": 1,
+    "purple_accents": 0,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      9999,
+      8
+    ],
+    [
+      50,
+      6
+    ],
+    [
+      6,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 1
+  },
+  "paddings": [
+    [
+      "72px",
+      1
+    ],
+    [
+      "56px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      13,
+      96
+    ],
+    [
+      16,
+      96
+    ],
+    [
+      15,
+      11
+    ],
+    [
+      14,
+      2
+    ],
+    [
+      17,
+      1
+    ],
+    [
+      128,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 1,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 2,
+    "sheets_blocked": 12
+  },
+  "layout": {
+    "blocks": 9,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Practices for building",
+    "buttons": [
+      "Skip to content →",
+      "Product",
+      "Resources",
+      "Customers",
+      "Pricing",
+      "Now",
+      "Contact",
+      "Log in",
+      "Sign up",
+      "Principles & Practices1.1",
+      "Set the product direction2.1",
+      "Set useful goals2.2",
+      "Prioritize enablers and blockers2.3",
+      "Scope projects down2.4",
+      "Generate momentum3.1",
+      "Write issues not user stories3.2",
+      "Manage design projects3.3",
+      "Build with users3.4",
+      "Launch and keep launching3.5",
+      "Build in public3.6",
+      "Intake",
+      "Plan",
+      "Build",
+      "Diffs",
+      "Monitor",
+      "Pricing",
+      "Security",
+      "Asks",
+      "Agents",
+      "Customer Requests",
+      "Insights",
+      "Mobile",
+      "Integrations",
+      "Changelog",
+      "About",
+      "Customers",
+      "Careers",
+      "Blog",
+      "Method",
+      "Quality",
+      "Brand",
+      "Switch",
+      "Download",
+      "DocumentationDocs",
+      "Developers",
+      "Status",
+      "Enterprise",
+      "Startups",
+      "Contact us",
+      "Community",
+      "X (Twitter)",
+      "GitHub",
+      "YouTube",
+      "Privacy",
+      "Terms",
+      "DPA"
+    ]
+  },
+  "ok": true
+}

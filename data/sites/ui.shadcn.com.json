@@ -1,0 +1,218 @@
+{
+  "url": "https://ui.shadcn.com",
+  "name": "ui.shadcn.com",
+  "title": "The Foundation for your Design System - shadcn/ui",
+  "fonts": {
+    "body": "geist",
+    "heading": "geist",
+    "loaded_count": 8,
+    "loaded_sample": [
+      "geist",
+      "geist fallback",
+      "geist mono",
+      "geist mono fallback",
+      "noto sans arabic",
+      "noto sans arabic fallback",
+      "noto sans hebrew",
+      "noto sans hebrew fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 2,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      18,
+      41
+    ],
+    [
+      19.6,
+      24
+    ],
+    [
+      24,
+      22
+    ],
+    [
+      6,
+      16
+    ],
+    [
+      8,
+      15
+    ],
+    [
+      4,
+      8
+    ],
+    [
+      5,
+      5
+    ],
+    [
+      22,
+      5
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      33554400,
+      3
+    ],
+    [
+      14,
+      2
+    ]
+  ],
+  "shadows": {
+    "other": 22
+  },
+  "paddings": [
+    [
+      "8px",
+      29
+    ],
+    [
+      "14px",
+      13
+    ],
+    [
+      "20px",
+      11
+    ],
+    [
+      "2px",
+      5
+    ],
+    [
+      "16px",
+      3
+    ],
+    [
+      "24px",
+      2
+    ],
+    [
+      "4px",
+      2
+    ],
+    [
+      "6px",
+      2
+    ],
+    [
+      "80px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      14,
+      731
+    ],
+    [
+      16,
+      41
+    ],
+    [
+      12,
+      31
+    ],
+    [
+      18,
+      4
+    ],
+    [
+      13,
+      3
+    ],
+    [
+      30,
+      2
+    ],
+    [
+      36,
+      1
+    ],
+    [
+      48,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 1,
+    "neg_tracked": 1
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 3,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 15,
+    "centered_fraction": 0.06666666666666667
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "The Foundation for your Design System",
+    "buttons": [
+      "Home",
+      "Docs",
+      "Components",
+      "Blocks",
+      "Charts",
+      "Directory",
+      "Create",
+      "Search documentation...Search...",
+      "115k",
+      "Toggle theme",
+      "New",
+      "Introducing GitHub Registries",
+      "Build Your Own",
+      "Button",
+      "Secondary",
+      "Outline",
+      "Alert DialogDialog",
+      "Button GroupGroup",
+      "Analytics",
+      "Transactions",
+      "Investments",
+      "Accounts",
+      "Spending",
+      "Documents",
+      "Budget",
+      "Reports",
+      "Goals",
+      "Calendar",
+      "Help Center",
+      "Docs",
+      "Contact Us",
+      "Status",
+      "Community",
+      "Profile",
+      "Billing",
+      "Notifications",
+      "Security",
+      "Appearance",
+      "View Full Report",
+      "Main Checking (··8402) — $12,450.00▼",
+      "Confirm Transfer",
+      "Home",
+      "Account options",
+      "Create Release",
+      "View Analytics",
+      "Save Preferences",
+      "shadcn",
+      "Vercel",
+      "GitHub"
+    ]
+  },
+  "ok": true
+}

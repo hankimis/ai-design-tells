@@ -1,0 +1,353 @@
+{
+  "url": "https://sentry.io",
+  "name": "sentry.io",
+  "title": "Application Performance Monitoring & Error Tracking Software | Sentry",
+  "fonts": {
+    "body": "rubik",
+    "heading": "dammit sans",
+    "loaded_count": 2,
+    "loaded_sample": [
+      "rubik",
+      "dammit sans"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      220,
+      259,
+      220,
+      273,
+      263,
+      259,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      258,
+      258,
+      258,
+      258,
+      258,
+      258,
+      258,
+      247,
+      220,
+      258,
+      258,
+      247,
+      220,
+      258,
+      258,
+      247,
+      220,
+      258,
+      258,
+      258,
+      258,
+      258,
+      247,
+      220,
+      258,
+      258,
+      258,
+      258,
+      258,
+      258,
+      258,
+      258,
+      258,
+      258,
+      258,
+      258,
+      258,
+      258,
+      258,
+      247,
+      220,
+      258,
+      258,
+      247,
+      220,
+      258,
+      258,
+      258,
+      258,
+      258,
+      258,
+      247,
+      220,
+      258,
+      258,
+      240,
+      252,
+      240,
+      77,
+      220,
+      77,
+      220,
+      77,
+      220,
+      259,
+      259,
+      259,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220
+    ],
+    "accent_sampled": 124,
+    "purple_accents": 55,
+    "any_gradients": 20,
+    "blue_purple_gradients": 4
+  },
+  "radii": [
+    [
+      4,
+      41
+    ],
+    [
+      10,
+      41
+    ],
+    [
+      8,
+      20
+    ],
+    [
+      12,
+      9
+    ],
+    [
+      10.6,
+      4
+    ],
+    [
+      9999,
+      3
+    ],
+    [
+      6,
+      1
+    ],
+    [
+      13,
+      1
+    ],
+    [
+      50,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 3,
+    "other": 84
+  },
+  "paddings": [
+    [
+      "4px",
+      44
+    ],
+    [
+      "44px",
+      41
+    ],
+    [
+      "2px",
+      33
+    ],
+    [
+      "12px",
+      15
+    ],
+    [
+      "24px",
+      8
+    ],
+    [
+      "64px",
+      6
+    ],
+    [
+      "8px",
+      3
+    ],
+    [
+      "16px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      2068
+    ],
+    [
+      14,
+      89
+    ],
+    [
+      12,
+      46
+    ],
+    [
+      60,
+      15
+    ],
+    [
+      27,
+      14
+    ],
+    [
+      24,
+      11
+    ],
+    [
+      15,
+      3
+    ],
+    [
+      20,
+      3
+    ],
+    [
+      88,
+      2
+    ],
+    [
+      30,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 9,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 11,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 113,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 1,
+  "copy": {
+    "h1": "Code breaks, fix it faster",
+    "buttons": [
+      "Platform",
+      "Solutions",
+      "Resources",
+      "Docs",
+      "Pricing",
+      "Sign In",
+      "Get Demo",
+      "Get Started",
+      "Marketing Mode",
+      "Get Started",
+      "See How In Sandbox",
+      "SDK",
+      "AI code review",
+      "GitHub",
+      "Slack",
+      "Jira",
+      "Linear",
+      "Sentry's MCP server",
+      "errors",
+      "logs",
+      "replays",
+      "spans",
+      "profiles",
+      "metrics",
+      "Seer",
+      "Sentry Python SDK",
+      "Sentry Node SDK",
+      "Sentry React SDK",
+      "Sentry Go SDK",
+      "Sentry Java SDK",
+      "Sentry Vue SDK",
+      "Sentry JavaScript SDK",
+      "Check out our Privacy Policy",
+      "Contact Us",
+      "privacy policy",
+      "Privacy Policy",
+      "Terms of Service",
+      "Sign Up",
+      "Try Sentry for Free",
+      "Get a Demo",
+      "About",
+      "Blog",
+      "Careers",
+      "Contact Us",
+      "Trust",
+      "Error Monitoring",
+      "Logs",
+      "Seer",
+      "Session Replay",
+      "Metrics",
+      "Tracing",
+      "Uptime Monitoring",
+      "Profiling",
+      "Cron Monitoring",
+      "Integrations",
+      "Web / Full Stack Development",
+      "Mobile Crash Reporting",
+      "Game Crash Reporting",
+      "AI Observability",
+      "Application Performance Monitoring"
+    ]
+  },
+  "ok": true
+}

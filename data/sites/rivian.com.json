@@ -1,0 +1,365 @@
+{
+  "url": "https://rivian.com",
+  "name": "rivian.com",
+  "title": "Rivian: Electric Vehicles Designed For Adventure",
+  "fonts": {
+    "body": "adventure",
+    "heading": "adventure",
+    "loaded_count": 5,
+    "loaded_sample": [
+      "adventure",
+      "canela",
+      "adventure mono",
+      "liga",
+      "videojs"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      220,
+      220,
+      220,
+      220,
+      220,
+      40,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      40,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      40,
+      220,
+      114,
+      220,
+      11,
+      220,
+      205,
+      220,
+      40,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220
+    ],
+    "accent_sampled": 106,
+    "purple_accents": 0,
+    "any_gradients": 7,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      40,
+      34
+    ],
+    [
+      99,
+      15
+    ],
+    [
+      20,
+      11
+    ],
+    [
+      8,
+      7
+    ],
+    [
+      9999,
+      7
+    ],
+    [
+      12,
+      6
+    ],
+    [
+      36,
+      4
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      80,
+      2
+    ],
+    [
+      50,
+      1
+    ],
+    [
+      56,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 12
+  },
+  "paddings": [
+    [
+      "8px",
+      36
+    ],
+    [
+      "20px",
+      6
+    ],
+    [
+      "32px",
+      6
+    ],
+    [
+      "80px",
+      5
+    ],
+    [
+      "16px",
+      3
+    ],
+    [
+      "12px",
+      3
+    ],
+    [
+      "40px",
+      3
+    ],
+    [
+      "200px",
+      2
+    ],
+    [
+      "10px",
+      2
+    ],
+    [
+      "1px",
+      1
+    ],
+    [
+      "2px",
+      1
+    ],
+    [
+      "78px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      10,
+      383
+    ],
+    [
+      14,
+      55
+    ],
+    [
+      16,
+      44
+    ],
+    [
+      20,
+      16
+    ],
+    [
+      32,
+      9
+    ],
+    [
+      72,
+      8
+    ],
+    [
+      24,
+      6
+    ],
+    [
+      12,
+      5
+    ],
+    [
+      11,
+      4
+    ],
+    [
+      56,
+      4
+    ],
+    [
+      360,
+      3
+    ],
+    [
+      36,
+      1
+    ],
+    [
+      44,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 14,
+    "neg_tracked": 14
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 20,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 95,
+    "centered_fraction": 0.021052631578947368
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Forest Edge is back",
+    "buttons": [
+      "Data Privacy Notice",
+      "Accept All",
+      "Reject All",
+      "Manage Preferences",
+      "Skip To Main",
+      "Vehicles",
+      "Charging",
+      "Technology",
+      "Discover",
+      "Gear Shop",
+      "Demo drive",
+      "Explore R1S",
+      "Explore R1T",
+      "Design yours",
+      "Reserve",
+      "Explore offers",
+      "Shop now",
+      "Design your R1T",
+      "Design your R1S",
+      "Explore",
+      "Buy",
+      "Explore",
+      "Design yours",
+      "Explore",
+      "Buy",
+      "Technology",
+      "Performance",
+      "Design",
+      "Explore the latest",
+      "Explore R1S Tri",
+      "Explore R1T Tri",
+      "Explore R1S",
+      "Explore R1T",
+      "Explore",
+      "See all locations",
+      "Book a drive",
+      "Explore charging",
+      "Explore",
+      "Shop",
+      "Get updates",
+      "Trade in",
+      "Service",
+      "Subscribe",
+      "Rivian's Terms",
+      "Data Privacy Notice",
+      "Watch the video",
+      "R1T",
+      "R1S",
+      "R2",
+      "Fleet",
+      "Shop new inventory",
+      "Shop pre-owned",
+      "Spaces",
+      "Gear Shop",
+      "Our Company",
+      "Stories",
+      "Pre-Owned",
+      "Purchasing",
+      "Charging",
+      "Insurance"
+    ]
+  },
+  "ok": true
+}

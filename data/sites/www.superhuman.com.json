@@ -1,0 +1,226 @@
+{
+  "url": "https://www.superhuman.com",
+  "name": "www.superhuman.com",
+  "title": "Superhuman: Docs, Mail, and AI That Work Everywhere",
+  "fonts": {
+    "body": "super sans vf",
+    "heading": "super sans vf",
+    "loaded_count": 3,
+    "loaded_sample": [
+      "super sans vf",
+      "super serif vf",
+      "super sans mono vf"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      349,
+      254,
+      261,
+      261,
+      261,
+      261,
+      261,
+      261,
+      261,
+      261,
+      261,
+      261
+    ],
+    "accent_sampled": 12,
+    "purple_accents": 11,
+    "any_gradients": 17,
+    "blue_purple_gradients": 4
+  },
+  "radii": [
+    [
+      8,
+      10
+    ],
+    [
+      16,
+      5
+    ],
+    [
+      24,
+      3
+    ],
+    [
+      999,
+      3
+    ],
+    [
+      12,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 5
+  },
+  "paddings": [
+    [
+      "8px",
+      8
+    ],
+    [
+      "12px",
+      6
+    ],
+    [
+      "6px",
+      5
+    ],
+    [
+      "16px",
+      4
+    ],
+    [
+      "40px",
+      4
+    ],
+    [
+      "2px",
+      3
+    ],
+    [
+      "36px",
+      2
+    ],
+    [
+      "4px",
+      1
+    ],
+    [
+      "72px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "96px",
+      1
+    ],
+    [
+      "64px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      331
+    ],
+    [
+      14,
+      53
+    ],
+    [
+      20,
+      51
+    ],
+    [
+      18,
+      4
+    ],
+    [
+      19,
+      4
+    ],
+    [
+      49,
+      4
+    ],
+    [
+      12,
+      2
+    ],
+    [
+      48,
+      2
+    ],
+    [
+      64,
+      2
+    ],
+    [
+      22,
+      1
+    ],
+    [
+      26,
+      1
+    ],
+    [
+      28,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 8,
+    "neg_tracked": 4
+  },
+  "focus": {
+    "focus_visible": false,
+    "hairline_rule": false,
+    "sheets_read": 2,
+    "sheets_blocked": 7
+  },
+  "layout": {
+    "blocks": 33,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Superpowers, everywhere you work",
+    "buttons": [
+      "Looking for Superhuman Mail?Learn more",
+      "Product",
+      "Enterprise",
+      "Education",
+      "Pricing",
+      "Contact sales",
+      "Log in",
+      "Sign up",
+      "Get Superhuman",
+      "Get the suite",
+      "Mail",
+      "Grammarly",
+      "Coda",
+      "Go",
+      "Learn more about Mail",
+      "Learn more about Grammarly",
+      "Learn more about Coda",
+      "Learn more about Go",
+      "Read our announcement",
+      "Get Superhuman",
+      "Superhuman Go",
+      "Grammarly",
+      "Coda",
+      "Superhuman Mail",
+      "Agent Store",
+      "Contact Us",
+      "About",
+      "Mission & Values",
+      "Careers",
+      "Help Center",
+      "Status",
+      "Partners",
+      "Superhuman Platform",
+      "Terms",
+      "Privacy Policy",
+      "Trust",
+      "Customer Business Agreement",
+      "Legal Notices",
+      "Cookies Preferences Center",
+      "LinkedIn",
+      "X",
+      "TikTok",
+      "Instagram",
+      "Threads",
+      "Facebook"
+    ]
+  },
+  "ok": true
+}

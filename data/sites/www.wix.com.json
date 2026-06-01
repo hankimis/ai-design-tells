@@ -1,0 +1,408 @@
+{
+  "url": "https://www.wix.com",
+  "name": "www.wix.com",
+  "title": "Website Builder - Create a Free Website In Minutes | Wix.com",
+  "fonts": {
+    "body": "arial",
+    "heading": "madefor-display",
+    "loaded_count": 30,
+    "loaded_sample": [
+      "din-next-w01-light",
+      "helveticaneuew01-45ligh",
+      "helveticaneuew01-65medi",
+      "helveticaneuew01-75bold",
+      "helveticaneuew02-45ligh",
+      "helveticaneuew02-65medi",
+      "helveticaneuew02-75bold",
+      "helveticaneuew10-45ligh",
+      "helveticaneuew10-65medi",
+      "helveticaneuew10-75bold",
+      "madefor-display",
+      "madefor-display-bold"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      216,
+      216,
+      233,
+      237,
+      75
+    ],
+    "accent_sampled": 5,
+    "purple_accents": 0,
+    "any_gradients": 17,
+    "blue_purple_gradients": 1
+  },
+  "radii": [
+    [
+      50,
+      36
+    ],
+    [
+      20,
+      29
+    ],
+    [
+      9,
+      15
+    ],
+    [
+      30,
+      13
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      18,
+      9
+    ],
+    [
+      4,
+      7
+    ],
+    [
+      28.5,
+      6
+    ],
+    [
+      14.4,
+      5
+    ],
+    [
+      15,
+      4
+    ],
+    [
+      40,
+      3
+    ],
+    [
+      675,
+      3
+    ],
+    [
+      22.5,
+      3
+    ],
+    [
+      90,
+      2
+    ],
+    [
+      999,
+      2
+    ],
+    [
+      24.75,
+      2
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      11,
+      1
+    ],
+    [
+      33,
+      1
+    ],
+    [
+      42,
+      1
+    ],
+    [
+      60,
+      1
+    ],
+    [
+      99,
+      1
+    ],
+    [
+      10.5,
+      1
+    ],
+    [
+      8.31499,
+      1
+    ],
+    [
+      8.7,
+      1
+    ],
+    [
+      7.49995,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 4,
+    "other": 10
+  },
+  "paddings": [
+    [
+      "3px",
+      19
+    ],
+    [
+      "35px",
+      15
+    ],
+    [
+      "2.88px",
+      7
+    ],
+    [
+      "2px",
+      4
+    ],
+    [
+      "4px",
+      3
+    ],
+    [
+      "40.5px",
+      3
+    ],
+    [
+      "8px",
+      1
+    ],
+    [
+      "82.5px",
+      1
+    ],
+    [
+      "49.5px",
+      1
+    ],
+    [
+      "37.5px",
+      1
+    ],
+    [
+      "107.25px",
+      1
+    ],
+    [
+      "120px",
+      1
+    ],
+    [
+      "37.44px",
+      1
+    ],
+    [
+      "33.12px",
+      1
+    ],
+    [
+      "79.5px",
+      1
+    ],
+    [
+      "105px",
+      1
+    ],
+    [
+      "90px",
+      1
+    ],
+    [
+      "75px",
+      1
+    ],
+    [
+      "52.5px",
+      1
+    ],
+    [
+      "101.25px",
+      1
+    ],
+    [
+      "93.6px",
+      1
+    ],
+    [
+      "158.4px",
+      1
+    ],
+    [
+      "54px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      10,
+      1769
+    ],
+    [
+      14,
+      89
+    ],
+    [
+      13,
+      74
+    ],
+    [
+      24,
+      41
+    ],
+    [
+      16,
+      35
+    ],
+    [
+      18,
+      30
+    ],
+    [
+      21,
+      23
+    ],
+    [
+      48,
+      20
+    ],
+    [
+      20,
+      17
+    ],
+    [
+      19,
+      12
+    ],
+    [
+      15,
+      10
+    ],
+    [
+      12,
+      8
+    ],
+    [
+      23,
+      7
+    ],
+    [
+      32,
+      6
+    ],
+    [
+      11,
+      2
+    ],
+    [
+      26,
+      2
+    ],
+    [
+      54,
+      2
+    ],
+    [
+      186,
+      2
+    ],
+    [
+      83,
+      1
+    ],
+    [
+      90,
+      1
+    ],
+    [
+      105,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 17,
+    "neg_tracked": 14
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 99,
+    "sheets_blocked": 3
+  },
+  "layout": {
+    "blocks": 200,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "The new way to create a website",
+    "buttons": [
+      "Product",
+      "Solutions",
+      "Resources",
+      "Pricing",
+      "Wixel",
+      "Wix Studio",
+      "Enterprise",
+      "Log In",
+      "Get Started",
+      "Get Started",
+      "Get Started",
+      "website templates",
+      "Get Started",
+      "View Template",
+      "eCommerce",
+      "View Template",
+      "Portfolio",
+      "View Template",
+      "Business",
+      "View Template",
+      "Landing page",
+      "View Template",
+      "Blog",
+      "View Template",
+      "Industrial",
+      "View Template",
+      "Events",
+      "Open",
+      "Open",
+      "Open",
+      "Open",
+      "Get Started",
+      "Get Started",
+      "Open",
+      "Sell online",
+      "Learn more",
+      "Open",
+      "Open",
+      "Open",
+      "Open",
+      "Open",
+      "Search",
+      "custom domain",
+      "Premium plan",
+      "Get Started",
+      "Open SEO tools and AI visibility",
+      "Optimize for search engines",
+      "Open Google, Facebook and Instagram ads",
+      "Open Social media marketing",
+      "Open AI-generated email marketing",
+      "Click",
+      "Accept payments",
+      "Click",
+      "Click",
+      "Click",
+      "Click",
+      "Get Started",
+      "Get Started",
+      "security",
+      "Multi-cloud hosting"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,74 @@
+{
+  "url": "https://paulgraham.com",
+  "name": "paulgraham.com",
+  "title": "Paul Graham",
+  "fonts": {
+    "body": "times",
+    "heading": "times",
+    "loaded_count": 0,
+    "loaded_sample": []
+  },
+  "color": {
+    "accent_hues": [
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240
+    ],
+    "accent_sampled": 8,
+    "purple_accents": 8,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [],
+  "shadows": {},
+  "paddings": [
+    [
+      "1px",
+      2
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      25
+    ],
+    [
+      13,
+      13
+    ],
+    [
+      10,
+      2
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": false,
+    "hairline_rule": false,
+    "sheets_read": 0,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 0,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "The Brand Age",
+      "Good Writing",
+      "Founder Mode",
+      "Y Combinator"
+    ]
+  },
+  "ok": true
+}

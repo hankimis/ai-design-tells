@@ -1,0 +1,2707 @@
+[
+  {
+    "name": "a16z.com",
+    "url": "https://a16z.com",
+    "score": 6.8,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "designed focus state"
+    ],
+    "fired": [
+      "C3"
+    ]
+  },
+  {
+    "name": "about.gitlab.com",
+    "url": "https://about.gitlab.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "activetheory.net",
+    "url": "https://activetheory.net",
+    "score": 6.8,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "designed focus state"
+    ],
+    "fired": [
+      "B2"
+    ]
+  },
+  {
+    "name": "airtable.com",
+    "url": "https://airtable.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "arc.net",
+    "url": "https://arc.net",
+    "score": 8.5,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": [
+      "C2"
+    ]
+  },
+  {
+    "name": "asana.com",
+    "url": "https://asana.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "astro.build",
+    "url": "https://astro.build",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "basement.studio",
+    "url": "https://basement.studio",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "bear.app",
+    "url": "https://bear.app",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "bere.al",
+    "url": "https://bere.al",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "bun.sh",
+    "url": "https://bun.sh",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "calendly.com",
+    "url": "https://calendly.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "carta.com",
+    "url": "https://carta.com",
+    "score": 6.8,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "designed focus state"
+    ],
+    "fired": [
+      "C3"
+    ]
+  },
+  {
+    "name": "character.ai",
+    "url": "https://character.ai",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "clerk.com",
+    "url": "https://clerk.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "clickup.com",
+    "url": "https://clickup.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "coda.io",
+    "url": "https://coda.io",
+    "score": 10.2,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": [
+      "G1"
+    ]
+  },
+  {
+    "name": "codesandbox.io",
+    "url": "https://codesandbox.io",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "cohere.com",
+    "url": "https://cohere.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "cursor.com",
+    "url": "https://cursor.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "deno.com",
+    "url": "https://deno.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "discord.com",
+    "url": "https://discord.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "elevenlabs.io",
+    "url": "https://elevenlabs.io",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "ethereum.org",
+    "url": "https://ethereum.org",
+    "score": 30.5,
+    "grade": "C, visibly templated",
+    "credits": 1,
+    "credit_list": [
+      "radius hierarchy"
+    ],
+    "fired": [
+      "A1",
+      "B1",
+      "B3"
+    ]
+  },
+  {
+    "name": "every.to",
+    "url": "https://every.to",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "family.co",
+    "url": "https://family.co",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "fly.io",
+    "url": "https://fly.io",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "ghost.org",
+    "url": "https://ghost.org",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "github.com",
+    "url": "https://github.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "godly.website",
+    "url": "https://godly.website",
+    "score": 13.6,
+    "grade": "B, mostly intentional, a few tells",
+    "credits": 0,
+    "credit_list": [],
+    "fired": [
+      "B1"
+    ]
+  },
+  {
+    "name": "grafana.com",
+    "url": "https://grafana.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "greylock.com",
+    "url": "https://greylock.com",
+    "score": 6.8,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "designed focus state"
+    ],
+    "fired": [
+      "C3"
+    ]
+  },
+  {
+    "name": "gusto.com",
+    "url": "https://gusto.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "huggingface.co",
+    "url": "https://huggingface.co",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "igloo.inc",
+    "url": "https://igloo.inc",
+    "score": 16.9,
+    "grade": "B, mostly intentional, a few tells",
+    "credits": 1,
+    "credit_list": [
+      "custom display font"
+    ],
+    "fired": [
+      "B2",
+      "E3"
+    ]
+  },
+  {
+    "name": "linear.app",
+    "url": "https://linear.app",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "optical tracking on display",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "linear.app_method",
+    "url": "https://linear.app/method",
+    "score": 18.6,
+    "grade": "B, mostly intentional, a few tells",
+    "credits": 1,
+    "credit_list": [
+      "custom display font"
+    ],
+    "fired": [
+      "B1",
+      "B3"
+    ]
+  },
+  {
+    "name": "locomotive.ca",
+    "url": "https://locomotive.ca",
+    "score": 5.1,
+    "grade": "A, reads as human-crafted",
+    "credits": 1,
+    "credit_list": [
+      "custom display font"
+    ],
+    "fired": [
+      "B3"
+    ]
+  },
+  {
+    "name": "lusion.co",
+    "url": "https://lusion.co",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "mailchimp.com",
+    "url": "https://mailchimp.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "make.com",
+    "url": "https://make.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "mercury.com",
+    "url": "https://mercury.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "metamask.io",
+    "url": "https://metamask.io",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "miro.com",
+    "url": "https://miro.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "monday.com",
+    "url": "https://monday.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "monzo.com",
+    "url": "https://monzo.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "n26.com",
+    "url": "https://n26.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "neon.tech",
+    "url": "https://neon.tech",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "optical tracking on display",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "nuxt.com",
+    "url": "https://nuxt.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "obsidian.md",
+    "url": "https://obsidian.md",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "offset.com",
+    "url": "https://offset.com",
+    "score": 13.6,
+    "grade": "B, mostly intentional, a few tells",
+    "credits": 0,
+    "credit_list": [],
+    "fired": [
+      "B1"
+    ]
+  },
+  {
+    "name": "openai.com",
+    "url": "https://openai.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "opensea.io",
+    "url": "https://opensea.io",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "paulgraham.com",
+    "url": "https://paulgraham.com",
+    "score": 18.6,
+    "grade": "B, mostly intentional, a few tells",
+    "credits": 1,
+    "credit_list": [
+      "custom display font"
+    ],
+    "fired": [
+      "A1",
+      "B2"
+    ]
+  },
+  {
+    "name": "pentagram.com",
+    "url": "https://pentagram.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 1,
+    "credit_list": [
+      "custom display font"
+    ],
+    "fired": []
+  },
+  {
+    "name": "phantom.app",
+    "url": "https://phantom.app",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "pitch.com",
+    "url": "https://pitch.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "plaid.com",
+    "url": "https://plaid.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "planetscale.com",
+    "url": "https://planetscale.com",
+    "score": 13.6,
+    "grade": "B, mostly intentional, a few tells",
+    "credits": 1,
+    "credit_list": [
+      "custom display font"
+    ],
+    "fired": [
+      "B2",
+      "C3"
+    ]
+  },
+  {
+    "name": "polygon.technology",
+    "url": "https://polygon.technology",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "posthog.com",
+    "url": "https://posthog.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "qwik.dev",
+    "url": "https://qwik.dev",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "railway.app",
+    "url": "https://railway.app",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "rainbow.me",
+    "url": "https://rainbow.me",
+    "score": 10.2,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy"
+    ],
+    "fired": [
+      "E3"
+    ]
+  },
+  {
+    "name": "ramp.com",
+    "url": "https://ramp.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "react.dev",
+    "url": "https://react.dev",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "readwise.io",
+    "url": "https://readwise.io",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "redis.io",
+    "url": "https://redis.io",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "remix.run",
+    "url": "https://remix.run",
+    "score": 10.2,
+    "grade": "A, reads as human-crafted",
+    "credits": 1,
+    "credit_list": [
+      "optical tracking on display"
+    ],
+    "fired": [
+      "E3"
+    ]
+  },
+  {
+    "name": "render.com",
+    "url": "https://render.com",
+    "score": 6.8,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "designed focus state"
+    ],
+    "fired": [
+      "C3"
+    ]
+  },
+  {
+    "name": "replicate.com",
+    "url": "https://replicate.com",
+    "score": 5.1,
+    "grade": "A, reads as human-crafted",
+    "credits": 1,
+    "credit_list": [
+      "custom display font"
+    ],
+    "fired": [
+      "B3"
+    ]
+  },
+  {
+    "name": "replit.com",
+    "url": "https://replit.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "resend.com",
+    "url": "https://resend.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "rivian.com",
+    "url": "https://rivian.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "robinhood.com",
+    "url": "https://robinhood.com",
+    "score": 6.8,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "designed focus state"
+    ],
+    "fired": [
+      "C3"
+    ]
+  },
+  {
+    "name": "runwayml.com",
+    "url": "https://runwayml.com",
+    "score": 5.1,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": [
+      "C4"
+    ]
+  },
+  {
+    "name": "sentry.io",
+    "url": "https://sentry.io",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "signal.org",
+    "url": "https://signal.org",
+    "score": 25.4,
+    "grade": "B, mostly intentional, a few tells",
+    "credits": 0,
+    "credit_list": [],
+    "fired": [
+      "B1",
+      "B3",
+      "C3"
+    ]
+  },
+  {
+    "name": "slack.com",
+    "url": "https://slack.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "squareup.com",
+    "url": "https://squareup.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "stackblitz.com",
+    "url": "https://stackblitz.com",
+    "score": 10.2,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy"
+    ],
+    "fired": [
+      "E3"
+    ]
+  },
+  {
+    "name": "strapi.io",
+    "url": "https://strapi.io",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "stripe.com",
+    "url": "https://stripe.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "stripe.com_payments",
+    "url": "https://stripe.com/payments",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "stripe.press",
+    "url": "https://stripe.press",
+    "score": 18.6,
+    "grade": "B, mostly intentional, a few tells",
+    "credits": 1,
+    "credit_list": [
+      "custom display font"
+    ],
+    "fired": [
+      "A1",
+      "C3"
+    ]
+  },
+  {
+    "name": "substack.com",
+    "url": "https://substack.com",
+    "score": 10.2,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy"
+    ],
+    "fired": [
+      "E3"
+    ]
+  },
+  {
+    "name": "suno.com",
+    "url": "https://suno.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "supabase.com",
+    "url": "https://supabase.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "svelte.dev",
+    "url": "https://svelte.dev",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "tailwindcss.com",
+    "url": "https://tailwindcss.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "optical tracking on display",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "telegram.org",
+    "url": "https://telegram.org",
+    "score": 6.8,
+    "grade": "A, reads as human-crafted",
+    "credits": 1,
+    "credit_list": [
+      "custom display font"
+    ],
+    "fired": [
+      "C3"
+    ]
+  },
+  {
+    "name": "temporal.io",
+    "url": "https://temporal.io",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "todoist.com",
+    "url": "https://todoist.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "ui.shadcn.com",
+    "url": "https://ui.shadcn.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "uniswap.org",
+    "url": "https://uniswap.org",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "unseen.co",
+    "url": "https://unseen.co",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "upstash.com",
+    "url": "https://upstash.com",
+    "score": 8.5,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": [
+      "C2"
+    ]
+  },
+  {
+    "name": "vercel.com",
+    "url": "https://vercel.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "vuejs.org",
+    "url": "https://vuejs.org",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "waitbutwhy.com",
+    "url": "https://waitbutwhy.com",
+    "score": 32.2,
+    "grade": "C, visibly templated",
+    "credits": 0,
+    "credit_list": [],
+    "fired": [
+      "B1",
+      "B2",
+      "B3",
+      "C3"
+    ]
+  },
+  {
+    "name": "weaviate.io",
+    "url": "https://weaviate.io",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "webflow.com",
+    "url": "https://webflow.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "wise.com",
+    "url": "https://wise.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.adyen.com",
+    "url": "https://www.adyen.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.aesop.com",
+    "url": "https://www.aesop.com",
+    "score": 6.8,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "designed focus state"
+    ],
+    "fired": [
+      "C3"
+    ]
+  },
+  {
+    "name": "www.airbnb.com",
+    "url": "https://www.airbnb.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.allbirds.com",
+    "url": "https://www.allbirds.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.anthropic.com",
+    "url": "https://www.anthropic.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.apple.com",
+    "url": "https://www.apple.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.atlassian.com",
+    "url": "https://www.atlassian.com",
+    "score": 10.2,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": [
+      "G1"
+    ]
+  },
+  {
+    "name": "www.awwwards.com",
+    "url": "https://www.awwwards.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.behance.net",
+    "url": "https://www.behance.net",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.bloomberg.com",
+    "url": "https://www.bloomberg.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.brex.com",
+    "url": "https://www.brex.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.calm.com",
+    "url": "https://www.calm.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.canva.com",
+    "url": "https://www.canva.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.checkout.com",
+    "url": "https://www.checkout.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.cloudflare.com",
+    "url": "https://www.cloudflare.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.cockroachlabs.com",
+    "url": "https://www.cockroachlabs.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.cognition.ai",
+    "url": "https://www.cognition.ai",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.coinbase.com",
+    "url": "https://www.coinbase.com",
+    "score": 10.2,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": [
+      "G1"
+    ]
+  },
+  {
+    "name": "www.contentful.com",
+    "url": "https://www.contentful.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.craft.do",
+    "url": "https://www.craft.do",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.cuberto.com",
+    "url": "https://www.cuberto.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.datadoghq.com",
+    "url": "https://www.datadoghq.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.deel.com",
+    "url": "https://www.deel.com",
+    "score": 6.8,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "designed focus state"
+    ],
+    "fired": [
+      "C3"
+    ]
+  },
+  {
+    "name": "www.descript.com",
+    "url": "https://www.descript.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.docker.com",
+    "url": "https://www.docker.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.doordash.com",
+    "url": "https://www.doordash.com",
+    "score": 18.6,
+    "grade": "B, mostly intentional, a few tells",
+    "credits": 0,
+    "credit_list": [],
+    "fired": [
+      "B1",
+      "B3"
+    ]
+  },
+  {
+    "name": "www.dribbble.com",
+    "url": "https://www.dribbble.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.dropbox.com",
+    "url": "https://www.dropbox.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.dropbox.com_paper",
+    "url": "https://www.dropbox.com/paper",
+    "score": 6.8,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "designed focus state"
+    ],
+    "fired": [
+      "C3"
+    ]
+  },
+  {
+    "name": "www.duolingo.com",
+    "url": "https://www.duolingo.com",
+    "score": 25.4,
+    "grade": "B, mostly intentional, a few tells",
+    "credits": 1,
+    "credit_list": [
+      "custom display font"
+    ],
+    "fired": [
+      "B1",
+      "B3",
+      "C3"
+    ]
+  },
+  {
+    "name": "www.economist.com",
+    "url": "https://www.economist.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.fastcompany.com",
+    "url": "https://www.fastcompany.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.fey.com",
+    "url": "https://www.fey.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.figma.com",
+    "url": "https://www.figma.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.figma.com_community",
+    "url": "https://www.figma.com/community",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.firstround.com",
+    "url": "https://www.firstround.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.framer.com",
+    "url": "https://www.framer.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.glossier.com",
+    "url": "https://www.glossier.com",
+    "score": 6.8,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "designed focus state"
+    ],
+    "fired": [
+      "C3"
+    ]
+  },
+  {
+    "name": "www.godaddy.com",
+    "url": "https://www.godaddy.com",
+    "score": 11.9,
+    "grade": "A, reads as human-crafted",
+    "credits": 1,
+    "credit_list": [
+      "custom display font"
+    ],
+    "fired": [
+      "B2",
+      "B3"
+    ]
+  },
+  {
+    "name": "www.hashicorp.com",
+    "url": "https://www.hashicorp.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.headspace.com",
+    "url": "https://www.headspace.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.hubspot.com",
+    "url": "https://www.hubspot.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.ideo.com",
+    "url": "https://www.ideo.com",
+    "score": 6.8,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "designed focus state"
+    ],
+    "fired": [
+      "C3"
+    ]
+  },
+  {
+    "name": "www.instrument.com",
+    "url": "https://www.instrument.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.intercom.com",
+    "url": "https://www.intercom.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.klaviyo.com",
+    "url": "https://www.klaviyo.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.land-book.com",
+    "url": "https://www.land-book.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.langchain.com",
+    "url": "https://www.langchain.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.lennysnewsletter.com",
+    "url": "https://www.lennysnewsletter.com",
+    "score": 16.9,
+    "grade": "B, mostly intentional, a few tells",
+    "credits": 1,
+    "credit_list": [
+      "custom display font"
+    ],
+    "fired": [
+      "C3",
+      "E3"
+    ]
+  },
+  {
+    "name": "www.loom.com",
+    "url": "https://www.loom.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.lyft.com",
+    "url": "https://www.lyft.com",
+    "score": 6.8,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "designed focus state"
+    ],
+    "fired": [
+      "C3"
+    ]
+  },
+  {
+    "name": "www.medium.com",
+    "url": "https://www.medium.com",
+    "score": 6.8,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "designed focus state"
+    ],
+    "fired": [
+      "C3"
+    ]
+  },
+  {
+    "name": "www.midjourney.com",
+    "url": "https://www.midjourney.com",
+    "score": 6.8,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "designed focus state"
+    ],
+    "fired": [
+      "C3"
+    ]
+  },
+  {
+    "name": "www.mintlify.com",
+    "url": "https://www.mintlify.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.mistral.ai",
+    "url": "https://www.mistral.ai",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.mongodb.com",
+    "url": "https://www.mongodb.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.netlify.com",
+    "url": "https://www.netlify.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.nike.com",
+    "url": "https://www.nike.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.notion.so",
+    "url": "https://www.notion.so",
+    "score": 5.1,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": [
+      "C4"
+    ]
+  },
+  {
+    "name": "www.nytimes.com",
+    "url": "https://www.nytimes.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.on.com",
+    "url": "https://www.on.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.onepeloton.com",
+    "url": "https://www.onepeloton.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.ouraring.com",
+    "url": "https://www.ouraring.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.patagonia.com",
+    "url": "https://www.patagonia.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.perplexity.ai",
+    "url": "https://www.perplexity.ai",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.pinecone.io",
+    "url": "https://www.pinecone.io",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.postman.com",
+    "url": "https://www.postman.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.prisma.io",
+    "url": "https://www.prisma.io",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.producthunt.com",
+    "url": "https://www.producthunt.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.radix-ui.com",
+    "url": "https://www.radix-ui.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.raycast.com",
+    "url": "https://www.raycast.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.reddit.com",
+    "url": "https://www.reddit.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.retool.com",
+    "url": "https://www.retool.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.revolut.com",
+    "url": "https://www.revolut.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.rippling.com",
+    "url": "https://www.rippling.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.salesforce.com",
+    "url": "https://www.salesforce.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.sanity.io",
+    "url": "https://www.sanity.io",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.sequoiacap.com",
+    "url": "https://www.sequoiacap.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.shopify.com",
+    "url": "https://www.shopify.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.solana.com",
+    "url": "https://www.solana.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.solidjs.com",
+    "url": "https://www.solidjs.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.spotify.com",
+    "url": "https://www.spotify.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.squarespace.com",
+    "url": "https://www.squarespace.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.sunsama.com",
+    "url": "https://www.sunsama.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.superhuman.com",
+    "url": "https://www.superhuman.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.tesla.com",
+    "url": "https://www.tesla.com",
+    "score": 11.9,
+    "grade": "A, reads as human-crafted",
+    "credits": 1,
+    "credit_list": [
+      "custom display font"
+    ],
+    "fired": [
+      "B2",
+      "B3"
+    ]
+  },
+  {
+    "name": "www.theverge.com",
+    "url": "https://www.theverge.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.toss.im",
+    "url": "https://www.toss.im",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.twilio.com",
+    "url": "https://www.twilio.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.typeform.com",
+    "url": "https://www.typeform.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.uber.com",
+    "url": "https://www.uber.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.warp.dev",
+    "url": "https://www.warp.dev",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.whoop.com",
+    "url": "https://www.whoop.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.wired.com",
+    "url": "https://www.wired.com",
+    "score": 6.8,
+    "grade": "A, reads as human-crafted",
+    "credits": 2,
+    "credit_list": [
+      "custom display font",
+      "designed focus state"
+    ],
+    "fired": [
+      "C3"
+    ]
+  },
+  {
+    "name": "www.wix.com",
+    "url": "https://www.wix.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 4,
+    "credit_list": [
+      "custom display font",
+      "optical tracking on display",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.ycombinator.com",
+    "url": "https://www.ycombinator.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "www.zapier.com",
+    "url": "https://www.zapier.com",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "zoom.us",
+    "url": "https://zoom.us",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  },
+  {
+    "name": "zora.co",
+    "url": "https://zora.co",
+    "score": 0.0,
+    "grade": "A, reads as human-crafted",
+    "credits": 3,
+    "credit_list": [
+      "custom display font",
+      "radius hierarchy",
+      "designed focus state"
+    ],
+    "fired": []
+  }
+]

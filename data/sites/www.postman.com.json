@@ -1,0 +1,211 @@
+{
+  "url": "https://www.postman.com",
+  "name": "www.postman.com",
+  "title": "Postman: The World's Leading API Platform | Sign Up for Free",
+  "fonts": {
+    "body": "system-ui",
+    "heading": "degular",
+    "loaded_count": 6,
+    "loaded_sample": [
+      "inter",
+      "inter fallback",
+      "degular",
+      "degular fallback",
+      "ibmplexmono",
+      "ibmplexmono fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      16,
+      16,
+      16,
+      211,
+      211,
+      211,
+      211,
+      211
+    ],
+    "accent_sampled": 15,
+    "purple_accents": 0,
+    "any_gradients": 5,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      5,
+      50
+    ],
+    [
+      10,
+      22
+    ],
+    [
+      15,
+      1
+    ],
+    [
+      20,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 8
+  },
+  "paddings": [
+    [
+      "5px",
+      47
+    ],
+    [
+      "10px",
+      44
+    ],
+    [
+      "20px",
+      8
+    ],
+    [
+      "60px",
+      5
+    ],
+    [
+      "4px",
+      3
+    ],
+    [
+      "8px",
+      2
+    ],
+    [
+      "120px",
+      1
+    ],
+    [
+      "1.1px",
+      1
+    ],
+    [
+      "30px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      385
+    ],
+    [
+      14,
+      170
+    ],
+    [
+      12,
+      30
+    ],
+    [
+      55,
+      2
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      22,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 2,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 6,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 46,
+    "centered_fraction": 0.08695652173913043
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "The AI-native API Platform",
+    "buttons": [
+      "Home",
+      "Product",
+      "What's New",
+      "Security",
+      "Integrations",
+      "Postman API Network",
+      "MCP Server Catalog",
+      "Download Postman →",
+      "Spec HubManage specifications",
+      "WorkspacesCollaborate with teams",
+      "Mock ServersSimulate API behavior",
+      "SDK GeneratorCreate SDKs instantly",
+      "FlowsCreate visual workflows",
+      "API ClientSend API requests",
+      "Collection RunnerAutomate API workflows",
+      "MonitorsValidate performance",
+      "WebhooksFirst-class webhook support",
+      "API CatalogKnow every API and service",
+      "InsightsTrack every endpoint",
+      "Solutions",
+      "Pricing",
+      "Enterprise",
+      "Resources",
+      "Learning Hub",
+      "Docs",
+      "Postman Academy",
+      "Templates",
+      "Customer Stories",
+      "Postman Best Practices",
+      "Community",
+      "Events",
+      "Discord",
+      "Postman MCP Server",
+      "Support Center",
+      "Release Notes",
+      "Postman Status",
+      "Security",
+      "Blog",
+      "Press and Media",
+      "About Postman",
+      "Contact Sales",
+      "Sign In",
+      "Sign Up for Free",
+      "Try the New Postman",
+      "Sign Up for Free",
+      "Postman Overview",
+      "Enterprise",
+      "Spec Hub",
+      "Flows",
+      "Agent Mode",
+      "API Catalog",
+      "Fern",
+      "Postman CLI",
+      "Integrations",
+      "Workspaces",
+      "Plans and Pricing",
+      "App Security",
+      "Artificial Intelligence",
+      "Communication",
+      "Data Analytics"
+    ]
+  },
+  "ok": true
+}

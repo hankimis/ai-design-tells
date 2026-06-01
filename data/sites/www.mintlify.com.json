@@ -1,0 +1,248 @@
+{
+  "url": "https://www.mintlify.com",
+  "name": "www.mintlify.com",
+  "title": "Mintlify - The Intelligent Knowledge Platform",
+  "fonts": {
+    "body": "inter",
+    "heading": "inter",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "geist mono",
+      "geist mono fallback",
+      "inter",
+      "inter fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 13,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      33554400,
+      55
+    ],
+    [
+      4,
+      26
+    ],
+    [
+      16,
+      13
+    ],
+    [
+      24,
+      5
+    ],
+    [
+      14,
+      3
+    ],
+    [
+      8,
+      2
+    ],
+    [
+      60,
+      2
+    ],
+    [
+      50,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 9
+  },
+  "paddings": [
+    [
+      "6px",
+      32
+    ],
+    [
+      "12px",
+      12
+    ],
+    [
+      "4px",
+      8
+    ],
+    [
+      "48px",
+      5
+    ],
+    [
+      "10px",
+      5
+    ],
+    [
+      "4.5px",
+      3
+    ],
+    [
+      "7px",
+      3
+    ],
+    [
+      "32px",
+      3
+    ],
+    [
+      "16px",
+      2
+    ],
+    [
+      "2px",
+      2
+    ],
+    [
+      "72px",
+      2
+    ],
+    [
+      "24px",
+      2
+    ],
+    [
+      "64px",
+      2
+    ],
+    [
+      "104px",
+      1
+    ],
+    [
+      "5px",
+      1
+    ],
+    [
+      "0.8px",
+      1
+    ],
+    [
+      "96px",
+      1
+    ],
+    [
+      "120px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      955
+    ],
+    [
+      15,
+      79
+    ],
+    [
+      14,
+      28
+    ],
+    [
+      13,
+      11
+    ],
+    [
+      12,
+      6
+    ],
+    [
+      40,
+      6
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      20,
+      4
+    ],
+    [
+      24,
+      4
+    ],
+    [
+      18,
+      1
+    ],
+    [
+      58,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 3,
+    "neg_tracked": 3
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 5,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 42,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "The Intelligent Knowledge Platform",
+    "buttons": [
+      "Resources",
+      "Documentation",
+      "Customers",
+      "Blog",
+      "Pricing",
+      "Contact sales",
+      "Start for free",
+      "Start now",
+      "Copy page",
+      "Explore for enterprise",
+      "Anthropic",
+      "Coinbase",
+      "HubSpot",
+      "Zapier",
+      "AT&T",
+      "Previous slide",
+      "Next slide",
+      "Get started for free",
+      "Get a demo",
+      "Pricing details",
+      "Quickstart",
+      "Startups",
+      "Enterprise",
+      "Switch",
+      "OSS Program",
+      "Editor sandbox",
+      "Learn",
+      "Customers",
+      "Blog",
+      "Pricing",
+      "Guides",
+      "Feature Requests",
+      "Library",
+      "Wiki",
+      "Agent Score",
+      "Getting Started",
+      "API Reference",
+      "Components",
+      "Changelog",
+      "Careers",
+      "Wall of Love",
+      "Privacy Policy",
+      "Responsible Disclosure",
+      "Terms Of Service",
+      "Security",
+      "DSR/DSAR",
+      "All systems normal"
+    ]
+  },
+  "ok": true
+}

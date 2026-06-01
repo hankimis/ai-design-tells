@@ -1,0 +1,344 @@
+{
+  "url": "https://www.typeform.com",
+  "name": "www.typeform.com",
+  "title": "Typeform: People-Friendly Forms and Surveys",
+  "fonts": {
+    "body": "twklausanne 400",
+    "heading": "tobias",
+    "loaded_count": 12,
+    "loaded_sample": [
+      "webflow-icons",
+      "apercupro",
+      "apercumonopro",
+      "tobias",
+      "twklausanne 350",
+      "twklausanne 700",
+      "twklausanne 500",
+      "twklausanne 400",
+      "twklausanne 600",
+      "twklausanne",
+      "inter",
+      "wistiaplayerinternumberssemibold"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270,
+      270
+    ],
+    "accent_sampled": 95,
+    "purple_accents": 95,
+    "any_gradients": 20,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      24,
+      104
+    ],
+    [
+      8,
+      21
+    ],
+    [
+      12,
+      19
+    ],
+    [
+      16000,
+      19
+    ],
+    [
+      12.5,
+      6
+    ],
+    [
+      80,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1,
+    "other": 17
+  },
+  "paddings": [
+    [
+      "16px",
+      91
+    ],
+    [
+      "1px",
+      16
+    ],
+    [
+      "8px",
+      9
+    ],
+    [
+      "40px",
+      9
+    ],
+    [
+      "120px",
+      7
+    ],
+    [
+      "80px",
+      6
+    ],
+    [
+      "24px",
+      5
+    ],
+    [
+      "32px",
+      4
+    ],
+    [
+      "6.08px",
+      4
+    ],
+    [
+      "4px",
+      3
+    ],
+    [
+      "0.5px",
+      3
+    ],
+    [
+      "48px",
+      3
+    ],
+    [
+      "2px",
+      1
+    ],
+    [
+      "12px",
+      1
+    ],
+    [
+      "627.188px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      870
+    ],
+    [
+      28,
+      56
+    ],
+    [
+      14,
+      38
+    ],
+    [
+      24,
+      23
+    ],
+    [
+      80,
+      9
+    ],
+    [
+      20,
+      8
+    ],
+    [
+      60,
+      6
+    ],
+    [
+      13,
+      4
+    ],
+    [
+      48,
+      4
+    ],
+    [
+      36,
+      1
+    ],
+    [
+      56,
+      1
+    ],
+    [
+      64,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 8,
+    "neg_tracked": 3
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 35,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 104,
+    "centered_fraction": 0.038461538461538464
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "Register now",
+      "Typeform Icon",
+      "Platform",
+      "Solutions",
+      "Resources",
+      "Enterprise",
+      "Pricing",
+      "Log in",
+      "Sign up",
+      "Get started—it’s free",
+      "Explore forms",
+      "Explore Growth Flow",
+      "Explore Research Flow",
+      "Read all customer stories",
+      "View integrations",
+      "Get started—it’s free",
+      "Pricing",
+      "Enterprise",
+      "Popular templates",
+      "Recent templates",
+      "Popular categories",
+      "Recent categories",
+      "Popular integration apps",
+      "More integration apps",
+      "Popular app categories",
+      "More app categories",
+      "Blog",
+      "Help center",
+      "Community",
+      "Tutorials",
+      "FAQs",
+      "Why Typeform?",
+      "Referral program",
+      "Partners",
+      "System status",
+      "Developers / API",
+      "About us",
+      "Brand",
+      "Careers",
+      "Contact sales",
+      "Terms and conditions",
+      "Typeform (es)",
+      "Newsletter",
+      "Facebook",
+      "Twitter/X",
+      "Instagram",
+      "YouTube",
+      "LinkedIn",
+      "English",
+      "Cookie settings",
+      "Report abuse",
+      "cookie policy",
+      "Cookie settings",
+      "Accept all cookies"
+    ]
+  },
+  "ok": true
+}

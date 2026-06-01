@@ -1,0 +1,253 @@
+{
+  "url": "https://todoist.com",
+  "name": "todoist.com",
+  "title": "Todoist | 일과 생활을 관리하기 위한 To Do List",
+  "fonts": {
+    "body": "graphik-1bbd4a4c7a2fb472",
+    "heading": "graphik-1bbd4a4c7a2fb472",
+    "loaded_count": 8,
+    "loaded_sample": [
+      "inter-5486e50ce5a4efdf",
+      "inter-5486e50ce5a4efdf fallback: arial",
+      "graphik-1bbd4a4c7a2fb472",
+      "graphik-1bbd4a4c7a2fb472 fallback: arial",
+      "caecilia-8d8a7c9be503e3f3",
+      "caecilia-8d8a7c9be503e3f3 fallback: times new roman",
+      "shantell sans-5a9740f6b2ed8488",
+      "shantell sans-5a9740f6b2ed8488 fallback: arial"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      6,
+      7,
+      7,
+      6,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      6
+    ],
+    "accent_sampled": 13,
+    "purple_accents": 0,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      8,
+      33
+    ],
+    [
+      10,
+      18
+    ],
+    [
+      15,
+      15
+    ],
+    [
+      13,
+      2
+    ],
+    [
+      6,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 2,
+    "other": 6
+  },
+  "paddings": [
+    [
+      "9px",
+      25
+    ],
+    [
+      "4px",
+      13
+    ],
+    [
+      "8px",
+      6
+    ],
+    [
+      "12px",
+      6
+    ],
+    [
+      "16px",
+      6
+    ],
+    [
+      "20px",
+      6
+    ],
+    [
+      "1px",
+      5
+    ],
+    [
+      "6.5px",
+      3
+    ],
+    [
+      "128px",
+      2
+    ],
+    [
+      "6px",
+      2
+    ],
+    [
+      "96px",
+      1
+    ],
+    [
+      "192px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "10px",
+      1
+    ],
+    [
+      "7px",
+      1
+    ],
+    [
+      "24px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      404
+    ],
+    [
+      17,
+      31
+    ],
+    [
+      15,
+      22
+    ],
+    [
+      19,
+      19
+    ],
+    [
+      18,
+      13
+    ],
+    [
+      22,
+      12
+    ],
+    [
+      21,
+      9
+    ],
+    [
+      14,
+      7
+    ],
+    [
+      38,
+      7
+    ],
+    [
+      12,
+      6
+    ],
+    [
+      20,
+      3
+    ],
+    [
+      44,
+      1
+    ],
+    [
+      55,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 4,
+    "neg_tracked": 4
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 12,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 22,
+    "centered_fraction": 0.09090909090909091
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "마침내, 명료해집니다.",
+    "buttons": [
+      "관리",
+      "리소스",
+      "요금",
+      "로그인",
+      "무료로 시작하기",
+      "램블을 만나보세요.",
+      "무료로 시작하기",
+      "팀에 대해 자세히 알아보기",
+      "규정 준수 기준",
+      "재생",
+      "Todoist 온보딩",
+      "Work Shutdown Ritual",
+      "딥워크",
+      "미팅 시작",
+      "미팅 실행",
+      "템플릿 더 보기",
+      "재생",
+      "AI 접근 방식을 알아보세요",
+      "저희의 장기간 미션에 대해 살펴보세요",
+      "무료로 시작하기",
+      "앱 다운로드하기",
+      "이용 방법",
+      "팀",
+      "요금",
+      "비교",
+      "템플릿",
+      "앱 다운로드",
+      "도움말 센터",
+      "고객 사례",
+      "생산성 방법론",
+      "통합",
+      "채널 파트너",
+      "개발자 API",
+      "시스템 상태",
+      "소개",
+      "채용채용",
+      "영감의 중심지",
+      "언론",
+      "Twist",
+      "보안",
+      "개인 정보",
+      "약관",
+      "쿠키 설정",
+      "수락",
+      "거절"
+    ]
+  },
+  "ok": true
+}

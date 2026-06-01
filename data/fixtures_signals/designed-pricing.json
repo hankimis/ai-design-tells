@@ -1,0 +1,113 @@
+{
+  "url": "file:///Users/hankim/아이오브연구소/ai-design-tells/.claude/worktrees/build/fixtures/designed-pricing.html",
+  "name": "file:___Users_hankim_아이오브연구소_ai-design-tells_.claude_worktrees_build_fixtures_designed-pricing.html",
+  "title": "TaskFlow · Pricing",
+  "fonts": {
+    "body": "avenir next",
+    "heading": "charter",
+    "loaded_count": 0,
+    "loaded_sample": []
+  },
+  "color": {
+    "accent_hues": [
+      223,
+      223,
+      14,
+      223,
+      223
+    ],
+    "accent_sampled": 5,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      7,
+      3
+    ],
+    [
+      18,
+      3
+    ]
+  ],
+  "shadows": {
+    "other": 1
+  },
+  "paddings": [
+    [
+      "6.4px",
+      10
+    ],
+    [
+      "11.2px",
+      3
+    ],
+    [
+      "28px",
+      2
+    ],
+    [
+      "88px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "36px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      22
+    ],
+    [
+      27,
+      6
+    ],
+    [
+      14,
+      5
+    ],
+    [
+      13,
+      3
+    ],
+    [
+      19,
+      1
+    ],
+    [
+      42,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 1,
+    "neg_tracked": 1
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 1,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 4,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Pay for seats that ship, not seats that watch.",
+    "buttons": [
+      "Keep it free",
+      "Start a 14-day trial",
+      "Book a walkthrough"
+    ]
+  },
+  "ok": true
+}

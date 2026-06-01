@@ -1,0 +1,121 @@
+{
+  "url": "https://www.midjourney.com",
+  "name": "www.midjourney.com",
+  "title": "Midjourney",
+  "fonts": {
+    "body": "dm sans",
+    "heading": "jetbrains mono",
+    "loaded_count": 2,
+    "loaded_sample": [
+      "dm sans",
+      "jetbrains mono"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      220,
+      281,
+      287,
+      205,
+      205,
+      205,
+      205,
+      205,
+      205,
+      201,
+      201,
+      201
+    ],
+    "accent_sampled": 12,
+    "purple_accents": 2,
+    "any_gradients": 1,
+    "blue_purple_gradients": 1
+  },
+  "radii": [
+    [
+      8,
+      8
+    ],
+    [
+      9999,
+      8
+    ]
+  ],
+  "shadows": {
+    "other": 7
+  },
+  "paddings": [
+    [
+      "8px",
+      7
+    ],
+    [
+      "16px",
+      1
+    ],
+    [
+      "12px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      100
+    ],
+    [
+      30,
+      13
+    ],
+    [
+      20,
+      8
+    ],
+    [
+      14,
+      3
+    ]
+  ],
+  "heading": {
+    "big_count": 4,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 4,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 18,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "About",
+    "buttons": [
+      "Sign Up",
+      "Log In",
+      "Documentation",
+      "Explore",
+      "Sign Up",
+      "Log In",
+      "Explore",
+      "community-funded research",
+      "Image and Video Models",
+      "Learn more.",
+      "Discord",
+      "help page",
+      "billing@midjourney.com",
+      "press@midjourney.com",
+      "Terms of Service",
+      "Privacy Policy",
+      "Privacy Settings"
+    ]
+  },
+  "ok": true
+}

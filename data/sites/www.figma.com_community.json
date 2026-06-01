@@ -1,0 +1,305 @@
+{
+  "url": "https://www.figma.com/community",
+  "name": "www.figma.com_community",
+  "title": "Discover community-made templates, plugins, and widgets | Figma",
+  "fonts": {
+    "body": "times",
+    "heading": "inter",
+    "loaded_count": 14,
+    "loaded_sample": [
+      "apercu",
+      "apercu-mono",
+      "d7cbi",
+      "d7cbib",
+      "figma sans",
+      "figma mono",
+      "inter",
+      "roboto",
+      "roboto mono",
+      "whyte",
+      "whyteinktrap",
+      "helvetica neue"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      240,
+      240,
+      208,
+      208,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      208,
+      208,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      208,
+      208,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      208,
+      208,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240
+    ],
+    "accent_sampled": 54,
+    "purple_accents": 46,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      6,
+      168
+    ],
+    [
+      4,
+      71
+    ],
+    [
+      15,
+      39
+    ],
+    [
+      12,
+      16
+    ],
+    [
+      13,
+      13
+    ],
+    [
+      8,
+      8
+    ],
+    [
+      5,
+      7
+    ],
+    [
+      9999,
+      4
+    ],
+    [
+      7,
+      1
+    ],
+    [
+      24,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 165,
+    "diffuse": 13
+  },
+  "paddings": [
+    [
+      "4px",
+      69
+    ],
+    [
+      "1px",
+      50
+    ],
+    [
+      "10px",
+      42
+    ],
+    [
+      "214.875px",
+      42
+    ],
+    [
+      "24px",
+      12
+    ],
+    [
+      "16px",
+      10
+    ],
+    [
+      "20px",
+      9
+    ],
+    [
+      "237.953px",
+      6
+    ],
+    [
+      "8px",
+      3
+    ],
+    [
+      "7px",
+      1
+    ],
+    [
+      "96px",
+      1
+    ],
+    [
+      "2px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "14px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      793
+    ],
+    [
+      11,
+      709
+    ],
+    [
+      13,
+      438
+    ],
+    [
+      24,
+      97
+    ],
+    [
+      14,
+      86
+    ],
+    [
+      9,
+      6
+    ],
+    [
+      12,
+      4
+    ],
+    [
+      8,
+      2
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 4,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 45,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "커뮤니티에서 만든 라이브러리, 플러그인, 아이콘 세트, 등을 살펴보세요",
+    "buttons": [
+      "커뮤니티",
+      "UI 키트",
+      "와이어프레임",
+      "소셜 미디어",
+      "Figma Weave",
+      "디자인 템플릿",
+      "포트폴리오 템플릿",
+      "모바일 앱",
+      "이력서 템플릿",
+      "웹 광고",
+      "에셋",
+      "아이콘",
+      "삽화",
+      "모양 및 색상",
+      "기기 모형",
+      "랜딩 페이지",
+      "포트폴리오",
+      "비즈니스",
+      "더 많은 웹사이트",
+      "블로그",
+      "웨딩",
+      "사진",
+      "인테리어 디자인",
+      "Figma Make",
+      "플러그인",
+      "위젯",
+      "앱",
+      "편집 및 효과",
+      "파일 오거니제이션",
+      "개발",
+      "접근성 도구",
+      "MCP 클라이언트",
+      "Figma 기술",
+      "브레인스토밍",
+      "다이어그램 만들기",
+      "재미와 게임",
+      "팀 협업",
+      "더 많은 화이트보드",
+      "전략 기획",
+      "피치덱",
+      "제품 프레젠테이션",
+      "더 많은 프레젠테이션",
+      "로그인",
+      "가입",
+      "웹 앱 둘러보기",
+      "Fortune Cookie!",
+      "작성자 Da Wei",
+      "Interactive Eye-Following Card",
+      "작성자 Thierry",
+      "Shader Reminder",
+      "작성자 Daniela Muntyan",
+      "Button effect",
+      "작성자 Soundharya M",
+      "Minimalist sidebar component",
+      "작성자 Joshua Guo",
+      "3D ASCII Model Viewer",
+      "작성자 Daniel Destefanis",
+      "모든 디자인 리소스 둘러보기",
+      "Free Icon Pack 1800+ icons",
+      "작성자 Leonid Tsvetkov"
+    ]
+  },
+  "ok": true
+}

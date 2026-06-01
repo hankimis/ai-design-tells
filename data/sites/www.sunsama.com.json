@@ -1,0 +1,356 @@
+{
+  "url": "https://www.sunsama.com",
+  "name": "www.sunsama.com",
+  "title": "Sunsama - Make work-life balance a reality.",
+  "fonts": {
+    "body": "dm sans",
+    "heading": "dm sans",
+    "loaded_count": 6,
+    "loaded_sample": [
+      "webflow-icons",
+      "avenir",
+      "dm sans",
+      "inconsolata",
+      "inter",
+      "outfit"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      29,
+      29,
+      48,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      29,
+      29,
+      7,
+      29,
+      29,
+      7,
+      29,
+      220,
+      220,
+      220,
+      220
+    ],
+    "accent_sampled": 40,
+    "purple_accents": 0,
+    "any_gradients": 23,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      10,
+      42
+    ],
+    [
+      14,
+      11
+    ],
+    [
+      40,
+      11
+    ],
+    [
+      30,
+      10
+    ],
+    [
+      48,
+      10
+    ],
+    [
+      50,
+      7
+    ],
+    [
+      24,
+      6
+    ],
+    [
+      16,
+      5
+    ],
+    [
+      20,
+      5
+    ],
+    [
+      43,
+      4
+    ],
+    [
+      999,
+      3
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      11,
+      2
+    ],
+    [
+      5,
+      1
+    ],
+    [
+      9,
+      1
+    ],
+    [
+      62,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 2,
+    "other": 27
+  },
+  "paddings": [
+    [
+      "8px",
+      95
+    ],
+    [
+      "16px",
+      30
+    ],
+    [
+      "10px",
+      20
+    ],
+    [
+      "32px",
+      18
+    ],
+    [
+      "4px",
+      14
+    ],
+    [
+      "20px",
+      10
+    ],
+    [
+      "6px",
+      6
+    ],
+    [
+      "40px",
+      5
+    ],
+    [
+      "28px",
+      5
+    ],
+    [
+      "7.5px",
+      2
+    ],
+    [
+      "120px",
+      2
+    ],
+    [
+      "56px",
+      2
+    ],
+    [
+      "30px",
+      1
+    ],
+    [
+      "18px",
+      1
+    ],
+    [
+      "575.797px",
+      1
+    ],
+    [
+      "160px",
+      1
+    ],
+    [
+      "12px",
+      1
+    ],
+    [
+      "24px",
+      1
+    ],
+    [
+      "26px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ],
+    [
+      "96px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      587
+    ],
+    [
+      27,
+      97
+    ],
+    [
+      14,
+      81
+    ],
+    [
+      12,
+      15
+    ],
+    [
+      18,
+      15
+    ],
+    [
+      48,
+      9
+    ],
+    [
+      40,
+      8
+    ],
+    [
+      15,
+      7
+    ],
+    [
+      20,
+      7
+    ],
+    [
+      24,
+      7
+    ],
+    [
+      44,
+      3
+    ],
+    [
+      51,
+      1
+    ],
+    [
+      56,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 16,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 71,
+    "centered_fraction": 0.028169014084507043
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "Cookie Policy",
+      "Preferences",
+      "Preferences",
+      "Accept",
+      "Features",
+      "Integrations",
+      "Pricing",
+      "Love",
+      "About",
+      "Blog",
+      "Login",
+      "Start for Free",
+      "Named BestScheduling Tool by",
+      "Try for free",
+      "View integration",
+      "Get Sunsama approved at work",
+      "Read the review",
+      "support@sunsama.com",
+      "Join community",
+      "Get updated with every move.",
+      "Learn how to get started with Sunsama.",
+      "Named BestScheduling Tool by",
+      "Try it today",
+      "iOS/iPadOS",
+      "Android",
+      "macOS",
+      "Windows",
+      "Linux",
+      "Asana",
+      "ClickUp",
+      "GitHub",
+      "Gmail",
+      "Jira",
+      "Linear",
+      "Microsoft To Do",
+      "Monday.com",
+      "Notion",
+      "Outlook",
+      "Slack",
+      "Teams",
+      "Todoist",
+      "Toggl",
+      "Trello",
+      "Zapier",
+      "Designers",
+      "Engineers",
+      "Execs & Founders",
+      "Product Managers",
+      "Marketers",
+      "Operations Leaders",
+      "Blog",
+      "User Manual & Guides",
+      "Compare",
+      "Support",
+      "Consent Preferences",
+      "Vulnerability Disclosure Program",
+      "Terms & Conditions",
+      "Privacy",
+      "Status"
+    ]
+  },
+  "ok": true
+}

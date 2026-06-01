@@ -1,0 +1,221 @@
+{
+  "url": "https://n26.com",
+  "name": "n26.com",
+  "title": "Love your bank | Spend, save, and invest in one app",
+  "fonts": {
+    "body": "n26",
+    "heading": "n26-extended",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "n26",
+      "n26-extended",
+      "n26-fallback",
+      "n26-extended-fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      175,
+      175,
+      175,
+      175,
+      175,
+      175,
+      175,
+      175,
+      168,
+      168,
+      175,
+      175
+    ],
+    "accent_sampled": 12,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      24,
+      10
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      6,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "4px",
+      41
+    ],
+    [
+      "8px",
+      11
+    ],
+    [
+      "32px",
+      10
+    ],
+    [
+      "48px",
+      5
+    ],
+    [
+      "12px",
+      4
+    ],
+    [
+      "24px",
+      3
+    ],
+    [
+      "64px",
+      2
+    ],
+    [
+      "56px",
+      2
+    ],
+    [
+      "10px",
+      2
+    ],
+    [
+      "2px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      18,
+      375
+    ],
+    [
+      14,
+      45
+    ],
+    [
+      16,
+      37
+    ],
+    [
+      20,
+      16
+    ],
+    [
+      58,
+      6
+    ],
+    [
+      15,
+      4
+    ],
+    [
+      19,
+      4
+    ],
+    [
+      13,
+      2
+    ],
+    [
+      44,
+      1
+    ],
+    [
+      80,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 7,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 2,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 69,
+    "centered_fraction": 0.057971014492753624
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "The first bank you'll love",
+    "buttons": [
+      "N26 Logo",
+      "Plans",
+      "Bank",
+      "Save",
+      "Invest",
+      "Travel",
+      "Log in",
+      "EN",
+      "Open an N26 Standard account",
+      "Discover Instant Savings",
+      "crypto",
+      "Start investing",
+      "Open an N26 Go account",
+      "Compare plans",
+      "Is N26 a bank?",
+      "Where is N26 available?",
+      "Is N26 secure?",
+      "N26",
+      "About us",
+      "Leadership Team",
+      "Careers",
+      "Press",
+      "Affiliate program",
+      "Suppliers",
+      "Customer Support",
+      "Sitemap",
+      "Financial crime policies",
+      "Blog",
+      "Banking basics",
+      "Trading glossary",
+      "Crypto glossary",
+      "Studies and research",
+      "Financial calculators",
+      "Budget calculator",
+      "50-30-20 calculator",
+      "Interest calculator",
+      "Inflation calculator",
+      "Moving cost calculator",
+      "Festive budget calculator",
+      "Student bank account",
+      "Security",
+      "Refer a friend",
+      "Expats",
+      "International money transfers",
+      "Legal Documents",
+      "Privacy Policy",
+      "Cookie Policy",
+      "Imprint",
+      "Update cookie settings",
+      "Cookie Policy",
+      "Privacy Policy",
+      "Imprint",
+      "Cookie Preferences",
+      "Reject All",
+      "Accept All"
+    ]
+  },
+  "ok": true
+}

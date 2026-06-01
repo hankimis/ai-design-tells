@@ -1,0 +1,373 @@
+{
+  "url": "https://every.to",
+  "name": "every.to",
+  "title": "Every",
+  "fonts": {
+    "body": "switzer",
+    "heading": "signifier",
+    "loaded_count": 5,
+    "loaded_sample": [
+      "inter var",
+      "geist mono",
+      "signifier",
+      "every",
+      "switzer"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      220,
+      220,
+      220,
+      191,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      191,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      24,
+      220,
+      199,
+      220,
+      220,
+      189,
+      220,
+      157,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220
+    ],
+    "accent_sampled": 118,
+    "purple_accents": 0,
+    "any_gradients": 8,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      9999,
+      33
+    ],
+    [
+      5,
+      21
+    ],
+    [
+      10,
+      14
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      8,
+      2
+    ],
+    [
+      12,
+      2
+    ],
+    [
+      48,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "8px",
+      17
+    ],
+    [
+      "10px",
+      9
+    ],
+    [
+      "16px",
+      8
+    ],
+    [
+      "12px",
+      7
+    ],
+    [
+      "5px",
+      7
+    ],
+    [
+      "24px",
+      4
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "72px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "33px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ],
+    [
+      "14px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      15,
+      447
+    ],
+    [
+      14,
+      66
+    ],
+    [
+      32,
+      58
+    ],
+    [
+      18,
+      48
+    ],
+    [
+      20,
+      44
+    ],
+    [
+      16,
+      32
+    ],
+    [
+      24,
+      15
+    ],
+    [
+      12,
+      13
+    ],
+    [
+      42,
+      4
+    ],
+    [
+      48,
+      3
+    ],
+    [
+      40,
+      2
+    ],
+    [
+      13,
+      1
+    ],
+    [
+      26,
+      1
+    ],
+    [
+      52,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 5,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 12,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 51,
+    "centered_fraction": 0.0392156862745098
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "The Only Subscription You Need to Stay at the Edge of AI",
+    "buttons": [
+      "Sign in",
+      "Subscribe",
+      "Home",
+      "Newsletter",
+      "Columnists",
+      "Columns",
+      "Podcast",
+      "Products",
+      "Events",
+      "Guides",
+      "Consulting",
+      "Sign in",
+      "Sign in",
+      "Search",
+      "About us",
+      "Careers",
+      "Advertise with us",
+      "The team",
+      "FAQ",
+      "Help center",
+      "Subscribe",
+      "Context Window",
+      "How We Work Now",
+      "Every Staff",
+      "Every Staff",
+      "Compound Engineering Gets an Upgrade",
+      "Kieran Klaassen",
+      "Kieran Klaassen",
+      "Natalia Quintero",
+      "Natalia Quintero",
+      "RECENT ESSAYS",
+      "Dan Shipper",
+      "Dan Shipper",
+      "After ‘After Automation’",
+      "Katie Parrott",
+      "Katie Parrott",
+      "Katie Parrott",
+      "Katie Parrott",
+      "Cheap Competence, New Frontier",
+      "Every Staff",
+      "Every Staff",
+      "Become an Early Adopter",
+      "Brandon Gell",
+      "Brandon Gell",
+      "Marcus Moretti",
+      "Marcus Moretti",
+      "Kieran Klaassen",
+      "Kieran Klaassen",
+      "Katie Parrott",
+      "Katie Parrott",
+      "Alex Duffy",
+      "Alex Duffy",
+      "Dan Shipper",
+      "Dan Shipper",
+      "Jack Cheng",
+      "Jack Cheng",
+      "Katie Parrott",
+      "Katie Parrott",
+      "Newsletter",
+      "Podcast"
+    ]
+  },
+  "ok": true
+}

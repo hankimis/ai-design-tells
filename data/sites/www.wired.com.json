@@ -1,0 +1,202 @@
+{
+  "url": "https://www.wired.com",
+  "name": "www.wired.com",
+  "title": "WIRED - The Latest in Technology, Science, Culture and Business | WIRED",
+  "fonts": {
+    "body": "brevetext",
+    "heading": "wiredmono",
+    "loaded_count": 12,
+    "loaded_sample": [
+      "apercu",
+      "brevetext",
+      "labgrotesque",
+      "proximanova",
+      "wireddisplay",
+      "wireddisplayslab",
+      "wiredmono",
+      "breve text",
+      "proxima nova",
+      "wired display",
+      "wired display slab",
+      "wired mono"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      201,
+      201
+    ],
+    "accent_sampled": 2,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      50,
+      10
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "12px",
+      27
+    ],
+    [
+      "8px",
+      11
+    ],
+    [
+      "4px",
+      10
+    ],
+    [
+      "16px",
+      10
+    ],
+    [
+      "32px",
+      4
+    ],
+    [
+      "40px",
+      2
+    ]
+  ],
+  "font_sizes": [
+    [
+      19,
+      842
+    ],
+    [
+      12,
+      246
+    ],
+    [
+      16,
+      58
+    ],
+    [
+      13,
+      53
+    ],
+    [
+      26,
+      51
+    ],
+    [
+      17,
+      38
+    ],
+    [
+      14,
+      14
+    ],
+    [
+      20,
+      10
+    ],
+    [
+      58,
+      10
+    ],
+    [
+      44,
+      8
+    ],
+    [
+      11,
+      5
+    ],
+    [
+      84,
+      2
+    ],
+    [
+      18,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 10,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 102,
+    "centered_fraction": 0.00980392156862745
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "WIRED",
+    "buttons": [
+      "Menu",
+      "SECURITY",
+      "POLITICS",
+      "THE BIG STORY",
+      "BUSINESS",
+      "SCIENCE",
+      "CULTURE",
+      "REVIEWS",
+      "Account",
+      "Newsletters",
+      "SUBSCRIBE",
+      "Security",
+      "Politics",
+      "The Big Story",
+      "Business",
+      "Science",
+      "Culture",
+      "ReviewsChevron",
+      "MoreExpand",
+      "Newsletters",
+      "Podcasts",
+      "Video",
+      "Livestreams",
+      "Merch",
+      "SearchSearch",
+      "Sign In",
+      "START FREE TRIAL",
+      "The Painful Truth About Long Covid",
+      "Reviews",
+      "Subscriber Exclusives",
+      "The Vatican’s Man Inside Anthropic",
+      "Politics",
+      "Security",
+      "Science",
+      "Business",
+      "Gear News",
+      "Reviews",
+      "Culture",
+      "What to Watch",
+      "The 9 Best Movies to Stream This Month",
+      "Podcast: Uncanny Valley",
+      "The Big Story",
+      "AI Just Isn’t Right",
+      "War on Iran",
+      "Special Editions",
+      "THE WAR MACHINE",
+      "Things Fall Apart",
+      "WIRED Classics",
+      "What OpenAI Really Wants",
+      "Videos",
+      "Chevron",
+      "Chevron",
+      "50. Most Googled",
+      "AI Is Changing Your Job—Now What?",
+      "Tech Support",
+      "Pope Leo: AI Needs To Be Disarmed",
+      "Subscribe",
+      "Newsletters",
+      "Livestreams",
+      "Travel"
+    ]
+  },
+  "ok": true
+}

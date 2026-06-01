@@ -1,0 +1,309 @@
+{
+  "url": "https://github.com",
+  "name": "github.com",
+  "title": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub",
+  "fonts": {
+    "body": "mona sans vf",
+    "heading": "mona sans",
+    "loaded_count": 9,
+    "loaded_sample": [
+      "noto sans",
+      "mona sans",
+      "monasansfallback",
+      "monasansheaderfallback",
+      "hubot sans",
+      "mona sans mono",
+      "mona sans fallback",
+      "mona sans header fallback",
+      "monaspace neon"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      208,
+      137,
+      213,
+      202,
+      135,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      202,
+      137,
+      213,
+      202,
+      202,
+      202,
+      216,
+      210,
+      210,
+      210,
+      210,
+      210
+    ],
+    "accent_sampled": 62,
+    "purple_accents": 0,
+    "any_gradients": 15,
+    "blue_purple_gradients": 10
+  },
+  "radii": [
+    [
+      60,
+      12
+    ],
+    [
+      6,
+      11
+    ],
+    [
+      24,
+      7
+    ],
+    [
+      8,
+      6
+    ],
+    [
+      16,
+      3
+    ],
+    [
+      50,
+      3
+    ],
+    [
+      12,
+      1
+    ],
+    [
+      48,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 1
+  },
+  "paddings": [
+    [
+      "8px",
+      19
+    ],
+    [
+      "64px",
+      9
+    ],
+    [
+      "24px",
+      9
+    ],
+    [
+      "4px",
+      5
+    ],
+    [
+      "2px",
+      4
+    ],
+    [
+      "6px",
+      4
+    ],
+    [
+      "40px",
+      4
+    ],
+    [
+      "32px",
+      3
+    ],
+    [
+      "384px",
+      3
+    ],
+    [
+      "96px",
+      3
+    ],
+    [
+      "16px",
+      2
+    ],
+    [
+      "3px",
+      2
+    ],
+    [
+      "18px",
+      2
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      645
+    ],
+    [
+      14,
+      128
+    ],
+    [
+      12,
+      54
+    ],
+    [
+      18,
+      45
+    ],
+    [
+      22,
+      26
+    ],
+    [
+      40,
+      12
+    ],
+    [
+      48,
+      2
+    ],
+    [
+      64,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 6,
+    "neg_tracked": 1
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 27,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 114,
+    "centered_fraction": 0.10526315789473684
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Search code, repositories, users, issues, pull requests...",
+    "buttons": [
+      "Platform",
+      "Solutions",
+      "Resources",
+      "Open Source",
+      "Enterprise",
+      "Pricing",
+      "Search or jump to...",
+      "Sign in",
+      "Sign up",
+      "Sign up for GitHub",
+      "Try GitHub Copilot",
+      "Code",
+      "Plan",
+      "Collaborate",
+      "Automate",
+      "Secure",
+      "Explore GitHub Copilot",
+      "Read customer story",
+      "Read industry report",
+      "Automate your path to production",
+      "Explore GitHub Actions",
+      "Code instantly from anywhere",
+      "Explore GitHub Codespaces",
+      "Keep momentum on the go",
+      "Explore GitHub Mobile",
+      "Shape your toolchain",
+      "Explore GitHub Marketplace",
+      "Explore GitHub Advanced Security",
+      "Learn about GitHub Code Security",
+      "Learn about Dependabot",
+      "Learn about GitHub Secret Protection",
+      "1",
+      "1",
+      "Explore GitHub Projects",
+      "Keep track of your tasks",
+      "Explore GitHub Issues",
+      "Share ideas and ask questions",
+      "Explore GitHub Discussions",
+      "Review code changes together",
+      "Explore code review",
+      "Fund open source projects",
+      "Explore GitHub Sponsors",
+      "By industry",
+      "By size",
+      "By use case",
+      "Explore customer stories",
+      "View all solutions",
+      "Sign up for GitHub",
+      "Try GitHub Copilot",
+      "Subscribe",
+      "Features",
+      "Enterprise",
+      "Copilot",
+      "AI",
+      "Security",
+      "Pricing",
+      "Team",
+      "Resources",
+      "Roadmap",
+      "Compare GitHub"
+    ]
+  },
+  "ok": true
+}

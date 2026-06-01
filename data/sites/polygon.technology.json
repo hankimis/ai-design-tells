@@ -1,0 +1,289 @@
+{
+  "url": "https://polygon.technology",
+  "name": "polygon.technology",
+  "title": "Polygon | The Go-To Blockchain for Global Payments",
+  "fonts": {
+    "body": "polysans",
+    "heading": "polysans",
+    "loaded_count": 5,
+    "loaded_sample": [
+      "webflow-icons",
+      "polysans mono",
+      "polysans slimwide",
+      "polysans",
+      "montserrat"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      265,
+      265,
+      265,
+      265,
+      265,
+      255,
+      265,
+      265,
+      249,
+      255,
+      249,
+      249,
+      255,
+      249,
+      249,
+      255,
+      249,
+      249,
+      231,
+      231,
+      231,
+      231,
+      265,
+      255,
+      249,
+      255,
+      249,
+      255,
+      249,
+      249,
+      249,
+      249,
+      249,
+      249,
+      249,
+      249,
+      249,
+      249,
+      249,
+      249,
+      249,
+      249,
+      265
+    ],
+    "accent_sampled": 43,
+    "purple_accents": 32,
+    "any_gradients": 304,
+    "blue_purple_gradients": 1
+  },
+  "radii": [
+    [
+      2.0016,
+      12
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      4.0032,
+      6
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      5,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "0.5px",
+      300
+    ],
+    [
+      "33.998px",
+      14
+    ],
+    [
+      "16px",
+      12
+    ],
+    [
+      "4.0032px",
+      11
+    ],
+    [
+      "8px",
+      9
+    ],
+    [
+      "18px",
+      8
+    ],
+    [
+      "6px",
+      7
+    ],
+    [
+      "27.216px",
+      7
+    ],
+    [
+      "36px",
+      6
+    ],
+    [
+      "12px",
+      4
+    ],
+    [
+      "15px",
+      1
+    ],
+    [
+      "72px",
+      1
+    ],
+    [
+      "43px",
+      1
+    ],
+    [
+      "460px",
+      1
+    ],
+    [
+      "14px",
+      1
+    ],
+    [
+      "1px",
+      1
+    ],
+    [
+      "14.4px",
+      1
+    ],
+    [
+      "19px",
+      1
+    ],
+    [
+      "504px",
+      1
+    ],
+    [
+      "11.52px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      2025
+    ],
+    [
+      14,
+      142
+    ],
+    [
+      12,
+      72
+    ],
+    [
+      36,
+      18
+    ],
+    [
+      96,
+      17
+    ],
+    [
+      56,
+      9
+    ],
+    [
+      13,
+      5
+    ],
+    [
+      18,
+      4
+    ],
+    [
+      28,
+      4
+    ]
+  ],
+  "heading": {
+    "big_count": 9,
+    "neg_tracked": 9
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 23,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 147,
+    "centered_fraction": 0.3129251700680272
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "It's not our first trillion",
+    "buttons": [
+      "Cookie Policy",
+      "Preferences",
+      "Preferences",
+      "Decline",
+      "Accept",
+      "Stake Pol",
+      "Book a Call",
+      "Open Money Stack",
+      "Build on Polygon",
+      "GET EARLY ACCESS",
+      "Stake now",
+      "START BUILDING",
+      "CONTACT US",
+      "OPEN MONEY STACK",
+      "Polygon Chain",
+      "Crosschain Interop",
+      "Wallet Infrastructure",
+      "On-/Off- Ramps",
+      "Polygon CDK",
+      "Polygon Agglayer",
+      "Polygon Vaultbridge",
+      "Miden",
+      "Billions",
+      "Zisk",
+      "Katana",
+      "Payments",
+      "RWAs",
+      "Stablecoins",
+      "Blog",
+      "Payments Knowledge Base",
+      "POL Whitepaper",
+      "Plonky 3",
+      "ZK Research",
+      "Legal Terms Home",
+      "Terms of Use",
+      "Privacy Policy",
+      "Docs",
+      "Events",
+      "Support",
+      "Forum",
+      "Governance",
+      "Github",
+      "Security",
+      "Faucet",
+      "About Polygon",
+      "Careers",
+      "Contact",
+      "Brand Guidelines",
+      "POL Token",
+      "Airdrops",
+      "Ecosystem",
+      "Polygon Scan",
+      "Staking",
+      "Portal",
+      "Consent Preferences"
+    ]
+  },
+  "ok": true
+}

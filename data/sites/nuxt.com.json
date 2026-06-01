@@ -1,0 +1,234 @@
+{
+  "url": "https://nuxt.com",
+  "name": "nuxt.com",
+  "title": "Nuxt: The Full-Stack Vue Framework",
+  "fonts": {
+    "body": "public sans",
+    "heading": "public sans",
+    "loaded_count": 6,
+    "loaded_sample": [
+      "public sans",
+      "public sans fallback: blinkmacsystemfont",
+      "public sans fallback: segoe ui",
+      "public sans fallback: helvetica neue",
+      "public sans fallback: arial",
+      "public sans fallback: noto sans"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      155,
+      155,
+      155,
+      155,
+      153,
+      153,
+      267,
+      267,
+      355,
+      355
+    ],
+    "accent_sampled": 10,
+    "purple_accents": 2,
+    "any_gradients": 12,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      6,
+      74
+    ],
+    [
+      8,
+      63
+    ],
+    [
+      33554400,
+      21
+    ],
+    [
+      4,
+      13
+    ],
+    [
+      16,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 54
+  },
+  "paddings": [
+    [
+      "8px",
+      36
+    ],
+    [
+      "6px",
+      32
+    ],
+    [
+      "16px",
+      24
+    ],
+    [
+      "72px",
+      24
+    ],
+    [
+      "24px",
+      19
+    ],
+    [
+      "4px",
+      18
+    ],
+    [
+      "128px",
+      7
+    ],
+    [
+      "12px",
+      2
+    ],
+    [
+      "48px",
+      2
+    ],
+    [
+      "160px",
+      1
+    ],
+    [
+      "18px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      772
+    ],
+    [
+      14,
+      245
+    ],
+    [
+      12,
+      35
+    ],
+    [
+      18,
+      15
+    ],
+    [
+      15,
+      14
+    ],
+    [
+      48,
+      10
+    ],
+    [
+      20,
+      5
+    ],
+    [
+      72,
+      2
+    ],
+    [
+      10,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 9,
+    "neg_tracked": 9
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 17,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 60,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "The Full-StackVue Framework",
+    "buttons": [
+      "v4.4.6",
+      "Docs",
+      "Modules",
+      "Templates",
+      "Resources",
+      "Enterprise",
+      "Updates",
+      "Search…⌘k",
+      "60.3K",
+      "Get started",
+      "Nuxt in 100 seconds",
+      "Minimal",
+      "Routing",
+      "Data Fetching",
+      "Auto-Imports",
+      "API Routes",
+      "app",
+      "app.vue",
+      "package.json",
+      "Start reading docs",
+      "vuejs.org",
+      "vite.dev",
+      "nitro.build",
+      "Start contributing",
+      "Explore all modules",
+      "1.4M",
+      "6.6K",
+      "Copy command to install ui",
+      "533.2K",
+      "3.6K",
+      "Copy command to install content",
+      "5.5M",
+      "3.3K",
+      "Copy command to install devtools",
+      "1.5M",
+      "1.5K",
+      "Copy command to install image",
+      "2M",
+      "1.2K",
+      "Copy command to install icon",
+      "2.2M",
+      "639",
+      "Copy command to install eslint",
+      "1.9M",
+      "594",
+      "Copy command to install fonts",
+      "704.9K",
+      "570",
+      "Copy command to install scripts",
+      "1.9M",
+      "440",
+      "Copy command to install test-utils",
+      "132.1K",
+      "338",
+      "Copy command to install hints",
+      "81.9K",
+      "225",
+      "Copy command to install a11y",
+      "Learn how to deploy now",
+      "Nuxters"
+    ]
+  },
+  "ok": true
+}

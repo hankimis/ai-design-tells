@@ -1,0 +1,212 @@
+{
+  "url": "https://www.figma.com",
+  "name": "www.figma.com",
+  "title": "Figma | 협업을 위한 인터페이스 디자인 도구",
+  "fonts": {
+    "body": "figmasans",
+    "heading": "figmasans",
+    "loaded_count": 6,
+    "loaded_sample": [
+      "figmasans",
+      "figmasans fallback",
+      "figmamono",
+      "figmamono fallback",
+      "abcwhyteplusvariable",
+      "abcwhyteplusvariable fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      241,
+      76,
+      197,
+      148,
+      249,
+      158,
+      18,
+      292,
+      8,
+      0,
+      183
+    ],
+    "accent_sampled": 11,
+    "purple_accents": 3,
+    "any_gradients": 2,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      50,
+      47
+    ],
+    [
+      8,
+      7
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      16,
+      2
+    ],
+    [
+      18,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 3,
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "8px",
+      15
+    ],
+    [
+      "16px",
+      12
+    ],
+    [
+      "12px",
+      7
+    ],
+    [
+      "120px",
+      7
+    ],
+    [
+      "4.5px",
+      5
+    ],
+    [
+      "24px",
+      4
+    ],
+    [
+      "6px",
+      1
+    ],
+    [
+      "4px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      18,
+      454
+    ],
+    [
+      16,
+      397
+    ],
+    [
+      24,
+      23
+    ],
+    [
+      56,
+      7
+    ],
+    [
+      12,
+      5
+    ],
+    [
+      72,
+      2
+    ]
+  ],
+  "heading": {
+    "big_count": 4,
+    "neg_tracked": 4
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 7,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 57,
+    "centered_fraction": 0.05263157894736842
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "무엇이든 만들어 보세요, Figma 하나면 충분합니다",
+    "buttons": [
+      "쿠키 설정",
+      "모든 쿠키 허용",
+      "쿠키 허용 안 함",
+      "제품",
+      "솔루션",
+      "커뮤니티",
+      "리소스",
+      "가격",
+      "로그인",
+      "영업팀에 문의",
+      "지금 무료로 시작하기",
+      "시작하기",
+      "프롬프트",
+      "디자인",
+      "그리기",
+      "개발",
+      "게시",
+      "홍보",
+      "협업",
+      "프레젠테이션",
+      "Figma Make 살펴보기",
+      "디자인 시스템 살펴보기",
+      "Figma Buzz 살펴보기",
+      "Dev Mode 살펴보기",
+      "Figma 컨텍스트를 코드로 변환하기",
+      "Figma MCP 살펴보기",
+      "코딩 걱정 없이 원하는 대로 웹사이트를 게시하세요",
+      "AI로 더 빠르게 제품을 출시하세요",
+      "Virtual Teleportation Portal App",
+      "Masaya Takizawa",
+      "Bubbles Design System",
+      "Raul Marin Calleja",
+      "Virtual Graffiti Wall",
+      "Seungmee Lee",
+      "Pixel Editor",
+      "Ayaneshu Bhardwaj",
+      "Cursor Images",
+      "Gui Seiz",
+      "Pattern Generator",
+      "Benjamin Leonard",
+      "Flower Catcher",
+      "Nayli C. Naza",
+      "Earworm Studio",
+      "Holly Li",
+      "더 알아보기",
+      "무료로 시작하기",
+      "모든 템플릿 살펴보기",
+      "웹사이트",
+      "소셜 미디어",
+      "모바일 앱",
+      "프레젠테이션",
+      "초대",
+      "일러스트레이션",
+      "포트폴리오 템플릿",
+      "플러그인",
+      "웹 광고",
+      "아이콘",
+      "Figma Design",
+      "Dev Mode",
+      "FigJam"
+    ]
+  },
+  "ok": true
+}

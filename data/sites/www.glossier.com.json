@@ -1,0 +1,179 @@
+{
+  "url": "https://www.glossier.com",
+  "name": "www.glossier.com",
+  "title": "Glossier",
+  "fonts": {
+    "body": "apercu",
+    "heading": "apercu",
+    "loaded_count": 8,
+    "loaded_sample": [
+      "apercu",
+      "apercu mono",
+      "kanit",
+      "nunito sans",
+      "poppins",
+      "apercu pro",
+      "kanit-klaviyo-hosted",
+      "poppins-klaviyo-hosted"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 21,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      2,
+      4
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "4px",
+      21
+    ],
+    [
+      "8px",
+      15
+    ],
+    [
+      "16px",
+      13
+    ],
+    [
+      "10px",
+      11
+    ],
+    [
+      "1px",
+      9
+    ],
+    [
+      "14px",
+      2
+    ],
+    [
+      "11px",
+      2
+    ],
+    [
+      "3px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      287
+    ],
+    [
+      14,
+      242
+    ],
+    [
+      12,
+      171
+    ],
+    [
+      32,
+      25
+    ],
+    [
+      20,
+      5
+    ],
+    [
+      13,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 25,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 53,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "international page",
+      "Glossier You Soie",
+      "Previous Slide",
+      "Next Slide",
+      "Skincare",
+      "Makeup",
+      "Balms",
+      "Body",
+      "Fragrance",
+      "Glossier Goods",
+      "Sets",
+      "Shop All",
+      "KR",
+      "Stores",
+      "Log in",
+      "Fetch the look",
+      "Shop Pink Capsule",
+      "Embroidered Pink Hoodie",
+      "Add to bag",
+      "Errand Bag",
+      "Add to bag",
+      "You Look Good Pet Set",
+      "Choose set",
+      "The Curbside Set",
+      "Add to bag",
+      "You Look Good Leash",
+      "Add to bag",
+      "You Look Good Collar",
+      "Add to bag",
+      "Pet Waste Bag Dispenser",
+      "Add to bag",
+      "Smile Wave Pet Waste Bags",
+      "Add to bag",
+      "Shop Fragrance",
+      "Shop Makeup",
+      "Read stories",
+      "Read stories",
+      "Read stories",
+      "Contact",
+      "Returns & exchanges",
+      "Help & FAQ",
+      "International",
+      "Responsible disclosure",
+      "About Us",
+      "Careers",
+      "Into The Gloss",
+      "Glossier Events",
+      "Glossier for Good",
+      "G Membership",
+      "A",
+      "After Baume",
+      "B",
+      "Balm Dotcom",
+      "Body Hero Exfoliating Bar",
+      "Body Spritz",
+      "Daily Oil Wash",
+      "Daily Perfecting Lotion",
+      "Body Hero Dry-Touch Oil Mist",
+      "Boy Brow",
+      "Boy Brow Arch"
+    ]
+  },
+  "ok": true
+}

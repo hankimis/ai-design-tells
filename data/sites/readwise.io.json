@@ -1,0 +1,227 @@
+{
+  "url": "https://readwise.io",
+  "name": "readwise.io",
+  "title": "Readwise",
+  "fonts": {
+    "body": "mulish",
+    "heading": "charter",
+    "loaded_count": 7,
+    "loaded_sample": [
+      "raleway",
+      "noto serif",
+      "mulish",
+      "font awesome 5 brands",
+      "font awesome 5 free",
+      "charter",
+      "applied-button-font-0"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210
+    ],
+    "accent_sampled": 81,
+    "purple_accents": 0,
+    "any_gradients": 4,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      10,
+      8
+    ],
+    [
+      16,
+      2
+    ],
+    [
+      4,
+      1
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "12px",
+      15
+    ],
+    [
+      "35px",
+      5
+    ],
+    [
+      "9.8px",
+      4
+    ],
+    [
+      "24px",
+      3
+    ],
+    [
+      "8px",
+      3
+    ],
+    [
+      "2px",
+      1
+    ],
+    [
+      "6.2px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      194
+    ],
+    [
+      22,
+      22
+    ],
+    [
+      14,
+      9
+    ],
+    [
+      50,
+      8
+    ],
+    [
+      18,
+      3
+    ],
+    [
+      29,
+      3
+    ],
+    [
+      11,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 8,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 4,
+    "sheets_blocked": 11
+  },
+  "layout": {
+    "blocks": 27,
+    "centered_fraction": 0.07407407407407407
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Get the most out of what you read",
+    "buttons": [
+      "Readwise",
+      "Sign In",
+      "GET STARTED FOR FREE",
+      "GET STARTED FOR FREE",
+      "Liberate your reading data",
+      "Spaced Repetition",
+      "Retain more of what you read",
+      "Get the most out of your reading",
+      "Retain more of what you read",
+      "GET STARTED FOR FREE",
+      "Dashboard",
+      "FAQs",
+      "Blog",
+      "Pricing",
+      "Invite",
+      "API",
+      "Email Us",
+      "Terms",
+      "Privacy"
+    ]
+  },
+  "ok": true
+}

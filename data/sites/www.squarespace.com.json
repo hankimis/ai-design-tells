@@ -1,0 +1,230 @@
+{
+  "url": "https://www.squarespace.com",
+  "name": "www.squarespace.com",
+  "title": "웹사이트 빌더 - 손쉽게 나만의 웹사이트 만들기 - Squarespace",
+  "fonts": {
+    "body": "sans-serif",
+    "heading": "noto sans kr",
+    "loaded_count": 7,
+    "loaded_sample": [
+      "clarkson",
+      "clarkson serif",
+      "canela",
+      "noto sans jp",
+      "noto sans kr",
+      "noto serif jp",
+      "noto serif kr"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 43,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      8,
+      43
+    ],
+    [
+      100,
+      14
+    ],
+    [
+      3,
+      10
+    ],
+    [
+      50,
+      6
+    ],
+    [
+      30,
+      2
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "32px",
+      29
+    ],
+    [
+      "24px",
+      13
+    ],
+    [
+      "12px",
+      10
+    ],
+    [
+      "16px",
+      5
+    ],
+    [
+      "120px",
+      4
+    ],
+    [
+      "40px",
+      4
+    ],
+    [
+      "4px",
+      3
+    ],
+    [
+      "20px",
+      2
+    ],
+    [
+      "30px",
+      2
+    ],
+    [
+      "8px",
+      2
+    ],
+    [
+      "240px",
+      1
+    ],
+    [
+      "64px",
+      1
+    ],
+    [
+      "56px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      746
+    ],
+    [
+      15,
+      142
+    ],
+    [
+      13,
+      78
+    ],
+    [
+      20,
+      46
+    ],
+    [
+      12,
+      38
+    ],
+    [
+      26,
+      23
+    ],
+    [
+      40,
+      13
+    ],
+    [
+      14,
+      12
+    ],
+    [
+      64,
+      3
+    ],
+    [
+      56,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 10,
+    "neg_tracked": 10
+  },
+  "focus": {
+    "focus_visible": false,
+    "hairline_rule": false,
+    "sheets_read": 0,
+    "sheets_blocked": 5
+  },
+  "layout": {
+    "blocks": 78,
+    "centered_fraction": 0.08974358974358974
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "아이디어가 현실이 되는 나만의 웹사이트",
+    "buttons": [
+      "주요 콘텐츠로 건너뛰기",
+      "제품",
+      "솔루션",
+      "리소스",
+      "로그인",
+      "JUN20WF",
+      "시작하기",
+      "이전",
+      "다음",
+      "서비스",
+      "온라인 스토어",
+      "인보이스 발행",
+      "스케줄링",
+      "기부",
+      "멤버십",
+      "블로그",
+      "포트폴리오",
+      "이전",
+      "다음",
+      "도메인 이전하기",
+      "samfresquez.com",
+      "andamirobk.com",
+      "maevedesigncollective.com",
+      "yarzatwins.com",
+      "myrtlegreen.org",
+      "littleripper.la",
+      "breathpod.com",
+      "franklygoodcoffee.com",
+      "thedial.world",
+      "shopmemor.com",
+      "abathhouse.com",
+      "margaretrajic.com",
+      "thesorrygirls.com",
+      "onemag.us",
+      "fatchoynyc.com",
+      "samuelsparrow.com",
+      "camptowncatskills.com",
+      "shopnotworkrelated.com",
+      "stretchsquared.com",
+      "notcrispyenough.com",
+      "wearesunnie.com",
+      "dreamsake.co",
+      "naughtynancy.com.au",
+      "radhiarahman.com",
+      "flaneur-magazine.com",
+      "pottedplantdesign.com",
+      "elahousestudio.com",
+      "kingssurfboardglassing.com",
+      "xanadu.nyc",
+      "myrtlegreen.org",
+      "herewyou.com",
+      "studiocote.co",
+      "secondstory.info",
+      "nerine-floral.squarespace.com",
+      "ryucreative.com",
+      "backbipoc.com",
+      "caylonhackwith.com",
+      "ember-studio.co",
+      "fatchoynyc.com",
+      "radhiarahman.com"
+    ]
+  },
+  "ok": true
+}

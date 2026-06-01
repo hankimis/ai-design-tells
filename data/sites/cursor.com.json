@@ -1,0 +1,364 @@
+{
+  "url": "https://cursor.com",
+  "name": "cursor.com",
+  "title": "Cursor: The best coding agent",
+  "fonts": {
+    "body": "cursorgothic",
+    "heading": "cursorgothic",
+    "loaded_count": 19,
+    "loaded_sample": [
+      "katex_ams",
+      "katex_caligraphic",
+      "katex_fraktur",
+      "katex_main",
+      "katex_math",
+      "katex_sansserif",
+      "katex_script",
+      "katex_size1",
+      "katex_size2",
+      "katex_size3",
+      "katex_size4",
+      "katex_typewriter"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      60,
+      60,
+      60,
+      50,
+      48,
+      35,
+      35,
+      35,
+      35,
+      35,
+      19,
+      19,
+      50,
+      50,
+      155,
+      155,
+      48,
+      19,
+      19,
+      50,
+      60,
+      60,
+      19,
+      19,
+      19,
+      19,
+      48,
+      48,
+      48,
+      48,
+      19,
+      19,
+      19,
+      19,
+      48,
+      48,
+      48,
+      48,
+      19,
+      19,
+      60
+    ],
+    "accent_sampled": 41,
+    "purple_accents": 0,
+    "any_gradients": 13,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      4,
+      144
+    ],
+    [
+      33554400,
+      80
+    ],
+    [
+      8,
+      30
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      1.5,
+      5
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      12,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 9,
+    "other": 4
+  },
+  "paddings": [
+    [
+      "8px",
+      51
+    ],
+    [
+      "4.66667px",
+      31
+    ],
+    [
+      "4px",
+      24
+    ],
+    [
+      "5.6px",
+      18
+    ],
+    [
+      "2px",
+      17
+    ],
+    [
+      "6px",
+      14
+    ],
+    [
+      "17.5px",
+      13
+    ],
+    [
+      "15.9px",
+      13
+    ],
+    [
+      "10px",
+      10
+    ],
+    [
+      "3px",
+      8
+    ],
+    [
+      "67.2px",
+      8
+    ],
+    [
+      "2.5px",
+      5
+    ],
+    [
+      "5px",
+      4
+    ],
+    [
+      "13.4px",
+      4
+    ],
+    [
+      "12.48px",
+      3
+    ],
+    [
+      "14.9333px",
+      3
+    ],
+    [
+      "3.92px",
+      3
+    ],
+    [
+      "52px",
+      1
+    ],
+    [
+      "112px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ],
+    [
+      "13px",
+      1
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "12px",
+      1
+    ],
+    [
+      "9px",
+      1
+    ],
+    [
+      "16px",
+      1
+    ],
+    [
+      "46.9844px",
+      1
+    ],
+    [
+      "7.5px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      891
+    ],
+    [
+      12,
+      358
+    ],
+    [
+      14,
+      171
+    ],
+    [
+      11,
+      84
+    ],
+    [
+      13,
+      81
+    ],
+    [
+      17,
+      45
+    ],
+    [
+      22,
+      12
+    ],
+    [
+      6,
+      1
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      19,
+      1
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      26,
+      1
+    ],
+    [
+      36,
+      1
+    ],
+    [
+      72,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 2,
+    "neg_tracked": 2
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 12,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 108,
+    "centered_fraction": 0.027777777777777776
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "탁월한 생산성을 내도록 설계된 Cursor는 최고의 코딩 에이전트입니다.",
+    "buttons": [
+      "콘텐츠로 건너뛰기",
+      "Cursor",
+      "제품",
+      "↓",
+      "기업",
+      "요금제",
+      "리소스",
+      "↓",
+      "로그인",
+      "문의하기영업팀에 문의하기",
+      "다운로드",
+      "macOS용 다운로드⤓",
+      "데모 요청→",
+      "Cursor 시작하기",
+      "Tab과 Agent 사용량 패턴 분석Fetching data",
+      "Mission Control 계획Generating plan",
+      "PyTorch MNIST 실험10mPyTorch MNIST 실험",
+      "생물정보학 도구45m+135-21·생물정보학 도구",
+      "See projects",
+      "Join our team →",
+      "Agent",
+      "Composer 2.5",
+      "CLI 시작하기",
+      "Cursor 시작하기",
+      "feature-prd.md",
+      "presence.ts",
+      "Composer 2.5",
+      "Build",
+      "1Gesture (swipe up with 3 fingers)",
+      "2Keyboard shortcut (e.g., F3 or Cmd+F3)",
+      "3Both keyboard and button",
+      "건너뛰기",
+      "계속",
+      "Plan",
+      "Composer 2.5",
+      "클라우드 Agent 살펴보기 →",
+      "Acme Research Dashboard",
+      "Live Telemetry Pipeline",
+      "Zero-Downtime Deploys",
+      "Binary Protocol Parser",
+      "Edge Cache Invalidation",
+      "Auth Token Rotation",
+      "Acme Labs",
+      "Agent",
+      "Opus 4.8",
+      "Slack용 Cursor 시작하기",
+      "#feature-realtime-sync멤버 8명",
+      "PR 보기",
+      "Cursor에서 열기",
+      "Web에서 열기",
+      "CLI 시작하기",
+      "Cursor 시작하기",
+      "Dashboard.tsx",
+      "SupportChat.tsx",
+      "모델 살펴보기 ↗",
+      "Agent",
+      "Composer 2.5",
+      "Auto추천",
+      "Composer 2.5✓",
+      "GPT-5.5"
+    ]
+  },
+  "ok": true
+}

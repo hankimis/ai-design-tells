@@ -1,0 +1,205 @@
+{
+  "url": "https://www.uber.com",
+  "name": "www.uber.com",
+  "title": "지금 운행으로 수익을 올리거나 차량 서비스를 이용하세요 | Uber 대한민국",
+  "fonts": {
+    "body": "sans-serif",
+    "heading": "ubermove",
+    "loaded_count": 10,
+    "loaded_sample": [
+      "ubermove",
+      "ubermovetext",
+      "book",
+      "medium",
+      "narrowbook",
+      "narrowmedium",
+      "narrownews",
+      "narrowthin",
+      "news",
+      "thin"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      154,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240
+    ],
+    "accent_sampled": 11,
+    "purple_accents": 10,
+    "any_gradients": 3,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      8,
+      21
+    ],
+    [
+      999,
+      14
+    ],
+    [
+      12,
+      2
+    ],
+    [
+      6,
+      1
+    ],
+    [
+      16,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 3
+  },
+  "paddings": [
+    [
+      "10px",
+      13
+    ],
+    [
+      "14px",
+      9
+    ],
+    [
+      "64px",
+      8
+    ],
+    [
+      "12px",
+      6
+    ],
+    [
+      "16px",
+      4
+    ],
+    [
+      "24px",
+      3
+    ],
+    [
+      "36px",
+      1
+    ],
+    [
+      "8px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      492
+    ],
+    [
+      14,
+      52
+    ],
+    [
+      24,
+      13
+    ],
+    [
+      36,
+      8
+    ],
+    [
+      12,
+      7
+    ],
+    [
+      18,
+      6
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      52,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 9,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 8,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 108,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Uber의 글로벌 택시 플랫폼",
+    "buttons": [
+      "Uber",
+      "차량 서비스",
+      "운전",
+      "소개",
+      "KO-KR",
+      "고객지원",
+      "로그인",
+      "가입하기",
+      "프로모션 더보기",
+      "도시 변경",
+      "Clock지금 픽업Chevron down small",
+      "요금 보기",
+      "로그인하여 최근 활동 확인하기",
+      "미리 예약하세요",
+      "계정에 로그인하기",
+      "계정 만들기",
+      "다음",
+      "약관 보기",
+      "고양시Down",
+      "시작하기",
+      "이미 계정이 있나요? 로그인",
+      "커뮤니티 가이드라인",
+      "Uber 안전 기능 살펴보기",
+      "Uber 앱 다운로드스캔하여 다운로드하세요\n스캔하여 다운로드하세요",
+      "기사님용 앱 다운로드스캔하여 다운로드하세요\n스캔하여 다운로드하세요",
+      "Uber",
+      "고객지원 센터 방문",
+      "회사 소개",
+      "뉴스룸",
+      "투자자",
+      "블로그",
+      "채용 정보",
+      "Uber One",
+      "차량 서비스",
+      "운행",
+      "안전",
+      "지속 가능성",
+      "예약",
+      "공항",
+      "도시",
+      "linkedin",
+      "youtube",
+      "instagram",
+      "twitter",
+      "Globe한국어",
+      "Location marker고양시",
+      "개인정보 보호",
+      "접근성",
+      "이용약관",
+      "맨 위로 돌아가기Arrow up"
+    ]
+  },
+  "ok": true
+}

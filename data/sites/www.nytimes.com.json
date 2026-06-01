@@ -1,0 +1,215 @@
+{
+  "url": "https://www.nytimes.com",
+  "name": "www.nytimes.com",
+  "title": "The New York Times - Breaking News, US News, World News and Videos",
+  "fonts": {
+    "body": "times",
+    "heading": "times",
+    "loaded_count": 51,
+    "loaded_sample": [
+      "nyt-athletic-slab",
+      "nyt-cheltenham",
+      "nyt-cheltenham-cond",
+      "nyt-cheltenham-scaps",
+      "nyt-cheltenham-small",
+      "nyt-cheltenham-text-cond",
+      "nyt-cheltenham-wide",
+      "nyt-cheltenham-xcond",
+      "nyt-fact",
+      "nyt-fact-deck",
+      "nyt-fact-deck-condensed",
+      "nyt-fact-display"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 6,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      3,
+      10
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      50,
+      4
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "10px",
+      14
+    ],
+    [
+      "16px",
+      13
+    ],
+    [
+      "11px",
+      6
+    ],
+    [
+      "2px",
+      6
+    ],
+    [
+      "7px",
+      5
+    ],
+    [
+      "8px",
+      3
+    ],
+    [
+      "20px",
+      2
+    ],
+    [
+      "4px",
+      1
+    ],
+    [
+      "1px",
+      1
+    ],
+    [
+      "9px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      1789
+    ],
+    [
+      11,
+      298
+    ],
+    [
+      18,
+      215
+    ],
+    [
+      14,
+      144
+    ],
+    [
+      10,
+      82
+    ],
+    [
+      13,
+      49
+    ],
+    [
+      9,
+      23
+    ],
+    [
+      20,
+      8
+    ],
+    [
+      24,
+      5
+    ],
+    [
+      22,
+      1
+    ],
+    [
+      28,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 12,
+    "sheets_blocked": 4
+  },
+  "layout": {
+    "blocks": 200,
+    "centered_fraction": 0.015
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "New York Times - Top Stories",
+    "buttons": [
+      "Skip to content",
+      "Skip to site index",
+      "Search",
+      "U.S.",
+      "International",
+      "Canada",
+      "Español",
+      "中文",
+      "Subscribe for $0.50/week",
+      "Log in",
+      "Today’s Paper",
+      "U.S.",
+      "World",
+      "Business",
+      "Arts",
+      "Lifestyle",
+      "Opinion",
+      "Video",
+      "Audio",
+      "Games",
+      "Cooking",
+      "Wirecutter",
+      "The Athletic",
+      "French Open",
+      "Vance in 2028",
+      "Kennedy Center Ruling",
+      "Justice Dept. Targets",
+      "Approval Rating",
+      "Anthropic Tops OpenAI",
+      "Productivity Over Layoffs",
+      "Pope Leo’s A.I. Message",
+      "Google’s Search Box",
+      "Bracket Guide",
+      "Updates",
+      "Halftime Show",
+      "Stadium Guides",
+      "Team Rosters",
+      "Trump’s Hold Over G.O.P.",
+      "Gen Z Men",
+      "Latest Polls",
+      "Primary Calendar",
+      "Changes to Maps",
+      "Race for CongressRace for Congress ›",
+      "Calif. Gov.California Governor ›",
+      "Iowa SenateIowa Senate ›",
+      "Primary calendar ›",
+      "Reform U.K. Party",
+      "What Happens Next?",
+      "Health Secretary Resigns",
+      "King Charles’s Speech",
+      "Opinion",
+      "The AthleticSports coverage",
+      "Nic Antaya/Getty Images",
+      "Play Connections: Sports Edition",
+      "Modern LoveIs Codependency Good?42 MIN",
+      "The IdiotFrom Serial: ‘The Idiot’22 MIN",
+      "WirecutterProduct advice",
+      "What Exactly Are Passkeys?",
+      "Max Eddy/NYT Wirecutter",
+      "© 2026 The New York Times Company"
+    ]
+  },
+  "ok": true
+}

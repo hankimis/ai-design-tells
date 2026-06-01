@@ -1,0 +1,231 @@
+{
+  "url": "https://coda.io",
+  "name": "coda.io",
+  "title": "Coda: Your all-in-one collaborative workspace.",
+  "fonts": {
+    "body": "inter",
+    "heading": "calibre-r",
+    "loaded_count": 9,
+    "loaded_sample": [
+      "calibre-r",
+      "codaicons",
+      "hack",
+      "inter",
+      "tiempos-headline",
+      "source-serif-pro",
+      "supersans",
+      "supersansmono",
+      "superserif"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      8,
+      75
+    ],
+    [
+      12,
+      8
+    ],
+    [
+      9.6,
+      7
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      44,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 9,
+    "other": 22
+  },
+  "paddings": [
+    [
+      "4px",
+      71
+    ],
+    [
+      "8px",
+      32
+    ],
+    [
+      "12px",
+      16
+    ],
+    [
+      "24px",
+      10
+    ],
+    [
+      "20px",
+      10
+    ],
+    [
+      "10px",
+      9
+    ],
+    [
+      "72px",
+      9
+    ],
+    [
+      "16px",
+      6
+    ],
+    [
+      "32px",
+      2
+    ],
+    [
+      "2px",
+      2
+    ],
+    [
+      "60px",
+      2
+    ],
+    [
+      "100px",
+      1
+    ],
+    [
+      "64px",
+      1
+    ],
+    [
+      "86px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      14,
+      412
+    ],
+    [
+      16,
+      132
+    ],
+    [
+      20,
+      30
+    ],
+    [
+      38,
+      13
+    ],
+    [
+      52,
+      6
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      22,
+      2
+    ],
+    [
+      72,
+      2
+    ]
+  ],
+  "heading": {
+    "big_count": 14,
+    "neg_tracked": 14
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 4,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 107,
+    "centered_fraction": 0.009345794392523364
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Your all-in-one collaborative workspace.",
+    "buttons": [
+      "Skip to content",
+      "Product",
+      "Product",
+      "Explore",
+      "Docs & team hubs",
+      "Trackers & apps",
+      "See all →",
+      "AI & integrations",
+      "Coda AI",
+      "Integrate your tools",
+      "Consolidate your tools",
+      "More",
+      "What's newFEATURED",
+      "Packs",
+      "Publishing",
+      "Compare",
+      "vs Notion",
+      "vs Confluence",
+      "vs Quip",
+      "vs Airtable",
+      "See all →",
+      "Solutions",
+      "Solutions",
+      "By role",
+      "Product",
+      "Marketing",
+      "Sales",
+      "See all →",
+      "By scenario",
+      "Planning & OKRs",
+      "Meetings",
+      "Project management",
+      "See all →",
+      "By team size",
+      "Enterprise",
+      "Startups",
+      "Small business",
+      "See all →",
+      "Case studies",
+      "How Qualtrics saves money with Coda.",
+      "See all →",
+      "Resources",
+      "Resources",
+      "Learn",
+      "Guides",
+      "Interactive sessions",
+      "WebinarsFEATURED",
+      "Connect",
+      "Help center",
+      "Coda community",
+      "Hire a Services Partner",
+      "Partner with us",
+      "Extend",
+      "Pack Studio",
+      "Formula list",
+      "API",
+      "Featured guide",
+      "How to build a team hub on Coda",
+      "See all →",
+      "Gallery"
+    ]
+  },
+  "ok": true
+}

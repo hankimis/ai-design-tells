@@ -1,0 +1,336 @@
+{
+  "url": "https://replit.com",
+  "name": "replit.com",
+  "title": "Replit – Build apps and sites with AI - Replit",
+  "fonts": {
+    "body": "ibm plex sans",
+    "heading": "abc diatype plus variable",
+    "loaded_count": 9,
+    "loaded_sample": [
+      "ibm plex sans",
+      "abc diatype",
+      "abc diatype plus variable",
+      "abc diatype variable",
+      "abc diatype pixel",
+      "replithack",
+      "text-security-circle",
+      "text-security-disc",
+      "text-security-square"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      210,
+      210,
+      14,
+      14,
+      14,
+      14,
+      14,
+      60,
+      14
+    ],
+    "accent_sampled": 9,
+    "purple_accents": 0,
+    "any_gradients": 2,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      50,
+      28
+    ],
+    [
+      6,
+      13
+    ],
+    [
+      16,
+      9
+    ],
+    [
+      56,
+      6
+    ],
+    [
+      60,
+      6
+    ],
+    [
+      8,
+      5
+    ],
+    [
+      20,
+      5
+    ],
+    [
+      40,
+      5
+    ],
+    [
+      90,
+      5
+    ],
+    [
+      100,
+      3
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      7,
+      2
+    ],
+    [
+      24,
+      2
+    ],
+    [
+      70,
+      2
+    ],
+    [
+      1028,
+      2
+    ],
+    [
+      46,
+      1
+    ],
+    [
+      999,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 1
+  },
+  "paddings": [
+    [
+      "12px",
+      32
+    ],
+    [
+      "4px",
+      16
+    ],
+    [
+      "24px",
+      10
+    ],
+    [
+      "32px",
+      10
+    ],
+    [
+      "48px",
+      7
+    ],
+    [
+      "10px",
+      5
+    ],
+    [
+      "8px",
+      4
+    ],
+    [
+      "40px",
+      4
+    ],
+    [
+      "80px",
+      2
+    ],
+    [
+      "120px",
+      2
+    ],
+    [
+      "36px",
+      1
+    ],
+    [
+      "16px",
+      1
+    ],
+    [
+      "64px",
+      1
+    ],
+    [
+      "112px",
+      1
+    ],
+    [
+      "84px",
+      1
+    ],
+    [
+      "75px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      14,
+      1034
+    ],
+    [
+      16,
+      41
+    ],
+    [
+      20,
+      39
+    ],
+    [
+      12,
+      27
+    ],
+    [
+      10,
+      15
+    ],
+    [
+      18,
+      12
+    ],
+    [
+      8,
+      8
+    ],
+    [
+      13,
+      8
+    ],
+    [
+      17,
+      8
+    ],
+    [
+      32,
+      8
+    ],
+    [
+      48,
+      7
+    ],
+    [
+      11,
+      6
+    ],
+    [
+      26,
+      6
+    ],
+    [
+      28,
+      5
+    ],
+    [
+      60,
+      4
+    ],
+    [
+      42,
+      2
+    ],
+    [
+      69,
+      2
+    ],
+    [
+      15,
+      1
+    ],
+    [
+      24,
+      1
+    ],
+    [
+      64,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 8,
+    "neg_tracked": 8
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 77,
+    "sheets_blocked": 4
+  },
+  "layout": {
+    "blocks": 53,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "What will you build?",
+    "buttons": [
+      "Products",
+      "For Work",
+      "Resources",
+      "Security",
+      "Pricing",
+      "Contact sales",
+      "Log in",
+      "Create account",
+      "Start",
+      "Website",
+      "Mobile",
+      "Design",
+      "Slides",
+      "Animation",
+      "Data Visualization",
+      "3D Game",
+      "Document",
+      "Spreadsheet",
+      "Fitness app onboarding wireframe",
+      "Cohort analysis dashboard",
+      "AI sales assistant",
+      "Deep dive into Agent 4",
+      "Read the documentation",
+      "NextTestimonial",
+      "PreviousTestimonial",
+      "Sign up",
+      "Join Replit Core",
+      "Join Replit Pro",
+      "$100$90 / month",
+      "Contact sales",
+      "Get started free",
+      "Vibe Coding 101",
+      "How to guides",
+      "Import from GitHub",
+      "Help",
+      "Status",
+      "About us",
+      "Brand",
+      "Certifications",
+      "Careers",
+      "Partnerships",
+      "Education",
+      "Startups",
+      "Race to Revenue",
+      "Additional resources",
+      "Terms of service",
+      "Commercial agreement",
+      "Privacy",
+      "Subprocessors",
+      "DPA",
+      "Report abuse",
+      "X / Twitter",
+      "TikTok",
+      "Facebook",
+      "Instagram",
+      "LinkedIn"
+    ]
+  },
+  "ok": true
+}

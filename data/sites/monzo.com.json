@@ -1,0 +1,376 @@
+{
+  "url": "https://monzo.com",
+  "name": "monzo.com",
+  "title": "Monzo | Your New Favourite Bank",
+  "fonts": {
+    "body": "monzosanstext",
+    "heading": "monzosansdisplay",
+    "loaded_count": 5,
+    "loaded_sample": [
+      "oldschool",
+      "monzosansdisplay",
+      "monzosanstext",
+      "maison neue web",
+      "maison neue mono web"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      199,
+      128,
+      208,
+      208,
+      208,
+      240,
+      240,
+      208,
+      240,
+      240,
+      208,
+      240,
+      240,
+      208,
+      240,
+      240,
+      208,
+      208,
+      208,
+      240,
+      240,
+      199,
+      128,
+      208,
+      208,
+      128,
+      208,
+      208,
+      208,
+      240,
+      240,
+      208,
+      240,
+      240,
+      208,
+      240,
+      240,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      240,
+      240,
+      208,
+      208,
+      130,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      240,
+      240,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      240,
+      240,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208
+    ],
+    "accent_sampled": 112,
+    "purple_accents": 22,
+    "any_gradients": 7,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      4,
+      37
+    ],
+    [
+      500,
+      34
+    ],
+    [
+      64,
+      19
+    ],
+    [
+      24,
+      12
+    ],
+    [
+      100,
+      8
+    ],
+    [
+      32,
+      6
+    ],
+    [
+      25,
+      4
+    ],
+    [
+      128,
+      3
+    ],
+    [
+      16,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 1,
+    "diffuse": 6
+  },
+  "paddings": [
+    [
+      "64px",
+      29
+    ],
+    [
+      "12px",
+      22
+    ],
+    [
+      "48px",
+      16
+    ],
+    [
+      "4px",
+      7
+    ],
+    [
+      "8px",
+      7
+    ],
+    [
+      "16px",
+      7
+    ],
+    [
+      "20px",
+      5
+    ],
+    [
+      "30px",
+      5
+    ],
+    [
+      "10.8px",
+      4
+    ],
+    [
+      "24px",
+      3
+    ],
+    [
+      "32px",
+      3
+    ],
+    [
+      "18px",
+      1
+    ],
+    [
+      "128px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ],
+    [
+      "120px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      622
+    ],
+    [
+      20,
+      55
+    ],
+    [
+      31,
+      14
+    ],
+    [
+      49,
+      11
+    ],
+    [
+      24,
+      10
+    ],
+    [
+      39,
+      9
+    ],
+    [
+      25,
+      5
+    ],
+    [
+      36,
+      4
+    ],
+    [
+      44,
+      2
+    ],
+    [
+      12,
+      1
+    ],
+    [
+      13,
+      1
+    ],
+    [
+      32,
+      1
+    ],
+    [
+      61,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 16,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 6,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 85,
+    "centered_fraction": 0.011764705882352941
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "Sign up",
+      "Personal",
+      "Business",
+      "Previous slide",
+      "Slide 1 of 2",
+      "Slide 2 of 2",
+      "Next slide",
+      "Open a free bank account",
+      "Explore Select Access Savings",
+      "Bank accounts",
+      "Savings and ISAs",
+      "Investments",
+      "Credit",
+      "Travel",
+      "Mortgages",
+      "Pensions",
+      "Free features",
+      "Paid features",
+      "Join Monzo for free",
+      "Find out more",
+      "Save",
+      "Invest",
+      "Retire",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Join Monzo for free",
+      "How we protect your money",
+      "Log in",
+      "Join Monzo today",
+      "Reset",
+      "View full results for Great Britain",
+      "View full results for Northern Ireland",
+      "Current accounts",
+      "Business accounts",
+      "Savings",
+      "Credit cards",
+      "Loans",
+      "Investments",
+      "Pensions",
+      "Home Insurance",
+      "Careers",
+      "Press",
+      "Blog",
+      "Investor information",
+      "Helping everyone belong",
+      "Modern slavery statement",
+      "Web app login",
+      "Accessibility",
+      "Additional support",
+      "Life events",
+      "Terms and Conditions",
+      "Savings hub"
+    ]
+  },
+  "ok": true
+}

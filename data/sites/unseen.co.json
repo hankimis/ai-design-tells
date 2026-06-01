@@ -1,0 +1,156 @@
+{
+  "url": "https://unseen.co",
+  "name": "unseen.co",
+  "title": "Unseen Studio® – Brand, Digital & Motion",
+  "fonts": {
+    "body": "neue montreal",
+    "heading": "neue montreal",
+    "loaded_count": 2,
+    "loaded_sample": [
+      "neue montreal",
+      "saol display"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      100,
+      4
+    ],
+    [
+      50,
+      3
+    ],
+    [
+      23.76,
+      3
+    ],
+    [
+      21.6,
+      2
+    ],
+    [
+      17.28,
+      1
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "72px",
+      12
+    ],
+    [
+      "2.16px",
+      3
+    ],
+    [
+      "17.28px",
+      3
+    ],
+    [
+      "9.52px",
+      2
+    ],
+    [
+      "14.4px",
+      1
+    ],
+    [
+      "119.52px",
+      1
+    ],
+    [
+      "12.96px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      14,
+      116
+    ],
+    [
+      19,
+      27
+    ],
+    [
+      17,
+      23
+    ],
+    [
+      10,
+      21
+    ],
+    [
+      58,
+      12
+    ],
+    [
+      90,
+      12
+    ],
+    [
+      15,
+      5
+    ],
+    [
+      12,
+      2
+    ],
+    [
+      16,
+      2
+    ],
+    [
+      29,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 5,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 8,
+    "centered_fraction": 0.375
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Home",
+    "buttons": [
+      "Enter without audio",
+      "Enter\n\n\n\n\n\n\n\n\n\nEnter",
+      "Index\nIndex",
+      "Projects\nProjects",
+      "Contact\nContact",
+      "Toggle Menu",
+      "01\n\nIndex\nIndex",
+      "02\n\nProjects\nProjects",
+      "03\n\nContact\nContact",
+      "04\n\nWorld\nWorld",
+      "⮡ projects@unseen.co",
+      "⮡ (+44) 0117 922 6892",
+      "⮡ Twitter",
+      "⮡ Instagram",
+      "⮡ LinkedIn",
+      "⮡ Dribbble",
+      "⮡ Behance",
+      "Toggle Sound",
+      "Unseen\n\n\nWorld"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,303 @@
+{
+  "url": "https://airtable.com",
+  "name": "airtable.com",
+  "title": "Airtable: Build Enterprise-ready AI Workflows, Apps & Agents - Airtable",
+  "fonts": {
+    "body": "haas groot disp",
+    "heading": "haas",
+    "loaded_count": 7,
+    "loaded_sample": [
+      "haas",
+      "haas groot disp",
+      "atseasonsans",
+      "haasgrot",
+      "haasgrot fallback",
+      "haasgrotthin",
+      "haasgrotthin fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      219,
+      219,
+      219,
+      219,
+      216,
+      216,
+      217,
+      217,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      210,
+      210,
+      210,
+      210,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      23,
+      16,
+      16,
+      198,
+      127,
+      127,
+      221,
+      315,
+      315,
+      127,
+      39,
+      39,
+      216,
+      216,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219
+    ],
+    "accent_sampled": 73,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      12,
+      10
+    ],
+    [
+      32,
+      8
+    ],
+    [
+      16,
+      5
+    ],
+    [
+      24,
+      5
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      20,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1,
+    "other": 6
+  },
+  "paddings": [
+    [
+      "16px",
+      15
+    ],
+    [
+      "2px",
+      10
+    ],
+    [
+      "40px",
+      9
+    ],
+    [
+      "12px",
+      7
+    ],
+    [
+      "48px",
+      6
+    ],
+    [
+      "64px",
+      5
+    ],
+    [
+      "24px",
+      3
+    ],
+    [
+      "4px",
+      2
+    ],
+    [
+      "427px",
+      2
+    ],
+    [
+      "120.984px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ],
+    [
+      "427.156px",
+      1
+    ],
+    [
+      "426.672px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      20,
+      555
+    ],
+    [
+      16,
+      81
+    ],
+    [
+      14,
+      48
+    ],
+    [
+      18,
+      15
+    ],
+    [
+      24,
+      8
+    ],
+    [
+      32,
+      8
+    ],
+    [
+      40,
+      4
+    ],
+    [
+      48,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 4,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 19,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 84,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "All your teams, all their workflows—connected in one workspace",
+    "buttons": [
+      "Skip to main content",
+      "Skip to footer",
+      "Try it now",
+      "Airtable home or view your bases",
+      "Platform",
+      "Solutions",
+      "Resources",
+      "Enterprise",
+      "Pricing",
+      "Book Demo",
+      "Sign up for freeSign up",
+      "Log in",
+      "Get started for free",
+      "Book demo",
+      "01 AI app building",
+      "02 Agents at Scale",
+      "03 Meet Omni",
+      "04 Enterprise capabilities",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "See AI plays",
+      "Explore all customer stories",
+      "Explore all customer stories",
+      "Get started for free",
+      "Airtable home",
+      "Platform",
+      "Solutions",
+      "Resources",
+      "Enterprise",
+      "Pricing",
+      "Book Demo",
+      "Facebook",
+      "Linkedin",
+      "Twitter",
+      "Instagram",
+      "Youtube",
+      "AI App Building",
+      "AI Agents",
+      "Airtable Platform",
+      "Portals",
+      "Scale",
+      "Automations",
+      "See more",
+      "Product",
+      "Marketing",
+      "Project Management",
+      "Operations",
+      "Sales",
+      "Design & Creative",
+      "See more",
+      "Resources Hub",
+      "Templates",
+      "AI Plays",
+      "Blog",
+      "Customer Stories",
+      "Videos",
+      "See more",
+      "How-to guides",
+      "Developer docs"
+    ]
+  },
+  "ok": true
+}

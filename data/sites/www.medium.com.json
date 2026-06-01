@@ -1,0 +1,117 @@
+{
+  "url": "https://www.medium.com",
+  "name": "www.medium.com",
+  "title": "Medium: Read and write stories.",
+  "fonts": {
+    "body": "times",
+    "heading": "gt-super",
+    "loaded_count": 8,
+    "loaded_sample": [
+      "charter",
+      "fell",
+      "gt-super",
+      "noe",
+      "opendyslexic",
+      "sohne",
+      "source-code-pro",
+      "source-serif-pro"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      1386,
+      1
+    ],
+    [
+      1980,
+      1
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "8px",
+      2
+    ],
+    [
+      "25px",
+      1
+    ],
+    [
+      "24px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      62
+    ],
+    [
+      14,
+      11
+    ],
+    [
+      13,
+      10
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      22,
+      1
+    ],
+    [
+      120,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 1,
+    "neg_tracked": 1
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 16,
+    "sheets_blocked": 2
+  },
+  "layout": {
+    "blocks": 6,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "Medium Logo",
+      "Our story",
+      "Membership",
+      "Write",
+      "Sign in",
+      "Get started",
+      "Get started",
+      "Start reading",
+      "Help",
+      "Status",
+      "About",
+      "Careers",
+      "Press",
+      "Blog",
+      "Privacy",
+      "Rules",
+      "Terms",
+      "Text to speech"
+    ]
+  },
+  "ok": true
+}

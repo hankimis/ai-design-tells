@@ -1,0 +1,208 @@
+{
+  "url": "https://www.instrument.com",
+  "name": "www.instrument.com",
+  "title": "Instrument | A technology-led brand, product, & marketing agency | Instrument",
+  "fonts": {
+    "body": "instrument-sans",
+    "heading": "instrument-sans",
+    "loaded_count": 5,
+    "loaded_sample": [
+      "instrument-sans",
+      "instrument-serif-italic",
+      "instrument-serif",
+      "instrument-mono",
+      "swiper-icons"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      999,
+      23
+    ],
+    [
+      24,
+      21
+    ],
+    [
+      1000,
+      12
+    ],
+    [
+      32,
+      2
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      16,
+      1
+    ],
+    [
+      50,
+      1
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "12px",
+      20
+    ],
+    [
+      "3px",
+      13
+    ],
+    [
+      "217.328px",
+      10
+    ],
+    [
+      "8px",
+      7
+    ],
+    [
+      "4px",
+      4
+    ],
+    [
+      "48px",
+      4
+    ],
+    [
+      "24px",
+      2
+    ],
+    [
+      "217.344px",
+      2
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      243
+    ],
+    [
+      12,
+      82
+    ],
+    [
+      15,
+      43
+    ],
+    [
+      18,
+      35
+    ],
+    [
+      36,
+      34
+    ],
+    [
+      352,
+      22
+    ],
+    [
+      64,
+      19
+    ],
+    [
+      19,
+      12
+    ],
+    [
+      11,
+      9
+    ],
+    [
+      14,
+      7
+    ],
+    [
+      23,
+      1
+    ],
+    [
+      28,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 52,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 26,
+    "centered_fraction": 0.07692307692307693
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "Privacy Policy",
+      "Enable cookies",
+      "Disable cookies",
+      "Skip Navigation",
+      "Work",
+      "Services",
+      "About",
+      "See More",
+      "ED&I",
+      "Careers",
+      "Latest",
+      "Contact",
+      "View All Work",
+      "all",
+      "brand",
+      "marketing",
+      "product",
+      "Feeld",
+      "#product",
+      "ŌURA",
+      "#product",
+      "AlphaSense",
+      "#marketing",
+      "Perfected",
+      "#brand",
+      "#marketing",
+      "See our offerings",
+      "Learn more about us",
+      "See what’s new",
+      "See our services",
+      "Subscribe",
+      "Start a Project",
+      "Join the Team",
+      "Press & Media",
+      "Drop Us a Note",
+      "Home",
+      "Work",
+      "Services",
+      "Latest",
+      "About",
+      "Careers",
+      "Contact",
+      "Instagram",
+      "LinkedIn",
+      "Twitter",
+      "Sitemap",
+      "Privacy Policy",
+      "Supply Chain Statement"
+    ]
+  },
+  "ok": true
+}

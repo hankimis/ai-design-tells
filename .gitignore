@@ -4,3 +4,6 @@ __pycache__/
 .DS_Store
 results/_wf/
 paper/*.aux
+data/shots/
+data/shards/
+data/*.log

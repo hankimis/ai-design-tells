@@ -1,6 +1,9 @@
 # The detector + CLI need NOTHING beyond the Python 3.9+ standard library.
 # The extras below are only for reproducing the figures and running the MCP server.
 
+# real-site scrape + live audit (src/scrape.py, scripts/audit_url.py)
+playwright>=1.40   # then: playwright install chromium  (or uses system Chrome via channel=chrome)
+
 # figures (scripts/make_figures.py, scripts/make_gifs.py)
 matplotlib>=3.7
 numpy>=1.24

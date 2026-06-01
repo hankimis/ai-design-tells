@@ -72,6 +72,43 @@ def score_file(path: str) -> dict:
 
 
 @mcp.tool()
+def audit_url(url: str) -> dict:
+    """Audit a LIVE website for AI design tells. Renders the page in headless
+    Chrome, reads its computed styles, and scores them with the detector that was
+    recalibrated on 202 real top-tier sites, so genuine craft (a brand purple, a
+    custom font with optical tracking) is not mistaken for AI. Returns the Tell
+    Score, the craft credits that offset cosmetic defaults, and the fired tells.
+    Needs the Playwright extra (pip install -r requirements.txt). Use this to
+    audit a real deployed site, not a code string (use score_design for code)."""
+    import tempfile
+    try:
+        from scrape import scrape
+        from scorer import score_signals
+    except Exception as e:
+        return {"error": f"live audit needs the Playwright extra: {e}"}
+    out = tempfile.mkdtemp(prefix="aidt_")
+    recs = scrape([url], out, resume=False)
+    rec = next(iter(recs.values()))
+    if not rec.get("ok"):
+        return {"error": f"could not load {url}: {rec.get('error','')}"}
+    rep = score_signals(rec)
+    fired = [{"id": r.id, "family": FAMILIES[r.family][0], "name": r.name,
+              "weight": r.weight, "severity": r.severity, "evidence": r.evidence}
+             for r in rep.results if r.fired]
+    fired.sort(key=lambda x: -x["weight"])
+    return {
+        "url": url, "tell_score": round(rep.score, 1), "grade": rep.grade,
+        "lower_is_better": True,
+        "craft_credits": getattr(rep, "credit_list", []),
+        "family_scores": {FAMILIES[k][0]: round(v, 1) for k, v in rep.family_scores.items()},
+        "fired_tells": fired,
+        "summary": (f"Tell Score {rep.score:.0f}/100 ({rep.grade}). "
+                    f"{len(fired)} tell(s) fired; craft credits offsetting cosmetic defaults: "
+                    f"{', '.join(getattr(rep,'credit_list',[])) or 'none'}."),
+    }
+
+
+@mcp.tool()
 def list_tells() -> list:
     """Return the full AI Design Tells taxonomy: id, family, weight, severity,
     why it reads as a machine default, and the intentional fix."""

@@ -1,0 +1,440 @@
+{
+  "url": "https://mailchimp.com",
+  "name": "mailchimp.com",
+  "title": "Email & SMS Marketing Platform | Mailchimp",
+  "fonts": {
+    "body": "graphik web",
+    "heading": "means web",
+    "loaded_count": 2,
+    "loaded_sample": [
+      "means web",
+      "graphik web"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      186,
+      186,
+      39,
+      39,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      52,
+      39,
+      39,
+      52,
+      39,
+      39,
+      39,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      52,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      52,
+      39,
+      39,
+      52,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      186,
+      186,
+      39,
+      39,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      186,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      28
+    ],
+    "accent_sampled": 175,
+    "purple_accents": 0,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      26,
+      18
+    ],
+    [
+      4,
+      10
+    ],
+    [
+      3,
+      9
+    ],
+    [
+      32,
+      8
+    ],
+    [
+      50,
+      7
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      30,
+      3
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      14,
+      1
+    ],
+    [
+      16,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 9,
+    "diffuse": 3
+  },
+  "paddings": [
+    [
+      "8px",
+      15
+    ],
+    [
+      "12px",
+      11
+    ],
+    [
+      "10px",
+      6
+    ],
+    [
+      "5px",
+      6
+    ],
+    [
+      "4px",
+      5
+    ],
+    [
+      "24px",
+      5
+    ],
+    [
+      "80px",
+      3
+    ],
+    [
+      "64px",
+      3
+    ],
+    [
+      "16px",
+      2
+    ],
+    [
+      "6px",
+      2
+    ],
+    [
+      "40px",
+      2
+    ],
+    [
+      "108px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "52px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ],
+    [
+      "60px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      487
+    ],
+    [
+      13,
+      147
+    ],
+    [
+      11,
+      39
+    ],
+    [
+      24,
+      14
+    ],
+    [
+      12,
+      7
+    ],
+    [
+      14,
+      5
+    ],
+    [
+      40,
+      5
+    ],
+    [
+      48,
+      5
+    ],
+    [
+      32,
+      2
+    ],
+    [
+      15,
+      1
+    ],
+    [
+      18,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 9,
+    "neg_tracked": 7
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 14,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 40,
+    "centered_fraction": 0.05
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Email & SMS marketing minus the learning curve.",
+    "buttons": [
+      "___",
+      "Skip to main content",
+      "Start Today.",
+      "Industries and Solutions",
+      "Integrations",
+      "Resources",
+      "Switch to Mailchimp",
+      "Pricing",
+      "Search",
+      "EN",
+      "Sales:\n            +1 (800) 315-5939",
+      "Log In",
+      "Start Free Trial",
+      "Start Free Trial",
+      "Customize my experience",
+      "Learn about SMS marketing",
+      "Learn about driving sales",
+      "See our content creation tools",
+      "Check out marketing automations",
+      "Visit the integrations directory",
+      "See support options",
+      "See pricing",
+      "Select",
+      "No thank you",
+      "Customize my experience",
+      "Learn more about onboarding",
+      "See all plans",
+      "Free Trial Terms",
+      "Overages",
+      "Start Free Trial",
+      "here",
+      "plans and pricing",
+      "full offer terms",
+      "Why Mailchimp?",
+      "Product Updates",
+      "Email Marketing",
+      "Transactional Email",
+      "How We Compare",
+      "GDPR Compliance",
+      "Security",
+      "Status",
+      "Mobile App",
+      "Marketing Library",
+      "Free Marketing Tools",
+      "Marketing Glossary",
+      "Integrations Directory",
+      "Agencies & Freelancers",
+      "Developers",
+      "Events",
+      "Our Story",
+      "Newsroom",
+      "Give Where You Live",
+      "Careers",
+      "Accessibility",
+      "Contact Us",
+      "Hire an Expert",
+      "Help Center",
+      "Talk to Sales",
+      "Check it out",
+      "Privacy"
+    ]
+  },
+  "ok": true
+}

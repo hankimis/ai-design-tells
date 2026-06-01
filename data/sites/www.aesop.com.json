@@ -1,0 +1,289 @@
+{
+  "url": "https://www.aesop.com",
+  "name": "www.aesop.com",
+  "title": "Formulations for Skin, Hair & Body Care of the Finest Quality - Aesop",
+  "fonts": {
+    "body": "suisseintl",
+    "heading": "suisseintl",
+    "loaded_count": 3,
+    "loaded_sample": [
+      "suisseintl",
+      "suisseintl-medium",
+      "zapf-humanist"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55
+    ],
+    "accent_sampled": 71,
+    "purple_accents": 0,
+    "any_gradients": 4,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      50,
+      12
+    ],
+    [
+      2,
+      2
+    ]
+  ],
+  "shadows": {
+    "other": 1,
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "12px",
+      21
+    ],
+    [
+      "13px",
+      21
+    ],
+    [
+      "8px",
+      15
+    ],
+    [
+      "20px",
+      13
+    ],
+    [
+      "4px",
+      13
+    ],
+    [
+      "17px",
+      10
+    ],
+    [
+      "40px",
+      10
+    ],
+    [
+      "16px",
+      8
+    ],
+    [
+      "24px",
+      7
+    ],
+    [
+      "6px",
+      5
+    ],
+    [
+      "7px",
+      5
+    ],
+    [
+      "32px",
+      4
+    ],
+    [
+      "35px",
+      2
+    ],
+    [
+      "15px",
+      1
+    ],
+    [
+      "50px",
+      1
+    ],
+    [
+      "1px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      12,
+      913
+    ],
+    [
+      14,
+      226
+    ],
+    [
+      16,
+      144
+    ],
+    [
+      11,
+      31
+    ],
+    [
+      31,
+      15
+    ],
+    [
+      30,
+      9
+    ],
+    [
+      13,
+      3
+    ],
+    [
+      18,
+      3
+    ]
+  ],
+  "heading": {
+    "big_count": 16,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 8,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 173,
+    "centered_fraction": 0.09826589595375723
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Plant-based and laboratory-made ingredients",
+    "buttons": [
+      "Skip to content",
+      "Skip to footer navigation",
+      "More Less",
+      "Learn more.",
+      "More Less",
+      "Learn more.",
+      "Stores",
+      "Customer service",
+      "Email sign up",
+      "Account",
+      "My cart 0 0 product in cart",
+      "New & Notable",
+      "Skin Care",
+      "Hand & Body",
+      "Fragrance",
+      "Home",
+      "Hair",
+      "Travel",
+      "Gifts",
+      "Library",
+      "Experience",
+      "Search...   Close",
+      "Discover",
+      "Discover Hand & Body",
+      "Discover Fragrance",
+      "Solais Replenishing Hand Serum",
+      "Loading ...",
+      "Aurner Eau de Parfum",
+      "Loading ...",
+      "Resurrection Duet",
+      "Loading ...",
+      "Resolute Facial Concentrate",
+      "Loading ...",
+      "A Rose By Any Other Name Body Cleanser",
+      "Loading ...",
+      "Lucent Duo",
+      "Loading ...",
+      "Explore gifts",
+      "Discover Solais",
+      "Solais Replenishing Hand Serum",
+      "Loading ...",
+      "Solais & Resurrection Duo",
+      "Loading ...",
+      "Solais & Reverence Duo",
+      "Loading ...",
+      "Solais & Eleos Duo",
+      "Loading ...",
+      "Skin Care",
+      "Hand & Body",
+      "Fragrance",
+      "Home",
+      "Hair",
+      "Travel",
+      "Gifts",
+      "Find out more",
+      "Quintessential Fragrance Trio",
+      "Loading ...",
+      "Above Us, Steorra Eau de Parfum",
+      "Tacit Eau de Parfum",
+      "Karst Eau de Parfum"
+    ]
+  },
+  "ok": true
+}

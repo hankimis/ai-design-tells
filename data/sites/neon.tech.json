@@ -1,0 +1,280 @@
+{
+  "url": "https://neon.tech",
+  "name": "neon.tech",
+  "title": "Neon Serverless Postgres — Ship faster",
+  "fonts": {
+    "body": "inter",
+    "heading": "inter",
+    "loaded_count": 7,
+    "loaded_sample": [
+      "ibm plex sans",
+      "ibm plex sans fallback",
+      "geistmono",
+      "inter",
+      "inter fallback",
+      "esbuild",
+      "esbuild fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      152,
+      152,
+      158
+    ],
+    "accent_sampled": 3,
+    "purple_accents": 0,
+    "any_gradients": 3,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      4,
+      63
+    ],
+    [
+      33554400,
+      13
+    ],
+    [
+      100,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 1
+  },
+  "paddings": [
+    [
+      "1px",
+      54
+    ],
+    [
+      "12px",
+      28
+    ],
+    [
+      "6px",
+      5
+    ],
+    [
+      "10px",
+      4
+    ],
+    [
+      "160px",
+      4
+    ],
+    [
+      "28px",
+      3
+    ],
+    [
+      "4px",
+      3
+    ],
+    [
+      "25px",
+      2
+    ],
+    [
+      "36px",
+      2
+    ],
+    [
+      "32px",
+      2
+    ],
+    [
+      "20px",
+      2
+    ],
+    [
+      "8px",
+      2
+    ],
+    [
+      "24px",
+      1
+    ],
+    [
+      "352px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "14px",
+      1
+    ],
+    [
+      "88px",
+      1
+    ],
+    [
+      "240px",
+      1
+    ],
+    [
+      "18px",
+      1
+    ],
+    [
+      "22px",
+      1
+    ],
+    [
+      "56px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      2442
+    ],
+    [
+      20,
+      142
+    ],
+    [
+      14,
+      70
+    ],
+    [
+      15,
+      65
+    ],
+    [
+      18,
+      50
+    ],
+    [
+      12,
+      37
+    ],
+    [
+      13,
+      37
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      48,
+      10
+    ],
+    [
+      28,
+      6
+    ],
+    [
+      24,
+      3
+    ],
+    [
+      40,
+      2
+    ],
+    [
+      44,
+      2
+    ],
+    [
+      80,
+      2
+    ],
+    [
+      32,
+      1
+    ],
+    [
+      68,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 9,
+    "neg_tracked": 9
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 5,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 71,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Ship faster on the backendplatform for apps and agents.",
+    "buttons": [
+      "Neon",
+      "Product",
+      "Solutions",
+      "Docs",
+      "Pricing",
+      "Resources",
+      "AutoscalingAutomatic instance sizing",
+      "Data APIREST HTTP API for your database",
+      "Serverless AppAutoscale with traffic",
+      "Multi-TBScale and restore instantly",
+      "PlatformsOffer Postgres for your users",
+      "Dev/TestsProduction-like environment",
+      "AgentsBuild full-stack AI agents",
+      "BlogTechnical posts & product updates",
+      "Case studiesExplore customer stories",
+      "ChangelogProduct updates",
+      "CommunityConnect on Discord",
+      "StartupsBuild with Neon",
+      "About usThe company and the mission",
+      "CareersJoin the team",
+      "Contact salesContact sales team",
+      "SecurityCompliance & privacy",
+      "StatusService status",
+      "Discord",
+      "22.1k",
+      "Log in",
+      "Sign up",
+      "A DATABRICKS COMPANY",
+      "Get started",
+      "Read the docs",
+      "AI",
+      "Advanced Autoscaling",
+      "Instant Branching",
+      "Auth Included",
+      "Production-Grade Features",
+      "$ npx neonctl init",
+      "Avoid incidents",
+      "Save costs",
+      "I’m building an agent",
+      "Learn more",
+      "Learn more",
+      "Run Query",
+      "Get started",
+      "Read the docs",
+      "$ npx neonctl init",
+      "Neon",
+      "Neon status loading...",
+      "Apache Software Foundation",
+      "Privacy Notice",
+      "Terms of Use",
+      "Neon Platform Terms",
+      "Modern Slavery Statement",
+      "California Privacy",
+      "About",
+      "Blog",
+      "Careers",
+      "Contact Sales",
+      "Security",
+      "Docs",
+      "Changelog"
+    ]
+  },
+  "ok": true
+}

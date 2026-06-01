@@ -1,0 +1,235 @@
+{
+  "url": "https://www.patagonia.com",
+  "name": "www.patagonia.com",
+  "title": "Patagonia Outdoor Clothing & Gear",
+  "fonts": {
+    "body": "ridgeway sans",
+    "heading": "ridgeway sans",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "ridgeway sans",
+      "copernicus",
+      "swiper-icons",
+      "patagonia-icons"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211
+    ],
+    "accent_sampled": 8,
+    "purple_accents": 0,
+    "any_gradients": 4,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      8,
+      39
+    ],
+    [
+      30,
+      15
+    ],
+    [
+      32,
+      4
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      50,
+      2
+    ],
+    [
+      40,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 5,
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "2px",
+      21
+    ],
+    [
+      "16px",
+      19
+    ],
+    [
+      "12px",
+      15
+    ],
+    [
+      "9px",
+      13
+    ],
+    [
+      "40px",
+      9
+    ],
+    [
+      "309px",
+      7
+    ],
+    [
+      "371.078px",
+      4
+    ],
+    [
+      "416px",
+      3
+    ],
+    [
+      "1px",
+      2
+    ],
+    [
+      "64px",
+      2
+    ],
+    [
+      "13px",
+      2
+    ],
+    [
+      "24px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ],
+    [
+      "14px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      14,
+      433
+    ],
+    [
+      16,
+      68
+    ],
+    [
+      12,
+      18
+    ],
+    [
+      24,
+      11
+    ],
+    [
+      32,
+      9
+    ],
+    [
+      64,
+      4
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      17,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 3,
+    "neg_tracked": 3
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 21,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 45,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Performance Foundations",
+    "buttons": [
+      "Skip to main content",
+      "Activism",
+      "Stories",
+      "Worn Wear",
+      "Find a Store",
+      "Patagonia United States",
+      "Featured",
+      "Men's",
+      "Women's",
+      "Kids'",
+      "Packs & Gear",
+      "Food & Beer",
+      "Sports",
+      "Explore",
+      "Men's",
+      "Women's",
+      "Shop",
+      "Men's",
+      "Women's",
+      "Shop",
+      "Men's",
+      "Women's",
+      "Shop",
+      "Men's",
+      "Women's",
+      "Shop",
+      "Duffels",
+      "Backpacks",
+      "Shop",
+      "Kids'",
+      "Baby",
+      "Shop",
+      "Shop",
+      "Shop",
+      "Shop",
+      "Watch Film",
+      "Explore",
+      "Explore",
+      "Men’s",
+      "Women’s",
+      "Explore",
+      "Explore",
+      "Men’s",
+      "Women’s",
+      "Explore",
+      "Explore",
+      "Men’s",
+      "Women’s",
+      "View Ironclad Guarantee",
+      "Explore Our Footprint",
+      "Visit Patagonia Action Works",
+      "Visit Worn Wear",
+      "Read Our Commitment",
+      "Sign Me Up",
+      "Privacy Notice",
+      "Notice of Financial Incentive",
+      "Help Center",
+      "Order Status",
+      "Size & Fit Guide",
+      "Returns & Exchanges"
+    ]
+  },
+  "ok": true
+}

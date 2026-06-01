@@ -1,0 +1,80 @@
+{
+  "url": "file:///Users/hankim/아이오브연구소/ai-design-tells/.claude/worktrees/build/fixtures/slop-dashboard.html",
+  "name": "file:___Users_hankim_아이오브연구소_ai-design-tells_.claude_worktrees_build_fixtures_slop-dashboard.html",
+  "title": "Dashboard",
+  "fonts": {
+    "body": "inter",
+    "heading": "inter",
+    "loaded_count": 0,
+    "loaded_sample": []
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 1,
+    "blue_purple_gradients": 1
+  },
+  "radii": [
+    [
+      8,
+      8
+    ]
+  ],
+  "shadows": {
+    "diffuse": 3
+  },
+  "paddings": [
+    [
+      "24px",
+      5
+    ],
+    [
+      "12px",
+      4
+    ],
+    [
+      "8px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      17
+    ],
+    [
+      48,
+      3
+    ],
+    [
+      24,
+      2
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": false,
+    "hairline_rule": false,
+    "sheets_read": 1,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 2,
+    "centered_fraction": 1
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Welcome back!",
+    "buttons": [
+      "📊 Dashboard",
+      "📁 Projects",
+      "👥 Team",
+      "⚙️ Settings"
+    ]
+  },
+  "ok": true
+}

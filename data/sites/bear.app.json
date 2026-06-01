@@ -1,0 +1,218 @@
+{
+  "url": "https://bear.app",
+  "name": "bear.app",
+  "title": "Bear - Markdown Notes",
+  "fonts": {
+    "body": "bearsans",
+    "heading": "bearsansheadline",
+    "loaded_count": 3,
+    "loaded_sample": [
+      "bearsans",
+      "bearsansheadline",
+      "roboto-mono"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      359,
+      359,
+      359,
+      359,
+      359,
+      359,
+      359,
+      359,
+      359,
+      359,
+      359,
+      359
+    ],
+    "accent_sampled": 12,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      16,
+      6
+    ],
+    [
+      40,
+      4
+    ],
+    [
+      4.8,
+      2
+    ],
+    [
+      3.84,
+      2
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      8.64,
+      1
+    ],
+    [
+      4.32,
+      1
+    ],
+    [
+      8.8,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 3
+  },
+  "paddings": [
+    [
+      "12.8px",
+      14
+    ],
+    [
+      "19.2px",
+      3
+    ],
+    [
+      "40px",
+      3
+    ],
+    [
+      "8px",
+      2
+    ],
+    [
+      "32px",
+      2
+    ],
+    [
+      "64px",
+      2
+    ],
+    [
+      "192px",
+      1
+    ],
+    [
+      "585px",
+      1
+    ],
+    [
+      "960px",
+      1
+    ],
+    [
+      "288px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      654
+    ],
+    [
+      24,
+      18
+    ],
+    [
+      22,
+      8
+    ],
+    [
+      51,
+      7
+    ],
+    [
+      42,
+      6
+    ],
+    [
+      18,
+      5
+    ],
+    [
+      19,
+      4
+    ],
+    [
+      30,
+      3
+    ],
+    [
+      13,
+      2
+    ],
+    [
+      14,
+      2
+    ],
+    [
+      20,
+      2
+    ],
+    [
+      40,
+      2
+    ],
+    [
+      29,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 15,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": false,
+    "hairline_rule": false,
+    "sheets_read": 1,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 39,
+    "centered_fraction": 0.10256410256410256
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Markdown notes you’ll love",
+    "buttons": [
+      "Bear",
+      "Features",
+      "Pricing",
+      "Blog",
+      "Community",
+      "Support",
+      "Instagram",
+      "Twitter",
+      "Reddit",
+      "David Pierce, The Verge",
+      "Features",
+      "Pricing",
+      "Bear for Mac",
+      "Bear for iOS",
+      "Help docs",
+      "Contact us",
+      "School Discount",
+      "Api Docs",
+      "Community",
+      "Twitter",
+      "Reddit",
+      "Facebook",
+      "Instagram",
+      "Blog",
+      "Wallpapers",
+      "About us",
+      "Privacy",
+      "中文版",
+      "Shiny Frog © 2025"
+    ]
+  },
+  "ok": true
+}

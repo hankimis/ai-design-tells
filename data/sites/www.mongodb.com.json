@@ -1,0 +1,411 @@
+{
+  "url": "https://www.mongodb.com",
+  "name": "www.mongodb.com",
+  "title": "MongoDB: The World’s Leading Modern Data Platform | MongoDB",
+  "fonts": {
+    "body": "times",
+    "heading": "mongodb value serif",
+    "loaded_count": 7,
+    "loaded_sample": [
+      "akzidenz-grotesk std",
+      "noto sans sc",
+      "noto sans kr",
+      "noto sans jp",
+      "euclid circular a",
+      "mongodb value serif",
+      "source code pro"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      163,
+      163,
+      163,
+      240,
+      240,
+      204,
+      204,
+      204,
+      204,
+      204,
+      204,
+      204,
+      204,
+      204,
+      204,
+      204,
+      204,
+      204,
+      204,
+      145,
+      198,
+      198,
+      145,
+      198,
+      198,
+      163,
+      204,
+      200,
+      202,
+      202,
+      240,
+      240,
+      240,
+      240,
+      214,
+      214,
+      198,
+      214,
+      214,
+      214,
+      214,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      216,
+      240,
+      163,
+      145,
+      145,
+      145,
+      168,
+      168,
+      168,
+      145,
+      163,
+      145,
+      163,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      240,
+      240,
+      200
+    ],
+    "accent_sampled": 146,
+    "purple_accents": 36,
+    "any_gradients": 5,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      16,
+      28
+    ],
+    [
+      50,
+      9
+    ],
+    [
+      2,
+      8
+    ],
+    [
+      8,
+      8
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      48,
+      4
+    ],
+    [
+      9999,
+      2
+    ],
+    [
+      25,
+      1
+    ],
+    [
+      100,
+      1
+    ],
+    [
+      999,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 28,
+    "diffuse": 6
+  },
+  "paddings": [
+    [
+      "1px",
+      8
+    ],
+    [
+      "16px",
+      5
+    ],
+    [
+      "15px",
+      3
+    ],
+    [
+      "7px",
+      3
+    ],
+    [
+      "10px",
+      3
+    ],
+    [
+      "8px",
+      2
+    ],
+    [
+      "40px",
+      2
+    ],
+    [
+      "112px",
+      2
+    ],
+    [
+      "2px",
+      1
+    ],
+    [
+      "12px",
+      1
+    ],
+    [
+      "4px",
+      1
+    ],
+    [
+      "70px",
+      1
+    ],
+    [
+      "74px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "64px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      342
+    ],
+    [
+      14,
+      48
+    ],
+    [
+      13,
+      43
+    ],
+    [
+      18,
+      16
+    ],
+    [
+      11,
+      5
+    ],
+    [
+      12,
+      5
+    ],
+    [
+      24,
+      4
+    ],
+    [
+      36,
+      3
+    ],
+    [
+      40,
+      2
+    ],
+    [
+      64,
+      2
+    ],
+    [
+      9,
+      1
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      28,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 4,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 580,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 58,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "One data platform.Unlimited AI potential.",
+    "buttons": [
+      "Products",
+      "Resources",
+      "Solutions",
+      "Company",
+      "Pricing",
+      "Eng",
+      "Support",
+      "Sign In",
+      "Get Started",
+      "Builder",
+      "Business Leader",
+      "Get Started",
+      "Documentation",
+      "AI and data usage FAQ",
+      "Case Study",
+      "Case Study",
+      "View all customer stories",
+      "Read Case Study",
+      "MongoDB for Retail",
+      "Explore our ecosystem",
+      "Product Documentation",
+      "Learn More",
+      "Download Now",
+      "Download Now",
+      "Download Now",
+      "English",
+      "Careers",
+      "Investor Relations",
+      "Legal",
+      "Privacy Policy",
+      "GitHub",
+      "Security Information",
+      "Trust Center",
+      "Follow Us",
+      "Contact Us",
+      "Customer Portal",
+      "Atlas Status",
+      "Product Updates",
+      "Customer Support",
+      "Manage Cookies",
+      "Your Privacy Choices",
+      "MongoDB Atlas",
+      "Enterprise Advanced",
+      "Community Edition",
+      "Vector Databases",
+      "NoSQL Databases",
+      "Document Databases",
+      "RAG Database",
+      "ACID Transactions",
+      "MERN Stack",
+      "MEAN Stack"
+    ]
+  },
+  "ok": true
+}

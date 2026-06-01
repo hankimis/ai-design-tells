@@ -1,0 +1,272 @@
+{
+  "url": "https://www.hubspot.com",
+  "name": "www.hubspot.com",
+  "title": "HubSpot | Software & Tools for your Business - Homepage",
+  "fonts": {
+    "body": "hubspot sans",
+    "heading": "hubspot serif page header human",
+    "loaded_count": 5,
+    "loaded_sample": [
+      "hubspot sans",
+      "hubspot serif",
+      "zen kaku gothic new",
+      "hubspot serif page header human",
+      "lato"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      17,
+      17,
+      17,
+      17,
+      17,
+      17,
+      17,
+      17,
+      17,
+      17,
+      42,
+      42,
+      42,
+      42,
+      42,
+      42,
+      42,
+      42,
+      42,
+      42,
+      42,
+      42,
+      42,
+      42,
+      42,
+      42,
+      42,
+      42,
+      42,
+      42,
+      42,
+      42
+    ],
+    "accent_sampled": 32,
+    "purple_accents": 0,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      16,
+      31
+    ],
+    [
+      8,
+      29
+    ],
+    [
+      50,
+      9
+    ],
+    [
+      4,
+      4
+    ],
+    [
+      6,
+      1
+    ],
+    [
+      42,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1,
+    "other": 1
+  },
+  "paddings": [
+    [
+      "2px",
+      43
+    ],
+    [
+      "16px",
+      15
+    ],
+    [
+      "24px",
+      15
+    ],
+    [
+      "8px",
+      13
+    ],
+    [
+      "32px",
+      13
+    ],
+    [
+      "12px",
+      13
+    ],
+    [
+      "64px",
+      7
+    ],
+    [
+      "7.2px",
+      5
+    ],
+    [
+      "4px",
+      2
+    ],
+    [
+      "40px",
+      2
+    ],
+    [
+      "6px",
+      1
+    ],
+    [
+      "3.2px",
+      1
+    ],
+    [
+      "56px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      513
+    ],
+    [
+      14,
+      126
+    ],
+    [
+      12,
+      56
+    ],
+    [
+      18,
+      21
+    ],
+    [
+      24,
+      11
+    ],
+    [
+      40,
+      8
+    ],
+    [
+      22,
+      6
+    ],
+    [
+      13,
+      3
+    ],
+    [
+      32,
+      2
+    ],
+    [
+      48,
+      2
+    ],
+    [
+      65,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 6,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 40,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 75,
+    "centered_fraction": 0.04
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "AI knows a lot about the world. You need a platform that knows your world",
+    "buttons": [
+      "×close",
+      "Cookie Policy",
+      "Accept all",
+      "Decline all",
+      "Manage Cookies",
+      "Skip to content",
+      "Select a language",
+      "High Contrast",
+      "Customer Support",
+      "Contact Sales",
+      "Log in",
+      "About",
+      "Products",
+      "Solutions",
+      "Pricing",
+      "Resources",
+      "Previous",
+      "Next",
+      "Get a demo\n      of HubSpot's software",
+      "Previous slide",
+      "Next slide",
+      "Learn moreabout content agent",
+      "Learn moreabout content agent",
+      "Learn moreabout content agent",
+      "Pause Carousel",
+      "See all app integrations",
+      "Enterprise",
+      "Mid-Sized Business",
+      "Small Business",
+      "Read full case studyabout Unipart",
+      "Popular Features",
+      "All Products and Features",
+      "HubSpot AEO",
+      "Free Meeting Scheduler App",
+      "Breeze AI Tools",
+      "Email Tracking Software",
+      "AI Content Writer",
+      "AI Website Generator",
+      "Email Marketing Software",
+      "Lead Management Software",
+      "AI Prospecting Agent",
+      "Free Website Builder",
+      "Landing Pages",
+      "Free Online Form Builder",
+      "Free Chatbot Builder",
+      "Free Live Chat Software",
+      "Marketing Analytics",
+      "Free Landing Page Builder",
+      "Free Web Hosting",
+      "Free Tools",
+      "See All Free Business Tools",
+      "AEO Grader",
+      "AEO Sensor",
+      "Make My Persona",
+      "Email Signature Generator",
+      "Free Business Templates",
+      "Software Comparisons Library",
+      "Website Templates",
+      "Company",
+      "About Us"
+    ]
+  },
+  "ok": true
+}

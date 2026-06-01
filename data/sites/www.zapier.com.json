@@ -1,0 +1,458 @@
+{
+  "url": "https://www.zapier.com",
+  "name": "www.zapier.com",
+  "title": "Zapier: Automate AI Workflows, Agents, and Apps",
+  "fonts": {
+    "body": "inter",
+    "heading": "degular display",
+    "loaded_count": 8,
+    "loaded_sample": [
+      "inter",
+      "inter fallback",
+      "jetbrains mono",
+      "jetbrains mono fallback",
+      "degulardisplay",
+      "degulardisplay fallback",
+      "serrif",
+      "serrif fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      310,
+      45,
+      45,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      19,
+      45,
+      19,
+      19,
+      45,
+      19,
+      0,
+      0,
+      45,
+      0,
+      0,
+      45,
+      46,
+      45,
+      46,
+      45,
+      46,
+      45,
+      46,
+      45,
+      46,
+      0,
+      0,
+      0,
+      45,
+      0,
+      19,
+      45,
+      19,
+      0,
+      45,
+      0,
+      19,
+      45,
+      19,
+      0,
+      0,
+      0,
+      0,
+      19,
+      45,
+      19,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      45,
+      45,
+      0,
+      0,
+      45,
+      45,
+      0,
+      0,
+      19,
+      45,
+      19,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      0,
+      47,
+      19,
+      45,
+      19,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      45,
+      0,
+      0,
+      45,
+      0,
+      19,
+      45,
+      19,
+      45,
+      45
+    ],
+    "accent_sampled": 190,
+    "purple_accents": 0,
+    "any_gradients": 2,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      4,
+      64
+    ],
+    [
+      14,
+      5
+    ],
+    [
+      5,
+      3
+    ],
+    [
+      8,
+      3
+    ],
+    [
+      18,
+      1
+    ],
+    [
+      50,
+      1
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "12px",
+      88
+    ],
+    [
+      "32px",
+      20
+    ],
+    [
+      "8px",
+      19
+    ],
+    [
+      "24px",
+      17
+    ],
+    [
+      "6px",
+      15
+    ],
+    [
+      "48px",
+      11
+    ],
+    [
+      "10px",
+      9
+    ],
+    [
+      "40px",
+      8
+    ],
+    [
+      "96px",
+      6
+    ],
+    [
+      "20px",
+      5
+    ],
+    [
+      "120px",
+      4
+    ],
+    [
+      "4px",
+      2
+    ],
+    [
+      "16px",
+      2
+    ],
+    [
+      "64px",
+      2
+    ],
+    [
+      "56px",
+      1
+    ],
+    [
+      "26px",
+      1
+    ],
+    [
+      "160px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ],
+    [
+      "55px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      747
+    ],
+    [
+      14,
+      289
+    ],
+    [
+      160,
+      111
+    ],
+    [
+      48,
+      38
+    ],
+    [
+      20,
+      37
+    ],
+    [
+      12,
+      33
+    ],
+    [
+      24,
+      19
+    ],
+    [
+      18,
+      16
+    ],
+    [
+      28,
+      7
+    ],
+    [
+      40,
+      5
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      32,
+      3
+    ],
+    [
+      56,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 11,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 3,
+    "sheets_blocked": 3
+  },
+  "layout": {
+    "blocks": 80,
+    "centered_fraction": 0.1125
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Your tools. Your rules. Any AI.",
+    "buttons": [
+      "Skip to content",
+      "Products",
+      "Solutions",
+      "Resources",
+      "Enterprise",
+      "Pricing",
+      "GitHub",
+      "Explore apps",
+      "Contact sales",
+      "Log in",
+      "Sign up",
+      "Start free with email",
+      "Start free with Google",
+      "MCP",
+      "SDK",
+      "CLI",
+      "Claude",
+      "Claude Code",
+      "ChatGPT",
+      "Cursor",
+      "OpenClaw",
+      "Learn more about governance",
+      "Explore Zapier for Enterprise",
+      "Learn more about MCP",
+      "Get started with Zapier SDK",
+      "AI Workflows",
+      "AI Agents",
+      "AI Chatbots",
+      "Tables",
+      "Forms",
+      "Canvas",
+      "Enterprise",
+      "Functions",
+      "9,000 apps+",
+      "Explore AI Workflows",
+      "Let AI handle your IT support tickets",
+      "Turn sales calls into coaching moments",
+      "See more templates",
+      "Read full story",
+      "Read full story",
+      "Read full story",
+      "Read full story",
+      "See more customer stories",
+      "Onboard employees",
+      "Resolve IT tickets",
+      "Qualify leads",
+      "Support sales reps",
+      "Answer FAQs",
+      "Assist customers",
+      "Repurpose content",
+      "Onboard employees",
+      "Resolve IT tickets",
+      "Qualify leads",
+      "Support sales reps",
+      "Answer FAQs",
+      "Assist customers",
+      "Repurpose content",
+      "Simplify concepts",
+      "Generate posts",
+      "Assist shoppers"
+    ]
+  },
+  "ok": true
+}

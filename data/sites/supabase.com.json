@@ -1,0 +1,214 @@
+{
+  "url": "https://supabase.com",
+  "name": "supabase.com",
+  "title": "Supabase | The Postgres Development Platform.",
+  "fonts": {
+    "body": "circular",
+    "heading": "circular",
+    "loaded_count": 1,
+    "loaded_sample": [
+      "custom-font"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      151,
+      151,
+      151
+    ],
+    "accent_sampled": 3,
+    "purple_accents": 0,
+    "any_gradients": 38,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      33554400,
+      129
+    ],
+    [
+      8,
+      61
+    ],
+    [
+      16,
+      55
+    ],
+    [
+      6,
+      37
+    ],
+    [
+      11,
+      35
+    ],
+    [
+      12,
+      35
+    ]
+  ],
+  "shadows": {
+    "other": 12
+  },
+  "paddings": [
+    [
+      "24px",
+      63
+    ],
+    [
+      "1px",
+      35
+    ],
+    [
+      "8px",
+      20
+    ],
+    [
+      "4px",
+      8
+    ],
+    [
+      "96px",
+      7
+    ],
+    [
+      "32px",
+      7
+    ],
+    [
+      "20px",
+      6
+    ],
+    [
+      "6px",
+      2
+    ],
+    [
+      "128px",
+      2
+    ],
+    [
+      "90px",
+      1
+    ],
+    [
+      "16px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      1658
+    ],
+    [
+      14,
+      254
+    ],
+    [
+      12,
+      82
+    ],
+    [
+      36,
+      14
+    ],
+    [
+      18,
+      8
+    ],
+    [
+      72,
+      3
+    ],
+    [
+      24,
+      2
+    ]
+  ],
+  "heading": {
+    "big_count": 3,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 1,
+    "sheets_blocked": 2
+  },
+  "layout": {
+    "blocks": 38,
+    "centered_fraction": 0.21052631578947367
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Build in a weekendScale to millions",
+    "buttons": [
+      "Product",
+      "Developers",
+      "Solutions",
+      "Pricing",
+      "Docs",
+      "Blog",
+      "103.3K",
+      "Sign in",
+      "Start your project",
+      "Start your project",
+      "Request a demo",
+      "View all stories",
+      "View events",
+      "Chatbase goes upmarket on Supabase",
+      "Chatbase goes upmarket on Supabase",
+      "View all examples",
+      "Official GitHub library",
+      "View Template",
+      "View Template",
+      "View Template",
+      "View Template",
+      "View Template",
+      "View Template",
+      "Table Editor",
+      "SQL Editor",
+      "RLS Policies",
+      "Full CRUD",
+      "Materialized Views",
+      "Foreign Tables",
+      "Partitioned Tables",
+      "Easy as a spreadsheet",
+      "Join us on Discord",
+      "@supabase103.3K",
+      "Start your project",
+      "Request a demo",
+      "More on Security",
+      "Twitter",
+      "GitHub",
+      "Discord",
+      "Youtube",
+      "TikTok",
+      "Instagram",
+      "Subscribe",
+      "Pricing",
+      "Database",
+      "Auth",
+      "Functions",
+      "Realtime",
+      "Storage",
+      "Vector",
+      "Cron",
+      "Feature Catalog",
+      "Launch Week",
+      "AI Builders",
+      "No Code",
+      "Beginners",
+      "Developers",
+      "Postgres Devs",
+      "Vibe Coders",
+      "Hackathon Contestants"
+    ]
+  },
+  "ok": true
+}

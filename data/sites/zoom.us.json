@@ -1,0 +1,437 @@
+{
+  "url": "https://zoom.us",
+  "name": "zoom.us",
+  "title": "One platform to connect | Zoom",
+  "fonts": {
+    "body": "almaden sans",
+    "heading": "happy face semi bold",
+    "loaded_count": 11,
+    "loaded_sample": [
+      "almaden sans book",
+      "almaden sans light",
+      "almaden sans",
+      "happy face light",
+      "happy face regular",
+      "happy face semi bold",
+      "happy face bold",
+      "lomocopy lt std",
+      "digital numbers",
+      "sf pro",
+      "icozm"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      220,
+      220,
+      220,
+      220,
+      216,
+      235,
+      216,
+      220,
+      220,
+      216,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      220,
+      220,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      235,
+      220,
+      220,
+      235,
+      235,
+      235,
+      235,
+      220,
+      220,
+      235,
+      235,
+      215,
+      235,
+      216,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      215,
+      215,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      215,
+      235,
+      216,
+      234,
+      234,
+      234,
+      234
+    ],
+    "accent_sampled": 116,
+    "purple_accents": 0,
+    "any_gradients": 9,
+    "blue_purple_gradients": 2
+  },
+  "radii": [
+    [
+      20,
+      27
+    ],
+    [
+      8,
+      26
+    ],
+    [
+      12,
+      25
+    ],
+    [
+      50,
+      16
+    ],
+    [
+      16,
+      5
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      15,
+      1
+    ],
+    [
+      24,
+      1
+    ],
+    [
+      28,
+      1
+    ],
+    [
+      99,
+      1
+    ],
+    [
+      100,
+      1
+    ],
+    [
+      999,
+      1
+    ],
+    [
+      2.5,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 4
+  },
+  "paddings": [
+    [
+      "16px",
+      26
+    ],
+    [
+      "6px",
+      18
+    ],
+    [
+      "8px",
+      17
+    ],
+    [
+      "4px",
+      16
+    ],
+    [
+      "10px",
+      12
+    ],
+    [
+      "20px",
+      8
+    ],
+    [
+      "40px",
+      6
+    ],
+    [
+      "60px",
+      6
+    ],
+    [
+      "32px",
+      5
+    ],
+    [
+      "1px",
+      4
+    ],
+    [
+      "11px",
+      4
+    ],
+    [
+      "35px",
+      3
+    ],
+    [
+      "12px",
+      3
+    ],
+    [
+      "14px",
+      2
+    ],
+    [
+      "77.9px",
+      1
+    ],
+    [
+      "7.27px",
+      1
+    ],
+    [
+      "100px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ],
+    [
+      "15px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      462
+    ],
+    [
+      14,
+      140
+    ],
+    [
+      15,
+      30
+    ],
+    [
+      10,
+      25
+    ],
+    [
+      12,
+      12
+    ],
+    [
+      46,
+      6
+    ],
+    [
+      20,
+      5
+    ],
+    [
+      32,
+      4
+    ],
+    [
+      11,
+      3
+    ],
+    [
+      18,
+      3
+    ],
+    [
+      22,
+      2
+    ],
+    [
+      24,
+      2
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      13,
+      1
+    ],
+    [
+      26,
+      1
+    ],
+    [
+      54,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 5,
+    "neg_tracked": 1
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 5,
+    "sheets_blocked": 2
+  },
+  "layout": {
+    "blocks": 61,
+    "centered_fraction": 0.06557377049180328
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Find out what's possible when work connects",
+    "buttons": [
+      "Skip to main content",
+      "Skip to help chat",
+      "Products",
+      "AI",
+      "Solutions",
+      "Pricing",
+      "Meet",
+      "Sign In",
+      "Support",
+      "Contact Sales",
+      "Sign Up Free",
+      "Zoom Workplace",
+      "Zoom Business Services",
+      "Zoom AI",
+      "Developers",
+      "Apps and Integrations",
+      "Learn more",
+      "Meetings",
+      "Hub",
+      "Chat",
+      "Video Management",
+      "Phone",
+      "Rooms",
+      "Mail & Calendar",
+      "Workspace Reservation",
+      "Scheduler",
+      "Digital Signage",
+      "Canvas",
+      "Visitor Management",
+      "Whiteboard",
+      "Workvivo",
+      "Clips",
+      "Learn more",
+      "Download center",
+      "+1.888.799.9666",
+      "Explore products Explore products",
+      "Find your plan Find your plan",
+      "BrightHire",
+      "Virtual Agent",
+      "Contact Center",
+      "Meetings",
+      "My Notes",
+      "AI Productivity Suite",
+      "ZoomMate",
+      "Phone",
+      "Webinars",
+      "Bonsai",
+      "Rooms",
+      "Explore My Notes Explore My Notes",
+      "►",
+      "Read the report",
+      "Explore the report",
+      "Read Forrester report",
+      "Read more Read more",
+      "Read more Read more",
+      "Read more Read more",
+      "Read more Read more",
+      "Get started today Get started today",
+      "Find your plan Find your plan",
+      "English"
+    ]
+  },
+  "ok": true
+}

@@ -5,8 +5,8 @@
   <img alt="license MIT" src="https://img.shields.io/badge/license-MIT-16181d">
   <img alt="tells" src="https://img.shields.io/badge/tells-21%20across%207%20families-6d5cf6">
   <img alt="metric" src="https://img.shields.io/badge/Tell%20Score-0–100%20(lower%20is%20better)-0f6f63">
-  <img alt="deps" src="https://img.shields.io/badge/detector-zero%20dependencies-16181d">
-  <img alt="paper" src="https://img.shields.io/badge/paper-11pp%20PDF-9a3b1f">
+  <img alt="validated" src="https://img.shields.io/badge/validated%20on-202%20real%20sites-0f6f63">
+  <img alt="paper" src="https://img.shields.io/badge/paper-15pp%20PDF-9a3b1f">
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ harness so any team or coding agent can audit and prevent the look.
 
 ## Contents
 
-- [Quickstart](#quickstart) · [The result](#the-result) · [The 21 tells](#the-21-tells)
+- [Quickstart](#quickstart) · [The result](#the-result) · [Validated on 202 real sites](#validated-on-202-real-sites-v2) · [The 21 tells](#the-21-tells)
 - [The harness: CLI · MCP · drop-in prompt](#the-harness)
 - [Figure gallery](#figure-gallery) · [How it works](#how-it-works) · [Honest limits](#honest-limits)
 - [Paper & citation](#paper) · [Repo layout](#repo-layout)
@@ -57,6 +57,14 @@ The process exit code **is** the integer Tell Score, so it gates CI:
 
 ```bash
 python src/cli.py build/index.html && echo "ships clean" || echo "too many tells"
+```
+
+**Audit a live, deployed site** (v2, renders it in headless Chrome and reads computed styles):
+
+```bash
+pip install -r requirements.txt          # Playwright extra
+python scripts/audit_url.py https://your-site.com
+# Stripe scores 0 (A) even with 123 purple accents, its craft credits offset them.
 ```
 
 <p align="center">
@@ -96,6 +104,40 @@ points apart). Every fix pays down the score, in order of impact:
 > tell-free. That demonstrates the fixes are *sufficient* to zero the score; it is
 > **not** a claim that real sites in the wild score 0. The load-bearing results are
 > the confound-controlled refactor and the family separation. See [Honest limits](#honest-limits).
+
+## Validated on 202 real sites (v2)
+
+A fair objection: maybe the detector just flags *everything* as AI. So we rendered
+**202 design-led, human-crafted sites** (Stripe, Linear, Toss, Apple, Vercel,
+Figma, Notion, Anthropic, OpenAI, Airbnb, and 192 more) in headless Chrome, read
+their **computed styles**, and *learned* the empirical distribution of real design.
+
+<p align="center">
+  <img alt="202 real sites cluster near a Tell Score of 0; AI defaults stand out" src="paper/figs/fig6_realworld.png" width="92%">
+</p>
+<p align="center"><sub>Recalibrated on the data, the 202 real top-tier sites score at a <b>median of 0 (93% grade A)</b>; the AI-default pages still stand far out at 35 to 59. The instrument distinguishes machine-default from human-crafted <b>on real data, not just fixtures</b>.</sub></p>
+
+The data overturns two naive rules and forces a better model:
+
+- **Purple is not a tell.** A third of top sites use purple; **Stripe paints 123 purple accents and scores 0**. Only the *exact AI-default indigo*, or purple with no compensating craft, counts.
+- **Inter is not a tell.** A quarter of top sites use Inter or the system stack (**Linear** among them) with a real type system. The tell is the font *with no optical tracking and no scale*.
+
+So no single signal is the tell. The recalibrated detector uses a **craft-credit model**: a page earns credits for a custom display face, optical tracking, a radius hierarchy, and a designed focus state, and those credits **offset cosmetic defaults**. The AI look is the bundle of defaults *with nothing compensating*.
+
+<table>
+<tr>
+<td width="50%"><img alt="purple is not the tell" src="paper/figs/fig9_credits.png"><br><sub><b>Craft credits.</b> Stripe uses purple heavily and scores 0; the AI default has less purple and scores 59.</sub></td>
+<td width="50%"><img alt="empirical distributions" src="paper/figs/fig7_empirical.png"><br><sub><b>Learned thresholds.</b> Real sites use many radii and sizes, and almost never center everything.</sub></td>
+</tr>
+</table>
+
+<p align="center">
+  <img alt="a montage of 28 human-crafted sites" src="paper/figs/fig8_gallery.png" width="100%">
+</p>
+<p align="center"><sub>28 of the 202 sites. Dark and light, serif and grotesque, dense and airy, each made different choices. That variance is exactly what the AI default erases and what a low Tell Score protects.</sub></p>
+
+The corpus (per-site signals + scores) ships in `data/`; re-run it with
+`python src/scrape.py && python scripts/analyze_corpus.py && python scripts/validate_signals.py`.
 
 ## The 21 tells
 
@@ -143,7 +185,7 @@ showing it to you**, get the specific fixes, and iterate. Register in Claude Cod
   "command": "python", "args": ["mcp/server.py"] } } }
 ```
 
-Tools: `score_design(html)`, `score_file(path)`, `list_tells()`, `harness_prompt()`.
+Tools: `score_design(html)`, `score_file(path)`, **`audit_url(url)`** (live site), `list_tells()`, `harness_prompt()`.
 
 **3 · Drop-in prompt module**, [`harness/AI-DESIGN-TELLS.md`](harness/AI-DESIGN-TELLS.md)
 turns each *detected* tell into a *preventive* instruction plus a pre-ship
@@ -202,9 +244,11 @@ typst  compile paper/paper.typ paper/paper.pdf
 - **Authored fixtures.** The corpus is controlled fixtures; designed pages score 0
   by construction. Claims rest on the confound-controlled refactor and the
   separation, not the absolute zeros.
-- **Static & single-document.** No external CSS, no JS, no render, it under-detects
-  on live SPAs (their color/surface tells hide in hashed external files). Live
-  auditing via CSS resolution is future work.
+- **Live auditing works now (v2), with one residual blind spot.** The recalibrated
+  detector renders the page and reads computed styles, so it audits deployed URLs.
+  The one thing it cannot always see is `:focus-visible`, which the browser blocks
+  for cross-origin stylesheets (Stripe). We confidence-gate it, firing only when the
+  CSS is readable, so the failure mode is a missed tell, never a false accusation.
 - **Time-bound.** These are mid-2020s model defaults; the list will need revision as
   distributions shift. The *method* (enumerate the mode, weight it, measure it)
   outlives any list.
@@ -215,7 +259,7 @@ typst  compile paper/paper.typ paper/paper.pdf
 ## Paper
 
 **The Tells: A Measurable Taxonomy of the AI-Generated Design Look, and a Harness to
-Escape It.** Han Kim, IOV Labs, 2026. → [`paper/paper.pdf`](paper/paper.pdf) (11pp).
+Escape It.** Han Kim, IOV Labs, 2026. → [`paper/paper.pdf`](paper/paper.pdf) (15pp).
 Technical (taxonomy, detector, metric, confound control) and philosophical (what
 "looking human" detects, taste as compressed choice, the map-vs-territory limit, the
 second-order convergence risk).
@@ -241,11 +285,14 @@ reflective loop, not AI assistance, is what collapses a population's diversity.
 src/taxonomy.py     the 21 tells, single source of truth (detector, paper, harness derive from it)
 src/scorer.py       the static detector + Tell Score
 src/cli.py          the `aidt` command-line linter
+src/scrape.py       render real sites (headless Chrome) and read computed styles (v2 live audit)
+scripts/audit_url.py    audit a deployed URL; analyze_corpus.py learns calibration from data/
 mcp/server.py       MCP server (score_design / score_file / list_tells / harness_prompt)
 harness/            AI-DESIGN-TELLS.md, drop-in prompt module (generated)
 fixtures/           the 6 corpus pages (3 AI-default, 3 designed), viewable templates
 scripts/            run_audit, make_figures, make_gifs, render, gen_harness
 paper/              paper.typ, refs.bib, paper.pdf, figs/
+data/               202-site corpus: per-site signals, calibration.json, site_scores.json
 results/            scores.json
 DESIGN.md           pre-registration (hypotheses, confound controls)
 ```

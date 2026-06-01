@@ -1,0 +1,329 @@
+{
+  "url": "https://www.headspace.com",
+  "name": "www.headspace.com",
+  "title": "Mental Health App for Meditation & Sleep - Headspace",
+  "fonts": {
+    "body": "headspace apercu",
+    "heading": "headspace apercu",
+    "loaded_count": 2,
+    "loaded_sample": [
+      "headspace apercu",
+      "apercu pro mono"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      240,
+      240,
+      216,
+      33,
+      33,
+      33,
+      33,
+      33,
+      33,
+      17,
+      17,
+      17,
+      17,
+      17,
+      17,
+      17,
+      17,
+      17,
+      17,
+      17,
+      216,
+      17,
+      17,
+      17,
+      17,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      216
+    ],
+    "accent_sampled": 40,
+    "purple_accents": 16,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      16,
+      21
+    ],
+    [
+      50,
+      21
+    ],
+    [
+      32,
+      18
+    ],
+    [
+      24,
+      12
+    ],
+    [
+      8,
+      10
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      800,
+      4
+    ],
+    [
+      12,
+      3
+    ],
+    [
+      30,
+      1
+    ],
+    [
+      112,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 3,
+    "diffuse": 2
+  },
+  "paddings": [
+    [
+      "24px",
+      18
+    ],
+    [
+      "16px",
+      9
+    ],
+    [
+      "8px",
+      8
+    ],
+    [
+      "12.1px",
+      5
+    ],
+    [
+      "64px",
+      4
+    ],
+    [
+      "10px",
+      4
+    ],
+    [
+      "3.52px",
+      4
+    ],
+    [
+      "12px",
+      4
+    ],
+    [
+      "13.2px",
+      3
+    ],
+    [
+      "30px",
+      2
+    ],
+    [
+      "14px",
+      2
+    ],
+    [
+      "48px",
+      2
+    ],
+    [
+      "80px",
+      2
+    ],
+    [
+      "14.3px",
+      1
+    ],
+    [
+      "11px",
+      1
+    ],
+    [
+      "56px",
+      1
+    ],
+    [
+      "96px",
+      1
+    ],
+    [
+      "6px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      1424
+    ],
+    [
+      12,
+      72
+    ],
+    [
+      18,
+      67
+    ],
+    [
+      24,
+      61
+    ],
+    [
+      20,
+      50
+    ],
+    [
+      32,
+      28
+    ],
+    [
+      17,
+      26
+    ],
+    [
+      14,
+      10
+    ],
+    [
+      40,
+      7
+    ],
+    [
+      29,
+      6
+    ],
+    [
+      13,
+      5
+    ],
+    [
+      64,
+      3
+    ],
+    [
+      52,
+      2
+    ],
+    [
+      56,
+      2
+    ],
+    [
+      72,
+      2
+    ],
+    [
+      48,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 8,
+    "neg_tracked": 8
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 275,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 77,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "For You",
+      "For Business",
+      "For Providers",
+      "Our Plans",
+      "Resources",
+      "About",
+      "Log in",
+      "Help",
+      "Try for free",
+      "Try for $0",
+      "Check your coverage",
+      "Stress less",
+      "Sleep soundly",
+      "Manage anxiety",
+      "Process thoughts",
+      "Practice meditation",
+      "Start therapy",
+      "AI guidance",
+      "Guided meditations",
+      "Sleep resources",
+      "Expert-led programs",
+      "Online therapy",
+      "Chat with Ebb",
+      "Learn more",
+      "Explore sleep resources",
+      "Learn more",
+      "Get started",
+      "Request a demo",
+      "Learn more",
+      "Featured",
+      "Popular",
+      "Sleep",
+      "Stress",
+      "Meditation and Mindfulness",
+      "View all",
+      "Try for free",
+      "meditation",
+      "mindfulness tools",
+      "sleep resources",
+      "mental health coaching",
+      "Sign up for a Headspace account",
+      "subscribed",
+      "1,000+ expert-led exercises",
+      "relaxing wind downs",
+      "soundscapes",
+      "sleepcasts",
+      "Proven mental health resources",
+      "mental health coaching",
+      "FAQs",
+      "subscription plans",
+      "Annual",
+      "Monthly",
+      "student",
+      "family plans",
+      "gift",
+      "annual",
+      "monthly",
+      "here",
+      "Request a demo",
+      "EAP"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,360 @@
+{
+  "url": "https://temporal.io",
+  "name": "temporal.io",
+  "title": "Durable Execution Solutions | Temporal",
+  "fonts": {
+    "body": "aeonik",
+    "heading": "aeonik",
+    "loaded_count": 3,
+    "loaded_sample": [
+      "noto sans mono",
+      "aeonik",
+      "aeonik air"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      210,
+      218,
+      218,
+      218,
+      218,
+      218,
+      210,
+      218,
+      210,
+      218,
+      210,
+      218,
+      210,
+      218,
+      218,
+      218,
+      210,
+      218,
+      210,
+      218,
+      239,
+      218,
+      239,
+      218,
+      239,
+      218,
+      239,
+      218,
+      239,
+      218,
+      239,
+      218,
+      239,
+      218,
+      210,
+      218,
+      158,
+      218,
+      158,
+      218,
+      210,
+      218,
+      210,
+      218,
+      210,
+      218,
+      210,
+      218,
+      158,
+      218,
+      146,
+      217,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      210,
+      218
+    ],
+    "accent_sampled": 131,
+    "purple_accents": 7,
+    "any_gradients": 20,
+    "blue_purple_gradients": 16
+  },
+  "radii": [
+    [
+      9999,
+      5
+    ],
+    [
+      4,
+      4
+    ],
+    [
+      100,
+      3
+    ],
+    [
+      12,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 4
+  },
+  "paddings": [
+    [
+      "24px",
+      16
+    ],
+    [
+      "96px",
+      13
+    ],
+    [
+      "32px",
+      7
+    ],
+    [
+      "12px",
+      4
+    ],
+    [
+      "8px",
+      4
+    ],
+    [
+      "2px",
+      4
+    ],
+    [
+      "80px",
+      2
+    ],
+    [
+      "4px",
+      1
+    ],
+    [
+      "135px",
+      1
+    ],
+    [
+      "16px",
+      1
+    ],
+    [
+      "128px",
+      1
+    ],
+    [
+      "64px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ],
+    [
+      "320px",
+      1
+    ],
+    [
+      "20px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      474
+    ],
+    [
+      14,
+      44
+    ],
+    [
+      24,
+      34
+    ],
+    [
+      68,
+      14
+    ],
+    [
+      12,
+      13
+    ],
+    [
+      32,
+      13
+    ],
+    [
+      18,
+      10
+    ],
+    [
+      20,
+      5
+    ],
+    [
+      48,
+      3
+    ],
+    [
+      128,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 2,
+    "neg_tracked": 1
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 26,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 44,
+    "centered_fraction": 0.022727272727272728
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "The world’s best AI runs on Temporal",
+    "buttons": [
+      "Skip to main content",
+      "About",
+      "Careers",
+      "Talk to Sales",
+      "Docs",
+      "Pricing",
+      "Try Free",
+      "Log In",
+      "Read More",
+      "Get Started for Free",
+      "Run Locally",
+      "PYTHON",
+      "GO",
+      "TYPESCRIPT",
+      "RUBY",
+      "C#",
+      "JAVA",
+      "PHP",
+      "Read Announcement",
+      "Watch a Demo",
+      "open-source project",
+      "Temporal Cloud",
+      "Watch NVIDIA's talk",
+      "Watch Salesforce's talk",
+      "Watch Twilio's talk",
+      "Watch Descript's talk",
+      "20,686 Stars",
+      "Documentation",
+      "Code Base",
+      "Samples",
+      "ALL SYSTEMS OPERATIONAL",
+      "Overview",
+      "How Temporal Works",
+      "Temporal Cloud",
+      "Pricing",
+      "Security",
+      "Trust Center",
+      "Startups",
+      "Customer Stories",
+      "Project-based tutorials",
+      "Example applications",
+      "Code Exchange",
+      "Replay 2026 Recap",
+      "Ask an expert",
+      "Blog",
+      "Getting Started with Temporal",
+      "Start building your next app",
+      "Temporal Cloud docs",
+      "Production deployments",
+      "Temporal 101",
+      "Temporal 102",
+      "Introduction to Temporal Cloud",
+      "Join our Slack group",
+      "Find a meetup near you",
+      "Community forum",
+      "Events",
+      "About",
+      "Careers",
+      "News",
+      "Contact us"
+    ]
+  },
+  "ok": true
+}

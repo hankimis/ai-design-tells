@@ -1,0 +1,365 @@
+{
+  "url": "https://fly.io",
+  "name": "fly.io",
+  "title": "Build fast. Run any code fearlessly. · Fly",
+  "fonts": {
+    "body": "fricolage grotesque",
+    "heading": "mackinac",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "fricolage grotesque",
+      "mackinac",
+      "fragment mono",
+      "fragmentmono"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      235,
+      244,
+      235,
+      244,
+      235,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      235,
+      244,
+      235,
+      244,
+      235,
+      262,
+      262,
+      262,
+      262,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      256,
+      244,
+      262,
+      256,
+      263,
+      262,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244,
+      254,
+      244
+    ],
+    "accent_sampled": 143,
+    "purple_accents": 137,
+    "any_gradients": 31,
+    "blue_purple_gradients": 10
+  },
+  "radii": [
+    [
+      16,
+      9
+    ],
+    [
+      9999,
+      9
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      20,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 22
+  },
+  "paddings": [
+    [
+      "10px",
+      23
+    ],
+    [
+      "16px",
+      22
+    ],
+    [
+      "128px",
+      8
+    ],
+    [
+      "32px",
+      7
+    ],
+    [
+      "12px",
+      5
+    ],
+    [
+      "8px",
+      4
+    ],
+    [
+      "96px",
+      1
+    ],
+    [
+      "70px",
+      1
+    ],
+    [
+      "340px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      240
+    ],
+    [
+      15,
+      88
+    ],
+    [
+      19,
+      50
+    ],
+    [
+      12,
+      8
+    ],
+    [
+      36,
+      8
+    ],
+    [
+      64,
+      5
+    ],
+    [
+      17,
+      4
+    ],
+    [
+      22,
+      4
+    ],
+    [
+      18,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 9,
+    "neg_tracked": 9
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 5,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 41,
+    "centered_fraction": 0.024390243902439025
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Build fast. Run any code\n          \n            fearlessly.",
+    "buttons": [
+      "Machines",
+      "Sprites",
+      "Managed Postgres",
+      "Phoenix.new",
+      "Private Networking",
+      "Autoscaling",
+      "Zero Downtime Deploys",
+      "Granular Routing",
+      "Monitoring",
+      "Docs",
+      "Customers",
+      "Pricing",
+      "Blog",
+      "Infra Log",
+      "Phoenix Files",
+      "Laravel Bytes",
+      "Ruby Dispatch",
+      "Django Beats",
+      "JavaScript Journal",
+      "Community",
+      "Status",
+      "Sign In",
+      "Get Started",
+      "Deploy your app",
+      "Check Em Out!",
+      "Learn More",
+      "Phoenix Framework",
+      "SvelteKit",
+      "Ruby on Rails",
+      "Docker",
+      "Django",
+      "Laravel",
+      "NextJS",
+      "Build for scale from Day One",
+      "Builder.io",
+      "Mercor",
+      "Cogram",
+      "Mocha",
+      "Context",
+      "Reflex",
+      "Beam",
+      "Imbue",
+      "Supabase",
+      "Webhound",
+      "Hercules",
+      "Builder.io",
+      "Mercor",
+      "Cogram",
+      "Mocha",
+      "Context",
+      "Reflex",
+      "Beam",
+      "Imbue",
+      "Supabase",
+      "Webhound",
+      "Hercules",
+      "Enterprise Features",
+      "Fly.io Security",
+      "Spin Up a Sandbox",
+      "About"
+    ]
+  },
+  "ok": true
+}

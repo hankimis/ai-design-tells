@@ -1,0 +1,187 @@
+{
+  "url": "https://bere.al",
+  "name": "bere.al",
+  "title": "BeReal",
+  "fonts": {
+    "body": "sans-serif",
+    "heading": "sans-serif",
+    "loaded_count": 5,
+    "loaded_sample": [
+      "figtree",
+      "fragment mono",
+      "inter",
+      "figtree placeholder",
+      "inter placeholder"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      220,
+      220
+    ],
+    "accent_sampled": 44,
+    "purple_accents": 16,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      64,
+      5
+    ],
+    [
+      16,
+      3
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      14,
+      1
+    ],
+    [
+      32,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "8px",
+      5
+    ],
+    [
+      "12px",
+      2
+    ],
+    [
+      "96px",
+      2
+    ],
+    [
+      "192px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ],
+    [
+      "10px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      12,
+      147
+    ],
+    [
+      14,
+      38
+    ],
+    [
+      16,
+      12
+    ],
+    [
+      48,
+      6
+    ],
+    [
+      18,
+      4
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 6,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 20,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "Ads",
+      "News",
+      "Jobs",
+      "Get Verified",
+      "Contact us",
+      "Get the app",
+      "BeReal Ads",
+      "Audience",
+      "Solutions",
+      "Ad Guidelines",
+      "Jobs",
+      "Help",
+      "News",
+      "Get Verified",
+      "Privacy Policy",
+      "Terms",
+      "Community Standards",
+      "Cookie Policy",
+      "Cookie Settings",
+      "Cookie Policy"
+    ]
+  },
+  "ok": true
+}

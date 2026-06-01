@@ -1,0 +1,230 @@
+{
+  "url": "https://www.fey.com",
+  "name": "www.fey.com",
+  "title": "Fey: Make better investments.",
+  "fonts": {
+    "body": "calibre",
+    "heading": "calibre",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "calibre",
+      "calibre fallback",
+      "financier",
+      "financier fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      211,
+      211,
+      211,
+      211
+    ],
+    "accent_sampled": 4,
+    "purple_accents": 0,
+    "any_gradients": 17,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      50,
+      20
+    ],
+    [
+      16,
+      15
+    ],
+    [
+      99,
+      5
+    ],
+    [
+      6,
+      4
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      13.9806,
+      3
+    ],
+    [
+      7,
+      2
+    ],
+    [
+      12,
+      2
+    ],
+    [
+      14,
+      1
+    ],
+    [
+      275,
+      1
+    ],
+    [
+      3.2,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 16,
+    "other": 5
+  },
+  "paddings": [
+    [
+      "22px",
+      3
+    ],
+    [
+      "17.5px",
+      2
+    ],
+    [
+      "3.75px",
+      2
+    ],
+    [
+      "7.5px",
+      1
+    ],
+    [
+      "7px",
+      1
+    ],
+    [
+      "128px",
+      1
+    ],
+    [
+      "87px",
+      1
+    ],
+    [
+      "152px",
+      1
+    ],
+    [
+      "136px",
+      1
+    ],
+    [
+      "156px",
+      1
+    ],
+    [
+      "78px",
+      1
+    ],
+    [
+      "114px",
+      1
+    ],
+    [
+      "14px",
+      1
+    ],
+    [
+      "42px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      236
+    ],
+    [
+      18,
+      32
+    ],
+    [
+      14,
+      29
+    ],
+    [
+      12,
+      12
+    ],
+    [
+      54,
+      12
+    ],
+    [
+      24,
+      11
+    ],
+    [
+      11,
+      5
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      15,
+      4
+    ],
+    [
+      5,
+      1
+    ],
+    [
+      26,
+      1
+    ],
+    [
+      48,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 10,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 4,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 59,
+    "centered_fraction": 0.05084745762711865
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Make better investments.",
+    "buttons": [
+      "Features",
+      "Pricing",
+      "Updates",
+      "Students",
+      "App",
+      "Fey has joined WealthsimpleLearn more",
+      "Learn more",
+      "2",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Press release",
+      "Join live call",
+      "Try it free",
+      "Features",
+      "Earnings",
+      "Portfolio",
+      "Finder",
+      "Pricing",
+      "Updates",
+      "Download",
+      "Privacy",
+      "Terms"
+    ]
+  },
+  "ok": true
+}

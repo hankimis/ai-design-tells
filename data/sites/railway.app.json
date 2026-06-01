@@ -1,0 +1,192 @@
+{
+  "url": "https://railway.app",
+  "name": "railway.app",
+  "title": "Railway | The all-in-one intelligent cloud provider",
+  "fonts": {
+    "body": "inter",
+    "heading": "ibm plex serif",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "inter tight",
+      "jetbrains mono",
+      "inter",
+      "ibm plex serif"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      251,
+      251,
+      251,
+      260,
+      260,
+      260,
+      259,
+      271
+    ],
+    "accent_sampled": 8,
+    "purple_accents": 8,
+    "any_gradients": 2,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      8,
+      17
+    ],
+    [
+      6,
+      6
+    ],
+    [
+      16,
+      4
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      50,
+      1
+    ],
+    [
+      9999,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 4,
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "6px",
+      12
+    ],
+    [
+      "24px",
+      4
+    ],
+    [
+      "96px",
+      4
+    ],
+    [
+      "8px",
+      3
+    ],
+    [
+      "64px",
+      3
+    ],
+    [
+      "128px",
+      2
+    ],
+    [
+      "12px",
+      2
+    ],
+    [
+      "16px",
+      1
+    ],
+    [
+      "4px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      2468
+    ],
+    [
+      14,
+      241
+    ],
+    [
+      12,
+      190
+    ],
+    [
+      18,
+      44
+    ],
+    [
+      24,
+      30
+    ],
+    [
+      20,
+      9
+    ],
+    [
+      13,
+      8
+    ],
+    [
+      40,
+      6
+    ],
+    [
+      36,
+      3
+    ],
+    [
+      54,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 3,
+    "neg_tracked": 3
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 6,
+    "sheets_blocked": 4
+  },
+  "layout": {
+    "blocks": 53,
+    "centered_fraction": 0.018867924528301886
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Ship software peacefully",
+    "buttons": [
+      "이 대화 상자 닫기",
+      "개인정보 보호정책",
+      "환경 설정 관리",
+      "모두 동의",
+      "필수적이지 않은 항목 거부",
+      "Railway",
+      "Product",
+      "Developers",
+      "Enterprise",
+      "Company",
+      "Pricing",
+      "Sign in",
+      "Book a demo",
+      "intelligent",
+      "Deploy →",
+      "Demo",
+      "Deploy",
+      "Network",
+      "Scale",
+      "Monitor",
+      "Evolve",
+      "Learn more →",
+      "Learn more →",
+      "Learn more →",
+      "Learn more →"
+    ]
+  },
+  "ok": true
+}

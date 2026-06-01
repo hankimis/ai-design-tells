@@ -1,0 +1,51 @@
+{
+  "url": "https://www.godaddy.com",
+  "name": "www.godaddy.com",
+  "title": "Access Denied",
+  "fonts": {
+    "body": "times",
+    "heading": "times",
+    "loaded_count": 0,
+    "loaded_sample": []
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [],
+  "shadows": {},
+  "paddings": [],
+  "font_sizes": [
+    [
+      16,
+      4
+    ],
+    [
+      32,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 1,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": false,
+    "hairline_rule": false,
+    "sheets_read": 0,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 0,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Access Denied",
+    "buttons": []
+  },
+  "ok": true
+}

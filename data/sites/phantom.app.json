@@ -1,0 +1,317 @@
+{
+  "url": "https://phantom.app",
+  "name": "phantom.app",
+  "title": "Phantom: The money app that'll take you places",
+  "fonts": {
+    "body": "phantom",
+    "heading": "phantom",
+    "loaded_count": 3,
+    "loaded_sample": [
+      "_3odf500",
+      "phantom",
+      "phantomcash"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      270,
+      256,
+      256,
+      249,
+      256,
+      256,
+      246,
+      256,
+      256,
+      246,
+      256,
+      256,
+      43,
+      43,
+      246,
+      256,
+      256,
+      249,
+      43,
+      43,
+      43,
+      43,
+      43,
+      43,
+      246,
+      256,
+      256,
+      218,
+      43,
+      43,
+      256,
+      43,
+      43,
+      256,
+      43,
+      43,
+      246,
+      256,
+      256,
+      43,
+      43,
+      246,
+      256,
+      256,
+      43,
+      60,
+      357,
+      270,
+      256,
+      256,
+      256,
+      256,
+      246,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256,
+      249,
+      249,
+      249,
+      249,
+      249,
+      256,
+      256,
+      249,
+      256,
+      256
+    ],
+    "accent_sampled": 115,
+    "purple_accents": 95,
+    "any_gradients": 2,
+    "blue_purple_gradients": 2
+  },
+  "radii": [
+    [
+      24,
+      14
+    ],
+    [
+      32,
+      14
+    ],
+    [
+      50,
+      7
+    ],
+    [
+      100,
+      7
+    ],
+    [
+      96,
+      2
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      16,
+      1
+    ],
+    [
+      28,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 12
+  },
+  "paddings": [
+    [
+      "48px",
+      16
+    ],
+    [
+      "16px",
+      10
+    ],
+    [
+      "12px",
+      9
+    ],
+    [
+      "8px",
+      5
+    ],
+    [
+      "24px",
+      3
+    ],
+    [
+      "96px",
+      3
+    ],
+    [
+      "32px",
+      2
+    ],
+    [
+      "4px",
+      2
+    ],
+    [
+      "128px",
+      2
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      325
+    ],
+    [
+      15,
+      25
+    ],
+    [
+      96,
+      25
+    ],
+    [
+      30,
+      12
+    ],
+    [
+      13,
+      9
+    ],
+    [
+      20,
+      9
+    ],
+    [
+      24,
+      5
+    ],
+    [
+      80,
+      4
+    ],
+    [
+      14,
+      1
+    ],
+    [
+      64,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 6,
+    "neg_tracked": 6
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 23,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 51,
+    "centered_fraction": 0.0784313725490196
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Your home for trading crypto, predictions, and more",
+    "buttons": [
+      "Logo Phantom",
+      "Explore",
+      "Support",
+      "Download",
+      "Download Phantom",
+      "See more",
+      "See more",
+      "One home for your money.",
+      "See more",
+      "Download Phantom",
+      "Sign up",
+      "Download",
+      "Security",
+      "Support",
+      "Feature Requests",
+      "Explore",
+      "Learn",
+      "Blog",
+      "Docs",
+      "Taxes",
+      "About",
+      "Careers",
+      "Press Kit",
+      "Merch Store",
+      "X.com",
+      "LinkedIn",
+      "Instagram",
+      "Reddit",
+      "YouTube",
+      "Operational",
+      "Terms",
+      "Privacy",
+      "Cookie Preferences",
+      "cookie policy",
+      "click here",
+      "Reject",
+      "Accept"
+    ]
+  },
+  "ok": true
+}

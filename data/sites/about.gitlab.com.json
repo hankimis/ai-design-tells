@@ -1,0 +1,331 @@
+{
+  "url": "https://about.gitlab.com",
+  "name": "about.gitlab.com",
+  "title": "Finally, AI for the entire software lifecycle.",
+  "fonts": {
+    "body": "gitlab sans",
+    "heading": "gitlab sans",
+    "loaded_count": 2,
+    "loaded_sample": [
+      "gitlab sans",
+      "gitlab mono"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      240,
+      240,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      257,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      257,
+      257,
+      257,
+      257
+    ],
+    "accent_sampled": 107,
+    "purple_accents": 107,
+    "any_gradients": 4,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      4,
+      26
+    ],
+    [
+      16,
+      23
+    ],
+    [
+      50,
+      5
+    ],
+    [
+      999,
+      5
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      32,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 4
+  },
+  "paddings": [
+    [
+      "32px",
+      17
+    ],
+    [
+      "11px",
+      16
+    ],
+    [
+      "8px",
+      9
+    ],
+    [
+      "12px",
+      8
+    ],
+    [
+      "24px",
+      5
+    ],
+    [
+      "48px",
+      4
+    ],
+    [
+      "96px",
+      3
+    ],
+    [
+      "16px",
+      2
+    ],
+    [
+      "132px",
+      1
+    ],
+    [
+      "160px",
+      1
+    ],
+    [
+      "165px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      412
+    ],
+    [
+      14,
+      63
+    ],
+    [
+      18,
+      59
+    ],
+    [
+      32,
+      24
+    ],
+    [
+      64,
+      17
+    ],
+    [
+      13,
+      9
+    ],
+    [
+      96,
+      9
+    ],
+    [
+      24,
+      7
+    ],
+    [
+      40,
+      3
+    ],
+    [
+      19,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 5,
+    "neg_tracked": 5
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 61,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 48,
+    "centered_fraction": 0.0625
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Ship faster. With trust.",
+    "buttons": [
+      "Platform",
+      "Product",
+      "Pricing",
+      "Resources",
+      "Company",
+      "Contact us",
+      "Talk to sales",
+      "Get free trial",
+      "Sign in",
+      "Sign up for GitLab Transcend on June 10",
+      "Try for free",
+      "Learn more",
+      "Why GitLab?",
+      "Meet GitLab Duo Agent Platform",
+      "Explore our Platform",
+      "Learn more about security",
+      "Financial Services",
+      "Public Sector",
+      "Telecommunications",
+      "Automotive",
+      "Education",
+      "Aerospace",
+      "4 hourssaved per engineer per week",
+      "82%decrease in cycle time",
+      "50%faster vulnerability detection",
+      "13xfaster security scanning",
+      "6xfaster time to market",
+      "17%boost in developer happiness scores",
+      "97%reduction in time to fix bugs",
+      "80xfaster CI pipeline builds",
+      "4 hourssaved per engineer per week",
+      "82%decrease in cycle time",
+      "50%faster vulnerability detection",
+      "13xfaster security scanning",
+      "Get your free trial",
+      "Contact sales",
+      "View plans",
+      "Why Premium?",
+      "Why Ultimate?",
+      "Contact sales",
+      "Support portal",
+      "Customer portal",
+      "Status",
+      "Terms of use",
+      "Privacy statement",
+      "Cookie Preferences",
+      "DevSecOps platform",
+      "AI-Assisted Development",
+      "CICD",
+      "GitOps",
+      "DevOps",
+      "Version Control",
+      "DevSecOps",
+      "Cloud Native",
+      "AI for Coding",
+      "Agentic AI",
+      "Application Security Testing",
+      "Automated software delivery",
+      "Agile development",
+      "SCM"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,350 @@
+{
+  "url": "https://make.com",
+  "name": "make.com",
+  "title": "AI Workflow Automation Software & Tools | Make",
+  "fonts": {
+    "body": "inter",
+    "heading": "inter",
+    "loaded_count": 2,
+    "loaded_sample": [
+      "inter",
+      "inter fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      298,
+      298,
+      324,
+      298,
+      298,
+      298,
+      298,
+      240,
+      240,
+      271,
+      271,
+      271,
+      271,
+      271,
+      271,
+      271,
+      271,
+      271,
+      271,
+      271,
+      271,
+      271,
+      271,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      298,
+      298,
+      298,
+      298,
+      298,
+      298,
+      298,
+      298,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      300,
+      300
+    ],
+    "accent_sampled": 133,
+    "purple_accents": 132,
+    "any_gradients": 37,
+    "blue_purple_gradients": 12
+  },
+  "radii": [
+    [
+      24,
+      15
+    ],
+    [
+      50,
+      12
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      12,
+      11
+    ],
+    [
+      16,
+      5
+    ],
+    [
+      100,
+      4
+    ],
+    [
+      2,
+      3
+    ]
+  ],
+  "shadows": {
+    "other": 10,
+    "diffuse": 2
+  },
+  "paddings": [
+    [
+      "16px",
+      16
+    ],
+    [
+      "12px",
+      11
+    ],
+    [
+      "96px",
+      8
+    ],
+    [
+      "24px",
+      7
+    ],
+    [
+      "8px",
+      5
+    ],
+    [
+      "32px",
+      4
+    ],
+    [
+      "11px",
+      2
+    ],
+    [
+      "1px",
+      1
+    ],
+    [
+      "2px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      629
+    ],
+    [
+      24,
+      101
+    ],
+    [
+      14,
+      100
+    ],
+    [
+      12,
+      44
+    ],
+    [
+      32,
+      20
+    ],
+    [
+      18,
+      18
+    ],
+    [
+      13,
+      4
+    ],
+    [
+      20,
+      2
+    ],
+    [
+      48,
+      2
+    ],
+    [
+      10,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 11,
+    "neg_tracked": 2
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 12,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 66,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "The visual AI automation platform",
+    "buttons": [
+      "Save with early-bird pricing!",
+      "Lead ManagementMore leads, less effort",
+      "Email MarketingBoost conversion rates",
+      "Pricing",
+      "Talk to sales",
+      "Sign in",
+      "Get started free",
+      "Get started free",
+      "Talk to sales",
+      "Explore more",
+      "IT",
+      "Operations",
+      "Marketing",
+      "Sales",
+      "Finance",
+      "CX",
+      "People",
+      "Automate IT",
+      "OpenAI (ChatGPT, Sora, Whisper)",
+      "HubSpot CRM",
+      "monday.com",
+      "NetSuite",
+      "Salesforce",
+      "Slack",
+      "Canva",
+      "Perplexity AI",
+      "DeepSeek AI",
+      "Browse apps",
+      "Explore success stories",
+      "Explore AI automation",
+      "Explore enterprise solutions",
+      "Security details",
+      "Talk to sales",
+      "Get started free",
+      "Privacy Notice",
+      "SUBSCRIBE →",
+      "Product",
+      "Make + AI",
+      "Make AI Agents",
+      "Apps",
+      "Make Grid",
+      "Pricing",
+      "Get demo",
+      "Enterprise",
+      "Status",
+      "Waves",
+      "How-to guides",
+      "Success stories",
+      "Templates",
+      "Partner directory",
+      "Idea exchange",
+      "Automation Tools",
+      "Make Academy",
+      "Make Community",
+      "Help Center",
+      "Developers Hub",
+      "Blog",
+      "Webinars",
+      "Affiliate",
+      "Partners"
+    ]
+  },
+  "ok": true
+}

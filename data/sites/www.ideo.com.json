@@ -1,0 +1,291 @@
+{
+  "url": "https://www.ideo.com",
+  "name": "www.ideo.com",
+  "title": "IDEO : Human-centered design",
+  "fonts": {
+    "body": "fhoscar",
+    "heading": "fhoscar",
+    "loaded_count": 6,
+    "loaded_sample": [
+      "webflow-icons",
+      "fhoscar",
+      "fhphemisterdisplay",
+      "manrope",
+      "poppins",
+      "roboto"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      69,
+      207,
+      207,
+      69,
+      69,
+      69,
+      69,
+      69,
+      69,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      207,
+      207,
+      207,
+      207,
+      69,
+      207,
+      207,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      240,
+      208,
+      207,
+      207,
+      207,
+      207,
+      69,
+      207,
+      207,
+      69,
+      207,
+      207,
+      69,
+      69,
+      69,
+      69,
+      69,
+      207,
+      207,
+      69,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207
+    ],
+    "accent_sampled": 122,
+    "purple_accents": 25,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      2,
+      2
+    ]
+  ],
+  "shadows": {
+    "other": 1
+  },
+  "paddings": [
+    [
+      "20px",
+      27
+    ],
+    [
+      "2px",
+      18
+    ],
+    [
+      "24px",
+      11
+    ],
+    [
+      "10px",
+      8
+    ],
+    [
+      "8px",
+      7
+    ],
+    [
+      "16px",
+      3
+    ],
+    [
+      "13.6px",
+      3
+    ],
+    [
+      "9px",
+      2
+    ],
+    [
+      "10.5px",
+      1
+    ],
+    [
+      "50px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      14,
+      505
+    ],
+    [
+      20,
+      232
+    ],
+    [
+      18,
+      76
+    ],
+    [
+      25,
+      32
+    ],
+    [
+      40,
+      31
+    ],
+    [
+      30,
+      15
+    ],
+    [
+      90,
+      12
+    ],
+    [
+      28,
+      8
+    ],
+    [
+      24,
+      4
+    ],
+    [
+      16,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 28,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 13,
+    "sheets_blocked": 2
+  },
+  "layout": {
+    "blocks": 65,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Human-centered",
+    "buttons": [
+      "Say hello",
+      "Build your next era of growth",
+      "Design human-centered strategies",
+      "Get to market with confidence",
+      "Learn more about our design services",
+      "Ask us for references",
+      "Which industries does IDEO work with?",
+      "Privacy Policy",
+      "Terms of Use",
+      "Submit",
+      "Contact",
+      "Design services",
+      "Work",
+      "About us",
+      "Our leaders",
+      "DEIB",
+      "IDEO Thinking",
+      "Careers",
+      "Subscribe",
+      "IDEO U",
+      "North America & Europe",
+      "China",
+      "Do not sell my personal information",
+      "Privacy policy",
+      "Terms & Conditions",
+      "CA user rights",
+      "UK modern slavery statement",
+      "LinkedIn",
+      "Instagram"
+    ]
+  },
+  "ok": true
+}

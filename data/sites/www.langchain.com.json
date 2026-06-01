@@ -1,0 +1,356 @@
+{
+  "url": "https://www.langchain.com",
+  "name": "www.langchain.com",
+  "title": "LangChain: Observe, Evaluate, and Deploy Reliable AI Agents",
+  "fonts": {
+    "body": "aeonik",
+    "heading": "twklausanne",
+    "loaded_count": 6,
+    "loaded_sample": [
+      "webflow-icons",
+      "manrope",
+      "museomoderno",
+      "twklausanne",
+      "aeonik",
+      "jetbrains mono"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      203,
+      203,
+      206,
+      206,
+      206,
+      206,
+      206,
+      206,
+      206,
+      206,
+      206,
+      206,
+      206,
+      206,
+      205,
+      222,
+      222,
+      206,
+      211,
+      205,
+      222,
+      222,
+      206,
+      211,
+      206,
+      206,
+      206,
+      206,
+      206,
+      206,
+      206,
+      206,
+      206,
+      206,
+      206,
+      211,
+      206,
+      211,
+      206,
+      211,
+      206,
+      211,
+      206,
+      211,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      206,
+      206,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      211,
+      222,
+      211,
+      205,
+      222,
+      222,
+      206,
+      211,
+      206,
+      206,
+      206,
+      206,
+      206,
+      206,
+      206,
+      206,
+      206,
+      206,
+      206,
+      206
+    ],
+    "accent_sampled": 99,
+    "purple_accents": 0,
+    "any_gradients": 20,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      6,
+      24
+    ],
+    [
+      50,
+      15
+    ],
+    [
+      16,
+      10
+    ],
+    [
+      32,
+      5
+    ],
+    [
+      80,
+      4
+    ],
+    [
+      8,
+      3
+    ],
+    [
+      20,
+      2
+    ],
+    [
+      19,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "12px",
+      14
+    ],
+    [
+      "24px",
+      13
+    ],
+    [
+      "16px",
+      10
+    ],
+    [
+      "40px",
+      10
+    ],
+    [
+      "64px",
+      9
+    ],
+    [
+      "1px",
+      6
+    ],
+    [
+      "32px",
+      5
+    ],
+    [
+      "48px",
+      5
+    ],
+    [
+      "25.6px",
+      3
+    ],
+    [
+      "150px",
+      3
+    ],
+    [
+      "4px",
+      3
+    ],
+    [
+      "10px",
+      2
+    ],
+    [
+      "8px",
+      2
+    ],
+    [
+      "78px",
+      1
+    ],
+    [
+      "164px",
+      1
+    ],
+    [
+      "128px",
+      1
+    ],
+    [
+      "200px",
+      1
+    ],
+    [
+      "100px",
+      1
+    ],
+    [
+      "108px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      604
+    ],
+    [
+      14,
+      98
+    ],
+    [
+      48,
+      68
+    ],
+    [
+      64,
+      29
+    ],
+    [
+      24,
+      9
+    ],
+    [
+      32,
+      8
+    ],
+    [
+      18,
+      7
+    ],
+    [
+      56,
+      4
+    ],
+    [
+      80,
+      3
+    ],
+    [
+      22,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 5,
+    "neg_tracked": 5
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 27,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 60,
+    "centered_fraction": 0.016666666666666666
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Powering theAgent Development Lifecycle",
+    "buttons": [
+      "Explore the launches",
+      "Products",
+      "Learn",
+      "Docs",
+      "Company",
+      "Pricing",
+      "Try LangSmith",
+      "Get a demo",
+      "Start building",
+      "Get a demo",
+      "LangSmith Engine",
+      "Observability",
+      "Evaluation",
+      "Deployment",
+      "Fleet",
+      "Read the announcement",
+      "LangSmith Observability",
+      "LangSmith Evaluation",
+      "LangSmith Deployment",
+      "LangSmith Fleet",
+      "More customer stories",
+      "Start building",
+      "Get a demo",
+      "LangSmith Platform",
+      "LangSmith Observability",
+      "LangSmith Evaluation",
+      "LangSmith Deployment",
+      "LangSmith Fleet",
+      "LangSmith Sandboxes",
+      "Deep Agents",
+      "LangChain",
+      "LangGraph",
+      "Blog",
+      "Customer Stories",
+      "Guides",
+      "LangChain Academy",
+      "Community",
+      "Changelog",
+      "Docs",
+      "Support",
+      "About",
+      "Careers",
+      "Partners",
+      "Trust Center",
+      "Marketing Assets",
+      "Events",
+      "All systems operational",
+      "Privacy policy",
+      "Terms of service"
+    ]
+  },
+  "ok": true
+}

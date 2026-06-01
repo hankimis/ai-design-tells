@@ -1,0 +1,223 @@
+{
+  "url": "https://stackblitz.com",
+  "name": "stackblitz.com",
+  "title": "StackBlitz | Instant Dev Environments | Click. Code. Done.",
+  "fonts": {
+    "body": "inter",
+    "heading": "manrope",
+    "loaded_count": 3,
+    "loaded_sample": [
+      "manrope",
+      "inter",
+      "roboto mono"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      224,
+      214
+    ],
+    "accent_sampled": 2,
+    "purple_accents": 0,
+    "any_gradients": 7,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      6,
+      3
+    ],
+    [
+      8,
+      2
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      16,
+      1
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      42,
+      1
+    ],
+    [
+      50,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 11,
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "26px",
+      18
+    ],
+    [
+      "8px",
+      15
+    ],
+    [
+      "72px",
+      2
+    ],
+    [
+      "32px",
+      2
+    ],
+    [
+      "6px",
+      1
+    ],
+    [
+      "156px",
+      1
+    ],
+    [
+      "12px",
+      1
+    ],
+    [
+      "92px",
+      1
+    ],
+    [
+      "140px",
+      1
+    ],
+    [
+      "120px",
+      1
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "15px",
+      1
+    ],
+    [
+      "180px",
+      1
+    ],
+    [
+      "24px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      116
+    ],
+    [
+      13,
+      60
+    ],
+    [
+      14,
+      9
+    ],
+    [
+      94,
+      8
+    ],
+    [
+      12,
+      4
+    ],
+    [
+      40,
+      4
+    ],
+    [
+      18,
+      3
+    ],
+    [
+      72,
+      3
+    ],
+    [
+      24,
+      2
+    ],
+    [
+      30,
+      2
+    ],
+    [
+      32,
+      2
+    ],
+    [
+      9,
+      1
+    ],
+    [
+      11,
+      1
+    ],
+    [
+      15,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 2,
+    "neg_tracked": 2
+  },
+  "focus": {
+    "focus_visible": false,
+    "hairline_rule": true,
+    "sheets_read": 10,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 25,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "How product& engineering teams work together with AI",
+    "buttons": [
+      "StackBlitz",
+      "Bolt.new",
+      "WebContainers",
+      "Careers",
+      "Sign in",
+      "Try Bolt.new",
+      "Create with Bolt.new",
+      "Enterprise Server",
+      "Integrations",
+      "Design Systems",
+      "WebContainer API",
+      "Web Publisher",
+      "Case Studies",
+      "Pricing",
+      "Privacy",
+      "Terms of Service",
+      "Community",
+      "Docs",
+      "Enterprise Sales",
+      "Blog",
+      "Careers",
+      "Terms of Service",
+      "Privacy Policy"
+    ]
+  },
+  "ok": true
+}

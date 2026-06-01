@@ -1,0 +1,287 @@
+{
+  "url": "https://asana.com",
+  "name": "asana.com",
+  "title": "온라인에서 팀의 업무, 프로젝트, 작업 관리• Asana • Asana",
+  "fonts": {
+    "body": "twk lausanne",
+    "heading": "twk lausanne",
+    "loaded_count": 8,
+    "loaded_sample": [
+      "haptik",
+      "proxima-nova",
+      "asanaicons",
+      "pp-editorial",
+      "roboto",
+      "ghost",
+      "twk lausanne",
+      "hiragino kaku gothic pron"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      236,
+      236,
+      354,
+      332,
+      332,
+      202,
+      236,
+      198,
+      218,
+      236,
+      198,
+      218,
+      202,
+      198,
+      236,
+      225
+    ],
+    "accent_sampled": 16,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      10,
+      30
+    ],
+    [
+      100,
+      30
+    ],
+    [
+      8,
+      22
+    ],
+    [
+      16,
+      15
+    ],
+    [
+      20,
+      14
+    ],
+    [
+      15,
+      8
+    ],
+    [
+      4,
+      7
+    ],
+    [
+      6,
+      5
+    ],
+    [
+      50,
+      4
+    ],
+    [
+      146,
+      4
+    ],
+    [
+      999,
+      4
+    ]
+  ],
+  "shadows": {
+    "diffuse": 6,
+    "other": 2
+  },
+  "paddings": [
+    [
+      "32px",
+      32
+    ],
+    [
+      "4px",
+      26
+    ],
+    [
+      "16px",
+      14
+    ],
+    [
+      "10px",
+      11
+    ],
+    [
+      "24px",
+      9
+    ],
+    [
+      "8px",
+      8
+    ],
+    [
+      "120px",
+      5
+    ],
+    [
+      "80px",
+      4
+    ],
+    [
+      "30px",
+      3
+    ],
+    [
+      "12px",
+      2
+    ],
+    [
+      "40px",
+      2
+    ],
+    [
+      "48px",
+      2
+    ],
+    [
+      "104px",
+      2
+    ],
+    [
+      "160px",
+      2
+    ],
+    [
+      "56px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      993
+    ],
+    [
+      14,
+      138
+    ],
+    [
+      20,
+      32
+    ],
+    [
+      22,
+      15
+    ],
+    [
+      11,
+      13
+    ],
+    [
+      24,
+      9
+    ],
+    [
+      12,
+      8
+    ],
+    [
+      54,
+      8
+    ],
+    [
+      13,
+      6
+    ],
+    [
+      30,
+      4
+    ],
+    [
+      36,
+      4
+    ],
+    [
+      64,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 9,
+    "neg_tracked": 9
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 260,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 101,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "인간-에이전트 팀을 위한 OS",
+    "buttons": [
+      "더 알아보기",
+      "x icon",
+      "Asana Home",
+      "제품chevron-down icon",
+      "솔루션chevron-down icon",
+      "지원하다chevron-down icon",
+      "요금",
+      "Choose your preferred language",
+      "영업팀에 문의",
+      "로그인",
+      "시작하기",
+      "제품 개요arrow-right icon",
+      "모든 기능arrow-right icon",
+      "앱 연동arrow-right icon",
+      "최신 기능 릴리스arrow-right icon",
+      "프로젝트 관리arrow-right icon",
+      "워크플로 및 자동화arrow-right icon",
+      "목표 및 보고서arrow-right icon",
+      "리소스 관리arrow-right icon",
+      "관리자 및 보안 arrow-right icon",
+      "Asana AIarrow-right icon",
+      "AI Studioarrow-right icon",
+      "AI 팀원arrow-right icon",
+      "Personalarrow-right icon",
+      "Starterarrow-right icon",
+      "Advancedarrow-right icon",
+      "엔터프라이즈arrow-right icon",
+      "소규모 기업arrow-right icon",
+      "비영리arrow-right icon",
+      "시작arrow-right icon",
+      "운영arrow-right icon",
+      "마케팅arrow-right icon",
+      "ITarrow-right icon",
+      "리더arrow-right icon",
+      "정부arrow-right icon",
+      "의료arrow-right icon",
+      "소매arrow-right icon",
+      "금융 서비스arrow-right icon",
+      "교육arrow-right icon",
+      "제조arrow-right icon",
+      "목표 관리arrow-right icon",
+      "조직 계획 수립arrow-right icon",
+      "프로젝트 수신arrow-right icon",
+      "리소스 계획 수립arrow-right icon",
+      "제품 출시arrow-right icon",
+      "모든 사용 사례 보기arrow-right icon",
+      "업무 관리 허브arrow-right icon",
+      "이벤트 및 웨비나arrow-right icon",
+      "고객 스토리arrow-right icon",
+      "Asana 아카데미arrow-right icon",
+      "자격증arrow-right icon",
+      "훈련arrow-right icon",
+      "도움말 센터arrow-right icon",
+      "지역 사회arrow-right icon",
+      "모든 템플릿 보기arrow-right icon",
+      "개발자 지원arrow-right icon",
+      "고객 성공arrow-right icon",
+      "파트너 찾기arrow-right icon",
+      "파트너가 되세요arrow-right icon",
+      "영업팀에 문의"
+    ]
+  },
+  "ok": true
+}

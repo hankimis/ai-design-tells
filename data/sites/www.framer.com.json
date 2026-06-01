@@ -1,0 +1,491 @@
+{
+  "url": "https://www.framer.com",
+  "name": "www.framer.com",
+  "title": "Framer: Create a professional website, free. No code website builder loved by designers.",
+  "fonts": {
+    "body": "sans-serif",
+    "heading": "gt walsheim framer medium",
+    "loaded_count": 83,
+    "loaded_sample": [
+      "geist",
+      "inter tight",
+      "mona sans",
+      "space grotesk",
+      "azeret mono",
+      "geist mono",
+      "jetbrains mono",
+      "vt323",
+      "geist variable",
+      "geist mono variable",
+      "luxurious script",
+      "gt walsheim medium"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240
+    ],
+    "accent_sampled": 136,
+    "purple_accents": 136,
+    "any_gradients": 13,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      8,
+      160
+    ],
+    [
+      100,
+      86
+    ],
+    [
+      10,
+      75
+    ],
+    [
+      15,
+      52
+    ],
+    [
+      1,
+      45
+    ],
+    [
+      6,
+      44
+    ],
+    [
+      12,
+      37
+    ],
+    [
+      50,
+      18
+    ],
+    [
+      4,
+      15
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      20,
+      6
+    ],
+    [
+      30,
+      5
+    ],
+    [
+      14,
+      3
+    ],
+    [
+      40,
+      3
+    ],
+    [
+      200,
+      3
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      18,
+      2
+    ],
+    [
+      16,
+      1
+    ],
+    [
+      21,
+      1
+    ],
+    [
+      27,
+      1
+    ],
+    [
+      31,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 10,
+    "other": 31
+  },
+  "paddings": [
+    [
+      "10px",
+      58
+    ],
+    [
+      "2px",
+      32
+    ],
+    [
+      "60px",
+      10
+    ],
+    [
+      "5px",
+      8
+    ],
+    [
+      "15px",
+      7
+    ],
+    [
+      "20px",
+      6
+    ],
+    [
+      "40px",
+      6
+    ],
+    [
+      "160px",
+      5
+    ],
+    [
+      "1px",
+      4
+    ],
+    [
+      "4px",
+      3
+    ],
+    [
+      "0.675px",
+      3
+    ],
+    [
+      "80px",
+      2
+    ],
+    [
+      "3px",
+      2
+    ],
+    [
+      "30px",
+      2
+    ],
+    [
+      "8px",
+      2
+    ],
+    [
+      "64px",
+      1
+    ],
+    [
+      "6px",
+      1
+    ],
+    [
+      "50px",
+      1
+    ],
+    [
+      "35px",
+      1
+    ],
+    [
+      "120px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      12,
+      2689
+    ],
+    [
+      15,
+      151
+    ],
+    [
+      13,
+      58
+    ],
+    [
+      14,
+      44
+    ],
+    [
+      18,
+      17
+    ],
+    [
+      24,
+      9
+    ],
+    [
+      62,
+      8
+    ],
+    [
+      20,
+      6
+    ],
+    [
+      32,
+      5
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      9,
+      3
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      16,
+      1
+    ],
+    [
+      17,
+      1
+    ],
+    [
+      22,
+      1
+    ],
+    [
+      85,
+      1
+    ],
+    [
+      110,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 6,
+    "neg_tracked": 6
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 10,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 111,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Build bettersites, faster",
+    "buttons": [
+      "Log in",
+      "Sign up",
+      "CopyLogo as SVG",
+      "BrandGuidelines",
+      "Product",
+      "Teams",
+      "Resources",
+      "Community",
+      "Support",
+      "Enterprise",
+      "Pricing",
+      "Start for free",
+      "Start with AI",
+      "Meet our customers",
+      "AI",
+      "Design",
+      "Learn more",
+      "CMS",
+      "Learn more",
+      "Collaborate",
+      "Learn more",
+      "Watch the video",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Perplexity",
+      "Flora",
+      "Biograph",
+      "Cradle",
+      "Miro",
+      "Get matched",
+      "Find an Expert",
+      "View ExpertTrueformSwitzerland",
+      "View Expert",
+      "View ExpertAlex AperiosUnited Kingdom",
+      "View Expert",
+      "View ExpertAnalogue AgencyNetherlands",
+      "View Expert",
+      "View ExpertFabian AlbertUnited States",
+      "View Expert",
+      "View ExpertAllsite StudioGermany",
+      "View Expert",
+      "View ExpertAerolabUnited States",
+      "View Expert",
+      "View ExpertAdriano ReisUnited States",
+      "View Expert",
+      "View ExpertDeserve StudioUnited States",
+      "View Expert",
+      "View ExpertTrueformSwitzerland",
+      "View Expert",
+      "View ExpertAlex AperiosUnited Kingdom",
+      "View Expert",
+      "View ExpertAnalogue AgencyNetherlands",
+      "View Expert",
+      "View ExpertFabian AlbertUnited States",
+      "View Expert",
+      "View ExpertAllsite StudioGermany",
+      "View Expert",
+      "View ExpertAerolabUnited States",
+      "View Expert"
+    ]
+  },
+  "ok": true
+}

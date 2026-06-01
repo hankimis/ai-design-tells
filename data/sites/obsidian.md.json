@@ -1,0 +1,293 @@
+{
+  "url": "https://obsidian.md",
+  "name": "obsidian.md",
+  "title": "Obsidian - Sharpen your thinking",
+  "fonts": {
+    "body": "ui-sans-serif",
+    "heading": "ui-sans-serif",
+    "loaded_count": 1,
+    "loaded_sample": [
+      "inter"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      262,
+      255,
+      255,
+      255,
+      255,
+      262
+    ],
+    "accent_sampled": 6,
+    "purple_accents": 6,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      4,
+      45
+    ],
+    [
+      8,
+      19
+    ],
+    [
+      6,
+      14
+    ],
+    [
+      12,
+      13
+    ],
+    [
+      2,
+      9
+    ],
+    [
+      9999,
+      7
+    ],
+    [
+      16,
+      5
+    ],
+    [
+      50,
+      4
+    ],
+    [
+      999,
+      2
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      24,
+      1
+    ],
+    [
+      30,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 26
+  },
+  "paddings": [
+    [
+      "3px",
+      28
+    ],
+    [
+      "8px",
+      20
+    ],
+    [
+      "6px",
+      17
+    ],
+    [
+      "16px",
+      15
+    ],
+    [
+      "4px",
+      13
+    ],
+    [
+      "24px",
+      12
+    ],
+    [
+      "96px",
+      5
+    ],
+    [
+      "12px",
+      5
+    ],
+    [
+      "32px",
+      5
+    ],
+    [
+      "2px",
+      3
+    ],
+    [
+      "64px",
+      2
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "78.3906px",
+      1
+    ],
+    [
+      "128px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      329
+    ],
+    [
+      14,
+      99
+    ],
+    [
+      13,
+      95
+    ],
+    [
+      20,
+      54
+    ],
+    [
+      18,
+      37
+    ],
+    [
+      24,
+      22
+    ],
+    [
+      6,
+      20
+    ],
+    [
+      12,
+      17
+    ],
+    [
+      10,
+      16
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      11,
+      7
+    ],
+    [
+      60,
+      5
+    ],
+    [
+      9,
+      3
+    ],
+    [
+      7,
+      1
+    ],
+    [
+      28,
+      1
+    ],
+    [
+      36,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 5,
+    "neg_tracked": 5
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 1,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 33,
+    "centered_fraction": 0.030303030303030304
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Sharpen your thinking.",
+    "buttons": [
+      "Download",
+      "Pricing",
+      "Sync",
+      "Publish",
+      "Enterprise",
+      "Community",
+      "Account",
+      "More platforms",
+      "thousands of plugins",
+      "Download now",
+      "Learn more.",
+      "Learn more.",
+      "Obsidian Help",
+      "Obsidian Publish",
+      "Get Obsidian",
+      "Download",
+      "Pricing",
+      "Enterprise",
+      "Account",
+      "Overview",
+      "Sync",
+      "Publish",
+      "Canvas",
+      "Mobile",
+      "Web Clipper",
+      "CLI",
+      "Help",
+      "Developers",
+      "Changelog",
+      "About",
+      "Roadmap",
+      "Blog",
+      "System status",
+      "License overview",
+      "Terms of service",
+      "Privacy policy",
+      "Security",
+      "Plugins",
+      "Themes",
+      "Discord",
+      "Forum",
+      "中文论坛",
+      "Merch store",
+      "Brand guidelines",
+      "Discord",
+      "Twitter",
+      "Bluesky",
+      "Threads",
+      "Mastodon",
+      "YouTube",
+      "GitHub",
+      "English",
+      "العربية",
+      "Deutsch",
+      "Español",
+      "Français",
+      "Italiano",
+      "日本語",
+      "한국어",
+      "Português (Brasil)"
+    ]
+  },
+  "ok": true
+}

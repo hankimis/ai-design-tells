@@ -1,0 +1,384 @@
+{
+  "url": "https://vuejs.org",
+  "name": "vuejs.org",
+  "title": "Vue.js - The Progressive JavaScript Framework | Vue.js",
+  "fonts": {
+    "body": "inter var experimental",
+    "heading": "inter var experimental",
+    "loaded_count": 2,
+    "loaded_sample": [
+      "inter",
+      "inter4cjk"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      153,
+      153,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      153,
+      209,
+      209,
+      209,
+      209,
+      209,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208
+    ],
+    "accent_sampled": 173,
+    "purple_accents": 0,
+    "any_gradients": 2,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      2,
+      40
+    ],
+    [
+      8,
+      8
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      50,
+      2
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      11,
+      1
+    ],
+    [
+      40,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1,
+    "other": 1
+  },
+  "paddings": [
+    [
+      "8px",
+      4
+    ],
+    [
+      "42px",
+      3
+    ],
+    [
+      "28px",
+      3
+    ],
+    [
+      "10.4px",
+      1
+    ],
+    [
+      "1px",
+      1
+    ],
+    [
+      "55px",
+      1
+    ],
+    [
+      "96px",
+      1
+    ],
+    [
+      "12px",
+      1
+    ],
+    [
+      "24px",
+      1
+    ],
+    [
+      "23px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      250
+    ],
+    [
+      14,
+      94
+    ],
+    [
+      13,
+      16
+    ],
+    [
+      12,
+      6
+    ],
+    [
+      20,
+      5
+    ],
+    [
+      15,
+      3
+    ],
+    [
+      11,
+      2
+    ],
+    [
+      76,
+      2
+    ],
+    [
+      22,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 1,
+    "neg_tracked": 1
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 2,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 15,
+    "centered_fraction": 0.06666666666666667
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "The ProgressiveJavaScript Framework",
+    "buttons": [
+      "Skip to content",
+      "Vue.js",
+      "Search⌘K",
+      "Docs",
+      "Playground",
+      "Ecosystem",
+      "About",
+      "Support",
+      "github",
+      "twitter",
+      "discord",
+      "Play icon Why Vue",
+      "Get Started",
+      "Install",
+      "Get Security Updates for Vue 2",
+      "Become a Sponsor",
+      "Become a Sponsor",
+      "Quick Start",
+      "Guide",
+      "Tutorial",
+      "Examples",
+      "API",
+      "Glossary",
+      "Error Reference",
+      "Vue 2 Docs",
+      "Migration from Vue 2",
+      "FAQ",
+      "Team",
+      "Releases",
+      "Community Guide",
+      "Code of Conduct",
+      "Privacy Policy",
+      "The Documentary",
+      "Sponsor",
+      "Partners",
+      "Themes",
+      "UI Components",
+      "Plugins Collection",
+      "Certification",
+      "Jobs",
+      "T-Shirt Shop",
+      "Vue Router",
+      "Pinia",
+      "Tooling Guide",
+      "Vue Mastery",
+      "Vue School",
+      "Discord Chat",
+      "GitHub Discussions",
+      "DEV Community",
+      "Blog",
+      "Twitter",
+      "Events",
+      "Newsletters",
+      "MIT License"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,536 @@
+{
+  "url": "https://wise.com",
+  "name": "wise.com",
+  "title": "Wise: The international account | Money without borders | Wise South Korea",
+  "fonts": {
+    "body": "inter",
+    "heading": "wise sans",
+    "loaded_count": 5,
+    "loaded_sample": [
+      "inter",
+      "averta",
+      "wise sans",
+      "videojs",
+      "wise sans jp"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      97,
+      94,
+      97,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      97,
+      94,
+      97,
+      97,
+      94,
+      97,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      97,
+      94,
+      97,
+      94,
+      94,
+      57,
+      57,
+      202,
+      202,
+      57,
+      94,
+      94,
+      97,
+      94,
+      94,
+      94,
+      97,
+      94,
+      94,
+      94,
+      94,
+      97,
+      94,
+      97,
+      94,
+      94,
+      94,
+      97,
+      94,
+      97,
+      97,
+      97,
+      94,
+      97,
+      97,
+      94,
+      97,
+      94,
+      97,
+      94,
+      97,
+      94,
+      97,
+      94,
+      94,
+      97,
+      94,
+      94,
+      94,
+      97,
+      94,
+      97,
+      94,
+      97,
+      94,
+      97,
+      94,
+      97,
+      94,
+      97,
+      97,
+      94,
+      97,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94
+    ],
+    "accent_sampled": 239,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      50,
+      222
+    ],
+    [
+      2,
+      149
+    ],
+    [
+      9999,
+      63
+    ],
+    [
+      18.7693,
+      25
+    ],
+    [
+      1000,
+      22
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      28.1539,
+      9
+    ],
+    [
+      37.5385,
+      9
+    ],
+    [
+      16,
+      7
+    ],
+    [
+      11.7308,
+      3
+    ],
+    [
+      12,
+      2
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      30,
+      1
+    ],
+    [
+      32,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 6,
+    "diffuse": 3
+  },
+  "paddings": [
+    [
+      "8px",
+      36
+    ],
+    [
+      "9.38462px",
+      35
+    ],
+    [
+      "12px",
+      27
+    ],
+    [
+      "11px",
+      19
+    ],
+    [
+      "3px",
+      11
+    ],
+    [
+      "56.3076px",
+      9
+    ],
+    [
+      "22px",
+      7
+    ],
+    [
+      "24px",
+      7
+    ],
+    [
+      "28.1539px",
+      6
+    ],
+    [
+      "16px",
+      4
+    ],
+    [
+      "18.7693px",
+      3
+    ],
+    [
+      "75.0769px",
+      3
+    ],
+    [
+      "5px",
+      2
+    ],
+    [
+      "18px",
+      2
+    ],
+    [
+      "1px",
+      2
+    ],
+    [
+      "19px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ],
+    [
+      "37.5385px",
+      1
+    ],
+    [
+      "4.69232px",
+      1
+    ],
+    [
+      "14.0769px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      18,
+      1529
+    ],
+    [
+      16,
+      360
+    ],
+    [
+      14,
+      147
+    ],
+    [
+      20,
+      108
+    ],
+    [
+      24,
+      58
+    ],
+    [
+      45,
+      47
+    ],
+    [
+      42,
+      37
+    ],
+    [
+      22,
+      33
+    ],
+    [
+      34,
+      31
+    ],
+    [
+      300,
+      16
+    ],
+    [
+      56,
+      11
+    ],
+    [
+      12,
+      6
+    ],
+    [
+      52,
+      6
+    ],
+    [
+      25,
+      5
+    ],
+    [
+      36,
+      5
+    ],
+    [
+      40,
+      4
+    ],
+    [
+      43,
+      4
+    ],
+    [
+      59,
+      2
+    ],
+    [
+      89,
+      2
+    ],
+    [
+      105,
+      2
+    ],
+    [
+      61,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 12,
+    "neg_tracked": 6
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 20,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 121,
+    "centered_fraction": 0.09917355371900827
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Money for here, there and everywhere",
+    "buttons": [
+      "Skip to content",
+      "Personal",
+      "Business",
+      "Platform",
+      "Send money",
+      "Send large amounts",
+      "Receive money",
+      "Personal pricing",
+      "Send money",
+      "Receive money",
+      "Manage team finances",
+      "Connect accounting software",
+      "Explore API integrations",
+      "Explore demo",
+      "Contact sales",
+      "Business pricing",
+      "Send",
+      "Receive",
+      "Issue cards",
+      "Multi-currency accounts",
+      "Banks & financial institutions",
+      "Education platforms",
+      "Marketplaces",
+      "Spend management",
+      "Travel platforms",
+      "Workforce platforms",
+      "Register for Wise Connect",
+      "Explore API documentation",
+      "enen",
+      "Help",
+      "Log in",
+      "Sign up",
+      "Open an account",
+      "Send money now",
+      "4.3 stars from over 290k reviews",
+      "with fees as low as 0.1%.",
+      "Learn how to send money",
+      "Change",
+      "USD",
+      "We'll discount our fee",
+      "KRW",
+      "4.35 USD",
+      "Send money",
+      "Send money now",
+      "Learn how to send money",
+      "USDUnited States dollar",
+      "KRWSouth Korean won",
+      "Learn more",
+      "Open an account",
+      "22 currencies",
+      "Explore getting paid",
+      "Try demo",
+      "Learn more",
+      "How we keep your money safe",
+      "Get Started",
+      "Explore the Wise Account",
+      "Get Started",
+      "Learn about receiving money",
+      "Stuart on Trustpilot",
+      "Gerald on Trustpilot"
+    ]
+  },
+  "ok": true
+}

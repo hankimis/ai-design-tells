@@ -1,0 +1,242 @@
+{
+  "url": "https://www.adyen.com",
+  "name": "www.adyen.com",
+  "title": "Adyen: Fintech platform for enterprises - Adyen",
+  "fonts": {
+    "body": "adyen",
+    "heading": "adyen",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "adyen",
+      "adyentpj",
+      "adyensc",
+      "adyenmono"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      150,
+      208,
+      208,
+      150,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      208,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217,
+      217
+    ],
+    "accent_sampled": 38,
+    "purple_accents": 0,
+    "any_gradients": 2,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      6,
+      88
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      5,
+      4
+    ],
+    [
+      2.5,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "24px",
+      26
+    ],
+    [
+      "9px",
+      20
+    ],
+    [
+      "12px",
+      12
+    ],
+    [
+      "2px",
+      5
+    ],
+    [
+      "240px",
+      3
+    ],
+    [
+      "192px",
+      2
+    ],
+    [
+      "64px",
+      2
+    ],
+    [
+      "1px",
+      2
+    ],
+    [
+      "14px",
+      1
+    ],
+    [
+      "72px",
+      1
+    ],
+    [
+      "450px",
+      1
+    ],
+    [
+      "96px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      17,
+      588
+    ],
+    [
+      16,
+      141
+    ],
+    [
+      32,
+      95
+    ],
+    [
+      12,
+      28
+    ],
+    [
+      20,
+      13
+    ],
+    [
+      13,
+      5
+    ],
+    [
+      80,
+      5
+    ],
+    [
+      14,
+      1
+    ],
+    [
+      64,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 7,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 7,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 55,
+    "centered_fraction": 0.2545454545454545
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Fintech you can bank on",
+    "buttons": [
+      "Adyen Logo",
+      "Products",
+      "Businesses we serve",
+      "About",
+      "Resources",
+      "Pricing",
+      "Contact usContact us",
+      "Talk to our teamTalk to our team",
+      "Intelligent Money Movement",
+      "Accept payments",
+      "Send payouts globally",
+      "Adyen for Platforms",
+      "Retail",
+      "See more",
+      "Travel and hospitality",
+      "Digital media and content",
+      "SaaS platforms and marketplaces",
+      "Food and beverage",
+      "Financial services",
+      "Contact usContact us",
+      "Press & media",
+      "Careers",
+      "Investor Relations",
+      "Partner with us",
+      "Contact",
+      "Payments",
+      "Risk management",
+      "Authentication",
+      "Issuing",
+      "Pricing",
+      "Documentation",
+      "Academy",
+      "Knowledge Hub",
+      "Newsletter",
+      "Infrastructure",
+      "Licenses",
+      "Legal",
+      "Terms & Conditions",
+      "Responsible disclosure policy",
+      "Service Status",
+      "Privacy",
+      "Cookies",
+      "Disclaimer",
+      ".st0{fill: currentColor;}",
+      ".st0{fill: currentColor;}",
+      "Global (English)Global (English)",
+      "Privacy policy",
+      "Accept All Cookies",
+      "Reject All",
+      "Cookies Settings"
+    ]
+  },
+  "ok": true
+}

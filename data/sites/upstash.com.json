@@ -1,0 +1,341 @@
+{
+  "url": "https://upstash.com",
+  "name": "upstash.com",
+  "title": "Upstash: Serverless Data Platform",
+  "fonts": {
+    "body": "__inter_f367f3",
+    "heading": "__inter_tight_a3c0d3",
+    "loaded_count": 6,
+    "loaded_sample": [
+      "__inter_f367f3",
+      "__inter_fallback_f367f3",
+      "__inter_tight_a3c0d3",
+      "__inter_tight_fallback_a3c0d3",
+      "__jetbrains_mono_3c557b",
+      "__jetbrains_mono_fallback_3c557b"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      156,
+      220,
+      156,
+      220,
+      156,
+      220,
+      220,
+      166,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      163,
+      220,
+      220,
+      0,
+      163,
+      163,
+      163,
+      163,
+      166,
+      220,
+      163,
+      220,
+      166,
+      220,
+      163,
+      220,
+      166,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      160,
+      163,
+      220,
+      163,
+      220,
+      163,
+      220,
+      163,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      166,
+      220,
+      163,
+      220,
+      163,
+      220,
+      163,
+      220,
+      163,
+      220,
+      220,
+      220,
+      220,
+      158,
+      160,
+      220,
+      158,
+      160,
+      220,
+      166,
+      220
+    ],
+    "accent_sampled": 124,
+    "purple_accents": 0,
+    "any_gradients": 3,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      9999,
+      93
+    ],
+    [
+      35.2,
+      28
+    ],
+    [
+      12,
+      18
+    ],
+    [
+      16,
+      11
+    ],
+    [
+      6,
+      5
+    ],
+    [
+      100,
+      5
+    ],
+    [
+      8,
+      3
+    ]
+  ],
+  "shadows": {
+    "other": 30
+  },
+  "paddings": [
+    [
+      "8px",
+      22
+    ],
+    [
+      "4px",
+      18
+    ],
+    [
+      "32px",
+      13
+    ],
+    [
+      "40px",
+      11
+    ],
+    [
+      "64px",
+      3
+    ],
+    [
+      "16px",
+      3
+    ],
+    [
+      "24px",
+      2
+    ],
+    [
+      "80px",
+      1
+    ],
+    [
+      "12px",
+      1
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "112px",
+      1
+    ],
+    [
+      "96px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      570
+    ],
+    [
+      14,
+      111
+    ],
+    [
+      24,
+      77
+    ],
+    [
+      48,
+      18
+    ],
+    [
+      20,
+      15
+    ],
+    [
+      12,
+      6
+    ],
+    [
+      13,
+      4
+    ],
+    [
+      30,
+      4
+    ],
+    [
+      22,
+      1
+    ],
+    [
+      128,
+      1
+    ],
+    [
+      180,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 1,
+    "neg_tracked": 1
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 3,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 66,
+    "centered_fraction": 0.8636363636363636
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Serverless Data Platform",
+    "buttons": [
+      "Terms",
+      "Privacy Policy",
+      "Data Protection Agreement",
+      "Upstash",
+      "Docs",
+      "Pricing",
+      "Customers",
+      "Enterprise",
+      "Blog",
+      "Company 4",
+      "Login",
+      "Start for Free",
+      "Redis ®*",
+      "Vector",
+      "QStash",
+      "Workflow",
+      "Box",
+      "Learn more",
+      "Learn more",
+      "Documentation",
+      "Documentation",
+      "Create Database",
+      "Create Database",
+      "Caching",
+      "Session Management",
+      "Rate Limiting",
+      "Leaderboards",
+      "Chat",
+      "TypeScript",
+      "Python",
+      "and many more...",
+      "Read",
+      "Join",
+      "Follow",
+      "View",
+      "Contact Us",
+      "Privacy Policy",
+      "Terms of Service",
+      "Status",
+      "Latency",
+      "https://upstash.com/start-redis"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,282 @@
+{
+  "url": "https://www.loom.com",
+  "name": "www.loom.com",
+  "title": "Free screen recorder for Mac and PC | Loom",
+  "fonts": {
+    "body": "charlie text",
+    "heading": "charlie display",
+    "loaded_count": 2,
+    "loaded_sample": [
+      "charlie display",
+      "charlie text"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      215,
+      214,
+      215,
+      214,
+      215,
+      215,
+      215,
+      215,
+      215,
+      215,
+      215,
+      215,
+      215,
+      214,
+      215,
+      215,
+      216,
+      216,
+      216,
+      216,
+      218,
+      40,
+      40,
+      218,
+      40
+    ],
+    "accent_sampled": 25,
+    "purple_accents": 0,
+    "any_gradients": 3,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      9999,
+      62
+    ],
+    [
+      68.9231,
+      20
+    ],
+    [
+      41.6923,
+      17
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      12,
+      4
+    ],
+    [
+      50,
+      3
+    ],
+    [
+      6,
+      2
+    ],
+    [
+      16,
+      2
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      8,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 14,
+    "diffuse": 3
+  },
+  "paddings": [
+    [
+      "111.04px",
+      13
+    ],
+    [
+      "1.90625px",
+      12
+    ],
+    [
+      "15.6154px",
+      8
+    ],
+    [
+      "24px",
+      8
+    ],
+    [
+      "8px",
+      6
+    ],
+    [
+      "70.72px",
+      5
+    ],
+    [
+      "36.16px",
+      5
+    ],
+    [
+      "7.80769px",
+      4
+    ],
+    [
+      "1.54688px",
+      3
+    ],
+    [
+      "90.88px",
+      3
+    ],
+    [
+      "12px",
+      3
+    ],
+    [
+      "1.59375px",
+      2
+    ],
+    [
+      "30px",
+      1
+    ],
+    [
+      "46.6875px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      682
+    ],
+    [
+      13,
+      75
+    ],
+    [
+      18,
+      59
+    ],
+    [
+      19,
+      21
+    ],
+    [
+      25,
+      15
+    ],
+    [
+      27,
+      9
+    ],
+    [
+      63,
+      9
+    ],
+    [
+      33,
+      4
+    ],
+    [
+      44,
+      2
+    ],
+    [
+      14,
+      1
+    ],
+    [
+      15,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 11,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 76,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 80,
+    "centered_fraction": 0.15
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "One video is worth a thousand words",
+    "buttons": [
+      "Apps",
+      "Solutions",
+      "Resources",
+      "Enterprise",
+      "Pricing",
+      "Sign In",
+      "Get Loom for free",
+      "Contact Sales",
+      "Get Loom for free",
+      "Get Loom for free",
+      "Learn moreOpen in new window",
+      "record your screen",
+      "Chrome extension",
+      "desktop app",
+      "mobile app",
+      "Download now",
+      "Record now",
+      "Start sharing",
+      "Connect over video",
+      "Learn more",
+      "See all use cases",
+      "See all features",
+      "Explore our blogOpen in new window",
+      "Learn more",
+      "Get Loom for free",
+      "Pricing",
+      "loomSDK",
+      "Screen Recorder",
+      "Screenshot",
+      "Chrome Screen Recorder",
+      "Mac Screen Recorder",
+      "Windows Screen Recorder",
+      "iPhone Screen Recorder",
+      "Android Screen Recorder",
+      "Sales",
+      "Engineering",
+      "Design",
+      "Marketing",
+      "Product Management",
+      "Support",
+      "Presentation",
+      "Team Alignment",
+      "Education",
+      "Webcam Recorder",
+      "Loom AI",
+      "Enterprise",
+      "Loom HQ",
+      "Customer Stories",
+      "Security",
+      "Video Hosting",
+      "Video Library",
+      "Desktop App",
+      "Chrome Extension",
+      "Mobile Apps",
+      "The Replay | Loom’s Blog",
+      "Help Center",
+      "Community",
+      "eBooks",
+      "Status",
+      "What's New"
+    ]
+  },
+  "ok": true
+}

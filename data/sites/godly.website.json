@@ -1,0 +1,92 @@
+{
+  "url": "https://godly.website",
+  "name": "godly.website",
+  "title": "Godly - Astronomically good web design inspiration",
+  "fonts": {
+    "body": "inter",
+    "heading": "inter",
+    "loaded_count": 1,
+    "loaded_sample": [
+      "inter"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      33554400,
+      165
+    ],
+    [
+      5,
+      88
+    ],
+    [
+      6,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 1
+  },
+  "paddings": [
+    [
+      "6px",
+      2
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      778
+    ],
+    [
+      24,
+      150
+    ],
+    [
+      14,
+      55
+    ],
+    [
+      12,
+      5
+    ],
+    [
+      20,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 1,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 3,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Astronomically good web design inspiration",
+    "buttons": [
+      "Index",
+      "Info",
+      "Subscribe",
+      "Subscribe",
+      "Get design",
+      "F"
+    ]
+  },
+  "ok": true
+}

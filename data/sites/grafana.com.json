@@ -1,0 +1,259 @@
+{
+  "url": "https://grafana.com",
+  "name": "grafana.com",
+  "title": "Full-stack observability for the agentic era | Grafana Labs | Grafana Labs",
+  "fonts": {
+    "body": "inter",
+    "heading": "poppins",
+    "loaded_count": 6,
+    "loaded_sample": [
+      "poppins",
+      "poppins fallback",
+      "inter",
+      "inter fallback",
+      "fontawesome",
+      "fontawesome fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      224,
+      224,
+      224,
+      224,
+      216,
+      224,
+      224,
+      224,
+      224,
+      224,
+      224,
+      224,
+      224,
+      224,
+      224,
+      224,
+      224,
+      224,
+      224
+    ],
+    "accent_sampled": 19,
+    "purple_accents": 0,
+    "any_gradients": 4,
+    "blue_purple_gradients": 2
+  },
+  "radii": [
+    [
+      33554400,
+      90
+    ],
+    [
+      12,
+      37
+    ],
+    [
+      8,
+      28
+    ],
+    [
+      4,
+      22
+    ],
+    [
+      24,
+      20
+    ],
+    [
+      16,
+      11
+    ],
+    [
+      6,
+      6
+    ],
+    [
+      32,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 129
+  },
+  "paddings": [
+    [
+      "8px",
+      15
+    ],
+    [
+      "32px",
+      14
+    ],
+    [
+      "12px",
+      12
+    ],
+    [
+      "10px",
+      9
+    ],
+    [
+      "64px",
+      6
+    ],
+    [
+      "7px",
+      3
+    ],
+    [
+      "24px",
+      2
+    ],
+    [
+      "96px",
+      2
+    ],
+    [
+      "13px",
+      2
+    ],
+    [
+      "16px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      1022
+    ],
+    [
+      14,
+      111
+    ],
+    [
+      13,
+      34
+    ],
+    [
+      18,
+      34
+    ],
+    [
+      36,
+      32
+    ],
+    [
+      30,
+      20
+    ],
+    [
+      48,
+      17
+    ],
+    [
+      24,
+      11
+    ],
+    [
+      20,
+      10
+    ],
+    [
+      11,
+      6
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      60,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 8,
+    "neg_tracked": 6
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 3,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 106,
+    "centered_fraction": 0.05660377358490566
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Full-stack observability with actually useful AI",
+    "buttons": [
+      "Learn more",
+      "EN",
+      "Downloads",
+      "Contact Us",
+      "Grafana Cloud",
+      "Solutions",
+      "Pricing",
+      "Open Source",
+      "Learn",
+      "Docs",
+      "Company",
+      "AI/Search",
+      "Sign in",
+      "Sign up",
+      "i",
+      "Get started free",
+      "i",
+      "Compare plans",
+      "Grafana Cloud AI Assistant",
+      "Cost optimization",
+      "Full-stack observability",
+      "See integrations",
+      "AI-Powered Observability",
+      "Full-Stack Observability",
+      "Cost Management with Adaptive Telemetry",
+      "Native OpenTelemetry Support",
+      "AI Assistant",
+      "Application Observability",
+      "Kubernetes Monitoring",
+      "Frontend Observability",
+      "Incident Response & Management (IRM)",
+      "Dashboards & Data Visualization",
+      "Database Observability",
+      "Performance & Load Testing",
+      "Synthetic Monitoring",
+      "Digital Experience Monitoring (DEM)",
+      "Infrastructure & Cloud Observability",
+      "Site Reliability",
+      "Logs",
+      "Metrics",
+      "Traces",
+      "Profiles",
+      "View certifications",
+      "Open Grafana Play",
+      "Watch the keynote",
+      "Read more",
+      "Survey results",
+      "Learn more",
+      "Watch the keynote",
+      "Read more",
+      "Previous slide",
+      "Next slide",
+      "BlackRock",
+      "Pegasystems",
+      "Lovable",
+      "LATAM Airlines",
+      "Delivery Hero",
+      "BlackRock",
+      "OSS projects",
+      "Community"
+    ]
+  },
+  "ok": true
+}

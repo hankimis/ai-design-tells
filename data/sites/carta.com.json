@@ -1,0 +1,163 @@
+{
+  "url": "https://carta.com",
+  "name": "carta.com",
+  "title": "Carta APAC | The End-to-End Suite Connecting Private Capital",
+  "fonts": {
+    "body": "plus jakarta sans",
+    "heading": "sangbleuversailles",
+    "loaded_count": 6,
+    "loaded_sample": [
+      "plus jakarta sans",
+      "plus jakarta sans fallback",
+      "sangbleuversailles",
+      "sangbleuversailles fallback",
+      "ibm plex mono",
+      "ibm plex mono fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 5,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      8,
+      11
+    ]
+  ],
+  "shadows": {
+    "other": 9
+  },
+  "paddings": [
+    [
+      "8px",
+      7
+    ],
+    [
+      "4px",
+      6
+    ],
+    [
+      "12px",
+      6
+    ],
+    [
+      "16px",
+      4
+    ],
+    [
+      "32px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      2994
+    ],
+    [
+      22,
+      2
+    ],
+    [
+      14,
+      1
+    ],
+    [
+      72,
+      1
+    ],
+    [
+      84,
+      1
+    ],
+    [
+      144,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 6,
+    "neg_tracked": 6
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 8,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 88,
+    "centered_fraction": 0.011363636363636364
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Private capital, connected",
+    "buttons": [
+      "Skip to content",
+      "Products",
+      "Solutions",
+      "Pricing",
+      "Resources",
+      "Company",
+      "Sign in",
+      "Request a demo",
+      "Request a demo",
+      "Watch a video tour",
+      "Private Equity",
+      "Venture Capital",
+      "Private Corporations",
+      "Limited Partners",
+      "Meet AI by Carta",
+      "Request a demo",
+      "Watch a video tour",
+      "Private Equity",
+      "Venture Capital",
+      "Private Corporations",
+      "Private Credit",
+      "Carta Equity Suite",
+      "Cap Table Management",
+      "Valuations",
+      "SAFE Financings",
+      "Financial Reporting",
+      "Total Compensation",
+      "Liquidity",
+      "Equity Compliance",
+      "Carta Fund ERP",
+      "Fund Administration",
+      "Deal CRM",
+      "Fund Tax",
+      "SPVs",
+      "Fund Forecasting",
+      "Portfolio Valuations",
+      "Loan Operations",
+      "LP Portfolio Analytics",
+      "Carta Law",
+      "Compliance",
+      "Contracts",
+      "Fund Services",
+      "About Us",
+      "Executive Team",
+      "Careers",
+      "Press",
+      "Support",
+      "Data Desk",
+      "Blog",
+      "Policy Desk",
+      "What's new in product",
+      "Virtual Events",
+      "Case Studies",
+      "Carta Classroom",
+      "Equity Management Guide",
+      "Fund Management Guide",
+      "Cap Table Guide",
+      "Fund Administration Guide",
+      "Private Equity Guide",
+      "Venture Capital Guide"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,260 @@
+{
+  "url": "https://www.brex.com",
+  "name": "www.brex.com",
+  "title": "Brex: The Modern Finance Software Platform | Spend Smarter",
+  "fonts": {
+    "body": "inter",
+    "heading": "inter",
+    "loaded_count": 8,
+    "loaded_sample": [
+      "inter",
+      "inter fallback",
+      "flecha",
+      "flecha fallback",
+      "bronzea",
+      "bronzea fallback",
+      "space mono",
+      "space mono fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      240,
+      240,
+      213,
+      213,
+      213,
+      213,
+      213,
+      213,
+      21,
+      240,
+      21,
+      21,
+      223,
+      21,
+      21,
+      21,
+      21,
+      21,
+      21,
+      21,
+      21,
+      21,
+      21,
+      21,
+      21,
+      21,
+      21,
+      21,
+      21,
+      213,
+      213,
+      21,
+      21,
+      21,
+      240,
+      21,
+      240,
+      213,
+      213,
+      240,
+      213,
+      213
+    ],
+    "accent_sampled": 42,
+    "purple_accents": 6,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      12,
+      13
+    ],
+    [
+      6,
+      12
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      50,
+      2
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      8,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 2
+  },
+  "paddings": [
+    [
+      "8px",
+      32
+    ],
+    [
+      "48px",
+      12
+    ],
+    [
+      "32px",
+      8
+    ],
+    [
+      "4px",
+      7
+    ],
+    [
+      "80px",
+      6
+    ],
+    [
+      "1px",
+      3
+    ],
+    [
+      "16px",
+      2
+    ],
+    [
+      "28px",
+      1
+    ],
+    [
+      "24px",
+      1
+    ],
+    [
+      "160px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      759
+    ],
+    [
+      14,
+      40
+    ],
+    [
+      12,
+      20
+    ],
+    [
+      24,
+      20
+    ],
+    [
+      48,
+      10
+    ],
+    [
+      36,
+      6
+    ],
+    [
+      20,
+      4
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      72,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 7,
+    "neg_tracked": 7
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 542,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 108,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Finance built for speed and control.",
+    "buttons": [
+      "Products",
+      "Solutions",
+      "Resources",
+      "Customers",
+      "Pricing",
+      "Sign in",
+      "See a demo",
+      "Get started",
+      "Get started",
+      "See Brex in action",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Explore Brex cards",
+      "Explore Brex expense management",
+      "Explore Brex business accounts",
+      "Explore Brex bill pay",
+      "Explore Brex accounting automation",
+      "DoorDash",
+      "SeatGeek",
+      "Lemonade",
+      "Mike Kim",
+      "Read the case study",
+      "Get started",
+      "<-",
+      "->",
+      "Corporate card",
+      "Business banking",
+      "Expense management",
+      "Accounting automation",
+      "Bill pay",
+      "Travel",
+      "Startups",
+      "Release notes",
+      "Intelligence",
+      "Global ready",
+      "Native integrations",
+      "Live Budgets",
+      "Reporting",
+      "Mobile app",
+      "API",
+      "About Brex",
+      "Careers",
+      "Contact",
+      "Partner portal",
+      "Press",
+      "Security",
+      "Customer Hub",
+      "Help center",
+      "Resource center & blog",
+      "Spend trends",
+      "Accounting services",
+      "Status",
+      "Implementation services",
+      "Legal",
+      "Privacy",
+      "Your Privacy Choices",
+      "here",
+      "FDIC",
+      "FINRA"
+    ]
+  },
+  "ok": true
+}

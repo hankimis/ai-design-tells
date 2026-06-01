@@ -1,0 +1,377 @@
+{
+  "url": "https://metamask.io",
+  "name": "metamask.io",
+  "title": "메타마스크(MetaMask) 공식 | 암호화폐 지갑",
+  "fonts": {
+    "body": "mmeuclidcircularb",
+    "heading": "gasoekone",
+    "loaded_count": 30,
+    "loaded_sample": [
+      "delagothicone",
+      "delagothicone fallback",
+      "gasoekone",
+      "gasoekone fallback",
+      "neilbold",
+      "neilbold fallback",
+      "mmpolyvariable",
+      "mmpolyvariable fallback",
+      "harmonyos",
+      "harmonyos fallback",
+      "mmsansmono",
+      "mmsansmono fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      227,
+      226,
+      226,
+      226,
+      277,
+      255,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222
+    ],
+    "accent_sampled": 14,
+    "purple_accents": 2,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      70,
+      96
+    ],
+    [
+      4,
+      22
+    ],
+    [
+      12,
+      18
+    ],
+    [
+      8,
+      12
+    ],
+    [
+      20,
+      12
+    ],
+    [
+      100,
+      12
+    ],
+    [
+      999,
+      12
+    ],
+    [
+      7,
+      9
+    ],
+    [
+      45,
+      8
+    ],
+    [
+      9999,
+      7
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      5,
+      4
+    ],
+    [
+      16,
+      4
+    ],
+    [
+      14,
+      3
+    ],
+    [
+      50,
+      3
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      40,
+      2
+    ],
+    [
+      10000,
+      2
+    ],
+    [
+      9,
+      1
+    ],
+    [
+      35,
+      1
+    ],
+    [
+      9.83,
+      1
+    ],
+    [
+      33.5,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 4,
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "16px",
+      11
+    ],
+    [
+      "12px",
+      9
+    ],
+    [
+      "16.6094px",
+      6
+    ],
+    [
+      "25px",
+      6
+    ],
+    [
+      "10px",
+      5
+    ],
+    [
+      "6px",
+      4
+    ],
+    [
+      "8px",
+      3
+    ],
+    [
+      "24px",
+      2
+    ],
+    [
+      "900px",
+      2
+    ],
+    [
+      "14px",
+      2
+    ],
+    [
+      "22px",
+      2
+    ],
+    [
+      "9px",
+      1
+    ],
+    [
+      "11px",
+      1
+    ],
+    [
+      "98px",
+      1
+    ],
+    [
+      "37px",
+      1
+    ],
+    [
+      "5.5px",
+      1
+    ],
+    [
+      "3.7px",
+      1
+    ],
+    [
+      "33.5px",
+      1
+    ],
+    [
+      "21px",
+      1
+    ],
+    [
+      "33px",
+      1
+    ],
+    [
+      "44px",
+      1
+    ],
+    [
+      "82px",
+      1
+    ],
+    [
+      "1px",
+      1
+    ],
+    [
+      "26px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      24,
+      698
+    ],
+    [
+      16,
+      251
+    ],
+    [
+      12,
+      132
+    ],
+    [
+      14,
+      33
+    ],
+    [
+      13,
+      32
+    ],
+    [
+      15,
+      9
+    ],
+    [
+      8,
+      2
+    ],
+    [
+      32,
+      2
+    ],
+    [
+      128,
+      2
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      48,
+      1
+    ],
+    [
+      76,
+      1
+    ],
+    [
+      160,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 4,
+    "neg_tracked": 2
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 25,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 57,
+    "centered_fraction": 0.03508771929824561
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "온체인에서 나의 공간",
+    "buttons": [
+      "이 대화 상자 닫기",
+      "쿠키 정책",
+      "개인정보 보호정책",
+      "저장 환경 설정",
+      "저장",
+      "모두 동의",
+      "필수적이지 않은 항목 거부",
+      "주요 기능",
+      "개발자",
+      "카드",
+      "MetaMask USD",
+      "한국어한국어",
+      "METAMASK 받기METAMASK 받기",
+      "METAMASK 받기METAMASK 받기",
+      "METAMASK 받기METAMASK 받기",
+      "구독구독",
+      "개인정보 처리방침",
+      "레슨 시작레슨 시작",
+      "MetaMask 받기",
+      "매수",
+      "수익 창출",
+      "스왑",
+      "실물자산신규",
+      "보상신규",
+      "예측 시장신규",
+      "무기한 선물신규",
+      "Transaction Shield",
+      "Snaps",
+      "카드",
+      "MetaMask USD",
+      "알아보기",
+      "문서 보기",
+      "개발자 홈",
+      "대시보드",
+      "Smart Accounts Kit",
+      "임베디드 지갑",
+      "MetaMask Connect",
+      "Snaps",
+      "웹3 서비스",
+      "보안",
+      "지원",
+      "블로그",
+      "채용",
+      "연락처",
+      "Bitcoin Price",
+      "Ethereum Price",
+      "Solana Price",
+      "Shiba Inu Price",
+      "Pepe Price",
+      "Tether Price",
+      "USDC Price",
+      "Chanlink Price",
+      "BTC to USD",
+      "ETH to USD",
+      "USDT to INR",
+      "BTC to USDT",
+      "BTC to INR",
+      "ETH to USDT",
+      "USDT to PHP",
+      "BTC to EUR"
+    ]
+  },
+  "ok": true
+}

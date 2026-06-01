@@ -1,0 +1,260 @@
+{
+  "url": "https://calendly.com",
+  "name": "calendly.com",
+  "title": "Free Online Appointment Scheduling Software | Calendly",
+  "fonts": {
+    "body": "gilroy",
+    "heading": "gilroy",
+    "loaded_count": 5,
+    "loaded_sample": [
+      "gilroy",
+      "gilroy fallback",
+      "geist",
+      "calendly sans",
+      "wulkan text"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      215,
+      215,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      207,
+      210,
+      210,
+      215,
+      215,
+      215,
+      215,
+      207,
+      207,
+      215,
+      215,
+      215,
+      215,
+      207,
+      207,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      211,
+      207,
+      207,
+      211,
+      207,
+      207,
+      215,
+      215
+    ],
+    "accent_sampled": 58,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      12,
+      18
+    ],
+    [
+      8,
+      10
+    ],
+    [
+      24,
+      10
+    ],
+    [
+      50,
+      10
+    ],
+    [
+      4,
+      4
+    ]
+  ],
+  "shadows": {
+    "other": 22
+  },
+  "paddings": [
+    [
+      "24px",
+      12
+    ],
+    [
+      "32px",
+      6
+    ],
+    [
+      "4px",
+      4
+    ],
+    [
+      "10px",
+      4
+    ],
+    [
+      "16px",
+      2
+    ],
+    [
+      "6px",
+      2
+    ],
+    [
+      "64px",
+      2
+    ],
+    [
+      "72px",
+      1
+    ],
+    [
+      "96px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      539
+    ],
+    [
+      9,
+      70
+    ],
+    [
+      18,
+      30
+    ],
+    [
+      20,
+      30
+    ],
+    [
+      10,
+      22
+    ],
+    [
+      14,
+      20
+    ],
+    [
+      19,
+      12
+    ],
+    [
+      12,
+      6
+    ],
+    [
+      22,
+      6
+    ],
+    [
+      24,
+      6
+    ],
+    [
+      27,
+      4
+    ],
+    [
+      28,
+      4
+    ],
+    [
+      8,
+      2
+    ],
+    [
+      11,
+      2
+    ],
+    [
+      80,
+      2
+    ],
+    [
+      50,
+      1
+    ],
+    [
+      68,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 8,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 2,
+    "sheets_blocked": 3
+  },
+  "layout": {
+    "blocks": 32,
+    "centered_fraction": 0.0625
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Easy scheduling ahead",
+    "buttons": [
+      "Product",
+      "Solutions",
+      "Resources",
+      "Pricing",
+      "Talk to sales",
+      "Log In",
+      "Get started for freeGet started",
+      "Sign up with Google",
+      "Sign up with Microsoft",
+      "Sign up free with email.",
+      "Sign up for free",
+      "Connect your calendars",
+      "Add your availability",
+      "Connect conferencing tools",
+      "Customize your event types",
+      "Share your scheduling link",
+      "View all integrations",
+      "Sign up for free",
+      "Browser extensions",
+      "Automated workflows",
+      "Routing forms",
+      "Round robin & collective events",
+      "Admin management"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,326 @@
+{
+  "url": "https://www.contentful.com",
+  "name": "www.contentful.com",
+  "title": "Content that scales. Experiences that convert. | Contentful",
+  "fonts": {
+    "body": "ui-sans-serif",
+    "heading": "avenirnextfont",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "swiper-icons",
+      "avenirnextfont",
+      "avenirnextfont fallback",
+      "avenir next w01"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      214,
+      220,
+      220,
+      212,
+      212,
+      212,
+      220,
+      216,
+      220,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      216,
+      220,
+      216,
+      216,
+      216,
+      220,
+      216,
+      220,
+      208,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      214,
+      214,
+      214,
+      214,
+      220,
+      220,
+      214,
+      214,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220
+    ],
+    "accent_sampled": 104,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      20,
+      18
+    ],
+    [
+      48,
+      16
+    ],
+    [
+      12,
+      13
+    ],
+    [
+      16,
+      6
+    ],
+    [
+      40,
+      3
+    ],
+    [
+      42,
+      3
+    ],
+    [
+      15,
+      1
+    ],
+    [
+      50,
+      1
+    ],
+    [
+      100,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "32px",
+      42
+    ],
+    [
+      "16px",
+      25
+    ],
+    [
+      "8px",
+      14
+    ],
+    [
+      "64px",
+      12
+    ],
+    [
+      "10px",
+      6
+    ],
+    [
+      "14px",
+      5
+    ],
+    [
+      "24px",
+      1
+    ],
+    [
+      "9.5px",
+      1
+    ],
+    [
+      "6px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      671
+    ],
+    [
+      14,
+      53
+    ],
+    [
+      22,
+      24
+    ],
+    [
+      18,
+      19
+    ],
+    [
+      56,
+      8
+    ],
+    [
+      72,
+      8
+    ],
+    [
+      20,
+      3
+    ],
+    [
+      32,
+      3
+    ],
+    [
+      10,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 9,
+    "neg_tracked": 9
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 98,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 100,
+    "centered_fraction": 0.08
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Lorem ipsum dolor sit amet... whatever",
+    "buttons": [
+      "이 대화 상자 닫기",
+      "쿠키 정책",
+      "개인정보 보호정책",
+      "환경 설정 관리",
+      "모두 동의",
+      "필수적이지 않은 항목 거부",
+      "Contentful",
+      "Products",
+      "Solutions",
+      "Resources",
+      "Developers",
+      "Partners",
+      "Pricing",
+      "Log in",
+      "Contact sales",
+      "✨Next-gen digital experiences",
+      "Explore Contentful Personalization",
+      "SumUp logo",
+      "Mailchimp logo",
+      "Docusign",
+      "View all solutions",
+      "More content, more meaningful results",
+      "View case study",
+      "Browse all",
+      "Manage content",
+      "Personalize for users",
+      "Create smarter content",
+      "Design experiences",
+      "Take action with insights",
+      "Explore Contentful Platform",
+      "Explore Ecosystem",
+      "No-code personalization",
+      "Optimize campaigns on the fly",
+      "Centralized content management",
+      "Faster workflows",
+      "Atlassian",
+      "Kraft Heinz",
+      "Mailchimp",
+      "AWS",
+      "Notion",
+      "Rapha",
+      "Docusign",
+      "BigCommerce",
+      "Staples",
+      "Danone",
+      "Platform",
+      "Personalization",
+      "AI Actions",
+      "Analytics",
+      "What's New",
+      "Use Cases",
+      "Pricing",
+      "Documentation",
+      "Help Center",
+      "Training",
+      "Ecosystem",
+      "Changelog",
+      "System status",
+      "FAQs",
+      "About us"
+    ]
+  },
+  "ok": true
+}

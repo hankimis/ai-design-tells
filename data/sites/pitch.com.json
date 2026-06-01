@@ -1,0 +1,499 @@
+{
+  "url": "https://pitch.com",
+  "name": "pitch.com",
+  "title": "The AI presentation workspace",
+  "fonts": {
+    "body": "sans-serif",
+    "heading": "mark pro bold",
+    "loaded_count": 11,
+    "loaded_sample": [
+      "space mono",
+      "mark pro bold",
+      "eina 03 regular",
+      "eina 03 bold",
+      "mark pro regular",
+      "inter",
+      "mark pro bold placeholder",
+      "eina 03 regular placeholder",
+      "eina 03 bold placeholder",
+      "mark pro regular placeholder",
+      "inter placeholder"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      263,
+      263,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      84,
+      240,
+      240,
+      258,
+      258,
+      258,
+      263,
+      263,
+      257,
+      240,
+      240,
+      258,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      84,
+      240,
+      240,
+      84,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      240,
+      258,
+      240,
+      240,
+      258,
+      240,
+      240,
+      258,
+      240,
+      240,
+      258,
+      240,
+      240,
+      258,
+      240,
+      240,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      240,
+      240,
+      84,
+      240,
+      240
+    ],
+    "accent_sampled": 198,
+    "purple_accents": 194,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      20,
+      31
+    ],
+    [
+      24,
+      18
+    ],
+    [
+      40,
+      18
+    ],
+    [
+      4,
+      12
+    ],
+    [
+      8,
+      11
+    ],
+    [
+      12,
+      8
+    ],
+    [
+      30,
+      8
+    ],
+    [
+      32,
+      6
+    ],
+    [
+      70,
+      6
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      7.62,
+      3
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      16,
+      1
+    ],
+    [
+      60,
+      1
+    ],
+    [
+      100,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "24px",
+      22
+    ],
+    [
+      "12px",
+      15
+    ],
+    [
+      "32px",
+      10
+    ],
+    [
+      "120px",
+      7
+    ],
+    [
+      "8px",
+      5
+    ],
+    [
+      "10px",
+      3
+    ],
+    [
+      "80px",
+      3
+    ],
+    [
+      "16px",
+      3
+    ],
+    [
+      "40px",
+      3
+    ],
+    [
+      "104px",
+      2
+    ],
+    [
+      "54px",
+      2
+    ],
+    [
+      "14px",
+      2
+    ],
+    [
+      "210px",
+      1
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "4px",
+      1
+    ],
+    [
+      "70px",
+      1
+    ],
+    [
+      "7.62481px",
+      1
+    ],
+    [
+      "216px",
+      1
+    ],
+    [
+      "64px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      12,
+      891
+    ],
+    [
+      16,
+      156
+    ],
+    [
+      60,
+      39
+    ],
+    [
+      20,
+      30
+    ],
+    [
+      14,
+      29
+    ],
+    [
+      48,
+      29
+    ],
+    [
+      180,
+      25
+    ],
+    [
+      32,
+      21
+    ],
+    [
+      28,
+      14
+    ],
+    [
+      64,
+      12
+    ],
+    [
+      92,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 8,
+    "neg_tracked": 8
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 8,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 124,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Create slides that win.",
+    "buttons": [
+      "See what’s new",
+      "Product",
+      "Use Cases",
+      "Templates",
+      "Resources",
+      "Pricing",
+      "Log in",
+      "Sign up",
+      "Prompts",
+      "Generate",
+      "See customer stories",
+      "Start creating",
+      "Register your interest",
+      "Explore integrations",
+      "Sign up for free",
+      "Get a demo",
+      "Browse templates",
+      "Free plan",
+      "our pricing page",
+      "our gallery",
+      "contact support",
+      "What’s new",
+      "Pricing",
+      "Integrations",
+      "Pitch decks",
+      "Sales deck",
+      "Team meetings",
+      "Board decks",
+      "Presentation maker",
+      "AI Presentation maker",
+      "Video Presentation maker",
+      "Pitch vs PowerPoint",
+      "Pitch vs Keynote",
+      "Pitch vs Google Slides",
+      "Pitch vs Figma Slides",
+      "Academy",
+      "Help center",
+      "Download",
+      "Status",
+      "Pitch deck",
+      "Marketing",
+      "Startups",
+      "Design",
+      "Sales",
+      "Business",
+      "UX",
+      "Proposal",
+      "Report",
+      "Simple",
+      "Creative",
+      "Professional",
+      "Modern",
+      "Project plan",
+      "Project proposal",
+      "Portfolio",
+      "Brand",
+      "Product",
+      "Agency",
+      "Terms of Use",
+      "Privacy Policy"
+    ]
+  },
+  "ok": true
+}

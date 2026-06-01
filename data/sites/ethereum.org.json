@@ -1,0 +1,341 @@
+{
+  "url": "https://ethereum.org",
+  "name": "ethereum.org",
+  "title": "Ethereum - The complete guide from ethereum.org",
+  "fonts": {
+    "body": "inter",
+    "heading": "inter",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "inter",
+      "inter fallback",
+      "ibm plex mono",
+      "ibm plex mono fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263,
+      263
+    ],
+    "accent_sampled": 91,
+    "purple_accents": 91,
+    "any_gradients": 8,
+    "blue_purple_gradients": 1
+  },
+  "radii": [
+    [
+      4,
+      16
+    ],
+    [
+      33554400,
+      16
+    ],
+    [
+      24,
+      14
+    ],
+    [
+      8,
+      6
+    ],
+    [
+      32,
+      5
+    ],
+    [
+      6,
+      3
+    ],
+    [
+      38,
+      3
+    ],
+    [
+      50,
+      3
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      16,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 12
+  },
+  "paddings": [
+    [
+      "8px",
+      18
+    ],
+    [
+      "16px",
+      12
+    ],
+    [
+      "32px",
+      12
+    ],
+    [
+      "48px",
+      5
+    ],
+    [
+      "4px",
+      2
+    ],
+    [
+      "12px",
+      2
+    ],
+    [
+      "24px",
+      2
+    ],
+    [
+      "2px",
+      1
+    ],
+    [
+      "64px",
+      1
+    ],
+    [
+      "96px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ],
+    [
+      "20px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      407
+    ],
+    [
+      14,
+      198
+    ],
+    [
+      24,
+      29
+    ],
+    [
+      30,
+      17
+    ],
+    [
+      18,
+      16
+    ],
+    [
+      60,
+      9
+    ],
+    [
+      35,
+      7
+    ],
+    [
+      48,
+      5
+    ],
+    [
+      12,
+      4
+    ],
+    [
+      36,
+      3
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      64,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 9,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 2,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 38,
+    "centered_fraction": 0.15789473684210525
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "The internet that belongs to you",
+    "buttons": [
+      "Skip to main content",
+      "Learn",
+      "Use",
+      "Build",
+      "Participate",
+      "Research",
+      "Search⌘K",
+      "Languages EN",
+      "Overview",
+      "What is Ethereum?",
+      "What is the Ethereum network?",
+      "What is ether (ETH)?",
+      "What is Web3?",
+      "Ethereum vs Bitcoin",
+      "Smart contracts",
+      "Ethereum wallets",
+      "Gas fees",
+      "What are layer 2 networks?",
+      "Staking",
+      "Privacy on Ethereum",
+      "Ethereum security and scam prevention",
+      "Support",
+      "Test your knowledge",
+      "Videos",
+      "Start here",
+      "Choose your wallet",
+      "Get ETH",
+      "Explore apps",
+      "See all guides",
+      "Payments",
+      "Stablecoins",
+      "Prediction markets",
+      "See all use cases",
+      "Solo staking",
+      "Run a node",
+      "Pooled staking",
+      "Staking with a service",
+      "Layer 2 networks",
+      "Find an L2 network",
+      "Blockchain bridges",
+      "Builder's home",
+      "Builder tools & apps",
+      "Code tutorials",
+      "Learn by coding",
+      "Overview",
+      "Foundational topics",
+      "Ethereum stack",
+      "UX/UI design fundamentals",
+      "Founders",
+      "Institution & enterprise",
+      "Community hub",
+      "Events calendar",
+      "Online communities",
+      "Devcon",
+      "Where to start",
+      "Grants",
+      "About ethereum.org",
+      "Contributing to ethereum.org",
+      "Translation Program",
+      "ethereum.org collectibles"
+    ]
+  },
+  "ok": true
+}

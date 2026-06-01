@@ -1,0 +1,64 @@
+{
+  "url": "https://activetheory.net",
+  "name": "activetheory.net",
+  "title": "Active Theory · Creative Digital Experiences",
+  "fonts": {
+    "body": "times",
+    "heading": "times",
+    "loaded_count": 1,
+    "loaded_sample": [
+      "nbarchitekt"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      240,
+      240,
+      240,
+      240,
+      240,
+      240
+    ],
+    "accent_sampled": 6,
+    "purple_accents": 6,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [],
+  "shadows": {},
+  "paddings": [],
+  "font_sizes": [
+    [
+      16,
+      18
+    ],
+    [
+      13,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 3,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 10,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "Toggle Audio",
+      "Work",
+      "Contact"
+    ]
+  },
+  "ok": true
+}

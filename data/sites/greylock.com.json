@@ -1,0 +1,276 @@
+{
+  "url": "https://greylock.com",
+  "name": "greylock.com",
+  "title": "Greylock Partners",
+  "fonts": {
+    "body": "neue-haas-grotesk-text",
+    "heading": "miller-display",
+    "loaded_count": 10,
+    "loaded_sample": [
+      "miller-display",
+      "neue-haas-grotesk-text",
+      "aglet-mono",
+      "font awesome 5 brands",
+      "font awesome 5 free",
+      "slick",
+      "font awesome 6 brands",
+      "font awesome 6 free",
+      "fontawesome",
+      "n27"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      209,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      192,
+      192,
+      192,
+      192,
+      192,
+      192,
+      192,
+      192,
+      192,
+      192,
+      192,
+      192,
+      192,
+      210,
+      210,
+      192,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      192,
+      210,
+      210
+    ],
+    "accent_sampled": 54,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      2.4,
+      4
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "10px",
+      26
+    ],
+    [
+      "16px",
+      14
+    ],
+    [
+      "18px",
+      5
+    ],
+    [
+      "100px",
+      3
+    ],
+    [
+      "32px",
+      3
+    ],
+    [
+      "46px",
+      1
+    ],
+    [
+      "112px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ],
+    [
+      "225px",
+      1
+    ],
+    [
+      "73px",
+      1
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "25px",
+      1
+    ],
+    [
+      "33px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      148
+    ],
+    [
+      14,
+      48
+    ],
+    [
+      30,
+      20
+    ],
+    [
+      18,
+      12
+    ],
+    [
+      72,
+      12
+    ],
+    [
+      11,
+      6
+    ],
+    [
+      24,
+      6
+    ],
+    [
+      26,
+      6
+    ],
+    [
+      36,
+      5
+    ],
+    [
+      12,
+      3
+    ],
+    [
+      22,
+      3
+    ],
+    [
+      80,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 3,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 13,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 36,
+    "centered_fraction": 0.027777777777777776
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Your first partner.",
+    "buttons": [
+      "Portfolio",
+      "All Companies",
+      "AI",
+      "Cybersecurity",
+      "Infrastructure",
+      "Saas",
+      "Consumer",
+      "Marketplaces & Commerce",
+      "Fintech & Crypto",
+      "Edge",
+      "Team",
+      "Firm",
+      "Perspective",
+      "Specialists",
+      "Blog",
+      "Newsletter",
+      "Jobs",
+      "Portfolio",
+      "All Companies",
+      "AI",
+      "Cybersecurity",
+      "Infrastructure",
+      "Saas",
+      "Consumer",
+      "Marketplaces & Commerce",
+      "Fintech & Crypto",
+      "Edge",
+      "Team",
+      "Firm",
+      "Perspective",
+      "Specialists",
+      "Blog",
+      "Newsletter",
+      "Jobs",
+      "linkedin",
+      "twitter",
+      "youtube",
+      "Contact Us",
+      "LP Login",
+      "Pre-Seed, Seed, or Series A.",
+      "whiteboard.",
+      "We partner",
+      "perspective",
+      "Learn More",
+      "All Companies",
+      "AI",
+      "CYBERSECURITY",
+      "INFRASTRUCTURE",
+      "SAAS",
+      "CONSUMER",
+      "MARKETPLACES & COMMERCE",
+      "FINTECH & CRYPTO",
+      "View All",
+      "Portfolio News",
+      "link",
+      "Firm News",
+      "link",
+      "Portfolio News",
+      "link",
+      "linkedin"
+    ]
+  },
+  "ok": true
+}

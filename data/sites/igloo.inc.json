@@ -1,0 +1,50 @@
+{
+  "url": "https://igloo.inc",
+  "name": "igloo.inc",
+  "title": "Igloo Inc.",
+  "fonts": {
+    "body": "times",
+    "heading": "times",
+    "loaded_count": 2,
+    "loaded_sample": [
+      "ibmplexmono-medium",
+      "ibmplexmono-regular"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [],
+  "shadows": {},
+  "paddings": [],
+  "font_sizes": [
+    [
+      16,
+      6
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": false,
+    "hairline_rule": false,
+    "sheets_read": 3,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 3,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": []
+  },
+  "ok": true
+}

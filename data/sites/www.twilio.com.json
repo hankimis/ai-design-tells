@@ -1,0 +1,383 @@
+{
+  "url": "https://www.twilio.com",
+  "name": "www.twilio.com",
+  "title": "Conversational AI and APIs for SMS, Email, Voice | Twilio",
+  "fonts": {
+    "body": "whitney ssm",
+    "heading": "whitney ssm",
+    "loaded_count": 5,
+    "loaded_sample": [
+      "whitney ssm",
+      "twilio sans mono",
+      "buffalo",
+      "wistiaplayerinternumberssemibold",
+      "wistiaplayerinter"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      214,
+      214,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      214,
+      214,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      218,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      218,
+      219,
+      219,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      219,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227,
+      227
+    ],
+    "accent_sampled": 156,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      50,
+      42
+    ],
+    [
+      20,
+      8
+    ],
+    [
+      4,
+      7
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      10,
+      3
+    ]
+  ],
+  "shadows": {
+    "other": 7
+  },
+  "paddings": [
+    [
+      "4px",
+      53
+    ],
+    [
+      "8px",
+      49
+    ],
+    [
+      "32px",
+      34
+    ],
+    [
+      "12px",
+      12
+    ],
+    [
+      "24px",
+      6
+    ],
+    [
+      "64px",
+      4
+    ],
+    [
+      "6px",
+      2
+    ],
+    [
+      "10px",
+      1
+    ],
+    [
+      "111px",
+      1
+    ],
+    [
+      "96px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      700
+    ],
+    [
+      14,
+      178
+    ],
+    [
+      18,
+      43
+    ],
+    [
+      12,
+      25
+    ],
+    [
+      72,
+      16
+    ],
+    [
+      20,
+      12
+    ],
+    [
+      48,
+      9
+    ],
+    [
+      40,
+      7
+    ],
+    [
+      23,
+      3
+    ],
+    [
+      28,
+      3
+    ],
+    [
+      64,
+      3
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      56,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 12,
+    "neg_tracked": 12
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 20,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 73,
+    "centered_fraction": 0.0136986301369863
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "The platform for conversations in the AI era",
+    "buttons": [
+      "___",
+      "Twilio logo",
+      "An icon of a search magnifying glass",
+      "Contact sales",
+      "Start for free",
+      "Start for free",
+      "Explore what's possible",
+      "Discover the Twilio Platform",
+      "Handoff",
+      "Platform",
+      "View all products",
+      "Start conversations",
+      "Send messages",
+      "Send emails",
+      "Make calls",
+      "Verify users",
+      "Connect data",
+      "View docs",
+      "Python logo",
+      "C# logo",
+      "PHP logo",
+      "Ruby logo",
+      "Java logo",
+      "JavaScript logo",
+      "Curl logo",
+      "Get inspired",
+      "Start for free",
+      "View pricing",
+      "Twilio",
+      "Twilio careers",
+      "Twilio.org",
+      "Press and media",
+      "Investor relations",
+      "Legal",
+      "Privacy",
+      "Security",
+      "Sitemap",
+      "LLMS",
+      "Facebook logo",
+      "Twitter Logo\n    Follow us on Twitter",
+      "LinkedIn logo",
+      "About Twilio",
+      "Customer Engagement Platform (CEP)",
+      "Communications",
+      "Conversational AI",
+      "User authentication and identity",
+      "Customer Data Platform (CDP)",
+      "AI",
+      "Customer stories",
+      "Events",
+      "Contact sales",
+      "SMTP",
+      "Branded Calling",
+      "Twilio Segment",
+      "Twilio Engage",
+      "Connections",
+      "SendGrid Email API",
+      "RCS messaging",
+      "Latest innovations",
+      "Pre-built solutions"
+    ]
+  },
+  "ok": true
+}

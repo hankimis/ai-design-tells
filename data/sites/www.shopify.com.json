@@ -1,0 +1,372 @@
+{
+  "url": "https://www.shopify.com",
+  "name": "www.shopify.com",
+  "title": "Shopify 대한민국",
+  "fonts": {
+    "body": "neuehaasgrotesk",
+    "heading": "neuehaasgrotesk",
+    "loaded_count": 23,
+    "loaded_sample": [
+      "ibmplexmono",
+      "polysans",
+      "drukcondsuper",
+      "druktextheavy",
+      "ft88",
+      "roslindale",
+      "trap",
+      "featuredisplay",
+      "goodsans",
+      "pathwaygothicone",
+      "graphikcondensed",
+      "gtsuperdisplay"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      166,
+      220,
+      166,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220
+    ],
+    "accent_sampled": 102,
+    "purple_accents": 0,
+    "any_gradients": 27,
+    "blue_purple_gradients": 2
+  },
+  "radii": [
+    [
+      12,
+      31
+    ],
+    [
+      33554400,
+      21
+    ],
+    [
+      4,
+      16
+    ],
+    [
+      8,
+      10
+    ],
+    [
+      9999,
+      7
+    ],
+    [
+      20,
+      6
+    ],
+    [
+      340,
+      6
+    ],
+    [
+      5,
+      3
+    ],
+    [
+      48,
+      3
+    ],
+    [
+      100,
+      3
+    ],
+    [
+      16,
+      2
+    ]
+  ],
+  "shadows": {
+    "other": 30
+  },
+  "paddings": [
+    [
+      "10px",
+      22
+    ],
+    [
+      "4px",
+      12
+    ],
+    [
+      "8px",
+      11
+    ],
+    [
+      "12px",
+      11
+    ],
+    [
+      "32px",
+      8
+    ],
+    [
+      "16px",
+      6
+    ],
+    [
+      "40px",
+      4
+    ],
+    [
+      "64px",
+      4
+    ],
+    [
+      "80px",
+      4
+    ],
+    [
+      "13px",
+      3
+    ],
+    [
+      "24px",
+      2
+    ],
+    [
+      "72px",
+      1
+    ],
+    [
+      "225px",
+      1
+    ],
+    [
+      "100px",
+      1
+    ],
+    [
+      "128px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      510
+    ],
+    [
+      14,
+      266
+    ],
+    [
+      96,
+      45
+    ],
+    [
+      18,
+      38
+    ],
+    [
+      20,
+      21
+    ],
+    [
+      55,
+      15
+    ],
+    [
+      12,
+      11
+    ],
+    [
+      48,
+      7
+    ],
+    [
+      28,
+      3
+    ],
+    [
+      24,
+      1
+    ],
+    [
+      70,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 5,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": false,
+    "hairline_rule": false,
+    "sheets_read": 1,
+    "sheets_blocked": 1
+  },
+  "layout": {
+    "blocks": 89,
+    "centered_fraction": 0.011235955056179775
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "다음 목적지는AI 올스타",
+    "buttons": [
+      "콘텐츠로 건너뛰기",
+      "빠르게 시작하세요내일부터 바로 판매할 수 있습니다.",
+      "세계 최고의 결제 시스템검증된 전환율 향상 효과를 경험하세요.",
+      "Sidekick상거래에 최적화된 AI 어시스턴트를 만나보세요.",
+      "웹사이트 빌더",
+      "테마",
+      "도메인",
+      "고객 계정",
+      "Sidekick",
+      "온라인",
+      "AI 채팅",
+      "POS(Point of Sale)",
+      "Shop 앱",
+      "소셜 및 마켓플레이스",
+      "전 세계",
+      "B2B",
+      "Markets 전체에 \u001d적용하기",
+      "광고 및 캠페인",
+      "이메일 및 고객 채팅",
+      "할인",
+      "분석",
+      "주문 및 재고",
+      "배송",
+      "워크플로 자동화",
+      "결제",
+      "지급",
+      "에이전트 전용 상거래에이전트 도구로 구축하세요",
+      "Shopify App Store최대 규모의 상거래 에코시스템",
+      "Shopify.dev개발자 설명서, CLI 등",
+      "Sidekick Pulse",
+      "Product Network",
+      "Dev MCP 전면 지원",
+      "요금제",
+      "Enterprise",
+      "로그인",
+      "무료 체험 시작",
+      "무료 체험 시작",
+      "플랜 보기",
+      "Shopify를 구축해야 하는 이유",
+      "stevemadden.com",
+      "ornotbike.com",
+      "glossier.com",
+      "houseplant.com",
+      "kotn.com",
+      "eastfork.com",
+      "monos.com",
+      "stanley1913.com",
+      "shopyowie.com",
+      "tecovas.com",
+      "kirrinfinch.com",
+      "brooklinen.com",
+      "Agentic Storefronts",
+      "멋진 스토어를 구축하세요",
+      "다중 채널 통합",
+      "Shopify POS",
+      "Shop 앱",
+      "Shopify Markets",
+      "내게 맞는 플랜 선택",
+      "Sidekick",
+      "21,000개 이상의 상거래 앱"
+    ]
+  },
+  "ok": true
+}

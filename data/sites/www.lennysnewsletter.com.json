@@ -1,0 +1,202 @@
+{
+  "url": "https://www.lennysnewsletter.com",
+  "name": "www.lennysnewsletter.com",
+  "title": "Lenny's Newsletter | Substack",
+  "fonts": {
+    "body": "spectral",
+    "heading": "sf pro display",
+    "loaded_count": 1,
+    "loaded_sample": [
+      "spectral"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      15,
+      15,
+      15
+    ],
+    "accent_sampled": 3,
+    "purple_accents": 0,
+    "any_gradients": 4,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      4,
+      96
+    ],
+    [
+      8,
+      34
+    ]
+  ],
+  "shadows": {
+    "other": 5
+  },
+  "paddings": [
+    [
+      "4px",
+      58
+    ],
+    [
+      "8px",
+      15
+    ],
+    [
+      "16px",
+      4
+    ],
+    [
+      "10px",
+      3
+    ],
+    [
+      "24px",
+      2
+    ],
+    [
+      "12px",
+      2
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      19,
+      282
+    ],
+    [
+      13,
+      258
+    ],
+    [
+      11,
+      115
+    ],
+    [
+      14,
+      67
+    ],
+    [
+      12,
+      43
+    ],
+    [
+      10,
+      14
+    ],
+    [
+      15,
+      14
+    ],
+    [
+      17,
+      4
+    ],
+    [
+      24,
+      2
+    ],
+    [
+      16,
+      1
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      30,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": false,
+    "hairline_rule": false,
+    "sheets_read": 4,
+    "sheets_blocked": 27
+  },
+  "layout": {
+    "blocks": 39,
+    "centered_fraction": 0.10256410256410256
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "",
+    "buttons": [
+      "Subscribe",
+      "Sign in",
+      "Home",
+      "Podcast",
+      "Start here",
+      "Top posts",
+      "How I AI",
+      "Community",
+      "Product pass",
+      "Lennybot",
+      "About",
+      "Lenny Rachitsky",
+      "441",
+      "9",
+      "16",
+      "View all",
+      "Lenny Rachitsky",
+      "712",
+      "25",
+      "49",
+      "State of the product job market in 2025",
+      "Lenny Rachitsky",
+      "277",
+      "6",
+      "11",
+      "Colin Matthews",
+      "736",
+      "13",
+      "55",
+      "Claire Vo",
+      "878",
+      "6",
+      "74",
+      "Latest",
+      "Top",
+      "Discussions",
+      "The Lenny and Friends Summit is back!",
+      "Lenny Rachitsky",
+      "139",
+      "2",
+      "2",
+      "Vikas Kansal",
+      "340",
+      "6",
+      "12",
+      "Your Couch-to-5K for AI",
+      "Hilary Gridley",
+      "384",
+      "5",
+      "14",
+      "Lenny Rachitsky",
+      "315",
+      "36",
+      "9",
+      "Not all AI agents are created equal",
+      "Hamza Farooq",
+      "Jaya Rajwani",
+      "442",
+      "5",
+      "23"
+    ]
+  },
+  "ok": true
+}

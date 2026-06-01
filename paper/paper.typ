@@ -24,7 +24,7 @@
 #align(center)[#block(width: 92%, inset: 9pt, stroke: 0.5pt + luma(170), radius: 4pt)[
   #set text(9.5pt)
   #set par(justify: true)
-  *Abstract.* Interfaces produced by generative models are instantly recognizable: an indigo-to-violet gradient, Inter on white, a hero followed by three emoji feature cards, one border-radius, one soft shadow, a headline that says _build the future of work_. Practitioners spend large amounts of time and tokens trying to make AI output _not look like AI_, yet the target is treated as ineffable taste. We argue the opposite: the "AI look" is a *finite, enumerable set of statistical defaults*, and is therefore measurable. We contribute (i) a taxonomy of *21 design tells* across seven families (color, type, layout, spacing, surface, motion, copy), each grounded in the documented mechanism of model convergence and in the published craft of human-crafted interfaces; (ii) a dependency-free static detector that resolves both raw CSS and utility classes and reports a *Tell Score* in $[0,100]$ (lower is better); and (iii) a harness, a CLI, an MCP server, and a drop-in prompt module, so any team or agent can audit and prevent the look. In a confound-controlled refactor that holds a page's content and structure fixed and changes only the tell-bearing properties, the Tell Score of a canonical AI landing page falls from *76 (grade F)* to *0 (grade A)*; across a six-page corpus the detector separates AI-default from designed pages with no overlap (nearest pair 49.5 points apart). We close with the epistemics: a discriminator of machine-default is not a judge of beauty, taste is the compression of lived choices that a median cannot hold, and if everyone optimizes the same score we risk a second-order convergence, the same homogenization our companion study finds in iterated creation. Code, data, figures and harness are open.
+  *Abstract.* Interfaces produced by generative models are instantly recognizable: an indigo-to-violet gradient, Inter on white, a hero followed by three emoji feature cards, one border-radius, one soft shadow, a headline that says _build the future of work_. Practitioners spend large amounts of time and tokens trying to make AI output _not look like AI_, yet the target is treated as ineffable taste. We argue the opposite: the "AI look" is a *finite, enumerable set of statistical defaults*, and is therefore measurable. We contribute (i) a taxonomy of *21 design tells* across seven families (color, type, layout, spacing, surface, motion, copy), each grounded in the documented mechanism of model convergence and in the published craft of human-crafted interfaces; (ii) a dependency-free static detector that resolves both raw CSS and utility classes and reports a *Tell Score* in $[0,100]$ (lower is better); and (iii) a harness, a CLI, an MCP server, and a drop-in prompt module, so any team or agent can audit and prevent the look. In a confound-controlled refactor that holds a page's content and structure fixed and changes only the tell-bearing properties, the Tell Score of a canonical AI landing page falls from *76 (grade F)* to *0 (grade A)*; across a six-page corpus the detector separates AI-default from designed pages with no overlap (nearest pair 49.5 points apart). To check the detector is a discriminator and not a machine that calls everything AI, we render *202 real top-tier sites* (Stripe, Linear, Toss, Apple, Vercel, Figma, and 196 more) in a headless browser, read their computed styles, and *learn* the empirical distribution of human-crafted design. Recalibrated on that data, with a craft-credit model in which compensating craft (a custom face, optical tracking, a radius hierarchy) offsets cosmetic defaults, the detector scores the 202 real sites at a *median of 0* (93% grade A) while the AI-default pages still score 35 to 59, and it now audits *live URLs*, not only self-contained files. The data overturns two naive rules: a brand purple is not a tell (Stripe uses it heavily and scores 0), and Inter is not a tell (Linear ships it with a real type system). We close with the epistemics: a discriminator of machine-default is not a judge of beauty, taste is the compression of lived choices that a median cannot hold, and if everyone optimizes the same score we risk a second-order convergence, the same homogenization our companion study finds in iterated creation. Code, data, figures and harness are open.
 ]]
 
 = Introduction
@@ -407,6 +407,118 @@ which the single-document detector does not yet do (§9).
 ) <fig-heatmap>
 
 
+= Recalibration and validation on 202 real sites
+
+The results so far rest on authored fixtures. A fair reader objects: maybe the
+detector is not a discriminator but a machine that flags *any* page, calling the
+whole web AI. The only way to answer is to point it at real, human-crafted design
+at scale and see whether the best work in the world scores low. It must, or the
+instrument is worthless.
+
+== A live-DOM corpus
+
+We curated *202 design-led, human-crafted sites* across categories: developer
+tools and infrastructure (Stripe, Vercel, Linear, Supabase, Railway, Cloudflare),
+AI labs (Anthropic, OpenAI, Perplexity), fintech (Toss, Mercury, Ramp, Brex),
+design and productivity (Figma, Notion, Framer, Canva, Raycast), and consumer
+brands (Apple, Airbnb, Nike, Spotify, Duolingo). For each we drive headless Chrome
+(Playwright), let the CSS and webfonts fully apply, and read the *computed styles*
+off the live DOM, the ground truth a static parse of one file cannot see. This is
+also the upgrade that lets the detector audit a deployed URL, not only a
+self-contained document, removing v1's central limitation.
+
+== What the data overturns
+
+Three of the v1 tells, taken from the literature, are *wrong as stated* once
+measured against real design (@tab-learned). The corpus median is *10 distinct
+font sizes* (p90 = 15), so "more than nine sizes means no scale" would flag nearly
+every top site; the real signal is only the degenerate one-or-two-size case.
+*A third of top sites use a purple accent* and Stripe paints 123 of them, so
+purple hue cannot be a tell; only the exact AI-default indigo ramp, or purple with
+no compensating craft, discriminates. *A quarter of top sites set Inter or the
+system stack as their primary face* (Linear among them), so the font alone is not
+the tell, it is the font with no optical tracking and no type system.
+
+#figure(
+  table(
+    columns: (auto, auto, 1fr),
+    inset: 5pt, align: (left, center, left),
+    stroke: 0.4pt + luma(200),
+    table.header([*Signal*], [*Human corpus (n=202)*], [*Recalibration*]),
+    [Distinct font sizes], [median 10, p90 15], [drop the high-count rule; keep only 1-2 sizes],
+    [Purple accent present], [33% of sites; Stripe 123], [exact default-indigo only, else craft-gated],
+    [Generic primary font], [24% of sites (incl. Linear)], [tell only with no tracking and no scale],
+    [Distinct border-radii], [median 6, p90 12], [one-radius tell fires at <= 2],
+    [Centered block fraction], [median 0.02, p90 0.16], [center-everything tell fires at >= 0.5],
+    [Optical tracking on display], [78% of big headings], [confirmed as a craft signal],
+    [`:focus-visible` present], [96% (where CSS readable)], [fire only when CSS is readable],
+  ),
+  caption: [Where the literature's tells meet 202 real sites. Thresholds are
+  re-anchored to the human distribution, so top sites sit near zero by data, not
+  by assumption.],
+) <tab-learned>
+
+== The craft-credit model
+
+The deeper lesson is that *no single signal is the tell*. Stripe has purple and
+blue-to-purple gradients; Linear has Inter; both are paragons. What separates them
+from slop is that their cosmetic choices sit on top of real craft. We encode this
+directly: a page earns a *craft credit* for each of a custom display face, optical
+tracking on display type, a radius hierarchy, and a designed focus state. Cosmetic
+tells (purple, generic font, diffuse shadow) fire only when craft credits are
+absent; structural tells (one radius, center-everything, emoji iconography,
+missing focus where measurable, vague copy) stand on their own. The AI look is the
+co-occurrence of defaults *with nothing compensating*, which is exactly what the
+fixtures have and what no top site has (@fig-credits).
+
+#figure(
+  image("figs/fig9_credits.png", width: 92%),
+  caption: [Purple is not the tell. Stripe uses 123 purple accents and scores 0;
+  three craft credits (a custom face, optical tracking, a radius hierarchy) offset
+  it. The AI-default fixture has three purple accents and scores 59, because it has
+  no compensating craft.],
+) <fig-credits>
+
+== Validation
+
+Recalibrated, the detector scores the 202 real sites at a *median of 0* (mean 2.5,
+p90 10.2); *93% earn grade A* and none reads as slop (@fig-realworld). The same
+detector scores the AI-default fixtures at 35 to 59. The few real sites that score
+above 20 are the genuinely plain ones (a text-first blog, a spec page), which is
+the correct call, not a false positive. The empirical distributions behind the
+thresholds are shown in @fig-empirical; the diversity the score rewards is shown
+in @fig-gallery, a montage of 28 of the sites, each having made different choices.
+
+#figure(
+  image("figs/fig6_realworld.png", width: 100%),
+  caption: [The validation. 202 real top-tier sites cluster at a Tell Score near 0
+  (median 0); the AI-default pages stand far out at 35 to 59. The instrument
+  distinguishes machine-default from human-crafted on real data, not just fixtures.],
+) <fig-realworld>
+
+#figure(
+  image("figs/fig7_empirical.png", width: 100%),
+  caption: [The learned distributions. Real sites use many radii and many type
+  sizes and almost never center everything; the AI default (dashed) sits at the
+  tail of each. Thresholds are anchored here.],
+) <fig-empirical>
+
+#figure(
+  image("figs/fig8_gallery.png", width: 100%),
+  caption: [28 of the 202 human-crafted sites. Dark and light, serif and grotesque,
+  dense and airy: each made a different set of choices. That variance is precisely
+  what the AI default erases and what a low Tell Score is meant to protect.],
+) <fig-gallery>
+
+== Auditing a live site
+
+The recalibrated model runs over computed styles, so it audits a deployed URL.
+`python scripts/audit_url.py https://your-site.com` renders the page, scores it,
+and lists the craft credits offsetting its cosmetic defaults; the same is exposed
+as the MCP tool `audit_url`. On the corpus this is the difference between a tool
+that lectures from a style guide and one that can look at the running product and
+say, with evidence, whether anyone decided anything.
+
 = The harness
 
 The taxonomy ships as a usable tool in three forms, all generated from
@@ -417,10 +529,10 @@ fixes, and returns the score as its exit code for CI gating. A `--quiet` mode
 prints a leaderboard across many files.
 
 *MCP server.* `mcp/server.py` exposes `score_design(html)`, `score_file(path)`,
-`list_tells()`, and `harness_prompt()` over the Model Context Protocol. An agent
-can therefore *audit the UI it just wrote before showing it to the user*, receive
-the specific fixes, and iterate, closing the loop without a human in the middle
-for the mechanical part.
+`audit_url(url)`, `list_tells()`, and `harness_prompt()` over the Model Context
+Protocol. An agent can therefore *audit the UI it just wrote before showing it to
+the user* (or audit a deployed URL with `audit_url`), receive the specific fixes,
+and iterate, closing the loop without a human in the middle for the mechanical part.
 
 *Drop-in prompt module.* `harness/AI-DESIGN-TELLS.md` turns each _detected_ tell
 into a _preventive_ instruction ("Don't: Inter default. Do instead: commit to a
@@ -441,16 +553,20 @@ ness, not quality. Low is necessary, not sufficient, for good design; the score
 cannot see whether the authored choices are _good_, only that choices were made.
 We name the metric "Tell Score," not "Design Score," for this reason.
 
-*Authored fixtures.* The corpus is controlled fixtures, not scraped sites; the
-designed pages score 0 by construction. The defensible claims rest on the
-confound-controlled refactor and on family separation, not on the absolute zeros.
+*Authored fixtures (now backed by real data).* The headline refactor still uses
+controlled fixtures, where the designed page scores 0 by construction. That alone
+would be weak, which is why §7 validates against 202 real human-crafted sites that
+were *not* authored by us and yet score at a median of 0: the low scores are a
+property of real craft, not an artifact of our fixtures.
 
-*Static and single-document.* The detector reads one self-contained file. It does
-not resolve external stylesheets, execute JavaScript, or render, so it cannot
-audit a live SPA whose CSS is in hashed external files, and it under-detects on
-such pages (their structural and copy tells remain visible, but their color and
-surface tells do not). Live auditing via CSS resolution and DOM snapshotting is
-future work.
+*Live auditing, with one residual blind spot.* v2 removes the single-file limit:
+the recalibrated detector renders the page and reads computed styles, so it audits
+deployed URLs (§7). One blind spot remains, and we measure it rather than hide it:
+`:focus-visible` is read from `cssRules`, which the browser blocks for cross-origin
+stylesheets, so on a site whose CSS is served from another origin (e.g. Stripe, 0
+readable sheets) the focus tell is *not measurable*. We confidence-gate it, firing
+only when the CSS is readable, so the failure mode is a missed tell, never a false
+accusation.
 
 *The look is time-bound.* The tells are the defaults of mid-2020s models. As
 training distributions shift, as today's "designed" choices themselves become
@@ -526,10 +642,12 @@ made, and asks that you, not the median, make them.
 #v(8pt)
 #line(length: 100%, stroke: 0.4pt + luma(180))
 #text(8.5pt)[*Data and code.* Taxonomy, detector, fixtures, figures, paper, and
-harness (CLI, MCP server, drop-in prompt) are open at
+harness (CLI, MCP server with live `audit_url`, drop-in prompt), and the 202-site
+corpus (signals + scores) are open at
 #link("https://github.com/hankimis/ai-design-tells")[github.com/hankimis/ai-design-tells].
-Reproduce the results with `python scripts/run_audit.py` and the figures with
-`python scripts/make_figures.py`. Companion study: _Convergence Pressure_
+Reproduce with `python scripts/run_audit.py` (fixtures), `python src/scrape.py`
+(re-scrape), `python scripts/analyze_corpus.py` (learn the calibration), and
+`python scripts/make_figures.py && python scripts/make_figures_v2.py` (figures). Companion study: _Convergence Pressure_
 @kim2026convergence.]
 
 #bibliography("refs.bib", title: "References", style: "ieee")

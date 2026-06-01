@@ -1,0 +1,398 @@
+{
+  "url": "https://resend.com",
+  "name": "resend.com",
+  "title": "Resend · Email for developers",
+  "fonts": {
+    "body": "inter",
+    "heading": "domaine",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "inter",
+      "abcfavorit",
+      "domaine",
+      "commitmono"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      220,
+      220,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      208,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      210,
+      210,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      202,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      198,
+      208,
+      208,
+      208,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212,
+      212
+    ],
+    "accent_sampled": 148,
+    "purple_accents": 0,
+    "any_gradients": 229,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      33554400,
+      253
+    ],
+    [
+      16,
+      72
+    ],
+    [
+      6,
+      54
+    ],
+    [
+      8,
+      30
+    ],
+    [
+      4,
+      19
+    ],
+    [
+      24,
+      10
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      12,
+      4
+    ]
+  ],
+  "shadows": {
+    "other": 88
+  },
+  "paddings": [
+    [
+      "2px",
+      53
+    ],
+    [
+      "24px",
+      42
+    ],
+    [
+      "4px",
+      11
+    ],
+    [
+      "96px",
+      11
+    ],
+    [
+      "1px",
+      10
+    ],
+    [
+      "8px",
+      7
+    ],
+    [
+      "12px",
+      5
+    ],
+    [
+      "16px",
+      3
+    ],
+    [
+      "6px",
+      3
+    ],
+    [
+      "10px",
+      3
+    ],
+    [
+      "64px",
+      2
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "5px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "7px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ],
+    [
+      "144px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      924
+    ],
+    [
+      12,
+      772
+    ],
+    [
+      14,
+      596
+    ],
+    [
+      20,
+      13
+    ],
+    [
+      18,
+      12
+    ],
+    [
+      56,
+      9
+    ],
+    [
+      24,
+      3
+    ],
+    [
+      77,
+      1
+    ],
+    [
+      96,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 10,
+    "neg_tracked": 10
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 8,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 86,
+    "centered_fraction": 0.023255813953488372
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Email fordevelopers",
+    "buttons": [
+      "Features",
+      "Company",
+      "Resources",
+      "Help",
+      "Docs",
+      "AI",
+      "Pricing",
+      "Log in",
+      "Get started",
+      "Announcing Resend Forward",
+      "Get started",
+      "Documentation",
+      "Node.js",
+      "Serverless",
+      "Ruby",
+      "Python",
+      "PHP",
+      "CLI",
+      "Go",
+      "Rust",
+      "Java",
+      "Elixir",
+      ".NET",
+      "REST",
+      "SMTP",
+      "Node.js",
+      "Next.js",
+      "Remix",
+      "Nuxt",
+      "Express",
+      "Hono",
+      "Redwood",
+      "Bun",
+      "Astro",
+      "View on GitHub",
+      "Download ZIP",
+      "delivereddelivered@resend.dev",
+      "Send",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Get started",
+      "Check the docs",
+      "user-welcome.tsx",
+      "reset-password.tsx",
+      "user-invite.tsx",
+      "weekly-digest.tsx",
+      "Get Started",
+      "DNSBLs",
+      "Spamhaus",
+      "BIMI",
+      "VMC",
+      "CAN-SPAM Act",
+      "DKIM",
+      "SPF",
+      "DMARC",
+      "Send with Next.js",
+      "Intuitive analytics",
+      "Full visibility"
+    ]
+  },
+  "ok": true
+}

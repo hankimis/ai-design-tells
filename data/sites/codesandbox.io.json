@@ -1,0 +1,252 @@
+{
+  "url": "https://codesandbox.io",
+  "name": "codesandbox.io",
+  "title": "CodeSandbox: Instant Cloud Development Environments",
+  "fonts": {
+    "body": "__inter_f367f3",
+    "heading": "twk everett",
+    "loaded_count": 6,
+    "loaded_sample": [
+      "material symbols outlined",
+      "material symbols rounded",
+      "material symbols sharp",
+      "__inter_f367f3",
+      "__inter_fallback_f367f3",
+      "twk everett"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      72,
+      72,
+      72,
+      72,
+      72,
+      72,
+      72,
+      72,
+      72,
+      72,
+      72,
+      72,
+      72,
+      72,
+      72,
+      72
+    ],
+    "accent_sampled": 16,
+    "purple_accents": 0,
+    "any_gradients": 2,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      9999,
+      21
+    ],
+    [
+      10,
+      14
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      6,
+      3
+    ],
+    [
+      5,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "16px",
+      19
+    ],
+    [
+      "48px",
+      14
+    ],
+    [
+      "24px",
+      5
+    ],
+    [
+      "4px",
+      3
+    ],
+    [
+      "6.56px",
+      3
+    ],
+    [
+      "8px",
+      2
+    ],
+    [
+      "13px",
+      2
+    ],
+    [
+      "128px",
+      2
+    ],
+    [
+      "80px",
+      2
+    ],
+    [
+      "10px",
+      2
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      376
+    ],
+    [
+      12,
+      116
+    ],
+    [
+      120,
+      29
+    ],
+    [
+      48,
+      12
+    ],
+    [
+      24,
+      11
+    ],
+    [
+      18,
+      10
+    ],
+    [
+      22,
+      8
+    ],
+    [
+      20,
+      7
+    ],
+    [
+      13,
+      6
+    ],
+    [
+      14,
+      6
+    ],
+    [
+      28,
+      6
+    ],
+    [
+      56,
+      4
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      88,
+      2
+    ],
+    [
+      96,
+      2
+    ],
+    [
+      17,
+      1
+    ],
+    [
+      32,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 6,
+    "neg_tracked": 6
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 7,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 49,
+    "centered_fraction": 0.10204081632653061
+  },
+  "emoji_headings": 1,
+  "copy": {
+    "h1": "Sandboxesbuilt for scale",
+    "buttons": [
+      "Sign In",
+      "Try for free",
+      "Features",
+      "Use Cases",
+      "SDK",
+      "Resources",
+      "Docs",
+      "Support",
+      "Pricing",
+      "Together AI!",
+      "CodeSandbox SDK",
+      "Learn more",
+      "Start for free",
+      "Try CodeSandbox SDK chevron_right",
+      "Explore templates",
+      "Start for free",
+      "CodeSandbox SDK",
+      "Code in Sandboxes",
+      "Storybook Integration",
+      "Learn & Experiment",
+      "Features",
+      "VS Code Extension",
+      "Sandpack",
+      "Status",
+      "Pricing",
+      "Discover",
+      "Changelog",
+      "Documentation",
+      "Blog",
+      "About",
+      "Support",
+      "Careers",
+      "Brand kit",
+      "Terms of Use",
+      "Privacy & Cookie Policy",
+      "Github",
+      "Twitter",
+      "Community",
+      "YouTube",
+      "privacy and cookie statement",
+      ".",
+      "Accept all",
+      "Reject all",
+      "Manage preferences"
+    ]
+  },
+  "ok": true
+}

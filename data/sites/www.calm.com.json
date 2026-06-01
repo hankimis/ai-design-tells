@@ -1,0 +1,167 @@
+{
+  "url": "https://www.calm.com",
+  "name": "www.calm.com",
+  "title": "Calm - 명상 및 수면 부문 1위 앱",
+  "fonts": {
+    "body": "figtree",
+    "heading": "figtree",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "figtree",
+      "century",
+      "itc souvenir",
+      "neue plak"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      215,
+      237,
+      237
+    ],
+    "accent_sampled": 3,
+    "purple_accents": 0,
+    "any_gradients": 14,
+    "blue_purple_gradients": 12
+  },
+  "radii": [
+    [
+      20,
+      9
+    ],
+    [
+      100,
+      8
+    ],
+    [
+      50,
+      3
+    ],
+    [
+      10,
+      2
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "40px",
+      9
+    ],
+    [
+      "14px",
+      5
+    ],
+    [
+      "8px",
+      1
+    ],
+    [
+      "2px",
+      1
+    ],
+    [
+      "6px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "24px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      186
+    ],
+    [
+      18,
+      67
+    ],
+    [
+      23,
+      10
+    ],
+    [
+      14,
+      5
+    ],
+    [
+      32,
+      3
+    ],
+    [
+      36,
+      3
+    ],
+    [
+      15,
+      1
+    ],
+    [
+      50,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 4,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 3,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 16,
+    "centered_fraction": 0.1875
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "평온해진 마음. 달라진 삶.",
+    "buttons": [
+      "메인 콘텐츠로 건너뛰기",
+      "수면",
+      "스트레스 및 불안",
+      "마음챙김",
+      "검사",
+      "Calm Health",
+      "로그인",
+      "Calm 무료 체험하기",
+      "Calm 무료 체험하기",
+      "이미 계정이 있으신가요?",
+      "편안한 밤,자연스럽고 평화로운 숙면을 즐겨보세요.더 알아보기",
+      "Yearly₩59,000/년₩4,917/개월14일 무료 체험",
+      "약관",
+      "언제든지 취소할 수 있습니다",
+      "계속",
+      "정보",
+      "채용",
+      "보도 자료",
+      "블로그",
+      "강사 소개",
+      "Calm 사이언스",
+      "기프트 구매",
+      "기프트 사용",
+      "300명 미만의 조직",
+      "300명 이상의 조직",
+      "FAQ",
+      "문의하기",
+      "약관",
+      "개인정보처리방침",
+      "소비자 건강 데이터",
+      "CCPA 공지",
+      "표적화 광고 거부",
+      "쿠키",
+      "액세스 관련 안내",
+      "가상 특허 표시",
+      "개인정보처리방침"
+    ]
+  },
+  "ok": true
+}

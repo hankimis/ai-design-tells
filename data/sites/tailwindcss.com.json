@@ -1,0 +1,226 @@
+{
+  "url": "https://tailwindcss.com",
+  "name": "tailwindcss.com",
+  "title": "Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.",
+  "fonts": {
+    "body": "inter",
+    "heading": "inter",
+    "loaded_count": 8,
+    "loaded_sample": [
+      "inter",
+      "inter fallback",
+      "source",
+      "source fallback",
+      "plexmono",
+      "plexmono fallback",
+      "ubuntumono",
+      "ubuntumono fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 22,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      33554400,
+      44
+    ],
+    [
+      8,
+      36
+    ],
+    [
+      16,
+      20
+    ],
+    [
+      12,
+      12
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      32,
+      4
+    ],
+    [
+      24,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 227
+  },
+  "paddings": [
+    [
+      "16px",
+      39
+    ],
+    [
+      "8px",
+      31
+    ],
+    [
+      "4px",
+      20
+    ],
+    [
+      "32px",
+      19
+    ],
+    [
+      "24px",
+      14
+    ],
+    [
+      "40px",
+      6
+    ],
+    [
+      "12px",
+      4
+    ],
+    [
+      "2px",
+      2
+    ],
+    [
+      "64px",
+      2
+    ],
+    [
+      "57px",
+      1
+    ],
+    [
+      "3px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      1244
+    ],
+    [
+      13,
+      500
+    ],
+    [
+      14,
+      207
+    ],
+    [
+      12,
+      43
+    ],
+    [
+      24,
+      9
+    ],
+    [
+      40,
+      5
+    ],
+    [
+      17,
+      4
+    ],
+    [
+      30,
+      4
+    ],
+    [
+      20,
+      3
+    ],
+    [
+      18,
+      2
+    ],
+    [
+      36,
+      1
+    ],
+    [
+      96,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 6,
+    "neg_tracked": 6
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 2,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 68,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Rapidly build modern websites without ever leaving your HTML.",
+    "buttons": [
+      "v4.3",
+      "⌘KCtrl K",
+      "Docs",
+      "Blog",
+      "Showcase",
+      "Partners",
+      "Plus",
+      "Get started",
+      "Quick search⌘KCtrl K",
+      "Become a sponsor",
+      "Check availability",
+      "index.html",
+      "app.css",
+      "package.json",
+      "Terminal",
+      "build.css",
+      "openai.com",
+      "opalcamera.com",
+      "feastables.com",
+      "gumroad.com",
+      "skims.com",
+      "reddit.com",
+      "rivian.com",
+      "shopify.com",
+      "clerk.dev",
+      "theverge.com",
+      "io.google",
+      "ted.com",
+      "poolside.ai",
+      "midjourney.com",
+      "jpl.nasa.gov",
+      "Explore Tailwind Plus",
+      "Documentation",
+      "Playground",
+      "Blog",
+      "Showcase",
+      "Sponsor",
+      "Tailwind Plus",
+      "UI Blocks",
+      "Templates",
+      "UI Kit",
+      "Refactoring UI",
+      "Headless UI",
+      "Heroicons",
+      "Hero Patterns",
+      "GitHub",
+      "Discord",
+      "X",
+      "Trademark Policy"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,318 @@
+{
+  "url": "https://ghost.org",
+  "name": "ghost.org",
+  "title": "Ghost: The best open source blog & newsletter platform",
+  "fonts": {
+    "body": "intervariable",
+    "heading": "interdisplay",
+    "loaded_count": 3,
+    "loaded_sample": [
+      "intervariable",
+      "inter",
+      "interdisplay"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      42,
+      220,
+      215,
+      220,
+      72,
+      220,
+      195,
+      214,
+      0,
+      215,
+      220,
+      89,
+      82,
+      220,
+      89,
+      82,
+      220,
+      89,
+      82,
+      220,
+      72,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      72,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220,
+      215,
+      220
+    ],
+    "accent_sampled": 95,
+    "purple_accents": 0,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      8,
+      50
+    ],
+    [
+      24,
+      34
+    ],
+    [
+      16,
+      5
+    ],
+    [
+      6,
+      3
+    ],
+    [
+      9999,
+      2
+    ],
+    [
+      4,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 70
+  },
+  "paddings": [
+    [
+      "8px",
+      66
+    ],
+    [
+      "16px",
+      11
+    ],
+    [
+      "72px",
+      5
+    ],
+    [
+      "20px",
+      3
+    ],
+    [
+      "12px",
+      3
+    ],
+    [
+      "24px",
+      2
+    ],
+    [
+      "27px",
+      1
+    ],
+    [
+      "99px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ],
+    [
+      "45px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "1px",
+      1
+    ],
+    [
+      "126px",
+      1
+    ],
+    [
+      "36px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      15,
+      387
+    ],
+    [
+      12,
+      47
+    ],
+    [
+      24,
+      24
+    ],
+    [
+      36,
+      13
+    ],
+    [
+      18,
+      12
+    ],
+    [
+      48,
+      10
+    ],
+    [
+      14,
+      8
+    ],
+    [
+      96,
+      4
+    ],
+    [
+      20,
+      2
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      72,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 4,
+    "neg_tracked": 1
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 7,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 65,
+    "centered_fraction": 0.06153846153846154
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Turn your audience\ninto a business.",
+    "buttons": [
+      "Product",
+      "Explore",
+      "Resources",
+      "Pricing",
+      "Sign in",
+      "Get Started — free",
+      "Just launched: Ghost 6.0 →",
+      "Try Ghost completely free for 14 days →",
+      "Explore Ghost themes →",
+      "Explore the integrations library →",
+      "Learn more →",
+      "Learn more →",
+      "Learn more →",
+      "Start publishing now →",
+      "About",
+      "Explore",
+      "Careers",
+      "Resources",
+      "Creator platform",
+      "Theme marketplace",
+      "Integrations",
+      "Experts",
+      "Ghost for news",
+      "How to install Ghost",
+      "Core concepts",
+      "Ghost hosting",
+      "API documentation",
+      "Security overview",
+      "Source code",
+      "Ghost tutorials",
+      "Resources",
+      "Ghost reviews",
+      "Open Subscription Platforms",
+      "Ghost vs Substack",
+      "Ghost vs BeeHiiv",
+      "Ghost vs WordPress",
+      "Ghost vs Medium",
+      "Ghost vs Patreon",
+      "Ghost alternatives →",
+      "Help center",
+      "Community forum",
+      "Status  \n  \n    Triangle\n  \n  \n\n 99.9%",
+      "Terms",
+      "Privacy",
+      "Contact",
+      "Ghost Foundation © 2026"
+    ]
+  },
+  "ok": true
+}

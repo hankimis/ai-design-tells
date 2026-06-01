@@ -1,0 +1,234 @@
+{
+  "url": "https://replicate.com",
+  "name": "replicate.com",
+  "title": "Replicate - Run AI with an API",
+  "fonts": {
+    "body": "basier-square",
+    "heading": "rb-freigeist-neue",
+    "loaded_count": 3,
+    "loaded_sample": [
+      "basier-square",
+      "jetbrains-mono",
+      "rb-freigeist-neue"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      0,
+      10,
+      10,
+      0,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      10,
+      9,
+      9
+    ],
+    "accent_sampled": 13,
+    "purple_accents": 0,
+    "any_gradients": 21,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      9999,
+      150
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      4,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 4
+  },
+  "paddings": [
+    [
+      "16px",
+      62
+    ],
+    [
+      "2px",
+      41
+    ],
+    [
+      "8px",
+      15
+    ],
+    [
+      "4px",
+      7
+    ],
+    [
+      "1px",
+      6
+    ],
+    [
+      "24px",
+      5
+    ],
+    [
+      "10px",
+      3
+    ],
+    [
+      "6px",
+      2
+    ],
+    [
+      "12px",
+      2
+    ],
+    [
+      "96px",
+      2
+    ],
+    [
+      "192px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ],
+    [
+      "160px",
+      1
+    ],
+    [
+      "64px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      1118
+    ],
+    [
+      14,
+      366
+    ],
+    [
+      12,
+      161
+    ],
+    [
+      18,
+      51
+    ],
+    [
+      20,
+      12
+    ],
+    [
+      30,
+      11
+    ],
+    [
+      11,
+      5
+    ],
+    [
+      29,
+      5
+    ],
+    [
+      128,
+      5
+    ],
+    [
+      48,
+      3
+    ],
+    [
+      72,
+      3
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      24,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 4,
+    "neg_tracked": 1
+  },
+  "focus": {
+    "focus_visible": false,
+    "hairline_rule": false,
+    "sheets_read": 2,
+    "sheets_blocked": 3
+  },
+  "layout": {
+    "blocks": 70,
+    "centered_fraction": 0.014285714285714285
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Run and fine-tune models. Deploy custom models. All with one line of code.",
+    "buttons": [
+      "Try HappyHorse 1.0 from Alibaba",
+      "Replicate glyphReplicate wordmark",
+      "Explore",
+      "Pricing",
+      "Enterprise",
+      "Docs",
+      "Blog",
+      "Sign in",
+      "Try for free",
+      "Get started for free",
+      "Node",
+      "Python",
+      "HTTP",
+      "\"replicate\"",
+      "black-forest-labs/flux-2-pro",
+      "google/nano-banana-pro",
+      "bytedance/seedream-4",
+      "black-forest-labs/flux-pro",
+      "black-forest-labs/flux-pro",
+      "Explore models",
+      "Push a model",
+      "Explore models",
+      "Fine-tune image models",
+      "Cog",
+      "Learn more",
+      "Learn more about our enterprise plans",
+      "Learn more about pricing",
+      "emojis.shAI Emojis",
+      "Get started",
+      "Replicate glyphReplicate wordmark",
+      "Explore",
+      "Playground",
+      "Pricing",
+      "Docs",
+      "Blog",
+      "Changelog",
+      "Discord",
+      "X",
+      "GitHub",
+      "Home",
+      "About",
+      "Changelog",
+      "Join us",
+      "Terms",
+      "Privacy",
+      "Status",
+      "Support",
+      "All services are online"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,202 @@
+{
+  "url": "https://www.revolut.com",
+  "name": "www.revolut.com",
+  "title": "Banking & Beyond | Revolut United Kingdom",
+  "fonts": {
+    "body": "inter",
+    "heading": "aeonik pro",
+    "loaded_count": 3,
+    "loaded_sample": [
+      "inter",
+      "aeonik pro",
+      "aeonik pro capitalised"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 2,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      9999,
+      50
+    ],
+    [
+      20,
+      6
+    ],
+    [
+      22.5,
+      5
+    ],
+    [
+      12,
+      4
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "8px",
+      64
+    ],
+    [
+      "10px",
+      18
+    ],
+    [
+      "4px",
+      7
+    ],
+    [
+      "64px",
+      6
+    ],
+    [
+      "24px",
+      6
+    ],
+    [
+      "16px",
+      1
+    ],
+    [
+      "72px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      365
+    ],
+    [
+      12,
+      125
+    ],
+    [
+      18,
+      18
+    ],
+    [
+      14,
+      8
+    ],
+    [
+      53,
+      8
+    ],
+    [
+      24,
+      6
+    ],
+    [
+      32,
+      1
+    ],
+    [
+      40,
+      1
+    ],
+    [
+      89,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 11,
+    "neg_tracked": 11
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 2,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 84,
+    "centered_fraction": 0.2857142857142857
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Banking & Beyond",
+    "buttons": [
+      "Personal",
+      "Business",
+      "Kids & Teens",
+      "Company",
+      "Log in",
+      "Sign up",
+      "Download the app",
+      "Move your salary",
+      "Learn more",
+      "Start earning",
+      "Physical cards",
+      "Virtual cards",
+      "Learn more",
+      "Explore Savings",
+      "Adventure",
+      "Wedding",
+      "Moving",
+      "Learn more",
+      "Try it out",
+      "Download the app",
+      "Read more on these fees",
+      "Terms of Business",
+      "Risk Disclosure",
+      "Invest FAQs",
+      "FAQ page",
+      "terms and policies here",
+      "International Money Transfers",
+      "Send Money to India",
+      "Send Money to Nigeria",
+      "Send Money to Poland",
+      "Send Money to Ghana",
+      "Send Money to Dubai",
+      "Send Money to the UK from India",
+      "Send Money to Saudi Arabia",
+      "Send Money to North Macedonia",
+      "Send Money to Kazakhstan",
+      "Currency Converter",
+      "Convert GBP to INR",
+      "Convert USD to GBP",
+      "Convert GBP to EUR",
+      "Convert GBP to USD",
+      "Convert EUR to GBP",
+      "Convert GBP to PKR",
+      "Convert GBP to TRY",
+      "Convert GBP to HKD",
+      "Convert KRW to GBP",
+      "Convert AED to GBP",
+      "Convert INR to GBP",
+      "Convert GBP to CAD",
+      "Compare Exchange Rates",
+      "Revolut USA",
+      "Revolut Spain",
+      "Revolut Australia",
+      "Revolut Singapore",
+      "Revolut Estonia",
+      "International Transfers",
+      "Lounges",
+      "Insurance",
+      "Stocks",
+      "Stocks & Shares ISA"
+    ]
+  },
+  "ok": true
+}

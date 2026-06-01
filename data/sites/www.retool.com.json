@@ -1,0 +1,454 @@
+{
+  "url": "https://www.retool.com",
+  "name": "www.retool.com",
+  "title": "Retool | Build internal software better, with AI.",
+  "fonts": {
+    "body": "ui-sans-serif",
+    "heading": "saansfont",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "saansfont",
+      "saansfont fallback",
+      "pxgroteskfont",
+      "pxgroteskfont fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      75,
+      32,
+      212,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      75,
+      32,
+      212,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70
+    ],
+    "accent_sampled": 217,
+    "purple_accents": 0,
+    "any_gradients": 16,
+    "blue_purple_gradients": 1
+  },
+  "radii": [
+    [
+      9999,
+      17
+    ],
+    [
+      4,
+      8
+    ],
+    [
+      6,
+      6
+    ],
+    [
+      20,
+      5
+    ],
+    [
+      8,
+      2
+    ],
+    [
+      24,
+      2
+    ],
+    [
+      36,
+      2
+    ],
+    [
+      32,
+      1
+    ],
+    [
+      40,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 2
+  },
+  "paddings": [
+    [
+      "4px",
+      87
+    ],
+    [
+      "8px",
+      18
+    ],
+    [
+      "40px",
+      12
+    ],
+    [
+      "80px",
+      7
+    ],
+    [
+      "16px",
+      7
+    ],
+    [
+      "2px",
+      6
+    ],
+    [
+      "24px",
+      6
+    ],
+    [
+      "6px",
+      6
+    ],
+    [
+      "9.92px",
+      3
+    ],
+    [
+      "12px",
+      3
+    ],
+    [
+      "160px",
+      2
+    ],
+    [
+      "1px",
+      2
+    ],
+    [
+      "28px",
+      1
+    ],
+    [
+      "56px",
+      1
+    ],
+    [
+      "225px",
+      1
+    ],
+    [
+      "20px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      875
+    ],
+    [
+      24,
+      340
+    ],
+    [
+      14,
+      78
+    ],
+    [
+      12,
+      35
+    ],
+    [
+      18,
+      22
+    ],
+    [
+      72,
+      6
+    ],
+    [
+      48,
+      5
+    ],
+    [
+      32,
+      4
+    ],
+    [
+      36,
+      3
+    ],
+    [
+      60,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 7,
+    "neg_tracked": 7
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 9,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 76,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Build how you want.Ship on a platform you can trust.",
+    "buttons": [
+      "Back",
+      "Solution",
+      "Audience",
+      "Resources",
+      "Use cases",
+      "Pricing",
+      "Search⌘K",
+      "Sign inSign in",
+      "Book a demoBook a demo",
+      "Start for freeStart for free",
+      "Build",
+      "Launch",
+      "Scale",
+      "Govern",
+      "Agents",
+      "App builder",
+      "AI primitives",
+      "Workflows",
+      "Database",
+      "External apps",
+      "Mobile apps",
+      "Self-hosting",
+      "Data",
+      "Engineering",
+      "Operations",
+      "Financial services",
+      "Manufacturing",
+      "Enterprise",
+      "Startups",
+      "Agencies",
+      "Integrations",
+      "Templates",
+      "Utilities",
+      "Blog",
+      "Reads and reports",
+      "Customer stories",
+      "Videos",
+      "Documentation",
+      "Community",
+      "Retool University",
+      "API reference",
+      "RPC reference",
+      "CLI reference",
+      "Hire a developer",
+      "About",
+      "Careers",
+      "Partners",
+      "Support",
+      "Newsroom",
+      "Ship securely →",
+      "Explore enterprise app building →",
+      "Launch production-ready apps →",
+      "Expand your app ecosystem →",
+      "Pricing",
+      "Book a demo",
+      "Build with your data →",
+      "Automate your operations →",
+      "Explore rapid, governed building →",
+      "Code is free. Now what?By David Hsu",
+      "Start building with a prompt⇧ P"
+    ]
+  },
+  "ok": true
+}

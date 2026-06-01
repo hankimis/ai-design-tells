@@ -1,0 +1,94 @@
+{
+  "url": "file:///Users/hankim/아이오브연구소/ai-design-tells/.claude/worktrees/build/fixtures/designed-docs.html",
+  "name": "file:___Users_hankim_아이오브연구소_ai-design-tells_.claude_worktrees_build_fixtures_designed-docs.html",
+  "title": "TaskFlow · Changelog",
+  "fonts": {
+    "body": "avenir next",
+    "heading": "iowan old style",
+    "loaded_count": 0,
+    "loaded_sample": []
+  },
+  "color": {
+    "accent_hues": [
+      170,
+      170
+    ],
+    "accent_sampled": 2,
+    "purple_accents": 0,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      999,
+      3
+    ],
+    [
+      12,
+      1
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "32px",
+      3
+    ],
+    [
+      "1.6px",
+      3
+    ],
+    [
+      "80px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      16
+    ],
+    [
+      14,
+      9
+    ],
+    [
+      26,
+      3
+    ],
+    [
+      19,
+      1
+    ],
+    [
+      37,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 1,
+    "neg_tracked": 1
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 1,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 3,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "What shipped this month.",
+    "buttons": [
+      "How we measured it"
+    ]
+  },
+  "ok": true
+}

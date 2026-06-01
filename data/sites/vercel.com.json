@@ -1,0 +1,303 @@
+{
+  "url": "https://vercel.com",
+  "name": "vercel.com",
+  "title": "Vercel: Build and deploy the best web experiences with the AI Cloud",
+  "fonts": {
+    "body": "geist",
+    "heading": "geist",
+    "loaded_count": 16,
+    "loaded_sample": [
+      "roboto mono",
+      "geist",
+      "geistmonofont",
+      "katex_ams",
+      "katex_caligraphic",
+      "katex_fraktur",
+      "katex_main",
+      "katex_math",
+      "katex_sansserif",
+      "katex_script",
+      "katex_size1",
+      "katex_size2"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      212
+    ],
+    "accent_sampled": 1,
+    "purple_accents": 0,
+    "any_gradients": 1,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      6,
+      54
+    ],
+    [
+      4,
+      41
+    ],
+    [
+      100,
+      17
+    ],
+    [
+      50,
+      12
+    ],
+    [
+      9999,
+      12
+    ],
+    [
+      33554400,
+      12
+    ],
+    [
+      8,
+      10
+    ],
+    [
+      2,
+      8
+    ],
+    [
+      64,
+      6
+    ],
+    [
+      5,
+      1
+    ],
+    [
+      7,
+      1
+    ],
+    [
+      16,
+      1
+    ],
+    [
+      32,
+      1
+    ],
+    [
+      99,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 45
+  },
+  "paddings": [
+    [
+      "2px",
+      114
+    ],
+    [
+      "12px",
+      37
+    ],
+    [
+      "8px",
+      30
+    ],
+    [
+      "16px",
+      14
+    ],
+    [
+      "48px",
+      12
+    ],
+    [
+      "10px",
+      9
+    ],
+    [
+      "6px",
+      6
+    ],
+    [
+      "44px",
+      5
+    ],
+    [
+      "3px",
+      5
+    ],
+    [
+      "14px",
+      3
+    ],
+    [
+      "135px",
+      3
+    ],
+    [
+      "1px",
+      2
+    ],
+    [
+      "6.75px",
+      1
+    ],
+    [
+      "5px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ],
+    [
+      "4px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      793
+    ],
+    [
+      14,
+      615
+    ],
+    [
+      12,
+      63
+    ],
+    [
+      18,
+      36
+    ],
+    [
+      13,
+      25
+    ],
+    [
+      48,
+      19
+    ],
+    [
+      24,
+      16
+    ],
+    [
+      32,
+      8
+    ],
+    [
+      8,
+      6
+    ],
+    [
+      7,
+      2
+    ],
+    [
+      6,
+      1
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      40,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 2,
+    "neg_tracked": 2
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 16,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 52,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Build and deploy on the AI Cloud.",
+    "buttons": [
+      "Skip to content",
+      "Products",
+      "AI Cloud",
+      "AI GatewayOne endpoint, all your models",
+      "SandboxIsolated, safe code execution",
+      "AI SDKThe AI Toolkit for TypeScript",
+      "v0Build applications with AI",
+      "CI/CDHelping teams ship 6× faster",
+      "WorkflowLong-running workflows at scale",
+      "ObservabilityTrace every step",
+      "Security",
+      "Bot ManagementScalable bot protection",
+      "BotIDInvisible CAPTCHA",
+      "Resources",
+      "CustomersTrusted by the best teams",
+      "BlogThe latest posts and changes",
+      "ChangelogSee what shipped",
+      "PressRead the latest news",
+      "EventsJoin us at an event",
+      "DocsVercel documentation",
+      "AcademyLinear courses to level up",
+      "Knowledge BaseFind help quickly",
+      "CommunityJoin the conversation",
+      "Next.jsThe native Next.js platform",
+      "NuxtThe progressive web framework",
+      "SvelteThe web’s efficient UI framework",
+      "TurborepoSpeed with Enterprise scale",
+      "Solutions",
+      "AI AppsDeploy at the speed of AI",
+      "Marketing SitesLaunch campaigns fast",
+      "TemplatesJumpstart app development",
+      "Design EngineersDeploy for every idea",
+      "Enterprise",
+      "Pricing",
+      "Ask AI",
+      "Log In",
+      "Sign Up",
+      "Sign Up",
+      "Get your ticket",
+      "DeployStart Deploying",
+      "Get a Demo",
+      "AI AppsAI Apps",
+      "Web AppsWeb Apps",
+      "EcommerceEcommerce",
+      "MarketingMarketing",
+      "PlatformsPlatforms",
+      "Deploy AI Apps in seconds",
+      "Enterprise",
+      "Security",
+      "More about Infrastructure",
+      "Learn about Enterprise",
+      "Learn more",
+      "AI SDK",
+      "Python",
+      "OpenAI HTTP",
+      "many more",
+      "Next.js Templates",
+      "React Templates",
+      "Astro Templates",
+      "Svelte Templates"
+    ]
+  },
+  "ok": true
+}

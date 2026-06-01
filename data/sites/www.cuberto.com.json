@@ -1,0 +1,170 @@
+{
+  "url": "https://www.cuberto.com",
+  "name": "www.cuberto.com",
+  "title": "Cuberto | Digital Product Agency",
+  "fonts": {
+    "body": "suisse intl",
+    "heading": "suisse intl",
+    "loaded_count": 2,
+    "loaded_sample": [
+      "suisse intl",
+      "manrope"
+    ]
+  },
+  "color": {
+    "accent_hues": [],
+    "accent_sampled": 0,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      1000,
+      21
+    ],
+    [
+      18,
+      19
+    ],
+    [
+      50,
+      15
+    ],
+    [
+      72,
+      3
+    ],
+    [
+      99999,
+      3
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "10.8px",
+      6
+    ],
+    [
+      "5.4px",
+      5
+    ],
+    [
+      "135px",
+      4
+    ],
+    [
+      "28.8px",
+      4
+    ],
+    [
+      "6.3px",
+      3
+    ],
+    [
+      "12.6px",
+      2
+    ],
+    [
+      "180px",
+      1
+    ],
+    [
+      "16.2px",
+      1
+    ],
+    [
+      "108px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      13,
+      253
+    ],
+    [
+      10,
+      65
+    ],
+    [
+      22,
+      59
+    ],
+    [
+      18,
+      57
+    ],
+    [
+      23,
+      8
+    ],
+    [
+      81,
+      8
+    ],
+    [
+      108,
+      8
+    ],
+    [
+      38,
+      6
+    ],
+    [
+      14,
+      5
+    ],
+    [
+      16,
+      5
+    ],
+    [
+      9,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 5,
+    "neg_tracked": 5
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 1,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 49,
+    "centered_fraction": 0.14285714285714285
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Digital design & development agency",
+    "buttons": [
+      "Services",
+      "Projects",
+      "Company",
+      "Blog",
+      "Contacts",
+      "contact-contact-contact-contact-",
+      "What we do",
+      "Cisco – Cloud based network management",
+      "View all projects",
+      "View all services",
+      "Visit our blog",
+      "Tell us",
+      "info@cuberto.com",
+      "+1 301 549 9309",
+      "Services",
+      "Blog",
+      "Projects",
+      "Workflow",
+      "Company",
+      "Contacts",
+      "Privacy Policy"
+    ]
+  },
+  "ok": true
+}

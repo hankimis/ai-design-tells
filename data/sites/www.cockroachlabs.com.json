@@ -1,0 +1,374 @@
+{
+  "url": "https://www.cockroachlabs.com",
+  "name": "www.cockroachlabs.com",
+  "title": "CockroachDB | Distributed SQL for always-on customer experiences",
+  "fonts": {
+    "body": "poppins",
+    "heading": "poppins",
+    "loaded_count": 5,
+    "loaded_sample": [
+      "poppins",
+      "source sans pro",
+      "open sans",
+      "roboto mono",
+      "slick"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      256,
+      256,
+      220,
+      256,
+      256,
+      220,
+      256,
+      220,
+      258,
+      220,
+      220,
+      258,
+      220,
+      220,
+      258,
+      220,
+      220,
+      258,
+      220,
+      220,
+      220,
+      240,
+      220,
+      220,
+      240,
+      220,
+      220,
+      240,
+      220,
+      220,
+      220,
+      220,
+      256,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      256,
+      256,
+      220,
+      220,
+      256,
+      256,
+      257,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      256,
+      256,
+      256,
+      256,
+      256,
+      256
+    ],
+    "accent_sampled": 118,
+    "purple_accents": 24,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      12,
+      7
+    ],
+    [
+      8,
+      6
+    ],
+    [
+      9999,
+      6
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      4,
+      4
+    ],
+    [
+      6,
+      4
+    ],
+    [
+      30,
+      1
+    ],
+    [
+      2.5,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 2,
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "16px",
+      15
+    ],
+    [
+      "64px",
+      9
+    ],
+    [
+      "8px",
+      8
+    ],
+    [
+      "4px",
+      6
+    ],
+    [
+      "32px",
+      6
+    ],
+    [
+      "12px",
+      4
+    ],
+    [
+      "10px",
+      3
+    ],
+    [
+      "24px",
+      3
+    ],
+    [
+      "20px",
+      2
+    ],
+    [
+      "56px",
+      1
+    ],
+    [
+      "5px",
+      1
+    ],
+    [
+      "28px",
+      1
+    ],
+    [
+      "80px",
+      1
+    ],
+    [
+      "96px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      429
+    ],
+    [
+      18,
+      31
+    ],
+    [
+      15,
+      10
+    ],
+    [
+      13,
+      9
+    ],
+    [
+      32,
+      9
+    ],
+    [
+      20,
+      5
+    ],
+    [
+      22,
+      4
+    ],
+    [
+      50,
+      4
+    ],
+    [
+      24,
+      3
+    ],
+    [
+      14,
+      1
+    ],
+    [
+      26,
+      1
+    ],
+    [
+      28,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 10,
+    "neg_tracked": 2
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 8,
+    "sheets_blocked": 2
+  },
+  "layout": {
+    "blocks": 75,
+    "centered_fraction": 0.05333333333333334
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "The system of record to power your business",
+    "buttons": [
+      "Product",
+      "Solutions",
+      "Resources",
+      "Pricing",
+      "Company",
+      "Contact us",
+      "Sign in",
+      "Try CockroachDB",
+      "Try CockroachDB",
+      "Start free",
+      "Start free",
+      "Talk to our team",
+      "Talk to our team",
+      "Learn more about resilience",
+      "Learn more about resilience",
+      "Learn more about scale",
+      "Learn more about scale",
+      "Learn more about compliance",
+      "Learn more about compliance",
+      "Read the guide→",
+      "Read the guide→",
+      "Read the guide→",
+      "Previous",
+      "Next",
+      "1",
+      "Read the latest posts",
+      "Start free",
+      "Start free",
+      "Talk to our team",
+      "Talk to our team",
+      "Subscribe",
+      "here",
+      "Product overview",
+      "CockroachDB Fully-Managed Cloud",
+      "CockroachDB Bring Your Own Cloud",
+      "CockroachDB Enterprise",
+      "Latest release",
+      "Pricing",
+      "Sign in",
+      "Customers",
+      "Database Modernization",
+      "High availability and disaster recovery",
+      "AI Innovators",
+      "Banking & Fintech",
+      "Cybersecurity",
+      "Gambling",
+      "Gaming",
+      "Healthcare",
+      "Manufacturing & Logistics",
+      "Media & Streaming",
+      "Quant Firms",
+      "Retail & eCommerce",
+      "Software & Tech",
+      "Vector Search",
+      "Banking & Wallet",
+      "Gaming",
+      "Identity Access Management",
+      "IoT & Device Management",
+      "Orders & Inventory Management",
+      "Payments"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,293 @@
+{
+  "url": "https://www.land-book.com",
+  "name": "www.land-book.com",
+  "title": "Landbook - website design inspiration gallery",
+  "fonts": {
+    "body": "inter",
+    "heading": "inter",
+    "loaded_count": 1,
+    "loaded_sample": [
+      "swiper-icons"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173
+    ],
+    "accent_sampled": 69,
+    "purple_accents": 0,
+    "any_gradients": 6,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      6,
+      480
+    ],
+    [
+      800,
+      32
+    ],
+    [
+      9.136,
+      23
+    ],
+    [
+      13.712,
+      18
+    ],
+    [
+      4.568,
+      18
+    ],
+    [
+      50,
+      8
+    ],
+    [
+      9999,
+      6
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      6.4,
+      1
+    ],
+    [
+      12.3408,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 30,
+    "diffuse": 1
+  },
+  "paddings": [
+    [
+      "8px",
+      34
+    ],
+    [
+      "4px",
+      27
+    ],
+    [
+      "7.608px",
+      24
+    ],
+    [
+      "32px",
+      6
+    ],
+    [
+      "16px",
+      4
+    ],
+    [
+      "2.75625px",
+      4
+    ],
+    [
+      "3.675px",
+      2
+    ],
+    [
+      "24px",
+      1
+    ],
+    [
+      "2.4px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      14,
+      984
+    ],
+    [
+      12,
+      56
+    ],
+    [
+      11,
+      51
+    ],
+    [
+      13,
+      9
+    ],
+    [
+      16,
+      9
+    ],
+    [
+      8,
+      4
+    ],
+    [
+      18,
+      4
+    ],
+    [
+      23,
+      1
+    ],
+    [
+      25,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 0,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 3,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 9,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Landbook - website design inspiration gallery",
+    "buttons": [
+      "Websites",
+      "Experts",
+      "Templates",
+      "Sign in",
+      "Get Pro",
+      "Sign up",
+      "Websites",
+      "Sections",
+      "Mobile",
+      "Landing",
+      "Portfolio",
+      "Blog",
+      "Ecommerce",
+      "Other",
+      "About Us",
+      "Career",
+      "Sign Up",
+      "Pricing",
+      "Case Study",
+      "Blog Post",
+      "Product listing",
+      "Product page",
+      "Filters",
+      "Most Recent",
+      "Edra",
+      "Landing Page",
+      "Landing Page",
+      "Portfolio",
+      "Use for free",
+      "Template",
+      "Davide Pacilio",
+      "Ponder",
+      "Landing Page",
+      "Artemii Lebedev",
+      "Landing Page",
+      "Accueil | Groupe Montoni",
+      "Portfolio",
+      "Use for free",
+      "Agentic - Design Agency Template",
+      "Template",
+      "Cristian Mielu",
+      "Portfolio",
+      "Studio Off The Wall",
+      "Landing Page",
+      "Landing Page",
+      "GRAFIT",
+      "Buy $169",
+      "Upmind - Webflow HTML website template",
+      "Template",
+      "Temlis",
+      "Landing Page",
+      "Portfolio",
+      "1",
+      "Landing Page",
+      "Landing Page",
+      "1",
+      "Ecommerce",
+      "Use for free",
+      "Plywood",
+      "Template"
+    ]
+  },
+  "ok": true
+}

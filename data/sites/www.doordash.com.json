@@ -1,0 +1,72 @@
+{
+  "url": "https://www.doordash.com",
+  "name": "www.doordash.com",
+  "title": "잠시만 기다리십시오…",
+  "fonts": {
+    "body": "system-ui",
+    "heading": "system-ui",
+    "loaded_count": 0,
+    "loaded_sample": []
+  },
+  "color": {
+    "accent_hues": [
+      240,
+      240,
+      240,
+      240
+    ],
+    "accent_sampled": 4,
+    "purple_accents": 4,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [],
+  "shadows": {},
+  "paddings": [
+    [
+      "16px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      12,
+      11
+    ],
+    [
+      16,
+      9
+    ],
+    [
+      24,
+      1
+    ],
+    [
+      40,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 1,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 2,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 2,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "www.doordash.com",
+    "buttons": [
+      "Cloudflare",
+      "개인 정보"
+    ]
+  },
+  "ok": true
+}

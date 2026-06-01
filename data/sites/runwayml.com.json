@@ -1,0 +1,316 @@
+{
+  "url": "https://runwayml.com",
+  "name": "runwayml.com",
+  "title": "Runway | Building AI to Simulate the World",
+  "fonts": {
+    "body": "abcnormal",
+    "heading": "abcnormal",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "abcnormal",
+      "abcnormal fallback",
+      "timesnow",
+      "timesnow fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      214,
+      220,
+      214,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220
+    ],
+    "accent_sampled": 104,
+    "purple_accents": 0,
+    "any_gradients": 2,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      4,
+      17
+    ],
+    [
+      8,
+      15
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      12,
+      1
+    ]
+  ],
+  "shadows": {},
+  "paddings": [
+    [
+      "4px",
+      17
+    ],
+    [
+      "8px",
+      7
+    ],
+    [
+      "6px",
+      7
+    ],
+    [
+      "20px",
+      5
+    ],
+    [
+      "28px",
+      3
+    ],
+    [
+      "14.7031px",
+      2
+    ],
+    [
+      "70px",
+      2
+    ],
+    [
+      "28.625px",
+      2
+    ],
+    [
+      "70.3906px",
+      1
+    ],
+    [
+      "160px",
+      1
+    ],
+    [
+      "240px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      710
+    ],
+    [
+      14,
+      81
+    ],
+    [
+      11,
+      19
+    ],
+    [
+      13,
+      15
+    ],
+    [
+      24,
+      9
+    ],
+    [
+      20,
+      3
+    ],
+    [
+      36,
+      3
+    ],
+    [
+      40,
+      3
+    ],
+    [
+      48,
+      2
+    ]
+  ],
+  "heading": {
+    "big_count": 4,
+    "neg_tracked": 4
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 17,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 55,
+    "centered_fraction": 0.05454545454545454
+  },
+  "emoji_headings": 4,
+  "copy": {
+    "h1": "Building AI to  Simulate the World",
+    "buttons": [
+      "Research",
+      "Product",
+      "Resources",
+      "Solutions",
+      "Company",
+      "Enterprise Sales",
+      "Login",
+      "Try Runway",
+      "Get Started",
+      "Runway Characters↗",
+      "Media and Entertainment↗",
+      "Robotics and Autonomy↗",
+      "General World Models↗",
+      "Learn more",
+      "Try now",
+      "Learn more",
+      "Learn more",
+      "Explore the Research",
+      "Learn more",
+      "Explore the Research",
+      "Learn more",
+      "Try now",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "See careers",
+      "Explore Examples",
+      "Characters",
+      "GWM-1",
+      "General World Models",
+      "Robotics",
+      "Gen-4.5",
+      "Aleph 2.0",
+      "Act-Two",
+      "API",
+      "AI Summit 2026 ↗",
+      "Studios",
+      "AI Film Festival ↗",
+      "Gen:48",
+      "Academy ↗",
+      "Resources",
+      "Creative Partners Program",
+      "Runway Builders",
+      "Our Research",
+      "Publications",
+      "Careers",
+      "About Us",
+      "Customer Stories",
+      "News",
+      "Talent Network ↗",
+      "Safety"
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,264 @@
+{
+  "url": "https://www.sanity.io",
+  "name": "www.sanity.io",
+  "title": "The Content Operating System for the AI era | Sanity",
+  "fonts": {
+    "body": "waldenburgnormal",
+    "heading": "waldenburgnormal",
+    "loaded_count": 4,
+    "loaded_sample": [
+      "ibmplexmono",
+      "ibmplexmono fallback",
+      "waldenburgnormal",
+      "waldenburgnormal fallback"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      219,
+      219
+    ],
+    "accent_sampled": 2,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      99999,
+      52
+    ],
+    [
+      5,
+      13
+    ],
+    [
+      12,
+      11
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      9999,
+      6
+    ],
+    [
+      6,
+      5
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      11,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 2
+  },
+  "paddings": [
+    [
+      "4px",
+      45
+    ],
+    [
+      "8px",
+      44
+    ],
+    [
+      "2px",
+      40
+    ],
+    [
+      "12px",
+      15
+    ],
+    [
+      "24.16px",
+      6
+    ],
+    [
+      "96px",
+      4
+    ],
+    [
+      "6px",
+      3
+    ],
+    [
+      "128px",
+      3
+    ],
+    [
+      "6.29688px",
+      3
+    ],
+    [
+      "24px",
+      2
+    ],
+    [
+      "48px",
+      2
+    ],
+    [
+      "16px",
+      2
+    ],
+    [
+      "64px",
+      1
+    ],
+    [
+      "18px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      692
+    ],
+    [
+      12,
+      621
+    ],
+    [
+      13,
+      436
+    ],
+    [
+      15,
+      39
+    ],
+    [
+      10,
+      28
+    ],
+    [
+      38,
+      14
+    ],
+    [
+      11,
+      10
+    ],
+    [
+      18,
+      9
+    ],
+    [
+      24,
+      8
+    ],
+    [
+      60,
+      7
+    ],
+    [
+      32,
+      5
+    ],
+    [
+      72,
+      5
+    ],
+    [
+      48,
+      4
+    ],
+    [
+      112,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 8,
+    "neg_tracked": 8
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 9,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 65,
+    "centered_fraction": 0.015384615384615385
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Structure powers intelligence",
+    "buttons": [
+      "개인정보 보호정책",
+      "환경 설정 관리",
+      "모두 동의",
+      "필수적이지 않은 항목 거부",
+      "개인정보 보호정책",
+      "환경 설정 관리",
+      "모두 동의",
+      "필수적이지 않은 항목 거부",
+      "Skip to content",
+      "Sanity",
+      "Products",
+      "Solutions",
+      "Resources",
+      "Docs",
+      "Enterprise",
+      "Pricing",
+      "Log in",
+      "Contact Sales",
+      "Get started",
+      "Start building",
+      "Watch demo",
+      "hero.ts",
+      "terminal",
+      "Publish",
+      "KGPublisheda few seconds ago",
+      "KMPublisheda minute ago",
+      "LVPublished2 minutes ago",
+      "MFPublished4 minutes ago",
+      "Run Release",
+      "Update References",
+      "Translate with AI",
+      "Delegate from elsewhere",
+      "Learn More→",
+      "HOW DO I SET UP AGENT CONTEXT?",
+      "HOW DO I CONNECT NEXT.JS TO SANITY?",
+      "WHAT CAN I AUTOMATE WITH FUNCTIONS?",
+      "Learn More →",
+      "01Content-as-data",
+      "02Editorial freedom",
+      "03Content agent",
+      "04Automation at scale",
+      "05Power any application",
+      "content lake",
+      "Sanity Studio",
+      "Content Agent",
+      "Agent actions",
+      "Agent context",
+      "01",
+      "02",
+      "03",
+      "All customer stories",
+      "Book a demo",
+      "npm create sanity@latest",
+      "Get started nowGet started now",
+      "Contact sales",
+      "Join our community on Discord",
+      "Subscribe",
+      "Sanity Studio",
+      "Media Library",
+      "Canvas"
+    ]
+  },
+  "ok": true
+}

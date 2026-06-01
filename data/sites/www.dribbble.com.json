@@ -1,0 +1,419 @@
+{
+  "url": "https://www.dribbble.com",
+  "name": "www.dribbble.com",
+  "title": "Dribbble - Discover the World’s Top Designers & Creative Professionals",
+  "fonts": {
+    "body": "mona sans",
+    "heading": "mona sans",
+    "loaded_count": 7,
+    "loaded_sample": [
+      "ibm plex mono",
+      "source serif 4",
+      "mona sans",
+      "wf visual sans",
+      "inter regular",
+      "inter semibold",
+      "walsheim"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      337,
+      337,
+      337,
+      337,
+      337,
+      337,
+      243,
+      240,
+      249,
+      249,
+      249,
+      249,
+      249,
+      249,
+      249,
+      249,
+      249,
+      249,
+      249,
+      249,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      337,
+      337,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      252,
+      258,
+      258,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      258,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      252,
+      258,
+      258,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      252,
+      258,
+      258,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      258,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      252,
+      258,
+      258,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      252,
+      258,
+      258,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      252,
+      258,
+      258,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      252,
+      258,
+      258,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      258,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      252,
+      258,
+      258,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243,
+      252,
+      258,
+      258,
+      243,
+      243,
+      243,
+      243,
+      243,
+      243
+    ],
+    "accent_sampled": 193,
+    "purple_accents": 154,
+    "any_gradients": 24,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      50,
+      125
+    ],
+    [
+      10000000,
+      34
+    ],
+    [
+      12,
+      25
+    ],
+    [
+      4,
+      20
+    ],
+    [
+      8,
+      17
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      6,
+      2
+    ],
+    [
+      24,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 2,
+    "other": 18
+  },
+  "paddings": [
+    [
+      "16px",
+      25
+    ],
+    [
+      "12px",
+      24
+    ],
+    [
+      "4px",
+      16
+    ],
+    [
+      "8px",
+      3
+    ],
+    [
+      "20px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ],
+    [
+      "3px",
+      1
+    ],
+    [
+      "32px",
+      1
+    ],
+    [
+      "60px",
+      1
+    ],
+    [
+      "72px",
+      1
+    ],
+    [
+      "44px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      14,
+      559
+    ],
+    [
+      12,
+      283
+    ],
+    [
+      13,
+      262
+    ],
+    [
+      16,
+      189
+    ],
+    [
+      9,
+      20
+    ],
+    [
+      52,
+      9
+    ],
+    [
+      11,
+      4
+    ],
+    [
+      18,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 1,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 3,
+    "sheets_blocked": 10
+  },
+  "layout": {
+    "blocks": 16,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Work with the world’s best in\n\n        \n          \n            web design\n            mobile design\n            motion design\n            product design\n            brand design\n            UX/UI desi",
+    "buttons": [
+      "Customise",
+      "Reject All",
+      "Accept All",
+      "Get Started",
+      "Explore",
+      "Hire Talent",
+      "Get Hired",
+      "Community",
+      "Sign up",
+      "Log in",
+      "Start Your Project Brief",
+      "six2eight",
+      "Michael Frankland",
+      "Panthera Designs",
+      "Abron Studio",
+      "Nixtio",
+      "FOURMETA",
+      "Greater",
+      "Birds",
+      "BRIGHTSCOUT",
+      "PROTOTYP",
+      "Moonsight® Agency",
+      "tubik",
+      "Arek Dvornechuck",
+      "George Railean",
+      "Animoox Studio",
+      "Outloud",
+      "dashboard",
+      "landing page",
+      "mobile app",
+      "portfolio",
+      "ecommerce",
+      "animation",
+      "illustration",
+      "onboarding",
+      "Popular",
+      "View Icons 3",
+      "PRO",
+      "PRO\n\n    +",
+      "View Hubstaff - Brand Case Study",
+      "PRO",
+      "View Landing page for Syne Smart Ring",
+      "PRO",
+      "View Fintech Startup Mobile App Design",
+      "PRO\n\n    +",
+      "View Escala Logo Design",
+      "PRO",
+      "View Orbits",
+      "PRO",
+      "PRO",
+      "View Trend Forecasting Web",
+      "PRO",
+      "PRO\n\n    +",
+      "PRO",
+      "View Bottle",
+      "View M Tiger Face Logo",
+      "PRO",
+      "PRO\n\n    +",
+      "View Owl",
+      "View Azimuth Logo"
+    ]
+  },
+  "ok": true
+}

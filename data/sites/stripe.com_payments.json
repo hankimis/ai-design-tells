@@ -1,0 +1,529 @@
+{
+  "url": "https://stripe.com/payments",
+  "name": "stripe.com_payments",
+  "title": "Stripe Payments | Global Payment Processing Platform",
+  "fonts": {
+    "body": "sohne-var",
+    "heading": "sohne-var",
+    "loaded_count": 2,
+    "loaded_sample": [
+      "sohne-var",
+      "sourcecodepro"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      240,
+      240,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      210,
+      260,
+      260,
+      260,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      260,
+      260,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      248,
+      260,
+      260,
+      210,
+      210,
+      260,
+      260,
+      260,
+      260,
+      260,
+      260,
+      260,
+      260,
+      260,
+      260,
+      210,
+      210,
+      260,
+      260,
+      260,
+      210,
+      210
+    ],
+    "accent_sampled": 234,
+    "purple_accents": 207,
+    "any_gradients": 11,
+    "blue_purple_gradients": 2
+  },
+  "radii": [
+    [
+      8,
+      81
+    ],
+    [
+      16.5,
+      56
+    ],
+    [
+      6,
+      39
+    ],
+    [
+      4,
+      37
+    ],
+    [
+      5,
+      18
+    ],
+    [
+      2,
+      11
+    ],
+    [
+      14,
+      4
+    ],
+    [
+      50,
+      4
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      7,
+      1
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      12.5,
+      1
+    ]
+  ],
+  "shadows": {
+    "diffuse": 28,
+    "other": 19
+  },
+  "paddings": [
+    [
+      "3px",
+      34
+    ],
+    [
+      "6px",
+      24
+    ],
+    [
+      "32px",
+      24
+    ],
+    [
+      "10px",
+      21
+    ],
+    [
+      "12px",
+      18
+    ],
+    [
+      "4px",
+      18
+    ],
+    [
+      "16px",
+      17
+    ],
+    [
+      "24px",
+      10
+    ],
+    [
+      "48px",
+      8
+    ],
+    [
+      "20px",
+      5
+    ],
+    [
+      "1px",
+      4
+    ],
+    [
+      "30px",
+      3
+    ],
+    [
+      "128px",
+      3
+    ],
+    [
+      "22px",
+      2
+    ],
+    [
+      "14px",
+      2
+    ],
+    [
+      "261.56px",
+      2
+    ],
+    [
+      "18px",
+      1
+    ],
+    [
+      "11px",
+      1
+    ],
+    [
+      "306px",
+      1
+    ],
+    [
+      "110px",
+      1
+    ],
+    [
+      "9px",
+      1
+    ],
+    [
+      "55px",
+      1
+    ],
+    [
+      "50px",
+      1
+    ],
+    [
+      "8px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      1157
+    ],
+    [
+      14,
+      615
+    ],
+    [
+      15,
+      525
+    ],
+    [
+      12,
+      211
+    ],
+    [
+      13,
+      118
+    ],
+    [
+      10,
+      106
+    ],
+    [
+      11,
+      101
+    ],
+    [
+      9,
+      63
+    ],
+    [
+      18,
+      56
+    ],
+    [
+      26,
+      20
+    ],
+    [
+      8,
+      7
+    ],
+    [
+      38,
+      6
+    ],
+    [
+      20,
+      4
+    ],
+    [
+      32,
+      4
+    ],
+    [
+      24,
+      3
+    ],
+    [
+      22,
+      2
+    ],
+    [
+      56,
+      1
+    ],
+    [
+      90,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 13,
+    "neg_tracked": 12
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 81,
+    "sheets_blocked": 103
+  },
+  "layout": {
+    "blocks": 200,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "Stripe logo",
+    "buttons": [
+      "Stripe logo",
+      "Products",
+      "Solutions",
+      "Developers",
+      "Resources",
+      "Pricing",
+      "Sign in",
+      "Contact sales",
+      "Watch now",
+      "Enterprises",
+      "Startups",
+      "Agentic commerce",
+      "Crypto",
+      "Ecommerce",
+      "Embedded finance",
+      "Finance automation",
+      "Global businesses",
+      "In-app payments",
+      "Marketplaces",
+      "Platforms",
+      "SaaS",
+      "AI companies",
+      "Creator economy",
+      "Hospitality, travel, and leisure",
+      "Insurance",
+      "Media and entertainment",
+      "Nonprofits",
+      "Public sector",
+      "Retail",
+      "Partners",
+      "Stripe App Marketplace",
+      "Stripe docs",
+      "API reference",
+      "Libraries and SDKs",
+      "Stripe Apps",
+      "Accept online payments",
+      "Implement a prebuilt checkout",
+      "Build a platform or marketplace",
+      "Manage subscriptions",
+      "Offer usage-based billing",
+      "Issue stablecoin-backed cards",
+      "App integrations",
+      "Code samples",
+      "Developers blog",
+      "API status",
+      "Blog",
+      "Customer stories",
+      "Guides",
+      "Get support",
+      "Managed support plans",
+      "Professional services",
+      "Product roadmap",
+      "Sessions annual conference",
+      "Jobs",
+      "Newsroom",
+      "Stripe Press",
+      "Contact sales",
+      "Become a partner",
+      "Payments",
+      "Overview"
+    ]
+  },
+  "ok": true
+}

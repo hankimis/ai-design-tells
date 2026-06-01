@@ -1,0 +1,390 @@
+{
+  "url": "https://weaviate.io",
+  "name": "weaviate.io",
+  "title": "The AI database developers love | Weaviate",
+  "fonts": {
+    "body": "inter",
+    "heading": "anton",
+    "loaded_count": 18,
+    "loaded_sample": [
+      "font awesome 6 pro",
+      "font awesome 6 brands",
+      "katex_ams",
+      "katex_caligraphic",
+      "katex_fraktur",
+      "katex_main",
+      "katex_math",
+      "katex_sansserif",
+      "katex_script",
+      "katex_size1",
+      "katex_size2",
+      "katex_size3"
+    ]
+  },
+  "color": {
+    "accent_hues": [
+      246,
+      246,
+      246,
+      246,
+      247,
+      247,
+      247,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      222,
+      247,
+      246,
+      247,
+      246,
+      247,
+      247,
+      220,
+      247,
+      247,
+      247,
+      247,
+      247,
+      247,
+      247,
+      247,
+      247,
+      247,
+      138,
+      247,
+      247,
+      247,
+      247,
+      215,
+      215,
+      215,
+      215,
+      215,
+      215,
+      215,
+      215,
+      215,
+      215,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      215,
+      215,
+      215,
+      215,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      247,
+      247,
+      247,
+      247,
+      247,
+      247,
+      247,
+      247,
+      132,
+      132,
+      132,
+      132,
+      132,
+      132,
+      132,
+      132,
+      132,
+      132,
+      132,
+      132
+    ],
+    "accent_sampled": 123,
+    "purple_accents": 35,
+    "any_gradients": 14,
+    "blue_purple_gradients": 4
+  },
+  "radii": [
+    [
+      20,
+      17
+    ],
+    [
+      5,
+      10
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      50,
+      4
+    ],
+    [
+      16,
+      3
+    ],
+    [
+      8,
+      2
+    ],
+    [
+      6.4,
+      2
+    ]
+  ],
+  "shadows": {
+    "diffuse": 3,
+    "other": 10
+  },
+  "paddings": [
+    [
+      "40px",
+      12
+    ],
+    [
+      "4px",
+      9
+    ],
+    [
+      "32px",
+      6
+    ],
+    [
+      "15px",
+      3
+    ],
+    [
+      "48px",
+      3
+    ],
+    [
+      "24px",
+      2
+    ],
+    [
+      "8px",
+      2
+    ],
+    [
+      "5.625px",
+      1
+    ],
+    [
+      "5px",
+      1
+    ],
+    [
+      "16px",
+      1
+    ],
+    [
+      "12px",
+      1
+    ],
+    [
+      "6.4px",
+      1
+    ],
+    [
+      "60px",
+      1
+    ],
+    [
+      "10px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      482
+    ],
+    [
+      14,
+      115
+    ],
+    [
+      15,
+      59
+    ],
+    [
+      20,
+      14
+    ],
+    [
+      19,
+      7
+    ],
+    [
+      24,
+      5
+    ],
+    [
+      28,
+      5
+    ],
+    [
+      18,
+      4
+    ],
+    [
+      22,
+      4
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      32,
+      3
+    ],
+    [
+      12,
+      2
+    ],
+    [
+      72,
+      2
+    ],
+    [
+      30,
+      1
+    ],
+    [
+      36,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 3,
+    "neg_tracked": 0
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": true,
+    "sheets_read": 9,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 35,
+    "centered_fraction": 0.02857142857142857
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "FOR AI ENGINEERSturning ideas into products",
+    "buttons": [
+      "Privacy Policy",
+      "Show details",
+      "Allow all",
+      "Customize",
+      "Deny",
+      "Skip to main content",
+      "Product",
+      "Solutions",
+      "Developers",
+      "Company",
+      "Pricing",
+      "GitHub",
+      "Login",
+      "Try Now",
+      "Contact",
+      "Get Started",
+      "How we empower AI builders →",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Try Weaviate Cloud",
+      "Weaviate Quickstart",
+      "SEARCH",
+      "VECTORIZE",
+      "RAG",
+      "TENANTS",
+      "INDEX",
+      "AGENTS",
+      "Language agnostic by design",
+      "Seamless model integration",
+      "Database Agents",
+      "MORE DEVELOPER RESOURCES -->",
+      "SEE ALL CASE STUDIES-->",
+      "Learning Center",
+      "Events",
+      "Blog",
+      "Docs",
+      "Try Weaviate Cloud",
+      "Weaviate Products",
+      "Pricing",
+      "Partners",
+      "Vector Database",
+      "Products",
+      "Pricing",
+      "Weaviate Cloud",
+      "Deployment",
+      "Shared Cloud",
+      "Dedicated Cloud",
+      "Enablement",
+      "Trust",
+      "Security",
+      "Terms & Policies",
+      "Report a Vulnerability",
+      "Cookie Settings",
+      "RAG",
+      "Hybrid Search",
+      "Agentic AI",
+      "Cost Performance Optimization",
+      "Examples",
+      "Demos"
+    ]
+  },
+  "ok": true
+}

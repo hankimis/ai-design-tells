@@ -1,0 +1,119 @@
+{
+  "url": "file:///Users/hankim/아이오브연구소/ai-design-tells/.claude/worktrees/build/fixtures/refined.html",
+  "name": "file:___Users_hankim_아이오브연구소_ai-design-tells_.claude_worktrees_build_fixtures_refined.html",
+  "title": "TaskFlow · one board, the whole release",
+  "fonts": {
+    "body": "avenir next",
+    "heading": "charter",
+    "loaded_count": 0,
+    "loaded_sample": []
+  },
+  "color": {
+    "accent_hues": [
+      173,
+      223,
+      223,
+      223,
+      173,
+      173
+    ],
+    "accent_sampled": 6,
+    "purple_accents": 0,
+    "any_gradients": 0,
+    "blue_purple_gradients": 0
+  },
+  "radii": [
+    [
+      6,
+      3
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      18,
+      1
+    ]
+  ],
+  "shadows": {
+    "other": 3
+  },
+  "paddings": [
+    [
+      "11.2px",
+      3
+    ],
+    [
+      "25.6px",
+      2
+    ],
+    [
+      "112px",
+      1
+    ],
+    [
+      "64px",
+      1
+    ],
+    [
+      "51.2px",
+      1
+    ],
+    [
+      "40px",
+      1
+    ]
+  ],
+  "font_sizes": [
+    [
+      16,
+      34
+    ],
+    [
+      14,
+      7
+    ],
+    [
+      20,
+      4
+    ],
+    [
+      28,
+      1
+    ],
+    [
+      40,
+      1
+    ],
+    [
+      54,
+      1
+    ]
+  ],
+  "heading": {
+    "big_count": 2,
+    "neg_tracked": 2
+  },
+  "focus": {
+    "focus_visible": true,
+    "hairline_rule": false,
+    "sheets_read": 1,
+    "sheets_blocked": 0
+  },
+  "layout": {
+    "blocks": 11,
+    "centered_fraction": 0
+  },
+  "emoji_headings": 0,
+  "copy": {
+    "h1": "One board, the whole release.",
+    "buttons": [
+      "Start a board",
+      "Watch the 2-minute tour",
+      "Import a project",
+      "Read the engineering blog"
+    ]
+  },
+  "ok": true
+}
