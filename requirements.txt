@@ -1,0 +1,10 @@
+# The detector + CLI need NOTHING beyond the Python 3.9+ standard library.
+# The extras below are only for reproducing the figures and running the MCP server.
+
+# figures (scripts/make_figures.py, scripts/make_gifs.py)
+matplotlib>=3.7
+numpy>=1.24
+pillow>=9.5
+
+# MCP server (mcp/server.py)
+mcp[cli]>=1.2

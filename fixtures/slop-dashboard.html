@@ -1,0 +1,28 @@
+<!doctype html>
+<!-- FIXTURE: AI-default app dashboard (slop family). Indigo accent, generic stat cards. -->
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dashboard</title>
+<style>
+ *{box-sizing:border-box;margin:0;padding:0}
+ body{font-family:Inter, system-ui, Roboto, sans-serif;color:#111827;background:#f9fafb;display:flex;min-height:100vh}
+ .sidebar{width:240px;background-image:linear-gradient(to bottom,#6366f1,#7c3aed);color:#fff;padding:1.5rem;text-align:center}
+ .sidebar a{display:block;color:#fff;padding:.75rem;border-radius:.5rem;text-decoration:none;margin-bottom:.5rem}
+ .main{flex:1;padding:1.5rem;text-align:center}
+ .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1.5rem;margin-top:1.5rem}
+ .card{padding:1.5rem;border-radius:.5rem;background:#fff;box-shadow:0 10px 15px -3px rgba(0,0,0,.1),0 4px 6px -4px rgba(0,0,0,.1);text-align:center}
+ .stat{font-size:3rem;font-weight:700;color:#6366f1}
+ h1{font-size:1.5rem;font-weight:700;margin-bottom:.5rem}.text-gray-500{color:#6b7280}
+ .btn{display:inline-block;margin-top:1rem;padding:.5rem 1rem;border-radius:.5rem;background:#6366f1;color:#fff;cursor:pointer}
+</style></head><body>
+ <nav class="sidebar"><div style="font-size:1.5rem;font-weight:700;margin-bottom:2rem">🚀 TaskFlow</div>
+   <a>📊 Dashboard</a><a>📁 Projects</a><a>👥 Team</a><a>⚙️ Settings</a></nav>
+ <main class="main">
+   <h1>Welcome back!</h1><p class="text-gray-500">Here's your all-in-one overview.</p>
+   <div class="grid">
+     <div class="card"><div class="stat">1.2k</div><p class="text-gray-500">Total Users</p></div>
+     <div class="card"><div class="stat">89%</div><p class="text-gray-500">Engagement</p></div>
+     <div class="card"><div class="stat">42</div><p class="text-gray-500">Active Projects</p></div>
+   </div>
+   <span class="btn">Get Started</span>
+ </main>
+</body></html>

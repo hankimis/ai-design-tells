@@ -1,0 +1,166 @@
+<!doctype html>
+<!--
+  FIXTURE: refined.html  —  the SAME product (TaskFlow), the SAME four sections
+  (hero, three capabilities, CTA, footer), the SAME information. The ONLY changes
+  are the documented fix for each tell that fired on ai-default.html:
+    color   indigo/violet -> one brand ink + a single considered accent, as tokens
+    type    Inter default -> a serif display + a non-default body, negative tracking
+    layout  centered template + 3 emoji cards -> editorial left grid, no emoji
+    spacing one 24px token -> a varied rhythm
+    surface diffuse shadow -> designed elevation + hairlines + focus rings
+    motion  one fade -> eased, intentional transitions with microstates
+    copy    vague aspirational -> a specific, opinionated voice; CTAs that predict
+  Nothing else (no sections added/removed, same three capabilities). This is the
+  confound-controlled "after".
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TaskFlow — one board, the whole release</title>
+<style>
+  :root{
+    /* semantic color tokens (defined before values are used) */
+    --color-bg:#fbfaf8;
+    --color-surface:#ffffff;
+    --color-ink:#16181d;          /* primary text */
+    --color-ink-soft:#5b6066;     /* secondary text */
+    --color-ink-faint:#8b9097;    /* tertiary text */
+    --color-action:#0f6f63;       /* brand teal, not indigo */
+    --color-action-press:#0b574e;
+    --color-line:rgba(22,24,29,.10);   /* hairline */
+    --color-line-strong:rgba(22,24,29,.16);
+    --font-display:"Charter","Iowan Old Style","Georgia",serif;
+    --font-body:"Avenir Next","Helvetica Neue",Arial,sans-serif;
+    /* a 6-step modular scale */
+    --t-1:0.86rem; --t-2:1rem; --t-3:1.25rem; --t-4:1.75rem; --t-5:2.5rem; --t-6:3.4rem;
+    /* radius hierarchy */
+    --r-sm:6px; --r-md:10px; --r-lg:18px;
+    --ease:cubic-bezier(.2,.7,.2,1);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{-webkit-font-smoothing:antialiased}
+  body{font-family:var(--font-body);color:var(--color-ink);background:var(--color-bg);line-height:1.5}
+  .wrap{max-width:68rem;margin:0 auto;padding:0 2rem}
+  h1,h2,h3{font-family:var(--font-display);font-weight:600;letter-spacing:-0.02em;line-height:1.05}
+  a{color:inherit;text-decoration:none}
+
+  /* ---- buttons with all microstates ---- */
+  .btn{display:inline-flex;align-items:center;gap:.5rem;font-family:var(--font-body);
+    font-weight:600;font-size:var(--t-2);padding:.7rem 1.15rem;border-radius:var(--r-sm);
+    border:1px solid transparent;cursor:pointer;transition:transform .12s var(--ease),
+    background-color .15s var(--ease),box-shadow .15s var(--ease)}
+  .btn-primary{background:var(--color-action);color:#fff;box-shadow:0 1px 0 rgba(0,0,0,.04)}
+  .btn-primary:hover{background:#0c6055;transform:translateY(-1px)}
+  .btn-primary:active{background:var(--color-action-press);transform:translateY(0)}
+  .btn-primary:focus-visible{outline:2px solid var(--color-action);outline-offset:3px}
+  .btn-primary:disabled{opacity:.5;cursor:not-allowed;transform:none}
+  .btn-ghost{background:transparent;color:var(--color-ink);border-color:var(--color-line-strong)}
+  .btn-ghost:hover{background:rgba(22,24,29,.04)}
+  .btn-ghost:focus-visible{outline:2px solid var(--color-ink);outline-offset:3px}
+  .link{color:var(--color-action);font-weight:600;border-bottom:1px solid transparent;transition:border-color .15s var(--ease)}
+  .link:hover{border-bottom-color:var(--color-action)}
+  .link:focus-visible{outline:2px solid var(--color-action);outline-offset:3px}
+
+  /* ---- hero: left editorial, not centered ---- */
+  .hero{padding:7rem 0 4.5rem}
+  .eyebrow{font-size:var(--t-1);letter-spacing:.04em;text-transform:uppercase;color:var(--color-action);font-weight:700}
+  .hero h1{font-size:var(--t-6);max-width:18ch;margin:1rem 0 1.25rem}
+  .hero p{font-size:var(--t-3);color:var(--color-ink-soft);max-width:46ch;margin-bottom:1.75rem}
+  .hero .row{display:flex;gap:.75rem;align-items:center}
+  .hero .note{margin-top:1rem;font-size:var(--t-1);color:var(--color-ink-faint)}
+
+  /* ---- capabilities: asymmetric two-column, hairline rows, no cards/emoji ---- */
+  .caps{padding:4rem 0;border-top:1px solid var(--color-line)}
+  .caps-grid{display:grid;grid-template-columns:14rem 1fr;gap:2.5rem}
+  .caps h2{font-size:var(--t-4);max-width:12ch;position:sticky;top:2rem;align-self:start}
+  .cap{display:grid;grid-template-columns:2.25rem 1fr;gap:1rem;padding:1.6rem 0;border-top:1px solid var(--color-line)}
+  .cap:first-child{border-top:0;padding-top:0}
+  .glyph{width:2.25rem;height:2.25rem;border:1px solid var(--color-line-strong);border-radius:var(--r-md);
+    display:grid;place-items:center;color:var(--color-action)}
+  .glyph svg{width:1.1rem;height:1.1rem}
+  .cap h3{font-size:var(--t-3);margin-bottom:.35rem}
+  .cap p{color:var(--color-ink-soft);max-width:52ch}
+
+  /* ---- CTA: solid ink panel, designed elevation, not a purple gradient ---- */
+  .cta{margin:5rem 0 3rem}
+  .cta-panel{background:var(--color-ink);color:#fff;border-radius:var(--r-lg);padding:3.2rem 3rem;
+    display:flex;justify-content:space-between;align-items:center;gap:2rem;
+    box-shadow:0 1px 2px rgba(22,24,29,.05),0 24px 48px -28px rgba(22,24,29,.45)}
+  .cta-panel h2{font-size:var(--t-5);max-width:16ch}
+  .cta-panel p{color:rgba(255,255,255,.72);margin-top:.5rem;max-width:40ch}
+  .cta-panel .btn-primary{background:#fff;color:var(--color-ink)}
+  .cta-panel .btn-primary:hover{background:#f0efea}
+
+  footer{padding:2.5rem 0 4rem;border-top:1px solid var(--color-line);color:var(--color-ink-faint);font-size:var(--t-1)}
+  footer .wrap{display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap}
+</style>
+</head>
+<body>
+
+  <!-- HERO -->
+  <header class="hero">
+    <div class="wrap">
+      <div class="eyebrow">TaskFlow</div>
+      <h1>One board, the whole release.</h1>
+      <p>Plan, ship, and look back on a release without leaving a single board. Engineers see what's blocked, leads see what's at risk, nobody refreshes a spreadsheet.</p>
+      <div class="row">
+        <a class="btn btn-primary" href="#">Start a board</a>
+        <a class="btn btn-ghost" href="#">Watch the 2-minute tour</a>
+      </div>
+      <div class="note">Free for teams up to 10. No card to start.</div>
+    </div>
+  </header>
+
+  <!-- CAPABILITIES (same three as ai-default: fast, secure, integrated) -->
+  <section class="caps">
+    <div class="wrap caps-grid">
+      <h2>What it actually does</h2>
+      <div>
+        <div class="cap">
+          <div class="glyph"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2 4 14h7l-1 8 9-12h-7z"/></svg></div>
+          <div>
+            <h3>Opens in under 200&nbsp;ms</h3>
+            <p>The board is rendered from a local cache first, then reconciled. Switching projects feels like switching tabs, not loading a page.</p>
+          </div>
+        </div>
+        <div class="cap">
+          <div class="glyph"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3l7 3v5c0 4.4-3 8-7 10-4-2-7-5.6-7-10V6z"/></svg></div>
+          <div>
+            <h3>Your data stays in your region</h3>
+            <p>SOC 2 Type II, SSO on every plan, and per-row audit history. Security is a default you don't configure, not a tier you upgrade to.</p>
+          </div>
+        </div>
+        <div class="cap">
+          <div class="glyph"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 12h16M4 7h16M4 17h10"/></svg></div>
+          <div>
+            <h3>Reads your Git history</h3>
+            <p>Branches, PRs and deploys land on the card on their own. The board reflects what shipped because it's watching the same commits you are.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="cta">
+    <div class="wrap">
+      <div class="cta-panel">
+        <div>
+          <h2>Move your next release onto one board.</h2>
+          <p>Import from Jira or a CSV in a couple of minutes. Keep your statuses; we map them.</p>
+        </div>
+        <a class="btn btn-primary" href="#">Import a project</a>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="wrap">
+      <span>© 2026 TaskFlow — made in Seoul.</span>
+      <span>Status · Changelog · <a class="link" href="#">Read the engineering blog</a></span>
+    </div>
+  </footer>
+
+</body>
+</html>

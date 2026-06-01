@@ -1,0 +1,391 @@
+{
+  "max_weight": 109.0,
+  "families": {
+    "A": "Color",
+    "B": "Type",
+    "C": "Layout",
+    "D": "Spacing",
+    "E": "Surface",
+    "F": "Motion",
+    "G": "Copy"
+  },
+  "tells": [
+    {
+      "id": "A1",
+      "family": "A",
+      "name": "Indigo/violet default palette",
+      "weight": 9.0,
+      "severity": "tell"
+    },
+    {
+      "id": "A2",
+      "family": "A",
+      "name": "Blue->purple hero gradient",
+      "weight": 7.0,
+      "severity": "tell"
+    },
+    {
+      "id": "A3",
+      "family": "A",
+      "name": "Default-ramp utilities, no semantic tokens",
+      "weight": 4.0,
+      "severity": "smell"
+    },
+    {
+      "id": "B1",
+      "family": "B",
+      "name": "Inter/Roboto/system default font",
+      "weight": 9.0,
+      "severity": "tell"
+    },
+    {
+      "id": "B2",
+      "family": "B",
+      "name": "No type scale discipline",
+      "weight": 5.0,
+      "severity": "tell"
+    },
+    {
+      "id": "B3",
+      "family": "B",
+      "name": "No optical tracking on display type",
+      "weight": 3.0,
+      "severity": "smell"
+    },
+    {
+      "id": "C1",
+      "family": "C",
+      "name": "Hero + three-feature-card template",
+      "weight": 8.0,
+      "severity": "tell"
+    },
+    {
+      "id": "C2",
+      "family": "C",
+      "name": "Center-everything composition",
+      "weight": 5.0,
+      "severity": "tell"
+    },
+    {
+      "id": "C3",
+      "family": "C",
+      "name": "One border-radius everywhere",
+      "weight": 4.0,
+      "severity": "tell"
+    },
+    {
+      "id": "C4",
+      "family": "C",
+      "name": "Emoji as iconography",
+      "weight": 3.0,
+      "severity": "smell"
+    },
+    {
+      "id": "D1",
+      "family": "D",
+      "name": "One padding token on every card",
+      "weight": 5.0,
+      "severity": "tell"
+    },
+    {
+      "id": "D2",
+      "family": "D",
+      "name": "Uniform section rhythm",
+      "weight": 3.0,
+      "severity": "smell"
+    },
+    {
+      "id": "E1",
+      "family": "E",
+      "name": "Generic diffuse shadow",
+      "weight": 5.0,
+      "severity": "tell"
+    },
+    {
+      "id": "E2",
+      "family": "E",
+      "name": "Glassmorphism overuse",
+      "weight": 4.0,
+      "severity": "smell"
+    },
+    {
+      "id": "E3",
+      "family": "E",
+      "name": "No hairlines / no focus-visible",
+      "weight": 6.0,
+      "severity": "tell"
+    },
+    {
+      "id": "F1",
+      "family": "F",
+      "name": "One fade applied to everything",
+      "weight": 4.0,
+      "severity": "smell"
+    },
+    {
+      "id": "F2",
+      "family": "F",
+      "name": "Missing interactive microstates",
+      "weight": 7.0,
+      "severity": "tell"
+    },
+    {
+      "id": "F3",
+      "family": "F",
+      "name": "Uneased transitions",
+      "weight": 3.0,
+      "severity": "smell"
+    },
+    {
+      "id": "G1",
+      "family": "G",
+      "name": "Vague aspirational headline",
+      "weight": 6.0,
+      "severity": "tell"
+    },
+    {
+      "id": "G2",
+      "family": "G",
+      "name": "Only generic CTAs",
+      "weight": 4.0,
+      "severity": "smell"
+    },
+    {
+      "id": "G3",
+      "family": "G",
+      "name": "Placeholder / lorem ipsum copy",
+      "weight": 5.0,
+      "severity": "tell"
+    }
+  ],
+  "pages": {
+    "ai-default": {
+      "label": "AI-default",
+      "path": "fixtures/ai-default.html",
+      "score": 76.15,
+      "grade": "F — textbook AI slop",
+      "family_scores": {
+        "A": 100.0,
+        "B": 70.59,
+        "C": 80.0,
+        "D": 37.5,
+        "E": 73.33,
+        "F": 78.57,
+        "G": 66.67
+      },
+      "fired": {
+        "A1": true,
+        "A2": true,
+        "A3": true,
+        "B1": true,
+        "B2": false,
+        "B3": true,
+        "C1": true,
+        "C2": true,
+        "C3": false,
+        "C4": true,
+        "D1": false,
+        "D2": true,
+        "E1": true,
+        "E2": false,
+        "E3": true,
+        "F1": true,
+        "F2": true,
+        "F3": false,
+        "G1": true,
+        "G2": true,
+        "G3": false
+      }
+    },
+    "slop-pricing": {
+      "label": "AI-default",
+      "path": "fixtures/slop-pricing.html",
+      "score": 54.13,
+      "grade": "D — strong AI-default signature",
+      "family_scores": {
+        "A": 100.0,
+        "B": 70.59,
+        "C": 55.0,
+        "D": 0.0,
+        "E": 40.0,
+        "F": 28.57,
+        "G": 40.0
+      },
+      "fired": {
+        "A1": true,
+        "A2": true,
+        "A3": true,
+        "B1": true,
+        "B2": false,
+        "B3": true,
+        "C1": true,
+        "C2": false,
+        "C3": false,
+        "C4": true,
+        "D1": false,
+        "D2": false,
+        "E1": false,
+        "E2": false,
+        "E3": true,
+        "F1": true,
+        "F2": false,
+        "F3": false,
+        "G1": true,
+        "G2": false,
+        "G3": false
+      }
+    },
+    "slop-dashboard": {
+      "label": "AI-default",
+      "path": "fixtures/slop-dashboard.html",
+      "score": 49.54,
+      "grade": "D — strong AI-default signature",
+      "family_scores": {
+        "A": 100.0,
+        "B": 70.59,
+        "C": 15.0,
+        "D": 0.0,
+        "E": 40.0,
+        "F": 50.0,
+        "G": 40.0
+      },
+      "fired": {
+        "A1": true,
+        "A2": true,
+        "A3": true,
+        "B1": true,
+        "B2": false,
+        "B3": true,
+        "C1": false,
+        "C2": false,
+        "C3": false,
+        "C4": true,
+        "D1": false,
+        "D2": false,
+        "E1": false,
+        "E2": false,
+        "E3": true,
+        "F1": false,
+        "F2": true,
+        "F3": false,
+        "G1": true,
+        "G2": false,
+        "G3": false
+      }
+    },
+    "refined": {
+      "label": "Designed",
+      "path": "fixtures/refined.html",
+      "score": 0.0,
+      "grade": "A — reads as human-crafted",
+      "family_scores": {
+        "A": 0.0,
+        "B": 0.0,
+        "C": 0.0,
+        "D": 0.0,
+        "E": 0.0,
+        "F": 0.0,
+        "G": 0.0
+      },
+      "fired": {
+        "A1": false,
+        "A2": false,
+        "A3": false,
+        "B1": false,
+        "B2": false,
+        "B3": false,
+        "C1": false,
+        "C2": false,
+        "C3": false,
+        "C4": false,
+        "D1": false,
+        "D2": false,
+        "E1": false,
+        "E2": false,
+        "E3": false,
+        "F1": false,
+        "F2": false,
+        "F3": false,
+        "G1": false,
+        "G2": false,
+        "G3": false
+      }
+    },
+    "designed-docs": {
+      "label": "Designed",
+      "path": "fixtures/designed-docs.html",
+      "score": 0.0,
+      "grade": "A — reads as human-crafted",
+      "family_scores": {
+        "A": 0.0,
+        "B": 0.0,
+        "C": 0.0,
+        "D": 0.0,
+        "E": 0.0,
+        "F": 0.0,
+        "G": 0.0
+      },
+      "fired": {
+        "A1": false,
+        "A2": false,
+        "A3": false,
+        "B1": false,
+        "B2": false,
+        "B3": false,
+        "C1": false,
+        "C2": false,
+        "C3": false,
+        "C4": false,
+        "D1": false,
+        "D2": false,
+        "E1": false,
+        "E2": false,
+        "E3": false,
+        "F1": false,
+        "F2": false,
+        "F3": false,
+        "G1": false,
+        "G2": false,
+        "G3": false
+      }
+    },
+    "designed-pricing": {
+      "label": "Designed",
+      "path": "fixtures/designed-pricing.html",
+      "score": 0.0,
+      "grade": "A — reads as human-crafted",
+      "family_scores": {
+        "A": 0.0,
+        "B": 0.0,
+        "C": 0.0,
+        "D": 0.0,
+        "E": 0.0,
+        "F": 0.0,
+        "G": 0.0
+      },
+      "fired": {
+        "A1": false,
+        "A2": false,
+        "A3": false,
+        "B1": false,
+        "B2": false,
+        "B3": false,
+        "C1": false,
+        "C2": false,
+        "C3": false,
+        "C4": false,
+        "D1": false,
+        "D2": false,
+        "E1": false,
+        "E2": false,
+        "E3": false,
+        "F1": false,
+        "F2": false,
+        "F3": false,
+        "G1": false,
+        "G2": false,
+        "G3": false
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+<!doctype html>
+<!-- FIXTURE: designed changelog/docs page (designed family). Intentional, tell-free. -->
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TaskFlow — Changelog</title>
+<style>
+ :root{
+  --color-bg:#0c0d10;--color-surface:#15171c;--color-ink:#f3f4f6;--color-ink-soft:#a4abb4;
+  --color-ink-faint:#6b727c;--color-action:#6fd0c0;--color-line:rgba(255,255,255,.09);
+  --font-display:"Iowan Old Style","Charter",Georgia,serif;--font-body:"Avenir Next","Helvetica Neue",Arial,sans-serif;
+  --t-1:.85rem;--t-2:1rem;--t-3:1.2rem;--t-4:1.6rem;--t-5:2.3rem;--r-sm:7px;--r-md:12px;--ease:cubic-bezier(.2,.7,.2,1);}
+ *{box-sizing:border-box;margin:0;padding:0}
+ body{font-family:var(--font-body);background:var(--color-bg);color:var(--color-ink);line-height:1.55;-webkit-font-smoothing:antialiased}
+ .wrap{max-width:46rem;margin:0 auto;padding:0 1.5rem}
+ header{padding:5rem 0 2rem}
+ .eyebrow{color:var(--color-action);font-weight:700;font-size:var(--t-1);letter-spacing:.04em;text-transform:uppercase}
+ h1{font-family:var(--font-display);font-size:var(--t-5);letter-spacing:-.02em;margin:.75rem 0;line-height:1.06}
+ header p{color:var(--color-ink-soft);font-size:var(--t-3);max-width:40ch}
+ .entry{display:grid;grid-template-columns:7rem 1fr;gap:1.5rem;padding:2rem 0;border-top:1px solid var(--color-line)}
+ .date{color:var(--color-ink-faint);font-size:var(--t-1);position:sticky;top:1.5rem;align-self:start}
+ .tag{display:inline-block;font-size:var(--t-1);color:var(--color-action);border:1px solid var(--color-line);
+   border-radius:999px;padding:.1rem .6rem;margin-bottom:.6rem}
+ h2{font-family:var(--font-display);font-size:var(--t-4);letter-spacing:-.01em;margin-bottom:.4rem}
+ .entry p{color:var(--color-ink-soft);max-width:54ch}
+ a.link{color:var(--color-action);border-bottom:1px solid transparent;transition:border-color .15s var(--ease)}
+ a.link:hover{border-bottom-color:var(--color-action)}
+ a.link:focus-visible{outline:2px solid var(--color-action);outline-offset:3px}
+ .shot{margin-top:1rem;height:8rem;border-radius:var(--r-md);border:1px solid var(--color-line);
+   background:radial-gradient(120% 120% at 0% 0%, #1b2733, #15171c)}
+ footer{padding:3rem 0;border-top:1px solid var(--color-line);color:var(--color-ink-faint);font-size:var(--t-1)}
+</style></head><body>
+ <header><div class="wrap"><div class="eyebrow">Changelog</div>
+   <h1>What shipped this month.</h1>
+   <p>Every change to TaskFlow, written by the person who built it.</p></div></header>
+ <main class="wrap">
+   <article class="entry"><div class="date">May 28</div><div>
+     <span class="tag">Performance</span><h2>Boards open from cache first</h2>
+     <p>We render the last-known board immediately, then reconcile against the server. The median open dropped from 940&nbsp;ms to 180&nbsp;ms on a cold tab. <a class="link" href="#">How we measured it</a>.</p>
+     <div class="shot"></div></div></article>
+   <article class="entry"><div class="date">May 14</div><div>
+     <span class="tag">Security</span><h2>Region pinning for every workspace</h2>
+     <p>You can now pin a workspace to eu-central or ap-northeast. Data, backups and audit logs stay in the region you choose, on every plan.</p></div></article>
+   <article class="entry"><div class="date">May 3</div><div>
+     <span class="tag">Integrations</span><h2>Cards follow your commits</h2>
+     <p>Link a branch once; the matching card moves itself through review, merged and deployed as your CI reports back. No bot comments, no manual dragging.</p></div></article>
+ </main>
+ <footer><div class="wrap">© 2026 TaskFlow — written in Seoul.</div></footer>
+</body></html>

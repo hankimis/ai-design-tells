@@ -1,0 +1,49 @@
+<!doctype html>
+<!-- FIXTURE: designed pricing page (designed family). Intentional, tell-free. -->
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TaskFlow — Pricing</title>
+<style>
+ :root{
+  --color-bg:#fbfaf8;--color-surface:#fff;--color-ink:#16181d;--color-ink-soft:#5b6066;--color-ink-faint:#8b9097;
+  --color-action:#9a3b1f;/* clay, not indigo */--color-line:rgba(22,24,29,.10);--color-line-strong:rgba(22,24,29,.16);
+  --font-display:"Charter","Iowan Old Style",Georgia,serif;--font-body:"Avenir Next","Helvetica Neue",Arial,sans-serif;
+  --t-1:.85rem;--t-2:1rem;--t-3:1.2rem;--t-4:1.7rem;--t-5:2.6rem;--r-sm:7px;--r-md:12px;--r-lg:18px;--ease:cubic-bezier(.2,.7,.2,1);}
+ *{box-sizing:border-box;margin:0;padding:0}
+ body{font-family:var(--font-body);background:var(--color-bg);color:var(--color-ink);line-height:1.5;-webkit-font-smoothing:antialiased}
+ .wrap{max-width:64rem;margin:0 auto;padding:0 2rem}
+ header{padding:5.5rem 0 1rem}
+ h1{font-family:var(--font-display);font-size:var(--t-5);letter-spacing:-.02em;max-width:16ch;line-height:1.04}
+ header p{color:var(--color-ink-soft);font-size:var(--t-3);max-width:44ch;margin-top:1rem}
+ .plans{display:grid;grid-template-columns:1fr 1.15fr 1fr;gap:1.25rem;padding:3rem 0;align-items:start}
+ .plan{border:1px solid var(--color-line);border-radius:var(--r-lg);padding:1.75rem;background:var(--color-surface)}
+ .plan.featured{border-color:var(--color-ink);box-shadow:0 1px 2px rgba(22,24,29,.05),0 22px 44px -28px rgba(22,24,29,.4);padding:2.25rem 1.75rem}
+ .plan h3{font-family:var(--font-display);font-size:var(--t-4);letter-spacing:-.01em}
+ .price{font-size:var(--t-4);font-weight:700;margin:.6rem 0}.price small{font-size:var(--t-1);color:var(--color-ink-faint);font-weight:500}
+ .plan ul{list-style:none;margin:1rem 0;color:var(--color-ink-soft)}
+ .plan li{padding:.4rem 0;border-top:1px solid var(--color-line);font-size:var(--t-2)}
+ .btn{display:inline-flex;align-items:center;justify-content:center;width:100%;padding:.7rem 1rem;border-radius:var(--r-sm);
+   font-family:var(--font-body);font-weight:600;border:1px solid var(--color-line-strong);background:transparent;color:var(--color-ink);
+   cursor:pointer;transition:background-color .15s var(--ease),transform .12s var(--ease)}
+ .btn:hover{background:rgba(22,24,29,.04)}.btn:active{transform:translateY(1px)}
+ .btn:focus-visible{outline:2px solid var(--color-ink);outline-offset:3px}
+ .btn-primary{background:var(--color-action);color:#fff;border-color:transparent}
+ .btn-primary:hover{background:#852f17}
+ .btn-primary:focus-visible{outline:2px solid var(--color-action);outline-offset:3px}
+ .note{font-size:var(--t-1);color:var(--color-ink-faint);margin-top:.6rem}
+</style></head><body>
+ <header><div class="wrap"><h1>Pay for seats that ship, not seats that watch.</h1>
+   <p>Read-only guests are free, forever. You're only billed for people who move a card.</p></div></header>
+ <main class="wrap">
+   <div class="plans">
+     <div class="plan"><h3>Solo</h3><div class="price">$0<small> / forever</small></div>
+       <ul><li>One private board</li><li>Unlimited guests</li><li>Git + CSV import</li></ul>
+       <button class="btn">Keep it free</button><div class="note">No card needed.</div></div>
+     <div class="plan featured"><h3>Team</h3><div class="price">$8<small> / active seat / mo</small></div>
+       <ul><li>Unlimited boards</li><li>SSO + region pinning</li><li>Per-row audit history</li><li>2-min Jira import</li></ul>
+       <button class="btn btn-primary">Start a 14-day trial</button><div class="note">Billed on active seats only.</div></div>
+     <div class="plan"><h3>Scale</h3><div class="price">Let's talk</div>
+       <ul><li>SAML + SCIM</li><li>Dedicated region</li><li>Priority support SLA</li></ul>
+       <button class="btn">Book a walkthrough</button><div class="note">We'll map your current tool.</div></div>
+   </div>
+ </main>
+</body></html>
