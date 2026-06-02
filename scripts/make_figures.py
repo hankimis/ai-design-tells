@@ -129,7 +129,7 @@ def fig_waterfall():
                color=GOOD if t.severity == "tell" else "#79b4ab", zorder=3, alpha=.95)
         ax.plot([x - 1 + 0.35, x - 0.35], [prev, prev], color=FAINT, lw=1, ls=(0, (2, 2)))
         ax.text(x, prev + 1.2, f"−{drop:.0f}", ha="center", fontsize=9.5, color=SOFT)
-        labels.append(f"[{t.id}] {t.name}")
+        labels.append(f"[{t.id}] {t.nickname or t.name}")
         prev = nxt
     x += 1
     ax.bar(x, prev, width=0.7, color="#cfcac2" if prev > 0 else GOOD, zorder=3)
@@ -216,7 +216,7 @@ def fig_heatmap():
     ax.set_xticks(range(len(pages)))
     ax.set_xticklabels(pages, rotation=35, ha="right", fontsize=10)
     ax.set_yticks(range(len(tells)))
-    ax.set_yticklabels([f"[{t.id}] {t.name}" for t in tells], fontsize=9.5)
+    ax.set_yticklabels([f"[{t.id}] {t.nickname or t.name}" for t in tells], fontsize=9.5)
     ax.set_xticks(np.arange(-.5, len(pages), 1), minor=True)
     ax.set_yticks(np.arange(-.5, len(tells), 1), minor=True)
     ax.grid(which="minor", color=BG, lw=2)

@@ -128,7 +128,8 @@ def main():
         parts.append(f"\n## {k}. {name}, {blurb}\n")
         for t in tells:
             sev = "" if t.severity == "tell" else " _(minor)_"
-            parts.append(f"- **Don't: {t.name}.**{sev} {t.why[0].upper() + t.why[1:]}.")
+            handle = f'"{t.nickname}", {t.name[0].lower() + t.name[1:]}' if t.nickname else t.name
+            parts.append(f"- **Don't, {handle}.**{sev} {t.why[0].upper() + t.why[1:]}.")
             parts.append(f"  **Do instead:** {t.fix}.")
     # checklist
     parts.append(CHECKLIST_INTRO)

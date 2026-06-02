@@ -112,7 +112,7 @@ def waterfall():
                 fm.fontManager.addfont(p); serif = fm.FontProperties(fname=p).get_name(); break
         except Exception:
             pass
-    labels = ["AI-default"] + [f"[{t.id}] {t.name}" for t in fired] + ["Refined"]
+    labels = ["AI-default"] + [f"[{t.id}] {t.nickname or t.name}" for t in fired] + ["Refined"]
     drops = [100 * t.weight / maxw for t in fired]
     levels = [start]
     for dz in drops:

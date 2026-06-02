@@ -169,49 +169,51 @@ A *tell* is a measurable signal that an interface was produced by a model
 defaulting to its distribution rather than by a person making a choice. Each tell
 carries a weight (its contribution to the maximum score), a severity, *tell*
 (strong) or *smell* (weak, context-dependent), a mechanistic rationale, and a
-fix. There are 27 tells in eight families; the maximum attainable weight is 133.
+fix, and a short nickname (the memorable handle, "The Sparkle Tax", "Lorem Shipsum")
+that the detector prints alongside the descriptive name. There are 27 tells in eight
+families; the maximum attainable weight is 133.
 @tab-taxonomy lists them; the full text with citations lives in `src/taxonomy.py`,
 the single source of truth from which the detector, this paper, and the harness
 are generated.
 
 #figure(
   table(
-    columns: (auto, 1fr, auto, auto),
+    columns: (auto, auto, 1fr, auto, auto),
     inset: 4.5pt,
-    align: (left, left, center, center),
+    align: (left, left, left, center, center),
     stroke: 0.4pt + luma(200),
-    table.header([*ID*], [*Tell*], [*Wt*], [*Sev*]),
-    [A1], [Indigo/violet default palette], [9], [tell],
-    [A2], [Blue→purple hero gradient], [7], [tell],
-    [A3], [Default-ramp utilities, no semantic tokens], [4], [smell],
-    [A4], [Multi-color pill-badge inflation], [4], [smell],
-    [B1], [Inter/Roboto/system default font], [9], [tell],
-    [B2], [No type scale discipline], [5], [tell],
-    [B3], [No optical tracking on display type], [3], [smell],
-    [B4], [Sub-legible micro-type], [3], [smell],
-    [C1], [Hero + three-feature-card template], [8], [tell],
-    [C2], [Center-everything composition], [5], [tell],
-    [C3], [One border-radius everywhere], [4], [tell],
-    [C4], [Emoji as iconography], [3], [smell],
-    [D1], [One padding token on every card], [5], [tell],
-    [D2], [Uniform section rhythm], [3], [smell],
-    [E1], [Generic diffuse shadow], [5], [tell],
-    [E2], [Glassmorphism overuse], [4], [smell],
-    [E3], [No hairlines / no focus-visible], [6], [tell],
-    [E4], [Nested card-in-card chrome], [4], [tell],
-    [F1], [One fade applied to everything], [4], [smell],
-    [F2], [Missing interactive microstates], [7], [tell],
-    [F3], [Uneased transitions], [3], [smell],
-    [G1], [Vague aspirational headline], [6], [tell],
-    [G2], [Only generic CTAs], [4], [smell],
-    [G3], [Placeholder / lorem ipsum copy], [5], [tell],
-    [H1], [AI-cliché iconography], [5], [tell],
-    [H2], [Labels the feature "AI" / names the model], [5], [tell],
-    [H3], [Generate → preview → insert two-step], [3], [smell],
+    table.header([*ID*], [*Nickname*], [*Tell*], [*Wt*], [*Sev*]),
+    [A1], [The House Indigo], [Indigo/violet default palette], [9], [tell],
+    [A2], [The v0 Gradient], [Blue→purple hero gradient], [7], [tell],
+    [A3], [Raw Ramp], [Default-ramp utilities, no semantic tokens], [4], [smell],
+    [A4], [Skittles Status], [Multi-color pill-badge inflation], [4], [smell],
+    [B1], [Inter, Obviously], [Inter/Roboto/system default font], [9], [tell],
+    [B2], [One Size Fits None], [No type scale discipline], [5], [tell],
+    [B3], [Untracked], [No optical tracking on display type], [3], [smell],
+    [B4], [The 10px Squint], [Sub-legible micro-type], [3], [smell],
+    [C1], [The Three-Card Trick], [Hero + three-feature-card template], [8], [tell],
+    [C2], [Dead Center], [Center-everything composition], [5], [tell],
+    [C3], [One Radius to Rule Them All], [One border-radius everywhere], [4], [tell],
+    [C4], [The Emoji Reflex], [Emoji as iconography], [3], [smell],
+    [D1], [24px Everywhere], [One padding token on every card], [5], [tell],
+    [D2], [Metronome Sections], [Uniform section rhythm], [3], [smell],
+    [E1], [shadow-lg, Shipped], [Generic diffuse shadow], [5], [tell],
+    [E2], [Frosted Everything], [Glassmorphism overuse], [4], [smell],
+    [E3], [No Focus Given], [No hairlines / no focus-visible], [6], [tell],
+    [E4], [Box-in-a-Box], [Nested card-in-card chrome], [4], [tell],
+    [F1], [Fade-in, Repeat], [One fade applied to everything], [4], [smell],
+    [F2], [No Hover, No Care], [Missing interactive microstates], [7], [tell],
+    [F3], [Snap, Not Eased], [Uneased transitions], [3], [smell],
+    [G1], [Build the Future of \_\_\_], [Vague aspirational headline], [6], [tell],
+    [G2], [Get Started, Again], [Only generic CTAs], [4], [smell],
+    [G3], [Lorem Shipsum], [Placeholder / lorem ipsum copy], [5], [tell],
+    [H1], [The Sparkle Tax], [AI-cliché iconography], [5], [tell],
+    [H2], [Powered-by Theatre], [Labels the feature "AI" / names the model], [5], [tell],
+    [H3], [The Insert Dance], [Generate → preview → insert two-step], [3], [smell],
   ),
-  caption: [The 27 tells across eight families (A color, B type, C layout, D
-  spacing, E surface, F motion, G copy, H AI self-reference). A4/B4/E4 and all of
-  family H are field-derived (§9). Weights sum to 133.],
+  caption: [The 27 tells across eight families, each with a memorable nickname and a
+  descriptive name (A color, B type, C layout, D spacing, E surface, F motion, G copy,
+  H AI self-reference). A4/B4/E4 and all of family H are field-derived (§9). Weights sum to 133.],
 ) <tab-taxonomy>
 
 *A, Color (chromatic conformity).* The loudest family. A1 fires on any

@@ -660,6 +660,7 @@ class TellResult:
     fired: bool
     evidence: List[str]
     fix: str
+    nickname: str = ""
 
 
 @dataclass
@@ -735,9 +736,11 @@ def score_signals(sig, calib=None):
     fsizes = sig.get("font_sizes", [])
 
     # (id, family, name, weight, severity, fired, evidence)
+    _nick = {t.id: t.nickname for t in TELLS}
     rows = []
     def add(tid, fam, name, w, sev, fired, ev):
-        rows.append(TellResult(tid, fam, name, w, sev, fired, ev if isinstance(ev, list) else [ev], ""))
+        rows.append(TellResult(tid, fam, name, w, sev, fired, ev if isinstance(ev, list) else [ev], "",
+                               nickname=_nick.get(tid, "")))
 
     # A, color (gated by craft)
     add("A1", "A", "Indigo/violet default palette", 7.0, "tell",
@@ -817,7 +820,8 @@ def score_document(html: str) -> Report:
         if fired:
             fired_weight += t.weight
             fam_fired[t.family] += t.weight
-        results.append(TellResult(t.id, t.family, t.name, t.weight, t.severity, fired, ev, t.fix))
+        results.append(TellResult(t.id, t.family, t.name, t.weight, t.severity, fired, ev, t.fix,
+                                   nickname=t.nickname))
     mx = max_score()
     family_scores = {k: (100 * fam_fired[k] / fam_max[k] if fam_max[k] else 0.0) for k in FAMILIES}
     return Report(score=100 * fired_weight / mx, fired_weight=fired_weight,

@@ -54,7 +54,8 @@ def render(path, rep, verbose):
         print(f"  {C['bold']}tells fired:{C['rst']}")
         for r in sorted(fired, key=lambda x: -x.weight):
             tag = "TELL " if r.severity == "tell" else "smell"
-            print(f"    {col}●{C['rst']} [{r.id}] {r.name} {C['dim']}(+{r.weight:g}, {tag}){C['rst']}")
+            nn = f"{C['bold']}{r.nickname}{C['rst']} {C['dim']}· " if r.nickname else C['dim']
+            print(f"    {col}●{C['rst']} [{r.id}] {nn}{r.name} (+{r.weight:g}, {tag}){C['rst']}")
             for e in r.evidence:
                 print(f"        {C['dim']}↳ {e}{C['rst']}")
             if verbose:
@@ -86,7 +87,7 @@ def main():
             "fired_weight": rep.fired_weight,
             "max_weight": rep.max_weight,
             "family_scores": {k: round(v, 1) for k, v in rep.family_scores.items()},
-            "tells": [{"id": r.id, "name": r.name, "family": r.family,
+            "tells": [{"id": r.id, "nickname": r.nickname, "name": r.name, "family": r.family,
                        "weight": r.weight, "severity": r.severity,
                        "fired": r.fired, "evidence": r.evidence, "fix": r.fix}
                       for r in rep.results],

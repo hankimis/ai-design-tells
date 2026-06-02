@@ -46,7 +46,7 @@ plt.rcParams.update({
 })
 
 WT = {t.id: t.weight for t in TELLS}
-NAME = {t.id: t.name for t in TELLS}
+NAME = {t.id: (t.nickname or t.name) for t in TELLS}
 
 # rows top-to-bottom; (id, named-by-A, named-by-B), A = dark-mode media tool,
 # B = productivity assistant. Honest attribution from the two manifestos.

@@ -19,7 +19,7 @@ CORPUS = {
 
 def main():
     out = {"max_weight": max_score(), "families": {k: v[0] for k, v in FAMILIES.items()},
-           "tells": [{"id": t.id, "family": t.family, "name": t.name,
+           "tells": [{"id": t.id, "nickname": t.nickname, "family": t.family, "name": t.name,
                       "weight": t.weight, "severity": t.severity} for t in TELLS],
            "pages": {}}
     for name, (rel, label) in CORPUS.items():

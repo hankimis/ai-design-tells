@@ -36,7 +36,7 @@ mcp = FastMCP("ai-design-tells")
 def _report_dict(html: str) -> dict:
     rep = score_document(html)
     fired = [
-        {"id": r.id, "family": FAMILIES[r.family][0], "name": r.name,
+        {"id": r.id, "nickname": r.nickname, "family": FAMILIES[r.family][0], "name": r.name,
          "weight": r.weight, "severity": r.severity, "evidence": r.evidence, "fix": r.fix}
         for r in rep.results if r.fired
     ]
@@ -95,7 +95,7 @@ def audit_url(url: str) -> dict:
     if not rec.get("ok"):
         return {"error": f"could not load {url}: {rec.get('error','')}"}
     rep = score_signals(rec)
-    fired = [{"id": r.id, "family": FAMILIES[r.family][0], "name": r.name,
+    fired = [{"id": r.id, "nickname": r.nickname, "family": FAMILIES[r.family][0], "name": r.name,
               "weight": r.weight, "severity": r.severity, "evidence": r.evidence}
              for r in rep.results if r.fired]
     fired.sort(key=lambda x: -x["weight"])
@@ -116,7 +116,7 @@ def list_tells() -> list:
     """Return the full AI Design Tells taxonomy: id, family, weight, severity,
     why it reads as a machine default, and the intentional fix."""
     return [
-        {"id": t.id, "family": FAMILIES[t.family][0], "name": t.name,
+        {"id": t.id, "nickname": t.nickname, "family": FAMILIES[t.family][0], "name": t.name,
          "weight": t.weight, "severity": t.severity, "why": t.why, "fix": t.fix}
         for t in TELLS
     ]

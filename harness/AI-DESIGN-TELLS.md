@@ -23,80 +23,80 @@ tell. Pick from the product's own brand, domain, content, and voice.
 
 ## A. Color, Chromatic conformity
 
-- **Don't: Indigo/violet default palette.** Indigo-500 is the single most over-represented brand color in the training corpus, so models treat purple as the default 'modern' accent.
+- **Don't, "The House Indigo", indigo/violet default palette.** Indigo-500 is the single most over-represented brand color in the training corpus, so models treat purple as the default 'modern' accent.
   **Do instead:** pick a hue from the product's own brand or domain; derive a ramp in a perceptual space (LCH/OKLCH) and expose it as semantic tokens.
-- **Don't: Blue->purple hero gradient.** The blue-to-purple linear gradient on a hero/button is the visual signature of v0/Lovable/Bolt output.
+- **Don't, "The v0 Gradient", blue->purple hero gradient.** The blue-to-purple linear gradient on a hero/button is the visual signature of v0/Lovable/Bolt output.
   **Do instead:** use a flat brand color or a restrained two-stop gradient within one hue; reserve gradients for meaning.
-- **Don't: Default-ramp utilities, no semantic tokens.** _(minor)_ Scattering *-500/*-600 utilities with no --color-* tokens means color carries no system or meaning.
+- **Don't, "Raw Ramp", default-ramp utilities, no semantic tokens.** _(minor)_ Scattering *-500/*-600 utilities with no --color-* tokens means color carries no system or meaning.
   **Do instead:** define semantic CSS custom properties (--color-action, --color-danger) before reaching for raw values.
-- **Don't: Multi-color pill-badge inflation.** _(minor)_ A row of status/badge pills each in a different bright hue (amber + blue + red + green) is a generated-dashboard reflex; when everything is colored, color stops meaning anything.
+- **Don't, "Skittles Status", multi-color pill-badge inflation.** _(minor)_ A row of status/badge pills each in a different bright hue (amber + blue + red + green) is a generated-dashboard reflex; when everything is colored, color stops meaning anything.
   **Do instead:** limit status colors to one or two families; lean on weight and a single dot, and reserve a bright pill for one genuine alert.
 
 ## B. Type, Typographic defaulting
 
-- **Don't: Inter/Roboto/system default font.** Inter and the system stack are the highest-frequency fonts in scraped templates; choosing them by default is the loudest type tell.
+- **Don't, "Inter, Obviously", inter/Roboto/system default font.** Inter and the system stack are the highest-frequency fonts in scraped templates; choosing them by default is the loudest type tell.
   **Do instead:** commit to one distinctive display face with personality (custom or commissioned, like Geist/Sohne) paired with a readable body face.
-- **Don't: No type scale discipline.** Either an ad-hoc pile of sizes or just one or two sizes signals no modular scale and therefore no hierarchy.
+- **Don't, "One Size Fits None", no type scale discipline.** Either an ad-hoc pile of sizes or just one or two sizes signals no modular scale and therefore no hierarchy.
   **Do instead:** use a 4-6 step modular scale; size, weight and color together build hierarchy.
-- **Don't: No optical tracking on display type.** _(minor)_ Premium display type carries negative letter-spacing; leaving it at the browser default reads as untouched.
+- **Don't, "Untracked", no optical tracking on display type.** _(minor)_ Premium display type carries negative letter-spacing; leaving it at the browser default reads as untouched.
   **Do instead:** apply negative tracking to large headings (Linear uses -0.22px display / -0.11px body).
-- **Don't: Sub-legible micro-type.** _(minor)_ Scattering 9-11px labels under a big headline is a default a model reaches for to fit text; below ~12px both hangul and dense Latin lose legibility.
+- **Don't, "The 10px Squint", sub-legible micro-type.** _(minor)_ Scattering 9-11px labels under a big headline is a default a model reaches for to fit text; below ~12px both hangul and dense Latin lose legibility.
   **Do instead:** set a 12px floor for any real label (13-14px body); build hierarchy with weight and color, not by shrinking past readability.
 
 ## C. Layout, Compositional cliche
 
-- **Don't: Hero + three-feature-card template.** The hero, then a three-up icon-card grid, then a CTA is the canonical SaaS-template layout AI reproduces from tutorials.
+- **Don't, "The Three-Card Trick", hero + three-feature-card template.** The hero, then a three-up icon-card grid, then a CTA is the canonical SaaS-template layout AI reproduces from tutorials.
   **Do instead:** let the content dictate structure; vary section shape, asymmetry and emphasis instead of the template.
-- **Don't: Center-everything composition.** Centering nearly every block is the path of least resistance and erases the tension and rhythm of an intentional grid.
+- **Don't, "Dead Center", center-everything composition.** Centering nearly every block is the path of least resistance and erases the tension and rhythm of an intentional grid.
   **Do instead:** use a real grid; left-align long-form, reserve centering for genuine focal moments.
-- **Don't: One border-radius everywhere.** A single radius reused on every surface (the shadcn 0.5rem default) flattens the hierarchy of nested elements.
+- **Don't, "One Radius to Rule Them All", one border-radius everywhere.** A single radius reused on every surface (the shadcn 0.5rem default) flattens the hierarchy of nested elements.
   **Do instead:** scale radius with element size; nested radii should differ (outer larger than inner).
-- **Don't: Emoji as iconography.** _(minor)_ Emoji in headings and feature cards is a hallmark of model-written marketing pages.
+- **Don't, "The Emoji Reflex", emoji as iconography.** _(minor)_ Emoji in headings and feature cards is a hallmark of model-written marketing pages.
   **Do instead:** use a coherent icon set or custom glyphs that match the brand's weight and grid.
 
 ## D. Spacing, Undifferentiated rhythm
 
-- **Don't: One padding token on every card.** Identical padding and gaps on every block (the 'same 24px everywhere') is undifferentiated default rhythm.
+- **Don't, "24px Everywhere", one padding token on every card.** Identical padding and gaps on every block (the 'same 24px everywhere') is undifferentiated default rhythm.
   **Do instead:** vary spacing to express grouping and importance; whitespace is the cheapest way to look designed.
-- **Don't: Uniform section rhythm.** _(minor)_ Every section sharing one vertical padding means no passage of the page is emphasised over another.
+- **Don't, "Metronome Sections", uniform section rhythm.** _(minor)_ Every section sharing one vertical padding means no passage of the page is emphasised over another.
   **Do instead:** modulate section spacing; give the hero and key moments more air.
 
 ## E. Surface, Depth & state defaults
 
-- **Don't: Generic diffuse shadow.** The default soft drop shadow (Tailwind shadow-lg / 0 10px 15px rgba(0,0,0,.1)) applied to every card is an un-designed depth cue.
+- **Don't, "shadow-lg, Shipped", generic diffuse shadow.** The default soft drop shadow (Tailwind shadow-lg / 0 10px 15px rgba(0,0,0,.1)) applied to every card is an un-designed depth cue.
   **Do instead:** design elevation: tight contained shadows, or layering and hairlines instead of blur (Linear's approach).
-- **Don't: Glassmorphism overuse.** _(minor)_ Backdrop-blur translucency on many surfaces is a trend the models over-apply because it is over-represented recently.
+- **Don't, "Frosted Everything", glassmorphism overuse.** _(minor)_ Backdrop-blur translucency on many surfaces is a trend the models over-apply because it is over-represented recently.
   **Do instead:** reserve blur for genuinely layered surfaces; prefer solid, high-contrast panels.
-- **Don't: No hairlines / no focus-visible.** Missing 1px low-alpha separators and missing :focus-visible styles reveal that microstates and accessibility were never designed.
+- **Don't, "No Focus Given", no hairlines / no focus-visible.** Missing 1px low-alpha separators and missing :focus-visible styles reveal that microstates and accessibility were never designed.
   **Do instead:** add designed hairlines (0.5-1px low alpha) and a visible high-contrast focus ring.
-- **Don't: Nested card-in-card chrome.** Wrapping a bordered, rounded card inside another bordered, rounded card (the 'double box') is a generated-layout habit that adds weight and blurs the hierarchy of what contains what.
+- **Don't, "Box-in-a-Box", nested card-in-card chrome.** Wrapping a bordered, rounded card inside another bordered, rounded card (the 'double box') is a generated-layout habit that adds weight and blurs the hierarchy of what contains what.
   **Do instead:** use one outer card with a divide-y flat list inside; separate sections with a hairline, not a second framed surface.
 
 ## F. Motion, Motion defaults
 
-- **Don't: One fade applied to everything.** _(minor)_ The same entrance fade/slide on every element is the default AI motion gesture.
+- **Don't, "Fade-in, Repeat", one fade applied to everything.** _(minor)_ The same entrance fade/slide on every element is the default AI motion gesture.
   **Do instead:** animate with intent; motion should follow navigation or storytelling, not decorate uniformly.
-- **Don't: Missing interactive microstates.** Buttons and inputs without designed hover/focus/active/disabled states are the strongest craft tell - premium UI designs all six.
+- **Don't, "No Hover, No Care", missing interactive microstates.** Buttons and inputs without designed hover/focus/active/disabled states are the strongest craft tell - premium UI designs all six.
   **Do instead:** design all six microstates (default, hover, focus, active, disabled, loading) for every interactive element.
-- **Don't: Uneased transitions.** _(minor)_ Transitions with no custom duration/easing snap instead of feeling considered.
+- **Don't, "Snap, Not Eased", uneased transitions.** _(minor)_ Transitions with no custom duration/easing snap instead of feeling considered.
   **Do instead:** define curves and durations (~150ms hover, 300ms state change) as a small motion system.
 
 ## G. Copy, Language defaults
 
-- **Don't: Vague aspirational headline.** 'Build the future of work', 'all-in-one platform' - grammatically perfect, topically relevant, completely forgettable copy is the language signature of generated marketing.
+- **Don't, "Build the Future of ___", vague aspirational headline.** 'Build the future of work', 'all-in-one platform' - grammatically perfect, topically relevant, completely forgettable copy is the language signature of generated marketing.
   **Do instead:** write in a real voice with a specific, opinionated claim a founder would actually say.
-- **Don't: Only generic CTAs.** _(minor)_ 'Get Started' / 'Learn More' as the sole calls to action carry no product-specific promise.
+- **Don't, "Get Started, Again", only generic CTAs.** _(minor)_ 'Get Started' / 'Learn More' as the sole calls to action carry no product-specific promise.
   **Do instead:** make the CTA predict what happens next in the product's own words (Toss: a button should hint at the next step).
-- **Don't: Placeholder / lorem ipsum copy.** Shipped lorem ipsum or template placeholder copy means the content was never written.
+- **Don't, "Lorem Shipsum", placeholder / lorem ipsum copy.** Shipped lorem ipsum or template placeholder copy means the content was never written.
   **Do instead:** write the real words; copy is UX, not filler (Toss treats text as a foundational design element).
 
 ## H. AI self-reference, The UI announces itself as AI
 
-- **Don't: AI-cliche iconography.** The Sparkles / Wand / Bot / Brain / Cpu icon set is the reflexive marker models attach to any 'AI' feature; it signals a capability bolted on by a model rather than designed into the product.
+- **Don't, "The Sparkle Tax", aI-cliche iconography.** The Sparkles / Wand / Bot / Brain / Cpu icon set is the reflexive marker models attach to any 'AI' feature; it signals a capability bolted on by a model rather than designed into the product.
   **Do instead:** use a function-true icon (a chart, a folder, an activity line) or the product's own brand mark at AI entry points; never a sparkle.
-- **Don't: Labels the feature 'AI' / names the model.** 'AI-powered', 'AI analysis', or an exposed model/vendor name (GPT-4, Claude, OpenAI) in the UI is marketing-of-the-machine; users care about the outcome, not the engine, and the label reads as generated chrome.
+- **Don't, "Powered-by Theatre", labels the feature 'AI' / names the model.** 'AI-powered', 'AI analysis', or an exposed model/vendor name (GPT-4, Claude, OpenAI) in the UI is marketing-of-the-machine; users care about the outcome, not the engine, and the label reads as generated chrome.
   **Do instead:** name the function by what it does ('auto-sort', 'draft'); reveal the model only in settings, never as the primary label.
-- **Don't: Generate -> preview -> insert two-step.** _(minor)_ The ChatGPT/Notion-style 'generate, show a preview card, then Insert/Apply' flow is the default assistant-panel pattern models reproduce; it reads as a bolted-on AI panel rather than a native action.
+- **Don't, "The Insert Dance", generate -> preview -> insert two-step.** _(minor)_ The ChatGPT/Notion-style 'generate, show a preview card, then Insert/Apply' flow is the default assistant-panel pattern models reproduce; it reads as a bolted-on AI panel rather than a native action.
   **Do instead:** apply the result straight into the content and let the user undo (Cmd-Z); skip the preview-then-insert ceremony.
 
 ## Pre-ship checklist (all must be true)

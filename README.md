@@ -248,35 +248,37 @@ Eight families; each tell has a weight, a severity (**tell** = strong, *smell* =
 weak/context-dependent), a mechanistic reason, and a fix. Source of truth:
 [`src/taxonomy.py`](src/taxonomy.py).
 
+Each tell has a **nickname** (the memorable handle) and a descriptive name.
+
 | | tell | wt | the fix (what a designer does instead) |
 |---|---|--:|---|
-| **A · Color** | A1 Indigo/violet default palette | 9 | a hue from the product's own brand; a perceptual ramp as semantic tokens |
-| | A2 Blue→purple hero gradient | 7 | a flat brand color or a one-hue gradient; reserve gradients for meaning |
-| | A3 Default-ramp utilities, no tokens *(smell)* | 4 | define `--color-*` semantic tokens before raw values |
-| | A4 Multi-color pill-badge inflation *(smell)* | 4 | one or two status colors; lean on weight and a single dot |
-| **B · Type** | B1 Inter/Roboto/system default font | 9 | commit to a distinctive display face (Geist/Söhne-class) + readable body |
-| | B2 No type scale discipline | 5 | a 4–6 step modular scale; size+weight+color build hierarchy |
-| | B3 No optical tracking on display *(smell)* | 3 | negative tracking on large headings (Linear: −0.22px display) |
-| | B4 Sub-legible micro-type *(smell)* | 3 | a 12px floor for real labels; hierarchy by weight, not by shrinking |
-| **C · Layout** | C1 Hero + three-feature-card template | 8 | let content dictate structure; vary shape, asymmetry, emphasis |
-| | C2 Center-everything composition | 5 | a real grid; left-align long-form; center only focal moments |
-| | C3 One border-radius everywhere | 4 | scale radius with element size; nested radii differ |
-| | C4 Emoji as iconography *(smell)* | 3 | a coherent icon set matched to the brand's weight and grid |
-| **D · Spacing** | D1 One padding token on every card | 5 | vary spacing to express grouping and importance |
-| | D2 Uniform section rhythm *(smell)* | 3 | modulate section spacing; give key moments more air |
-| **E · Surface** | E1 Generic diffuse shadow | 5 | design elevation: tight contained shadows, or layering + hairlines |
-| | E2 Glassmorphism overuse *(smell)* | 4 | reserve blur for layered surfaces; prefer solid high-contrast panels |
-| | E3 No hairlines / no `:focus-visible` | 6 | low-alpha hairlines + a visible high-contrast focus ring |
-| | E4 Nested card-in-card chrome | 4 | one outer card + a divide-y flat list; hairlines, not a second frame |
-| **F · Motion** | F1 One fade on everything *(smell)* | 4 | animate with intent; motion follows navigation/storytelling |
-| | F2 Missing interactive microstates | 7 | design all six: default, hover, focus, active, disabled, loading |
-| | F3 Uneased transitions *(smell)* | 3 | define curves and durations (~150ms hover, 300ms state change) |
-| **G · Copy** | G1 Vague aspirational headline | 6 | a specific, opinionated claim a founder would actually say |
-| | G2 Only generic CTAs *(smell)* | 4 | a CTA that predicts the next step in the product's own words |
-| | G3 Placeholder / lorem ipsum | 5 | write the real words; copy is UX, not filler |
-| **H · AI self-reference** | H1 AI-cliché iconography | 5 | a function-true icon or the brand mark at AI entry points; never a sparkle |
-| | H2 Labels the feature "AI" / names the model | 5 | name the function by what it does; reveal the model only in settings |
-| | H3 Generate → preview → insert two-step *(smell)* | 3 | apply the result into the content; let the user undo (⌘Z) |
+| **A · Color** | A1 **The House Indigo** · Indigo/violet default palette | 9 | a hue from the product's own brand; a perceptual ramp as semantic tokens |
+| | A2 **The v0 Gradient** · Blue→purple hero gradient | 7 | a flat brand color or a one-hue gradient; reserve gradients for meaning |
+| | A3 **Raw Ramp** · default-ramp utilities, no tokens *(smell)* | 4 | define `--color-*` semantic tokens before raw values |
+| | A4 **Skittles Status** · multi-color pill-badge inflation *(smell)* | 4 | one or two status colors; lean on weight and a single dot |
+| **B · Type** | B1 **Inter, Obviously** · Inter/Roboto/system default font | 9 | commit to a distinctive display face (Geist/Söhne-class) + readable body |
+| | B2 **One Size Fits None** · no type scale discipline | 5 | a 4–6 step modular scale; size+weight+color build hierarchy |
+| | B3 **Untracked** · no optical tracking on display *(smell)* | 3 | negative tracking on large headings (Linear: −0.22px display) |
+| | B4 **The 10px Squint** · sub-legible micro-type *(smell)* | 3 | a 12px floor for real labels; hierarchy by weight, not by shrinking |
+| **C · Layout** | C1 **The Three-Card Trick** · hero + three-feature-card template | 8 | let content dictate structure; vary shape, asymmetry, emphasis |
+| | C2 **Dead Center** · center-everything composition | 5 | a real grid; left-align long-form; center only focal moments |
+| | C3 **One Radius to Rule Them All** · one border-radius everywhere | 4 | scale radius with element size; nested radii differ |
+| | C4 **The Emoji Reflex** · emoji as iconography *(smell)* | 3 | a coherent icon set matched to the brand's weight and grid |
+| **D · Spacing** | D1 **24px Everywhere** · one padding token on every card | 5 | vary spacing to express grouping and importance |
+| | D2 **Metronome Sections** · uniform section rhythm *(smell)* | 3 | modulate section spacing; give key moments more air |
+| **E · Surface** | E1 **shadow-lg, Shipped** · generic diffuse shadow | 5 | design elevation: tight contained shadows, or layering + hairlines |
+| | E2 **Frosted Everything** · glassmorphism overuse *(smell)* | 4 | reserve blur for layered surfaces; prefer solid high-contrast panels |
+| | E3 **No Focus Given** · no hairlines / no `:focus-visible` | 6 | low-alpha hairlines + a visible high-contrast focus ring |
+| | E4 **Box-in-a-Box** · nested card-in-card chrome | 4 | one outer card + a divide-y flat list; hairlines, not a second frame |
+| **F · Motion** | F1 **Fade-in, Repeat** · one fade on everything *(smell)* | 4 | animate with intent; motion follows navigation/storytelling |
+| | F2 **No Hover, No Care** · missing interactive microstates | 7 | design all six: default, hover, focus, active, disabled, loading |
+| | F3 **Snap, Not Eased** · uneased transitions *(smell)* | 3 | define curves and durations (~150ms hover, 300ms state change) |
+| **G · Copy** | G1 **Build the Future of ___** · vague aspirational headline | 6 | a specific, opinionated claim a founder would actually say |
+| | G2 **Get Started, Again** · only generic CTAs *(smell)* | 4 | a CTA that predicts the next step in the product's own words |
+| | G3 **Lorem Shipsum** · placeholder / lorem ipsum | 5 | write the real words; copy is UX, not filler |
+| **H · AI self-reference** | H1 **The Sparkle Tax** · AI-cliché iconography | 5 | a function-true icon or the brand mark at AI entry points; never a sparkle |
+| | H2 **Powered-by Theatre** · labels the feature "AI" / names the model | 5 | name the function by what it does; reveal the model only in settings |
+| | H3 **The Insert Dance** · generate → preview → insert two-step *(smell)* | 3 | apply the result into the content; let the user undo (⌘Z) |
 
 ## The harness
 

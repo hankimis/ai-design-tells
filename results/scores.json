@@ -13,6 +13,7 @@
   "tells": [
     {
       "id": "A1",
+      "nickname": "The House Indigo",
       "family": "A",
       "name": "Indigo/violet default palette",
       "weight": 9.0,
@@ -20,6 +21,7 @@
     },
     {
       "id": "A2",
+      "nickname": "The v0 Gradient",
       "family": "A",
       "name": "Blue->purple hero gradient",
       "weight": 7.0,
@@ -27,6 +29,7 @@
     },
     {
       "id": "A3",
+      "nickname": "Raw Ramp",
       "family": "A",
       "name": "Default-ramp utilities, no semantic tokens",
       "weight": 4.0,
@@ -34,6 +37,7 @@
     },
     {
       "id": "A4",
+      "nickname": "Skittles Status",
       "family": "A",
       "name": "Multi-color pill-badge inflation",
       "weight": 4.0,
@@ -41,6 +45,7 @@
     },
     {
       "id": "B1",
+      "nickname": "Inter, Obviously",
       "family": "B",
       "name": "Inter/Roboto/system default font",
       "weight": 9.0,
@@ -48,6 +53,7 @@
     },
     {
       "id": "B2",
+      "nickname": "One Size Fits None",
       "family": "B",
       "name": "No type scale discipline",
       "weight": 5.0,
@@ -55,6 +61,7 @@
     },
     {
       "id": "B3",
+      "nickname": "Untracked",
       "family": "B",
       "name": "No optical tracking on display type",
       "weight": 3.0,
@@ -62,6 +69,7 @@
     },
     {
       "id": "B4",
+      "nickname": "The 10px Squint",
       "family": "B",
       "name": "Sub-legible micro-type",
       "weight": 3.0,
@@ -69,6 +77,7 @@
     },
     {
       "id": "C1",
+      "nickname": "The Three-Card Trick",
       "family": "C",
       "name": "Hero + three-feature-card template",
       "weight": 8.0,
@@ -76,6 +85,7 @@
     },
     {
       "id": "C2",
+      "nickname": "Dead Center",
       "family": "C",
       "name": "Center-everything composition",
       "weight": 5.0,
@@ -83,6 +93,7 @@
     },
     {
       "id": "C3",
+      "nickname": "One Radius to Rule Them All",
       "family": "C",
       "name": "One border-radius everywhere",
       "weight": 4.0,
@@ -90,6 +101,7 @@
     },
     {
       "id": "C4",
+      "nickname": "The Emoji Reflex",
       "family": "C",
       "name": "Emoji as iconography",
       "weight": 3.0,
@@ -97,6 +109,7 @@
     },
     {
       "id": "D1",
+      "nickname": "24px Everywhere",
       "family": "D",
       "name": "One padding token on every card",
       "weight": 5.0,
@@ -104,6 +117,7 @@
     },
     {
       "id": "D2",
+      "nickname": "Metronome Sections",
       "family": "D",
       "name": "Uniform section rhythm",
       "weight": 3.0,
@@ -111,6 +125,7 @@
     },
     {
       "id": "E1",
+      "nickname": "shadow-lg, Shipped",
       "family": "E",
       "name": "Generic diffuse shadow",
       "weight": 5.0,
@@ -118,6 +133,7 @@
     },
     {
       "id": "E2",
+      "nickname": "Frosted Everything",
       "family": "E",
       "name": "Glassmorphism overuse",
       "weight": 4.0,
@@ -125,6 +141,7 @@
     },
     {
       "id": "E3",
+      "nickname": "No Focus Given",
       "family": "E",
       "name": "No hairlines / no focus-visible",
       "weight": 6.0,
@@ -132,6 +149,7 @@
     },
     {
       "id": "E4",
+      "nickname": "Box-in-a-Box",
       "family": "E",
       "name": "Nested card-in-card chrome",
       "weight": 4.0,
@@ -139,6 +157,7 @@
     },
     {
       "id": "F1",
+      "nickname": "Fade-in, Repeat",
       "family": "F",
       "name": "One fade applied to everything",
       "weight": 4.0,
@@ -146,6 +165,7 @@
     },
     {
       "id": "F2",
+      "nickname": "No Hover, No Care",
       "family": "F",
       "name": "Missing interactive microstates",
       "weight": 7.0,
@@ -153,6 +173,7 @@
     },
     {
       "id": "F3",
+      "nickname": "Snap, Not Eased",
       "family": "F",
       "name": "Uneased transitions",
       "weight": 3.0,
@@ -160,6 +181,7 @@
     },
     {
       "id": "G1",
+      "nickname": "Build the Future of ___",
       "family": "G",
       "name": "Vague aspirational headline",
       "weight": 6.0,
@@ -167,6 +189,7 @@
     },
     {
       "id": "G2",
+      "nickname": "Get Started, Again",
       "family": "G",
       "name": "Only generic CTAs",
       "weight": 4.0,
@@ -174,6 +197,7 @@
     },
     {
       "id": "G3",
+      "nickname": "Lorem Shipsum",
       "family": "G",
       "name": "Placeholder / lorem ipsum copy",
       "weight": 5.0,
@@ -181,6 +205,7 @@
     },
     {
       "id": "H1",
+      "nickname": "The Sparkle Tax",
       "family": "H",
       "name": "AI-cliche iconography",
       "weight": 5.0,
@@ -188,6 +213,7 @@
     },
     {
       "id": "H2",
+      "nickname": "Powered-by Theatre",
       "family": "H",
       "name": "Labels the feature 'AI' / names the model",
       "weight": 5.0,
@@ -195,6 +221,7 @@
     },
     {
       "id": "H3",
+      "nickname": "The Insert Dance",
       "family": "H",
       "name": "Generate -> preview -> insert two-step",
       "weight": 3.0,
