@@ -2,6 +2,8 @@
 <p align="center"><b>A measurable taxonomy of the AI-generated design look, and a harness to escape it.</b></p>
 
 <p align="center">
+  <a href="https://pypi.org/project/ai-design-tells/"><img alt="PyPI" src="https://img.shields.io/pypi/v/ai-design-tells?color=0f6f63&label=PyPI"></a>
+  <a href="https://pypi.org/project/ai-design-tells/"><img alt="Python versions" src="https://img.shields.io/pypi/pyversions/ai-design-tells?color=16181d"></a>
   <img alt="license MIT" src="https://img.shields.io/badge/license-MIT-16181d">
   <img alt="tells" src="https://img.shields.io/badge/tells-27%20across%208%20families-6d5cf6">
   <img alt="metric" src="https://img.shields.io/badge/Tell%20Score-0–100%20(lower%20is%20better)-0f6f63">
@@ -29,24 +31,31 @@ harness so any team or coding agent can audit and prevent the look.
 
 ## Contents
 
-- [Quickstart](#quickstart) · [The result](#the-result) · [Validated on 202 real sites](#validated-on-202-real-sites-v2) · [Component spec catalog](#component-spec-catalog-v3) · [Korean web catalog](#korean-web-한글-catalog) · [Field evidence](#field-evidence-two-production-manifestos-v4) · [The 27 tells](#the-27-tells)
+- [Install](#install) · [Quickstart](#quickstart) · [The result](#the-result) · [Validated on 202 real sites](#validated-on-202-real-sites-v2) · [Component spec catalog](#component-spec-catalog-v3) · [Korean web catalog](#korean-web-한글-catalog) · [Field evidence](#field-evidence-two-production-manifestos-v4) · [The 27 tells](#the-27-tells)
 - [The harness: CLI · MCP · drop-in prompt](#the-harness)
 - [Figure gallery](#figure-gallery) · [How it works](#how-it-works) · [Honest limits](#honest-limits)
 - [Paper & citation](#paper) · [Repo layout](#repo-layout)
 
-## Quickstart
-
-The detector is **pure Python standard library**, no install needed to score a page.
+## Install
 
 ```bash
-# installed (gives the `ai-design-tells` command + the MCP server)
-pip install ai-design-tells          # or: uvx --from ai-design-tells ai-design-tells page.html
+pip install ai-design-tells              # the detector + the `ai-design-tells` CLI (pure stdlib)
+pip install "ai-design-tells[mcp]"       # + the MCP server  (ai-design-tells-mcp)
+pip install "ai-design-tells[live]"      # + audit_url, renders a live page (Playwright)
+```
 
-# or clone and run with zero install
-git clone https://github.com/hankimis/ai-design-tells
-cd ai-design-tells
+It is on PyPI: [`ai-design-tells`](https://pypi.org/project/ai-design-tells/). `pip install`
+gives you two commands, `ai-design-tells` (the CLI) and `ai-design-tells-mcp` (the MCP server).
+No network at all? The detector core is pure standard library, so you can also just clone and run.
 
-# score one page
+## Quickstart
+
+```bash
+# installed: score one page (exit code = the integer Tell Score, gates CI)
+ai-design-tells page.html
+
+# or, with zero install, from a clone:
+git clone https://github.com/hankimis/ai-design-tells && cd ai-design-tells
 python src/cli.py fixtures/ai-default.html            # 77  (F)
 python src/cli.py fixtures/refined.html               # 0   (A)
 python src/cli.py fixtures/catalog-sample.html        # 0   (A)  built to the v3 catalog, light + dark
@@ -54,7 +63,7 @@ python src/cli.py fixtures/catalog-sample.html        # 0   (A)  built to the v3
 # score a whole corpus as a leaderboard
 python src/cli.py fixtures/*.html --quiet
 
-# verbose: every fired tell, its evidence, and the fix
+# verbose: every fired tell (with its nickname), the evidence, and the fix
 python src/cli.py fixtures/ai-default.html -v
 ```
 
@@ -67,7 +76,7 @@ python src/cli.py build/index.html && echo "ships clean" || echo "too many tells
 **Audit a live, deployed site** (v2, renders it in headless Chrome and reads computed styles):
 
 ```bash
-pip install -r requirements.txt          # Playwright extra
+pip install "ai-design-tells[live]"      # adds Playwright; then: playwright install chromium
 python scripts/audit_url.py https://your-site.com
 # Stripe scores 0 (A) even with 123 purple accents, its craft credits offset them.
 ```
