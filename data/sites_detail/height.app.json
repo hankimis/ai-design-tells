@@ -1,0 +1,6 @@
+{
+  "url": "https://height.app",
+  "name": "height.app",
+  "ok": false,
+  "error": "Page.goto: net::ERR_CONNECTION_CLOSED at https://height.app/\nCall log:\n  - navigating to \"https://height.app/\", waiting until \"domcontentloaded\"\n"
+}

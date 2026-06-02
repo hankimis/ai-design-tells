@@ -1,0 +1,877 @@
+{
+  "url": "https://www.coinbase.com",
+  "name": "www.coinbase.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Skip to content",
+          "bg": "#eef0f3",
+          "bg_alpha": 1,
+          "color": "#0052ff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "10px 16px 10px 16px",
+          "height": 36,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "CoinbaseSans",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "󰝊",
+          "bg": "#eef0f3",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #eef0f3",
+          "radius": "56px",
+          "padding": "0px 0px 0px 0px",
+          "height": 44,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "CoinbaseSans",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Sign in",
+          "bg": "#eef0f3",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #eef0f3",
+          "radius": "56px",
+          "padding": "0px 24px 0px 24px",
+          "height": 44,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "CoinbaseSans",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Sign up",
+          "bg": "#0052ff",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #0052ff",
+          "radius": "56px",
+          "padding": "0px 24px 0px 24px",
+          "height": 44,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "CoinbaseSans",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Individuals",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "100000px",
+          "padding": "12px 24px 12px 24px",
+          "height": 44,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "CoinbaseSans",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 5
+        },
+        {
+          "role": "ghost",
+          "text": "Bitcoin₩9876543210 .,9876543",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#578bfa",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 80,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "CoinbaseSans",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 12
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#0052ff",
+          "border": "none",
+          "radius": "4px",
+          "padding": "0px 0px 0px 0px",
+          "height": 468,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "CoinbaseSans",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 3
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "80px",
+        "font_size_px": 80,
+        "font_weight": "400",
+        "line_height": "80px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "CoinbaseDisplay",
+        "color": "#0a0b0d",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 7,
+        "font_size": "80px",
+        "font_size_px": 80,
+        "font_weight": "400",
+        "line_height": "80px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "CoinbaseDisplay",
+        "color": "#0a0b0d",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 3,
+        "font_size": "32px",
+        "font_size_px": 32,
+        "font_weight": "400",
+        "line_height": "36px",
+        "line_height_ratio": 1.13,
+        "letter_spacing": "normal",
+        "font_family": "CoinbaseSans",
+        "color": "#0a0b0d",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 28,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "CoinbaseText",
+        "color": "#5b616e"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1600,
+          "count": 7
+        },
+        {
+          "value": 900,
+          "count": 4
+        },
+        {
+          "value": 1200,
+          "count": 4
+        },
+        {
+          "value": 512,
+          "count": 1
+        },
+        {
+          "value": 800,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 16,
+          "count": 56
+        },
+        {
+          "value": 8,
+          "count": 31
+        },
+        {
+          "value": 12,
+          "count": 30
+        },
+        {
+          "value": 24,
+          "count": 27
+        },
+        {
+          "value": 48,
+          "count": 17
+        },
+        {
+          "value": 4,
+          "count": 3
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 80,
+          "count": 7
+        },
+        {
+          "value": 64,
+          "count": 3
+        },
+        {
+          "value": 32,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 1579,
+      "grid_blocks": 2
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 16,
+          "count": 58
+        },
+        {
+          "value": 32,
+          "count": 49
+        },
+        {
+          "value": 24,
+          "count": 31
+        },
+        {
+          "value": 12,
+          "count": 22
+        },
+        {
+          "value": 4,
+          "count": 19
+        },
+        {
+          "value": 80,
+          "count": 14
+        },
+        {
+          "value": 1,
+          "count": 8
+        },
+        {
+          "value": 8,
+          "count": 8
+        },
+        {
+          "value": 10,
+          "count": 6
+        },
+        {
+          "value": 64,
+          "count": 6
+        },
+        {
+          "value": 6,
+          "count": 4
+        },
+        {
+          "value": 30,
+          "count": 4
+        },
+        {
+          "value": 28,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 2
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 25
+        },
+        {
+          "value": "#eef0f3",
+          "count": 14
+        },
+        {
+          "value": "#0a0b0d",
+          "count": 12
+        },
+        {
+          "value": "#0052ff",
+          "count": 3
+        },
+        {
+          "value": "#141519",
+          "count": 2
+        },
+        {
+          "value": "#282b31",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#ffffff",
+          "count": 1023
+        },
+        {
+          "value": "#000000",
+          "count": 316
+        },
+        {
+          "value": "#f0616d",
+          "count": 264
+        },
+        {
+          "value": "#5b616e",
+          "count": 113
+        },
+        {
+          "value": "#0a0b0d",
+          "count": 89
+        },
+        {
+          "value": "#27ad75",
+          "count": 66
+        },
+        {
+          "value": "#578bfa",
+          "count": 60
+        },
+        {
+          "value": "#0052ff",
+          "count": 11
+        }
+      ],
+      "borders": [
+        {
+          "value": "#0a0b0d",
+          "count": 9
+        },
+        {
+          "value": "#eef0f3",
+          "count": 3
+        },
+        {
+          "value": "#0052ff",
+          "count": 3
+        },
+        {
+          "value": "#5b616e",
+          "count": 2
+        },
+        {
+          "value": "#ffffff",
+          "count": 1
+        },
+        {
+          "value": "#282b31",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#0052ff",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "title": "Coinbase - Buy and Sell Bitcoin, Ethereum, and more with trust",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Skip to content",
+          "bg": "#eef0f3",
+          "bg_alpha": 1,
+          "color": "#0052ff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "10px 16px 10px 16px",
+          "height": 36,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "CoinbaseSans",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "󰝊",
+          "bg": "#eef0f3",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #eef0f3",
+          "radius": "56px",
+          "padding": "0px 0px 0px 0px",
+          "height": 44,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "CoinbaseSans",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Sign in",
+          "bg": "#eef0f3",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #eef0f3",
+          "radius": "56px",
+          "padding": "0px 24px 0px 24px",
+          "height": 44,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "CoinbaseSans",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Sign up",
+          "bg": "#0052ff",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #0052ff",
+          "radius": "56px",
+          "padding": "0px 24px 0px 24px",
+          "height": 44,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "CoinbaseSans",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Individuals",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "100000px",
+          "padding": "12px 24px 12px 24px",
+          "height": 44,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "CoinbaseSans",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 5
+        },
+        {
+          "role": "ghost",
+          "text": "Bitcoin₩9876543210 .,9876543",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#578bfa",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 80,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "CoinbaseSans",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 12
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#0052ff",
+          "border": "none",
+          "radius": "4px",
+          "padding": "0px 0px 0px 0px",
+          "height": 468,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "CoinbaseSans",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 3
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "80px",
+        "font_size_px": 80,
+        "font_weight": "400",
+        "line_height": "80px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "CoinbaseDisplay",
+        "color": "#0a0b0d",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 7,
+        "font_size": "80px",
+        "font_size_px": 80,
+        "font_weight": "400",
+        "line_height": "80px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "CoinbaseDisplay",
+        "color": "#0a0b0d",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 3,
+        "font_size": "32px",
+        "font_size_px": 32,
+        "font_weight": "400",
+        "line_height": "36px",
+        "line_height_ratio": 1.13,
+        "letter_spacing": "normal",
+        "font_family": "CoinbaseSans",
+        "color": "#0a0b0d",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 28,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "CoinbaseText",
+        "color": "#5b616e"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1600,
+          "count": 7
+        },
+        {
+          "value": 900,
+          "count": 4
+        },
+        {
+          "value": 1200,
+          "count": 4
+        },
+        {
+          "value": 512,
+          "count": 1
+        },
+        {
+          "value": 800,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 16,
+          "count": 56
+        },
+        {
+          "value": 8,
+          "count": 31
+        },
+        {
+          "value": 12,
+          "count": 30
+        },
+        {
+          "value": 24,
+          "count": 27
+        },
+        {
+          "value": 48,
+          "count": 17
+        },
+        {
+          "value": 4,
+          "count": 3
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 80,
+          "count": 7
+        },
+        {
+          "value": 64,
+          "count": 3
+        },
+        {
+          "value": 32,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 1579,
+      "grid_blocks": 2
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 16,
+          "count": 58
+        },
+        {
+          "value": 32,
+          "count": 49
+        },
+        {
+          "value": 24,
+          "count": 31
+        },
+        {
+          "value": 12,
+          "count": 22
+        },
+        {
+          "value": 4,
+          "count": 19
+        },
+        {
+          "value": 80,
+          "count": 14
+        },
+        {
+          "value": 1,
+          "count": 8
+        },
+        {
+          "value": 8,
+          "count": 8
+        },
+        {
+          "value": 10,
+          "count": 6
+        },
+        {
+          "value": 64,
+          "count": 6
+        },
+        {
+          "value": 6,
+          "count": 4
+        },
+        {
+          "value": 30,
+          "count": 4
+        },
+        {
+          "value": 28,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 2
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 25
+        },
+        {
+          "value": "#eef0f3",
+          "count": 14
+        },
+        {
+          "value": "#0a0b0d",
+          "count": 12
+        },
+        {
+          "value": "#0052ff",
+          "count": 3
+        },
+        {
+          "value": "#141519",
+          "count": 2
+        },
+        {
+          "value": "#282b31",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#ffffff",
+          "count": 1023
+        },
+        {
+          "value": "#000000",
+          "count": 316
+        },
+        {
+          "value": "#f0616d",
+          "count": 264
+        },
+        {
+          "value": "#5b616e",
+          "count": 113
+        },
+        {
+          "value": "#0a0b0d",
+          "count": 89
+        },
+        {
+          "value": "#27ad75",
+          "count": 66
+        },
+        {
+          "value": "#578bfa",
+          "count": 60
+        },
+        {
+          "value": "#0052ff",
+          "count": 11
+        }
+      ],
+      "borders": [
+        {
+          "value": "#0a0b0d",
+          "count": 9
+        },
+        {
+          "value": "#eef0f3",
+          "count": 3
+        },
+        {
+          "value": "#0052ff",
+          "count": 3
+        },
+        {
+          "value": "#5b616e",
+          "count": 2
+        },
+        {
+          "value": "#ffffff",
+          "count": 1
+        },
+        {
+          "value": "#282b31",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#0052ff",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

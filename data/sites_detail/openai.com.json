@@ -1,0 +1,779 @@
+{
+  "url": "https://openai.com",
+  "name": "openai.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "ChatGPT 사용하기(새 창에서 열기)",
+          "bg": "#000000",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "40px",
+          "padding": "0px 20px 0px 20px",
+          "height": 36,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "OpenAI Sans",
+          "letter_spacing": "normal",
+          "line_height": "14px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "한국어",
+          "bg": "#f1f1f1",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "0px 20px 0px 18px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "OpenAI Sans",
+          "letter_spacing": "normal",
+          "line_height": "14px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "ChatGPT Business에 대해 알아보기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "1px solid #000000",
+          "radius": "9999px",
+          "padding": "0px 12px 0px 12px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "OpenAI Sans",
+          "letter_spacing": "normal",
+          "line_height": "14px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0",
+          "transition": "0.25s",
+          "_n": 5
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 64,
+          "font_size": "17px",
+          "font_weight": "400",
+          "font_family": "OpenAI Sans",
+          "letter_spacing": "-0.17px",
+          "line_height": "27.999px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.1s",
+          "_n": 7
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "0px 0px 0px 0px",
+          "height": 40,
+          "font_size": "17px",
+          "font_weight": "400",
+          "font_family": "OpenAI Sans",
+          "letter_spacing": "-0.17px",
+          "line_height": "27.999px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "로그인",
+          "bg": "#000000",
+          "bg_alpha": 0.04,
+          "color": "#000000",
+          "border": "none",
+          "radius": "40px",
+          "padding": "0px 20px 0px 20px",
+          "height": 36,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "OpenAI Sans",
+          "letter_spacing": "normal",
+          "line_height": "14px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 5
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 5,
+        "font_size": "48px",
+        "font_size_px": 48,
+        "font_weight": "500",
+        "line_height": "55.68px",
+        "line_height_ratio": 1.16,
+        "letter_spacing": "-1.44px",
+        "font_family": "OpenAI Sans",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 21,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "500",
+        "line_height": "19.6px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "normal",
+        "font_family": "OpenAI Sans",
+        "color": "#000000"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1440,
+          "count": 34
+        },
+        {
+          "value": 670,
+          "count": 1
+        },
+        {
+          "value": 768,
+          "count": 1
+        },
+        {
+          "value": 840,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 3,
+          "count": 3
+        },
+        {
+          "value": 1,
+          "count": 2
+        },
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 4,
+          "count": 1
+        },
+        {
+          "value": 12,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 37
+        },
+        {
+          "value": 16,
+          "count": 12
+        },
+        {
+          "value": 4.2,
+          "count": 12
+        },
+        {
+          "value": 24,
+          "count": 8
+        },
+        {
+          "value": 40,
+          "count": 4
+        },
+        {
+          "value": 12,
+          "count": 3
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 112,
+          "count": 1
+        },
+        {
+          "value": 120,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 155,
+      "grid_blocks": 8
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 32,
+          "count": 52
+        },
+        {
+          "value": 16,
+          "count": 31
+        },
+        {
+          "value": 12,
+          "count": 19
+        },
+        {
+          "value": 20,
+          "count": 15
+        },
+        {
+          "value": 24,
+          "count": 6
+        },
+        {
+          "value": 64,
+          "count": 6
+        },
+        {
+          "value": 10,
+          "count": 2
+        },
+        {
+          "value": 52,
+          "count": 2
+        },
+        {
+          "value": 120,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        },
+        {
+          "value": 18,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 80,
+          "count": 1
+        },
+        {
+          "value": 112,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 19
+        },
+        {
+          "value": 12,
+          "count": 10
+        },
+        {
+          "value": 32,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 80,
+          "count": 1
+        },
+        {
+          "value": 120,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 3
+        },
+        {
+          "value": "#f1f1f1",
+          "count": 3
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 569
+        },
+        {
+          "value": "#ffffff",
+          "count": 3
+        }
+      ],
+      "borders": [],
+      "accents": []
+    }
+  },
+  "title": "OpenAI | Research & Deployment",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "로그인",
+          "bg": "#ffffff",
+          "bg_alpha": 0.12,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "40px",
+          "padding": "0px 20px 0px 20px",
+          "height": 36,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "OpenAI Sans",
+          "letter_spacing": "normal",
+          "line_height": "14px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 5
+        },
+        {
+          "role": "primary",
+          "text": "ChatGPT 사용하기(새 창에서 열기)",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "40px",
+          "padding": "0px 20px 0px 20px",
+          "height": 36,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "OpenAI Sans",
+          "letter_spacing": "normal",
+          "line_height": "14px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 0.12,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "0px 0px 0px 0px",
+          "height": 36,
+          "font_size": "17px",
+          "font_weight": "400",
+          "font_family": "OpenAI Sans",
+          "letter_spacing": "-0.17px",
+          "line_height": "27.999px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "한국어",
+          "bg": "#1f1f1f",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "0px 20px 0px 18px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "OpenAI Sans",
+          "letter_spacing": "normal",
+          "line_height": "14px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "ChatGPT Business에 대해 알아보기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "1px solid #ffffff",
+          "radius": "9999px",
+          "padding": "0px 12px 0px 12px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "OpenAI Sans",
+          "letter_spacing": "normal",
+          "line_height": "14px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s",
+          "_n": 5
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 64,
+          "font_size": "17px",
+          "font_weight": "400",
+          "font_family": "OpenAI Sans",
+          "letter_spacing": "-0.17px",
+          "line_height": "27.999px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.1s",
+          "_n": 7
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "0px 0px 0px 0px",
+          "height": 40,
+          "font_size": "17px",
+          "font_weight": "400",
+          "font_family": "OpenAI Sans",
+          "letter_spacing": "-0.17px",
+          "line_height": "27.999px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "더 보기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "4px",
+          "padding": "0px 0px 0px 0px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "OpenAI Sans",
+          "letter_spacing": "normal",
+          "line_height": "14px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 4
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 5,
+        "font_size": "48px",
+        "font_size_px": 48,
+        "font_weight": "500",
+        "line_height": "55.68px",
+        "line_height_ratio": 1.16,
+        "letter_spacing": "-1.44px",
+        "font_family": "OpenAI Sans",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 21,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "500",
+        "line_height": "19.6px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "normal",
+        "font_family": "OpenAI Sans",
+        "color": "#ffffff"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1440,
+          "count": 34
+        },
+        {
+          "value": 670,
+          "count": 1
+        },
+        {
+          "value": 768,
+          "count": 1
+        },
+        {
+          "value": 840,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 3,
+          "count": 3
+        },
+        {
+          "value": 1,
+          "count": 2
+        },
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 4,
+          "count": 1
+        },
+        {
+          "value": 12,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 37
+        },
+        {
+          "value": 16,
+          "count": 12
+        },
+        {
+          "value": 4.2,
+          "count": 12
+        },
+        {
+          "value": 24,
+          "count": 8
+        },
+        {
+          "value": 40,
+          "count": 4
+        },
+        {
+          "value": 12,
+          "count": 3
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 112,
+          "count": 1
+        },
+        {
+          "value": 120,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 155,
+      "grid_blocks": 8
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 32,
+          "count": 52
+        },
+        {
+          "value": 16,
+          "count": 31
+        },
+        {
+          "value": 12,
+          "count": 19
+        },
+        {
+          "value": 20,
+          "count": 15
+        },
+        {
+          "value": 24,
+          "count": 6
+        },
+        {
+          "value": 64,
+          "count": 6
+        },
+        {
+          "value": 10,
+          "count": 2
+        },
+        {
+          "value": 52,
+          "count": 2
+        },
+        {
+          "value": 120,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        },
+        {
+          "value": 18,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 80,
+          "count": 1
+        },
+        {
+          "value": 112,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 19
+        },
+        {
+          "value": 12,
+          "count": 10
+        },
+        {
+          "value": 32,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 80,
+          "count": 1
+        },
+        {
+          "value": 120,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#000000",
+      "backgrounds": [
+        {
+          "value": "#000000",
+          "count": 2
+        },
+        {
+          "value": "#1f1f1f",
+          "count": 2
+        },
+        {
+          "value": "#ffffff",
+          "count": 1
+        },
+        {
+          "value": "#333333",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#ffffff",
+          "count": 569
+        },
+        {
+          "value": "#000000",
+          "count": 3
+        }
+      ],
+      "borders": [],
+      "accents": []
+    }
+  },
+  "has_dark_mode": true,
+  "ok": true
+}

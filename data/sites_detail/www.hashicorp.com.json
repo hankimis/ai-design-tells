@@ -1,0 +1,907 @@
+{
+  "url": "https://www.hashicorp.com",
+  "name": "www.hashicorp.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "플랫폼",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#3b3d45",
+          "border": "none",
+          "radius": "4px",
+          "padding": "8px 12px 8px 12px",
+          "height": 40,
+          "font_size": "15.008px",
+          "font_weight": "500",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "24.0128px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 5
+        },
+        {
+          "role": "primary",
+          "text": "문의하기",
+          "bg": "#fafafa",
+          "bg_alpha": 1,
+          "color": "#3b3d45",
+          "border": "1px solid #3b3d45",
+          "radius": "5px",
+          "padding": "9px 15px 9px 15px",
+          "height": 36,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "27px",
+          "text_transform": "none",
+          "shadow": "rgba(101, 106, 118, 0.05) 0px 1px 1px 0px, rgba(101, 106, 118, 0.05) 0px 2px 2px 0px",
+          "transition": "0.15s, 0.15s, 0.15s, 0.15s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "무료로 체험하세요",
+          "bg": "#1060ff",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #0c56e9",
+          "radius": "5px",
+          "padding": "9px 15px 9px 15px",
+          "height": 36,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "27px",
+          "text_transform": "none",
+          "shadow": "rgba(101, 106, 118, 0.05) 0px 1px 1px 0px, rgba(101, 106, 118, 0.05) 0px 2px 2px 0px",
+          "transition": "0.15s, 0.15s, 0.15s, 0.15s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "HashiCorp에 문의하기",
+          "bg": "#fafafa",
+          "bg_alpha": 1,
+          "color": "#3b3d45",
+          "border": "1px solid #3b3d45",
+          "radius": "5px",
+          "padding": "11px 19px 11px 19px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "26px",
+          "text_transform": "none",
+          "shadow": "rgba(97, 104, 117, 0.05) 0px 1px 1px 0px, rgba(97, 104, 117, 0.05) 0px 2px 2px 0px",
+          "transition": "0.15s, 0.15s, 0.15s, 0.15s",
+          "_n": 2
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "고객 사례 다운로드",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#0c0c0e",
+          "border": "none",
+          "radius": "0px",
+          "padding": "4px 0px 4px 0px",
+          "height": 34,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "26px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 17
+        },
+        {
+          "role": "ghost",
+          "text": "Cookie Manager",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#b2b6bd",
+          "border": "none",
+          "radius": "2px",
+          "padding": "0px 0px 0px 0px",
+          "height": 18,
+          "font_size": "13px",
+          "font_weight": "400",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "17.9998px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "82px",
+        "font_size_px": 82,
+        "font_weight": "600",
+        "line_height": "95.9974px",
+        "line_height_ratio": 1.17,
+        "letter_spacing": "normal",
+        "font_family": "__hashicorpSans_96f0ca",
+        "color": "#efeff1",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 6,
+        "font_size": "52px",
+        "font_size_px": 52,
+        "font_weight": "600",
+        "line_height": "61.9996px",
+        "line_height_ratio": 1.19,
+        "letter_spacing": "normal",
+        "font_family": "__hashicorpSans_96f0ca",
+        "color": "#0c0c0e",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 2,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "27px",
+        "line_height_ratio": 1.69,
+        "letter_spacing": "normal",
+        "font_family": "system-ui",
+        "color": "#656a76"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1312,
+          "count": 14
+        },
+        {
+          "value": 680,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 59
+        },
+        {
+          "value": 12,
+          "count": 8
+        },
+        {
+          "value": 2,
+          "count": 3
+        },
+        {
+          "value": 4,
+          "count": 3
+        },
+        {
+          "value": 3,
+          "count": 2
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 47
+        },
+        {
+          "value": 12,
+          "count": 36
+        },
+        {
+          "value": 6,
+          "count": 23
+        },
+        {
+          "value": 24,
+          "count": 15
+        },
+        {
+          "value": 32,
+          "count": 11
+        },
+        {
+          "value": 8,
+          "count": 6
+        },
+        {
+          "value": 16,
+          "count": 5
+        },
+        {
+          "value": 20,
+          "count": 5
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 88,
+          "count": 6
+        },
+        {
+          "value": 64,
+          "count": 4
+        },
+        {
+          "value": 48,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 193,
+      "grid_blocks": 76
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 24,
+          "count": 97
+        },
+        {
+          "value": 4,
+          "count": 52
+        },
+        {
+          "value": 3,
+          "count": 40
+        },
+        {
+          "value": 7,
+          "count": 40
+        },
+        {
+          "value": 48,
+          "count": 33
+        },
+        {
+          "value": 12,
+          "count": 26
+        },
+        {
+          "value": 11,
+          "count": 20
+        },
+        {
+          "value": 8,
+          "count": 17
+        },
+        {
+          "value": 13,
+          "count": 16
+        },
+        {
+          "value": 88,
+          "count": 12
+        },
+        {
+          "value": 19,
+          "count": 8
+        },
+        {
+          "value": 9,
+          "count": 7
+        },
+        {
+          "value": 64,
+          "count": 7
+        },
+        {
+          "value": 15,
+          "count": 5
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 13
+        },
+        {
+          "value": 8,
+          "count": 6
+        },
+        {
+          "value": 22.98,
+          "count": 4
+        },
+        {
+          "value": 46.98,
+          "count": 4
+        },
+        {
+          "value": 40,
+          "count": 3
+        },
+        {
+          "value": 64,
+          "count": 3
+        },
+        {
+          "value": 6,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#0d0e12",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 36
+        },
+        {
+          "value": "#f1f2f3",
+          "count": 24
+        },
+        {
+          "value": "#fafafa",
+          "count": 9
+        },
+        {
+          "value": "#0d0e12",
+          "count": 4
+        },
+        {
+          "value": "#15181e",
+          "count": 3
+        },
+        {
+          "value": "#1060ff",
+          "count": 2
+        },
+        {
+          "value": "#2b89ff",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#3b3d45",
+          "count": 289
+        },
+        {
+          "value": "#0c0c0e",
+          "count": 119
+        },
+        {
+          "value": "#000000",
+          "count": 62
+        },
+        {
+          "value": "#656a76",
+          "count": 49
+        },
+        {
+          "value": "#d5d7db",
+          "count": 38
+        },
+        {
+          "value": "#1060ff",
+          "count": 36
+        },
+        {
+          "value": "#2264d6",
+          "count": 26
+        },
+        {
+          "value": "#b2b6bd",
+          "count": 20
+        }
+      ],
+      "borders": [
+        {
+          "value": "#3b3d45",
+          "count": 3
+        },
+        {
+          "value": "#0c56e9",
+          "count": 2
+        },
+        {
+          "value": "#389aff",
+          "count": 2
+        },
+        {
+          "value": "#616875",
+          "count": 2
+        },
+        {
+          "value": "#b2b6bd",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#1060ff",
+          "count": 2
+        },
+        {
+          "value": "#2b89ff",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "title": "HashiCorp: 혁신을 위한 인프라",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "플랫폼",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#3b3d45",
+          "border": "none",
+          "radius": "4px",
+          "padding": "8px 12px 8px 12px",
+          "height": 40,
+          "font_size": "15.008px",
+          "font_weight": "500",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "24.0128px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 5
+        },
+        {
+          "role": "primary",
+          "text": "문의하기",
+          "bg": "#fafafa",
+          "bg_alpha": 1,
+          "color": "#3b3d45",
+          "border": "1px solid #3b3d45",
+          "radius": "5px",
+          "padding": "9px 15px 9px 15px",
+          "height": 36,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "27px",
+          "text_transform": "none",
+          "shadow": "rgba(101, 106, 118, 0.05) 0px 1px 1px 0px, rgba(101, 106, 118, 0.05) 0px 2px 2px 0px",
+          "transition": "0.15s, 0.15s, 0.15s, 0.15s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "무료로 체험하세요",
+          "bg": "#1060ff",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #0c56e9",
+          "radius": "5px",
+          "padding": "9px 15px 9px 15px",
+          "height": 36,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "27px",
+          "text_transform": "none",
+          "shadow": "rgba(101, 106, 118, 0.05) 0px 1px 1px 0px, rgba(101, 106, 118, 0.05) 0px 2px 2px 0px",
+          "transition": "0.15s, 0.15s, 0.15s, 0.15s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "HashiCorp에 문의하기",
+          "bg": "#fafafa",
+          "bg_alpha": 1,
+          "color": "#3b3d45",
+          "border": "1px solid #3b3d45",
+          "radius": "5px",
+          "padding": "11px 19px 11px 19px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "26px",
+          "text_transform": "none",
+          "shadow": "rgba(97, 104, 117, 0.05) 0px 1px 1px 0px, rgba(97, 104, 117, 0.05) 0px 2px 2px 0px",
+          "transition": "0.15s, 0.15s, 0.15s, 0.15s",
+          "_n": 2
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "고객 사례 다운로드",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#0c0c0e",
+          "border": "none",
+          "radius": "0px",
+          "padding": "4px 0px 4px 0px",
+          "height": 34,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "26px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 17
+        },
+        {
+          "role": "ghost",
+          "text": "Cookie Manager",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#b2b6bd",
+          "border": "none",
+          "radius": "2px",
+          "padding": "0px 0px 0px 0px",
+          "height": 18,
+          "font_size": "13px",
+          "font_weight": "400",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "17.9998px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "82px",
+        "font_size_px": 82,
+        "font_weight": "600",
+        "line_height": "95.9974px",
+        "line_height_ratio": 1.17,
+        "letter_spacing": "normal",
+        "font_family": "__hashicorpSans_96f0ca",
+        "color": "#efeff1",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 6,
+        "font_size": "52px",
+        "font_size_px": 52,
+        "font_weight": "600",
+        "line_height": "61.9996px",
+        "line_height_ratio": 1.19,
+        "letter_spacing": "normal",
+        "font_family": "__hashicorpSans_96f0ca",
+        "color": "#0c0c0e",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 2,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "27px",
+        "line_height_ratio": 1.69,
+        "letter_spacing": "normal",
+        "font_family": "system-ui",
+        "color": "#656a76"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1312,
+          "count": 14
+        },
+        {
+          "value": 680,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 59
+        },
+        {
+          "value": 12,
+          "count": 8
+        },
+        {
+          "value": 2,
+          "count": 3
+        },
+        {
+          "value": 4,
+          "count": 3
+        },
+        {
+          "value": 3,
+          "count": 2
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 47
+        },
+        {
+          "value": 12,
+          "count": 36
+        },
+        {
+          "value": 6,
+          "count": 23
+        },
+        {
+          "value": 24,
+          "count": 15
+        },
+        {
+          "value": 32,
+          "count": 11
+        },
+        {
+          "value": 8,
+          "count": 6
+        },
+        {
+          "value": 16,
+          "count": 5
+        },
+        {
+          "value": 20,
+          "count": 5
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 88,
+          "count": 6
+        },
+        {
+          "value": 64,
+          "count": 4
+        },
+        {
+          "value": 48,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 193,
+      "grid_blocks": 76
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 24,
+          "count": 97
+        },
+        {
+          "value": 4,
+          "count": 52
+        },
+        {
+          "value": 3,
+          "count": 40
+        },
+        {
+          "value": 7,
+          "count": 40
+        },
+        {
+          "value": 48,
+          "count": 33
+        },
+        {
+          "value": 12,
+          "count": 26
+        },
+        {
+          "value": 11,
+          "count": 20
+        },
+        {
+          "value": 8,
+          "count": 17
+        },
+        {
+          "value": 13,
+          "count": 16
+        },
+        {
+          "value": 88,
+          "count": 12
+        },
+        {
+          "value": 19,
+          "count": 8
+        },
+        {
+          "value": 9,
+          "count": 7
+        },
+        {
+          "value": 64,
+          "count": 7
+        },
+        {
+          "value": 15,
+          "count": 5
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 13
+        },
+        {
+          "value": 8,
+          "count": 6
+        },
+        {
+          "value": 22.98,
+          "count": 4
+        },
+        {
+          "value": 46.98,
+          "count": 4
+        },
+        {
+          "value": 40,
+          "count": 3
+        },
+        {
+          "value": 64,
+          "count": 3
+        },
+        {
+          "value": 6,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#0d0e12",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 36
+        },
+        {
+          "value": "#f1f2f3",
+          "count": 24
+        },
+        {
+          "value": "#fafafa",
+          "count": 9
+        },
+        {
+          "value": "#0d0e12",
+          "count": 4
+        },
+        {
+          "value": "#15181e",
+          "count": 3
+        },
+        {
+          "value": "#1060ff",
+          "count": 2
+        },
+        {
+          "value": "#2b89ff",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#3b3d45",
+          "count": 289
+        },
+        {
+          "value": "#0c0c0e",
+          "count": 119
+        },
+        {
+          "value": "#000000",
+          "count": 62
+        },
+        {
+          "value": "#656a76",
+          "count": 49
+        },
+        {
+          "value": "#d5d7db",
+          "count": 38
+        },
+        {
+          "value": "#1060ff",
+          "count": 36
+        },
+        {
+          "value": "#2264d6",
+          "count": 26
+        },
+        {
+          "value": "#b2b6bd",
+          "count": 20
+        }
+      ],
+      "borders": [
+        {
+          "value": "#3b3d45",
+          "count": 3
+        },
+        {
+          "value": "#0c56e9",
+          "count": 2
+        },
+        {
+          "value": "#389aff",
+          "count": 2
+        },
+        {
+          "value": "#616875",
+          "count": 2
+        },
+        {
+          "value": "#b2b6bd",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#1060ff",
+          "count": 2
+        },
+        {
+          "value": "#2b89ff",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

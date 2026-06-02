@@ -1,0 +1,879 @@
+{
+  "url": "https://www.brex.com",
+  "name": "www.brex.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Get started",
+          "bg": "#ff5900",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #42578a",
+          "radius": "8px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "inter",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "<-",
+          "bg": "#f9f9fb",
+          "bg_alpha": 1,
+          "color": "#15191e",
+          "border": "none",
+          "radius": "50%",
+          "padding": "1px 6px 1px 6px",
+          "height": 50,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "inter",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "->",
+          "bg": "#f3f3f7",
+          "bg_alpha": 1,
+          "color": "#15191e",
+          "border": "none",
+          "radius": "50%",
+          "padding": "1px 6px 1px 6px",
+          "height": 50,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "inter",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Products",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "6px",
+          "padding": "4px 8px 4px 8px",
+          "height": 31,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "inter",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 3
+        },
+        {
+          "role": "ghost",
+          "text": "See Brex in action",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 76,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "inter",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "DoorDash",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#15191e",
+          "border": "none",
+          "radius": "10px",
+          "padding": "0px 8px 0px 8px",
+          "height": 32,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "inter",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "72px",
+        "font_size_px": 72,
+        "font_weight": "500",
+        "line_height": "72px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-1.44px",
+        "font_family": "inter",
+        "color": "#15191e",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 11,
+        "font_size": "48px",
+        "font_size_px": 48,
+        "font_weight": "500",
+        "line_height": "48px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-0.96px",
+        "font_family": "inter",
+        "color": "#15191e",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 22,
+        "font_size": "48px",
+        "font_size_px": 48,
+        "font_weight": "500",
+        "line_height": "48px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-0.96px",
+        "font_family": "inter",
+        "color": "#ff5900",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h4": {
+        "count": 16,
+        "font_size": "36px",
+        "font_size_px": 36,
+        "font_weight": "500",
+        "line_height": "40px",
+        "line_height_ratio": 1.11,
+        "letter_spacing": "normal",
+        "font_family": "flecha",
+        "color": "#15191e",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 31,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "-0.32px",
+        "font_family": "inter",
+        "color": "#60646c"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1680,
+          "count": 2
+        },
+        {
+          "value": 760,
+          "count": 1
+        },
+        {
+          "value": 1300,
+          "count": 1
+        },
+        {
+          "value": 1600,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 24,
+          "count": 21
+        },
+        {
+          "value": 3,
+          "count": 3
+        },
+        {
+          "value": 6,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 13
+        },
+        {
+          "value": 24,
+          "count": 13
+        },
+        {
+          "value": 4,
+          "count": 4
+        },
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 2
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 80,
+          "count": 4
+        },
+        {
+          "value": 32,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 148,
+      "grid_blocks": 25
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 53
+        },
+        {
+          "value": 72,
+          "count": 48
+        },
+        {
+          "value": 32,
+          "count": 31
+        },
+        {
+          "value": 4,
+          "count": 23
+        },
+        {
+          "value": 80,
+          "count": 21
+        },
+        {
+          "value": 48,
+          "count": 20
+        },
+        {
+          "value": 16,
+          "count": 18
+        },
+        {
+          "value": 1,
+          "count": 7
+        },
+        {
+          "value": 6,
+          "count": 4
+        },
+        {
+          "value": 24,
+          "count": 4
+        },
+        {
+          "value": 12,
+          "count": 3
+        },
+        {
+          "value": 2,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 28,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 22
+        },
+        {
+          "value": 16,
+          "count": 19
+        },
+        {
+          "value": 24,
+          "count": 12
+        },
+        {
+          "value": 32,
+          "count": 6
+        },
+        {
+          "value": 48,
+          "count": 3
+        },
+        {
+          "value": 80,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 28
+        },
+        {
+          "value": "#f3f3f7",
+          "count": 6
+        },
+        {
+          "value": "#000710",
+          "count": 3
+        },
+        {
+          "value": "#ff5900",
+          "count": 3
+        },
+        {
+          "value": "#15191e",
+          "count": 1
+        },
+        {
+          "value": "#f9f9fb",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 575
+        },
+        {
+          "value": "#15191e",
+          "count": 75
+        },
+        {
+          "value": "#ff5900",
+          "count": 61
+        },
+        {
+          "value": "#8b8d98",
+          "count": 41
+        },
+        {
+          "value": "#fcfcfd",
+          "count": 22
+        },
+        {
+          "value": "#60646c",
+          "count": 22
+        },
+        {
+          "value": "#b9bbc6",
+          "count": 19
+        },
+        {
+          "value": "#6f737b",
+          "count": 8
+        }
+      ],
+      "borders": [
+        {
+          "value": "#ff5900",
+          "count": 2
+        }
+      ],
+      "accents": [
+        {
+          "value": "#ff5900",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "title": "Brex: The Modern Finance Software Platform | Spend Smarter",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Get started",
+          "bg": "#ff5900",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #42578a",
+          "radius": "8px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "inter",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "<-",
+          "bg": "#f9f9fb",
+          "bg_alpha": 1,
+          "color": "#15191e",
+          "border": "none",
+          "radius": "50%",
+          "padding": "1px 6px 1px 6px",
+          "height": 50,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "inter",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "->",
+          "bg": "#f3f3f7",
+          "bg_alpha": 1,
+          "color": "#15191e",
+          "border": "none",
+          "radius": "50%",
+          "padding": "1px 6px 1px 6px",
+          "height": 50,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "inter",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Products",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "6px",
+          "padding": "4px 8px 4px 8px",
+          "height": 31,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "inter",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 3
+        },
+        {
+          "role": "ghost",
+          "text": "See Brex in action",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 76,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "inter",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "DoorDash",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#15191e",
+          "border": "none",
+          "radius": "10px",
+          "padding": "0px 8px 0px 8px",
+          "height": 32,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "inter",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "72px",
+        "font_size_px": 72,
+        "font_weight": "500",
+        "line_height": "72px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-1.44px",
+        "font_family": "inter",
+        "color": "#15191e",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 11,
+        "font_size": "48px",
+        "font_size_px": 48,
+        "font_weight": "500",
+        "line_height": "48px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-0.96px",
+        "font_family": "inter",
+        "color": "#15191e",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 22,
+        "font_size": "48px",
+        "font_size_px": 48,
+        "font_weight": "500",
+        "line_height": "48px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-0.96px",
+        "font_family": "inter",
+        "color": "#ff5900",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h4": {
+        "count": 16,
+        "font_size": "36px",
+        "font_size_px": 36,
+        "font_weight": "500",
+        "line_height": "40px",
+        "line_height_ratio": 1.11,
+        "letter_spacing": "normal",
+        "font_family": "flecha",
+        "color": "#15191e",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 31,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "-0.32px",
+        "font_family": "inter",
+        "color": "#60646c"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1680,
+          "count": 2
+        },
+        {
+          "value": 760,
+          "count": 1
+        },
+        {
+          "value": 1300,
+          "count": 1
+        },
+        {
+          "value": 1600,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 24,
+          "count": 21
+        },
+        {
+          "value": 3,
+          "count": 3
+        },
+        {
+          "value": 6,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 13
+        },
+        {
+          "value": 24,
+          "count": 13
+        },
+        {
+          "value": 4,
+          "count": 4
+        },
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 2
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 80,
+          "count": 4
+        },
+        {
+          "value": 32,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 148,
+      "grid_blocks": 25
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 53
+        },
+        {
+          "value": 72,
+          "count": 48
+        },
+        {
+          "value": 32,
+          "count": 31
+        },
+        {
+          "value": 4,
+          "count": 23
+        },
+        {
+          "value": 80,
+          "count": 21
+        },
+        {
+          "value": 48,
+          "count": 20
+        },
+        {
+          "value": 16,
+          "count": 18
+        },
+        {
+          "value": 1,
+          "count": 7
+        },
+        {
+          "value": 6,
+          "count": 4
+        },
+        {
+          "value": 24,
+          "count": 4
+        },
+        {
+          "value": 12,
+          "count": 3
+        },
+        {
+          "value": 2,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 28,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 22
+        },
+        {
+          "value": 16,
+          "count": 19
+        },
+        {
+          "value": 24,
+          "count": 12
+        },
+        {
+          "value": 32,
+          "count": 6
+        },
+        {
+          "value": 48,
+          "count": 3
+        },
+        {
+          "value": 80,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 28
+        },
+        {
+          "value": "#f3f3f7",
+          "count": 6
+        },
+        {
+          "value": "#000710",
+          "count": 3
+        },
+        {
+          "value": "#ff5900",
+          "count": 3
+        },
+        {
+          "value": "#15191e",
+          "count": 1
+        },
+        {
+          "value": "#f9f9fb",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 575
+        },
+        {
+          "value": "#15191e",
+          "count": 75
+        },
+        {
+          "value": "#ff5900",
+          "count": 61
+        },
+        {
+          "value": "#8b8d98",
+          "count": 41
+        },
+        {
+          "value": "#fcfcfd",
+          "count": 22
+        },
+        {
+          "value": "#60646c",
+          "count": 22
+        },
+        {
+          "value": "#b9bbc6",
+          "count": 19
+        },
+        {
+          "value": "#6f737b",
+          "count": 8
+        }
+      ],
+      "borders": [
+        {
+          "value": "#ff5900",
+          "count": 2
+        }
+      ],
+      "accents": [
+        {
+          "value": "#ff5900",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

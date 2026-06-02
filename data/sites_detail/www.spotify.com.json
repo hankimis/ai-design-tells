@@ -1,0 +1,826 @@
+{
+  "url": "https://www.spotify.com",
+  "name": "www.spotify.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#1f1f1f",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "50%",
+          "padding": "12px 12px 12px 12px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "SpotifyMixUI",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#1f1f1f",
+          "bg_alpha": 1,
+          "color": "#b3b3b3",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "8px 8px 8px 8px",
+          "height": 35,
+          "font_size": "13.3333px",
+          "font_weight": "400",
+          "font_family": "SpotifyMixUI",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "한국어",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "1px solid #7c7c7c",
+          "radius": "9999px",
+          "padding": "4px 16px 4px 36px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "700",
+          "font_family": "SpotifyMixUI",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 1
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#b3b3b3",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "12px 12px 12px 12px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "SpotifyMixUI",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.22s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#b3b3b3",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "0px 0px 0px 0px",
+          "height": 24,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "SpotifyMixUI",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 42
+        },
+        {
+          "role": "ghost",
+          "text": "Premium",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#b3b3b3",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "8px 0px 8px 0px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "700",
+          "font_family": "SpotifyMixUI",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 3
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "700",
+        "line_height": "normal",
+        "line_height_ratio": null,
+        "letter_spacing": "normal",
+        "font_family": "SpotifyMixUI",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 3,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "700",
+        "line_height": "normal",
+        "line_height_ratio": null,
+        "letter_spacing": "normal",
+        "font_family": "SpotifyMixUITitle",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 42,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "normal",
+        "line_height_ratio": null,
+        "letter_spacing": "normal",
+        "font_family": "SpotifyMixUI",
+        "color": "#ffffff"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 546,
+          "count": 1
+        },
+        {
+          "value": 722,
+          "count": 1
+        },
+        {
+          "value": 1955,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 5
+        },
+        {
+          "value": 10,
+          "count": 2
+        },
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 20,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 62
+        },
+        {
+          "value": 4,
+          "count": 41
+        },
+        {
+          "value": 2,
+          "count": 3
+        },
+        {
+          "value": 12,
+          "count": 3
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 2
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 334,
+      "grid_blocks": 11
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 12,
+          "count": 173
+        },
+        {
+          "value": 8,
+          "count": 57
+        },
+        {
+          "value": 171.5,
+          "count": 40
+        },
+        {
+          "value": 16,
+          "count": 14
+        },
+        {
+          "value": 4,
+          "count": 12
+        },
+        {
+          "value": 2,
+          "count": 6
+        },
+        {
+          "value": 6,
+          "count": 6
+        },
+        {
+          "value": 32,
+          "count": 5
+        },
+        {
+          "value": 20,
+          "count": 4
+        },
+        {
+          "value": 24,
+          "count": 3
+        },
+        {
+          "value": 28,
+          "count": 3
+        },
+        {
+          "value": 40,
+          "count": 3
+        },
+        {
+          "value": 36,
+          "count": 2
+        },
+        {
+          "value": 7,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 2,
+          "count": 9
+        },
+        {
+          "value": 8,
+          "count": 8
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        },
+        {
+          "value": 32,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#121212",
+      "backgrounds": [
+        {
+          "value": "#1ed760",
+          "count": 40
+        },
+        {
+          "value": "#ffffff",
+          "count": 9
+        },
+        {
+          "value": "#1f1f1f",
+          "count": 8
+        },
+        {
+          "value": "#333333",
+          "count": 6
+        },
+        {
+          "value": "#121212",
+          "count": 5
+        },
+        {
+          "value": "#000000",
+          "count": 4
+        },
+        {
+          "value": "#535353",
+          "count": 1
+        },
+        {
+          "value": "#6b7f00",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#ffffff",
+          "count": 489
+        },
+        {
+          "value": "#b3b3b3",
+          "count": 472
+        },
+        {
+          "value": "#000000",
+          "count": 169
+        },
+        {
+          "value": "#101010",
+          "count": 2
+        },
+        {
+          "value": "#0000ee",
+          "count": 1
+        },
+        {
+          "value": "#c5c5c5",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#7c7c7c",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "title": "Spotify - Web Player: Music for everyone",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#1f1f1f",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "50%",
+          "padding": "12px 12px 12px 12px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "SpotifyMixUI",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#1f1f1f",
+          "bg_alpha": 1,
+          "color": "#b3b3b3",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "8px 8px 8px 8px",
+          "height": 35,
+          "font_size": "13.3333px",
+          "font_weight": "400",
+          "font_family": "SpotifyMixUI",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#292929",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "50%",
+          "padding": "8px 8px 8px 8px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "SpotifyMixUI",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 3
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "한국어",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "1px solid #7c7c7c",
+          "radius": "9999px",
+          "padding": "4px 16px 4px 36px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "700",
+          "font_family": "SpotifyMixUI",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 1
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#b3b3b3",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "12px 12px 12px 12px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "SpotifyMixUI",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.22s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#b3b3b3",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "0px 0px 0px 0px",
+          "height": 24,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "SpotifyMixUI",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 42
+        },
+        {
+          "role": "ghost",
+          "text": "Premium",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#b3b3b3",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "8px 0px 8px 0px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "700",
+          "font_family": "SpotifyMixUI",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 3
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "700",
+        "line_height": "normal",
+        "line_height_ratio": null,
+        "letter_spacing": "normal",
+        "font_family": "SpotifyMixUI",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 3,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "700",
+        "line_height": "normal",
+        "line_height_ratio": null,
+        "letter_spacing": "normal",
+        "font_family": "SpotifyMixUITitle",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 46,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "normal",
+        "line_height_ratio": null,
+        "letter_spacing": "normal",
+        "font_family": "SpotifyMixUI",
+        "color": "#ffffff"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 546,
+          "count": 1
+        },
+        {
+          "value": 722,
+          "count": 1
+        },
+        {
+          "value": 1955,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 5
+        },
+        {
+          "value": 10,
+          "count": 2
+        },
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 20,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 62
+        },
+        {
+          "value": 4,
+          "count": 41
+        },
+        {
+          "value": 2,
+          "count": 3
+        },
+        {
+          "value": 12,
+          "count": 3
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 2
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 40,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 356,
+      "grid_blocks": 11
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 12,
+          "count": 173
+        },
+        {
+          "value": 8,
+          "count": 85
+        },
+        {
+          "value": 171.5,
+          "count": 40
+        },
+        {
+          "value": 16,
+          "count": 21
+        },
+        {
+          "value": 4,
+          "count": 12
+        },
+        {
+          "value": 32,
+          "count": 7
+        },
+        {
+          "value": 2,
+          "count": 6
+        },
+        {
+          "value": 6,
+          "count": 6
+        },
+        {
+          "value": 24,
+          "count": 5
+        },
+        {
+          "value": 20,
+          "count": 4
+        },
+        {
+          "value": 40,
+          "count": 4
+        },
+        {
+          "value": 28,
+          "count": 3
+        },
+        {
+          "value": 36,
+          "count": 2
+        },
+        {
+          "value": 7,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 43
+        },
+        {
+          "value": 2,
+          "count": 9
+        },
+        {
+          "value": 32,
+          "count": 8
+        },
+        {
+          "value": 20,
+          "count": 3
+        },
+        {
+          "value": 4,
+          "count": 1
+        },
+        {
+          "value": 10,
+          "count": 1
+        },
+        {
+          "value": 40,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#121212",
+      "backgrounds": [
+        {
+          "value": "#1ed760",
+          "count": 40
+        },
+        {
+          "value": "#ffffff",
+          "count": 9
+        },
+        {
+          "value": "#1f1f1f",
+          "count": 8
+        },
+        {
+          "value": "#121212",
+          "count": 6
+        },
+        {
+          "value": "#333333",
+          "count": 6
+        },
+        {
+          "value": "#000000",
+          "count": 4
+        },
+        {
+          "value": "#292929",
+          "count": 3
+        },
+        {
+          "value": "#535353",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#b3b3b3",
+          "count": 540
+        },
+        {
+          "value": "#ffffff",
+          "count": 533
+        },
+        {
+          "value": "#000000",
+          "count": 172
+        },
+        {
+          "value": "#7c7c7c",
+          "count": 8
+        },
+        {
+          "value": "#101010",
+          "count": 2
+        },
+        {
+          "value": "#0000ee",
+          "count": 1
+        },
+        {
+          "value": "#c5c5c5",
+          "count": 1
+        },
+        {
+          "value": "#555555",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#7c7c7c",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

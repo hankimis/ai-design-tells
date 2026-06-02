@@ -1,0 +1,1005 @@
+{
+  "url": "https://www.shopify.com",
+  "name": "www.shopify.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "콘텐츠로 건너뛰기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "8px 20px 8px 20px",
+          "height": 44,
+          "font_size": "16px",
+          "font_weight": "550",
+          "font_family": "Inter-Variable",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "무료 체험 시작",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "12px 24px 12px 24px",
+          "height": 56,
+          "font_size": "18px",
+          "font_weight": "550",
+          "font_family": "Inter-Variable",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 2
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "플랜 보기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "2px solid #ffffff",
+          "radius": "9999px",
+          "padding": "12px 24px 12px 24px",
+          "height": 56,
+          "font_size": "18px",
+          "font_weight": "550",
+          "font_family": "Inter-Variable",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 2
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "로그인",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 20,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Inter-Variable",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "Shopify를 구축해야 하는 이유",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "12px 24px 12px 24px",
+          "height": 56,
+          "font_size": "18px",
+          "font_weight": "550",
+          "font_family": "Inter-Variable",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "대한민국 | 한국어",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#e0e0e0",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 26,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Inter-Variable",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 4,
+        "font_size": "70px",
+        "font_size_px": 70,
+        "font_weight": "330",
+        "line_height": "70px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "NeueHaasGrotesk",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 13,
+        "font_size": "55px",
+        "font_size_px": 55,
+        "font_weight": "330",
+        "line_height": "64px",
+        "line_height_ratio": 1.16,
+        "letter_spacing": "normal",
+        "font_family": "NeueHaasGrotesk",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h4": {
+        "count": 7,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "400",
+        "line_height": "28px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "0.3px",
+        "font_family": "NeueHaasGrotesk",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "8px"
+      },
+      "body": {
+        "count": 48,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "420",
+        "line_height": "18px",
+        "line_height_ratio": 1.29,
+        "letter_spacing": "normal",
+        "font_family": "Inter-Variable",
+        "color": "#a1a1aa"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 606.32,
+          "count": 8
+        },
+        {
+          "value": 486,
+          "count": 1
+        },
+        {
+          "value": 630,
+          "count": 1
+        },
+        {
+          "value": 792.88,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 18
+        },
+        {
+          "value": 2,
+          "count": 3
+        },
+        {
+          "value": 3,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 12,
+          "count": 2
+        }
+      ],
+      "gaps": [
+        {
+          "value": 16,
+          "count": 13
+        },
+        {
+          "value": 64,
+          "count": 12
+        },
+        {
+          "value": 12,
+          "count": 6
+        },
+        {
+          "value": 40,
+          "count": 6
+        },
+        {
+          "value": 24,
+          "count": 4
+        },
+        {
+          "value": 32,
+          "count": 4
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 6,
+          "count": 2
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 64,
+          "count": 4
+        },
+        {
+          "value": 80,
+          "count": 3
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 72,
+          "count": 1
+        },
+        {
+          "value": 100,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 195,
+      "grid_blocks": 29
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 10,
+          "count": 50
+        },
+        {
+          "value": 32,
+          "count": 32
+        },
+        {
+          "value": 8,
+          "count": 31
+        },
+        {
+          "value": 4,
+          "count": 27
+        },
+        {
+          "value": 16,
+          "count": 18
+        },
+        {
+          "value": 24,
+          "count": 18
+        },
+        {
+          "value": 12,
+          "count": 17
+        },
+        {
+          "value": 40,
+          "count": 16
+        },
+        {
+          "value": 13,
+          "count": 12
+        },
+        {
+          "value": 64,
+          "count": 10
+        },
+        {
+          "value": 80,
+          "count": 10
+        },
+        {
+          "value": 90,
+          "count": 8
+        },
+        {
+          "value": 20,
+          "count": 6
+        },
+        {
+          "value": 128,
+          "count": 4
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 12,
+          "count": 27
+        },
+        {
+          "value": 8,
+          "count": 12
+        },
+        {
+          "value": 24,
+          "count": 10
+        },
+        {
+          "value": 2,
+          "count": 6
+        },
+        {
+          "value": 16,
+          "count": 6
+        },
+        {
+          "value": 14,
+          "count": 5
+        },
+        {
+          "value": 64,
+          "count": 3
+        },
+        {
+          "value": 3,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 1,
+          "count": 1
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#000000",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 11
+        },
+        {
+          "value": "#02090a",
+          "count": 10
+        },
+        {
+          "value": "#061a1c",
+          "count": 10
+        },
+        {
+          "value": "#f4f4f5",
+          "count": 6
+        },
+        {
+          "value": "#041e18",
+          "count": 4
+        },
+        {
+          "value": "#102620",
+          "count": 3
+        },
+        {
+          "value": "#000a1e",
+          "count": 3
+        },
+        {
+          "value": "#060607",
+          "count": 3
+        }
+      ],
+      "text": [
+        {
+          "value": "#ffffff",
+          "count": 637
+        },
+        {
+          "value": "#a1a1aa",
+          "count": 71
+        },
+        {
+          "value": "#000000",
+          "count": 66
+        },
+        {
+          "value": "#36f4a4",
+          "count": 12
+        },
+        {
+          "value": "#9797a2",
+          "count": 11
+        },
+        {
+          "value": "#9dabad",
+          "count": 10
+        },
+        {
+          "value": "#bdbdca",
+          "count": 5
+        },
+        {
+          "value": "#99b3ad",
+          "count": 5
+        }
+      ],
+      "borders": [
+        {
+          "value": "#e4e4e7",
+          "count": 7
+        },
+        {
+          "value": "#1e2c31",
+          "count": 5
+        },
+        {
+          "value": "#e5e7eb",
+          "count": 3
+        },
+        {
+          "value": "#ffffff",
+          "count": 2
+        },
+        {
+          "value": "#11352d",
+          "count": 2
+        },
+        {
+          "value": "#121c1e",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "title": "Shopify 대한민국",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "콘텐츠로 건너뛰기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "8px 20px 8px 20px",
+          "height": 44,
+          "font_size": "16px",
+          "font_weight": "550",
+          "font_family": "Inter-Variable",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "무료 체험 시작",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "12px 24px 12px 24px",
+          "height": 56,
+          "font_size": "18px",
+          "font_weight": "550",
+          "font_family": "Inter-Variable",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 2
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "플랜 보기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "2px solid #ffffff",
+          "radius": "9999px",
+          "padding": "12px 24px 12px 24px",
+          "height": 56,
+          "font_size": "18px",
+          "font_weight": "550",
+          "font_family": "Inter-Variable",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 2
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "로그인",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 20,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Inter-Variable",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "Shopify를 구축해야 하는 이유",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "12px 24px 12px 24px",
+          "height": 56,
+          "font_size": "18px",
+          "font_weight": "550",
+          "font_family": "Inter-Variable",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "대한민국 | 한국어",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#e0e0e0",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 26,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Inter-Variable",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 4,
+        "font_size": "70px",
+        "font_size_px": 70,
+        "font_weight": "330",
+        "line_height": "70px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "NeueHaasGrotesk",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 13,
+        "font_size": "55px",
+        "font_size_px": 55,
+        "font_weight": "330",
+        "line_height": "64px",
+        "line_height_ratio": 1.16,
+        "letter_spacing": "normal",
+        "font_family": "NeueHaasGrotesk",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h4": {
+        "count": 7,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "400",
+        "line_height": "28px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "0.3px",
+        "font_family": "NeueHaasGrotesk",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "8px"
+      },
+      "body": {
+        "count": 48,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "420",
+        "line_height": "18px",
+        "line_height_ratio": 1.29,
+        "letter_spacing": "normal",
+        "font_family": "Inter-Variable",
+        "color": "#a1a1aa"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 606.32,
+          "count": 8
+        },
+        {
+          "value": 486,
+          "count": 1
+        },
+        {
+          "value": 630,
+          "count": 1
+        },
+        {
+          "value": 792.88,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 18
+        },
+        {
+          "value": 2,
+          "count": 3
+        },
+        {
+          "value": 3,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 12,
+          "count": 2
+        }
+      ],
+      "gaps": [
+        {
+          "value": 16,
+          "count": 13
+        },
+        {
+          "value": 64,
+          "count": 12
+        },
+        {
+          "value": 12,
+          "count": 6
+        },
+        {
+          "value": 40,
+          "count": 6
+        },
+        {
+          "value": 24,
+          "count": 4
+        },
+        {
+          "value": 32,
+          "count": 4
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 6,
+          "count": 2
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 64,
+          "count": 4
+        },
+        {
+          "value": 80,
+          "count": 3
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 72,
+          "count": 1
+        },
+        {
+          "value": 100,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 195,
+      "grid_blocks": 29
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 10,
+          "count": 50
+        },
+        {
+          "value": 32,
+          "count": 32
+        },
+        {
+          "value": 8,
+          "count": 31
+        },
+        {
+          "value": 4,
+          "count": 27
+        },
+        {
+          "value": 16,
+          "count": 18
+        },
+        {
+          "value": 24,
+          "count": 18
+        },
+        {
+          "value": 12,
+          "count": 17
+        },
+        {
+          "value": 40,
+          "count": 16
+        },
+        {
+          "value": 13,
+          "count": 12
+        },
+        {
+          "value": 64,
+          "count": 10
+        },
+        {
+          "value": 80,
+          "count": 10
+        },
+        {
+          "value": 90,
+          "count": 8
+        },
+        {
+          "value": 20,
+          "count": 6
+        },
+        {
+          "value": 128,
+          "count": 4
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 12,
+          "count": 27
+        },
+        {
+          "value": 8,
+          "count": 12
+        },
+        {
+          "value": 24,
+          "count": 10
+        },
+        {
+          "value": 2,
+          "count": 6
+        },
+        {
+          "value": 16,
+          "count": 6
+        },
+        {
+          "value": 14,
+          "count": 5
+        },
+        {
+          "value": 64,
+          "count": 3
+        },
+        {
+          "value": 3,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 1,
+          "count": 1
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#000000",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 11
+        },
+        {
+          "value": "#02090a",
+          "count": 10
+        },
+        {
+          "value": "#061a1c",
+          "count": 10
+        },
+        {
+          "value": "#f4f4f5",
+          "count": 6
+        },
+        {
+          "value": "#041e18",
+          "count": 4
+        },
+        {
+          "value": "#102620",
+          "count": 3
+        },
+        {
+          "value": "#000a1e",
+          "count": 3
+        },
+        {
+          "value": "#060607",
+          "count": 3
+        }
+      ],
+      "text": [
+        {
+          "value": "#ffffff",
+          "count": 637
+        },
+        {
+          "value": "#a1a1aa",
+          "count": 71
+        },
+        {
+          "value": "#000000",
+          "count": 66
+        },
+        {
+          "value": "#36f4a4",
+          "count": 12
+        },
+        {
+          "value": "#9797a2",
+          "count": 11
+        },
+        {
+          "value": "#9dabad",
+          "count": 10
+        },
+        {
+          "value": "#bdbdca",
+          "count": 5
+        },
+        {
+          "value": "#99b3ad",
+          "count": 5
+        }
+      ],
+      "borders": [
+        {
+          "value": "#e4e4e7",
+          "count": 7
+        },
+        {
+          "value": "#1e2c31",
+          "count": 5
+        },
+        {
+          "value": "#e5e7eb",
+          "count": 3
+        },
+        {
+          "value": "#ffffff",
+          "count": 2
+        },
+        {
+          "value": "#11352d",
+          "count": 2
+        },
+        {
+          "value": "#121c1e",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

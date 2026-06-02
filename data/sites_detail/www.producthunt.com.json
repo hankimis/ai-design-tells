@@ -1,0 +1,797 @@
+{
+  "url": "https://www.producthunt.com",
+  "name": "www.producthunt.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Sign in",
+          "bg": "#ff6154",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "-apple-system",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "2px solid #fef0c7",
+          "radius": "9999px",
+          "padding": "8px 8px 8px 8px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "-apple-system",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "See all of today's products",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#344054",
+          "border": "2px solid #eaecf0",
+          "radius": "9999px",
+          "padding": "8px 16px 8px 16px",
+          "height": 44,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "-apple-system",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 4
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Take a tour.",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ff6154",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 24,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "-apple-system",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "69",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 52,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "-apple-system",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 84
+        },
+        {
+          "role": "ghost",
+          "text": "Upvote (127)",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#475467",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 24,
+          "font_size": "14px",
+          "font_weight": "600",
+          "font_family": "-apple-system",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 4
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "600",
+        "line_height": "32px",
+        "line_height_ratio": 1.33,
+        "letter_spacing": "normal",
+        "font_family": "-apple-system",
+        "color": "#101828",
+        "text_transform": "none",
+        "margin_bottom": "24px"
+      },
+      "h2": {
+        "count": 3,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "600",
+        "line_height": "32px",
+        "line_height_ratio": 1.33,
+        "letter_spacing": "normal",
+        "font_family": "-apple-system",
+        "color": "#101828",
+        "text_transform": "none",
+        "margin_bottom": "24px"
+      },
+      "h3": {
+        "count": 12,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "600",
+        "line_height": "24px",
+        "line_height_ratio": 1.71,
+        "letter_spacing": "normal",
+        "font_family": "-apple-system",
+        "color": "#98a2b3",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 84,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "600",
+        "line_height": "14px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "-apple-system",
+        "color": "#344054"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1152,
+          "count": 3
+        },
+        {
+          "value": 900,
+          "count": 1
+        },
+        {
+          "value": 1216,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 3,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 157
+        },
+        {
+          "value": 8,
+          "count": 105
+        },
+        {
+          "value": 16,
+          "count": 52
+        },
+        {
+          "value": 32,
+          "count": 4
+        },
+        {
+          "value": 40,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 85.41,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 415,
+      "grid_blocks": 5
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 16,
+          "count": 212
+        },
+        {
+          "value": 8,
+          "count": 81
+        },
+        {
+          "value": 24,
+          "count": 8
+        },
+        {
+          "value": 32,
+          "count": 3
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 85.41,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 4,
+          "count": 42
+        },
+        {
+          "value": 2,
+          "count": 41
+        },
+        {
+          "value": 8,
+          "count": 9
+        },
+        {
+          "value": 24,
+          "count": 7
+        },
+        {
+          "value": 16,
+          "count": 6
+        },
+        {
+          "value": 32,
+          "count": 4
+        },
+        {
+          "value": 40,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 96
+        },
+        {
+          "value": "#f9fafb",
+          "count": 2
+        },
+        {
+          "value": "#f2f4f7",
+          "count": 1
+        },
+        {
+          "value": "#ff6154",
+          "count": 1
+        },
+        {
+          "value": "#eaecf0",
+          "count": 1
+        },
+        {
+          "value": "#fff4ed",
+          "count": 1
+        },
+        {
+          "value": "#101828",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 624
+        },
+        {
+          "value": "#101828",
+          "count": 249
+        },
+        {
+          "value": "#344054",
+          "count": 233
+        },
+        {
+          "value": "#ffffff",
+          "count": 125
+        },
+        {
+          "value": "#4b587c",
+          "count": 82
+        },
+        {
+          "value": "#667085",
+          "count": 82
+        },
+        {
+          "value": "#475467",
+          "count": 35
+        },
+        {
+          "value": "#98a2b3",
+          "count": 21
+        }
+      ],
+      "borders": [
+        {
+          "value": "#eaecf0",
+          "count": 95
+        },
+        {
+          "value": "#fef0c7",
+          "count": 2
+        },
+        {
+          "value": "#1d2939",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#ff6154",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "Product Hunt – The best new products in tech.",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Sign in",
+          "bg": "#ff6154",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "-apple-system",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "2px solid #fef0c7",
+          "radius": "9999px",
+          "padding": "8px 8px 8px 8px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "-apple-system",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "See all of today's products",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#344054",
+          "border": "2px solid #eaecf0",
+          "radius": "9999px",
+          "padding": "8px 16px 8px 16px",
+          "height": 44,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "-apple-system",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 4
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Take a tour.",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ff6154",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 24,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "-apple-system",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "69",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 52,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "-apple-system",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 84
+        },
+        {
+          "role": "ghost",
+          "text": "Upvote (127)",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#475467",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 24,
+          "font_size": "14px",
+          "font_weight": "600",
+          "font_family": "-apple-system",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 4
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "600",
+        "line_height": "32px",
+        "line_height_ratio": 1.33,
+        "letter_spacing": "normal",
+        "font_family": "-apple-system",
+        "color": "#101828",
+        "text_transform": "none",
+        "margin_bottom": "24px"
+      },
+      "h2": {
+        "count": 3,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "600",
+        "line_height": "32px",
+        "line_height_ratio": 1.33,
+        "letter_spacing": "normal",
+        "font_family": "-apple-system",
+        "color": "#101828",
+        "text_transform": "none",
+        "margin_bottom": "24px"
+      },
+      "h3": {
+        "count": 12,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "600",
+        "line_height": "24px",
+        "line_height_ratio": 1.71,
+        "letter_spacing": "normal",
+        "font_family": "-apple-system",
+        "color": "#98a2b3",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 84,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "600",
+        "line_height": "14px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "-apple-system",
+        "color": "#344054"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1152,
+          "count": 3
+        },
+        {
+          "value": 900,
+          "count": 1
+        },
+        {
+          "value": 1216,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 3,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 157
+        },
+        {
+          "value": 8,
+          "count": 105
+        },
+        {
+          "value": 16,
+          "count": 52
+        },
+        {
+          "value": 32,
+          "count": 4
+        },
+        {
+          "value": 40,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 85.41,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 415,
+      "grid_blocks": 5
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 16,
+          "count": 212
+        },
+        {
+          "value": 8,
+          "count": 81
+        },
+        {
+          "value": 24,
+          "count": 8
+        },
+        {
+          "value": 32,
+          "count": 3
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 85.41,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 4,
+          "count": 42
+        },
+        {
+          "value": 2,
+          "count": 41
+        },
+        {
+          "value": 8,
+          "count": 9
+        },
+        {
+          "value": 24,
+          "count": 7
+        },
+        {
+          "value": 16,
+          "count": 6
+        },
+        {
+          "value": 32,
+          "count": 4
+        },
+        {
+          "value": 40,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 96
+        },
+        {
+          "value": "#f9fafb",
+          "count": 2
+        },
+        {
+          "value": "#f2f4f7",
+          "count": 1
+        },
+        {
+          "value": "#ff6154",
+          "count": 1
+        },
+        {
+          "value": "#eaecf0",
+          "count": 1
+        },
+        {
+          "value": "#fff4ed",
+          "count": 1
+        },
+        {
+          "value": "#101828",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 624
+        },
+        {
+          "value": "#101828",
+          "count": 249
+        },
+        {
+          "value": "#344054",
+          "count": 233
+        },
+        {
+          "value": "#ffffff",
+          "count": 125
+        },
+        {
+          "value": "#4b587c",
+          "count": 82
+        },
+        {
+          "value": "#667085",
+          "count": 82
+        },
+        {
+          "value": "#475467",
+          "count": 35
+        },
+        {
+          "value": "#98a2b3",
+          "count": 21
+        }
+      ],
+      "borders": [
+        {
+          "value": "#eaecf0",
+          "count": 95
+        },
+        {
+          "value": "#fef0c7",
+          "count": 2
+        },
+        {
+          "value": "#1d2939",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#ff6154",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

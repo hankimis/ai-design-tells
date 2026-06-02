@@ -1,0 +1,135 @@
+{
+  "url": "https://paulgraham.com",
+  "name": "paulgraham.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {},
+    "layout": {
+      "containers": [],
+      "grid_columns": [],
+      "gaps": [],
+      "section_padding_top": [],
+      "flex_blocks": 0,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 1,
+          "count": 8
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 2
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 1
+        },
+        {
+          "value": "#ffcc33",
+          "count": 1
+        },
+        {
+          "value": "#ff9922",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 35
+        },
+        {
+          "value": "#000099",
+          "count": 4
+        },
+        {
+          "value": "#cccccc",
+          "count": 1
+        }
+      ],
+      "borders": [],
+      "accents": []
+    }
+  },
+  "title": "Paul Graham",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {},
+    "layout": {
+      "containers": [],
+      "grid_columns": [],
+      "gaps": [],
+      "section_padding_top": [],
+      "flex_blocks": 0,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 1,
+          "count": 8
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 2
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 1
+        },
+        {
+          "value": "#ffcc33",
+          "count": 1
+        },
+        {
+          "value": "#ff9922",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 35
+        },
+        {
+          "value": "#000099",
+          "count": 4
+        },
+        {
+          "value": "#cccccc",
+          "count": 1
+        }
+      ],
+      "borders": [],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

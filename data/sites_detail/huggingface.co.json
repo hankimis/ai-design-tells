@@ -1,0 +1,709 @@
+{
+  "url": "https://huggingface.co",
+  "name": "huggingface.co",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "System theme",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": null,
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "4px 10px 4px 8px",
+          "height": 30,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Source Sans Pro",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "2px 8px 2px 8px",
+          "height": 20,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Source Sans Pro",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "48px",
+        "font_size_px": 48,
+        "font_weight": "700",
+        "line_height": "48px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "Source Sans Pro",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "40px"
+      },
+      "h2": {
+        "count": 7,
+        "font_size": "30px",
+        "font_size_px": 30,
+        "font_weight": "700",
+        "line_height": "36px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "Source Sans Pro",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 7,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "600",
+        "line_height": "32px",
+        "line_height_ratio": 1.33,
+        "letter_spacing": "normal",
+        "font_family": "Source Sans Pro",
+        "color": null,
+        "text_transform": "none",
+        "margin_bottom": "16px"
+      },
+      "h4": {
+        "count": 35,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "700",
+        "line_height": "25px",
+        "line_height_ratio": 1.25,
+        "letter_spacing": "normal",
+        "font_family": "Source Sans Pro",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 30,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Source Sans Pro",
+        "color": null
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1280,
+          "count": 6
+        },
+        {
+          "value": 1024,
+          "count": 2
+        },
+        {
+          "value": 672,
+          "count": 1
+        },
+        {
+          "value": 1152,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 3,
+          "count": 3
+        },
+        {
+          "value": 4,
+          "count": 3
+        },
+        {
+          "value": 5,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 20
+        },
+        {
+          "value": 6,
+          "count": 17
+        },
+        {
+          "value": 12,
+          "count": 14
+        },
+        {
+          "value": 16,
+          "count": 10
+        },
+        {
+          "value": 10,
+          "count": 3
+        },
+        {
+          "value": 32,
+          "count": 3
+        },
+        {
+          "value": 14,
+          "count": 1
+        },
+        {
+          "value": 20,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 48,
+          "count": 2
+        },
+        {
+          "value": 80,
+          "count": 2
+        },
+        {
+          "value": 56,
+          "count": 1
+        },
+        {
+          "value": 96,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 184,
+      "grid_blocks": 7
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 107
+        },
+        {
+          "value": 2,
+          "count": 97
+        },
+        {
+          "value": 6,
+          "count": 90
+        },
+        {
+          "value": 12,
+          "count": 61
+        },
+        {
+          "value": 24,
+          "count": 49
+        },
+        {
+          "value": 16,
+          "count": 32
+        },
+        {
+          "value": 32,
+          "count": 22
+        },
+        {
+          "value": 4,
+          "count": 12
+        },
+        {
+          "value": 40,
+          "count": 8
+        },
+        {
+          "value": 14,
+          "count": 6
+        },
+        {
+          "value": 80,
+          "count": 5
+        },
+        {
+          "value": 10,
+          "count": 3
+        },
+        {
+          "value": 96,
+          "count": 3
+        },
+        {
+          "value": 1,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 23
+        },
+        {
+          "value": 2,
+          "count": 15
+        },
+        {
+          "value": 73,
+          "count": 11
+        },
+        {
+          "value": 16,
+          "count": 9
+        },
+        {
+          "value": 32,
+          "count": 5
+        },
+        {
+          "value": 28,
+          "count": 4
+        },
+        {
+          "value": 20,
+          "count": 3
+        },
+        {
+          "value": 48,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 1
+        },
+        {
+          "value": 44,
+          "count": 1
+        },
+        {
+          "value": 56,
+          "count": 1
+        },
+        {
+          "value": 112,
+          "count": 1
+        },
+        {
+          "value": 128,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 10
+        },
+        {
+          "value": "#000000",
+          "count": 2
+        },
+        {
+          "value": "#0b0f19",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 326
+        },
+        {
+          "value": "#ffffff",
+          "count": 82
+        }
+      ],
+      "borders": [],
+      "accents": []
+    }
+  },
+  "title": "Hugging Face – The AI community building the future.",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "System theme",
+          "bg": "#0b0f19",
+          "bg_alpha": 1,
+          "color": null,
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "4px 10px 4px 8px",
+          "height": 30,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Source Sans Pro",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": null,
+          "border": "none",
+          "radius": "0px",
+          "padding": "2px 8px 2px 8px",
+          "height": 20,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Source Sans Pro",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "48px",
+        "font_size_px": 48,
+        "font_weight": "700",
+        "line_height": "48px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "Source Sans Pro",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "40px"
+      },
+      "h2": {
+        "count": 7,
+        "font_size": "30px",
+        "font_size_px": 30,
+        "font_weight": "700",
+        "line_height": "36px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "Source Sans Pro",
+        "color": null,
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 7,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "600",
+        "line_height": "32px",
+        "line_height_ratio": 1.33,
+        "letter_spacing": "normal",
+        "font_family": "Source Sans Pro",
+        "color": null,
+        "text_transform": "none",
+        "margin_bottom": "16px"
+      },
+      "h4": {
+        "count": 35,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "700",
+        "line_height": "25px",
+        "line_height_ratio": 1.25,
+        "letter_spacing": "normal",
+        "font_family": "Source Sans Pro",
+        "color": null,
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 30,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Source Sans Pro",
+        "color": null
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1280,
+          "count": 6
+        },
+        {
+          "value": 1024,
+          "count": 2
+        },
+        {
+          "value": 672,
+          "count": 1
+        },
+        {
+          "value": 1152,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 3,
+          "count": 3
+        },
+        {
+          "value": 4,
+          "count": 3
+        },
+        {
+          "value": 5,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 20
+        },
+        {
+          "value": 6,
+          "count": 17
+        },
+        {
+          "value": 12,
+          "count": 14
+        },
+        {
+          "value": 16,
+          "count": 10
+        },
+        {
+          "value": 10,
+          "count": 3
+        },
+        {
+          "value": 32,
+          "count": 3
+        },
+        {
+          "value": 14,
+          "count": 1
+        },
+        {
+          "value": 20,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 48,
+          "count": 2
+        },
+        {
+          "value": 80,
+          "count": 2
+        },
+        {
+          "value": 56,
+          "count": 1
+        },
+        {
+          "value": 96,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 184,
+      "grid_blocks": 7
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 107
+        },
+        {
+          "value": 2,
+          "count": 97
+        },
+        {
+          "value": 6,
+          "count": 90
+        },
+        {
+          "value": 12,
+          "count": 61
+        },
+        {
+          "value": 24,
+          "count": 49
+        },
+        {
+          "value": 16,
+          "count": 32
+        },
+        {
+          "value": 32,
+          "count": 22
+        },
+        {
+          "value": 4,
+          "count": 12
+        },
+        {
+          "value": 40,
+          "count": 8
+        },
+        {
+          "value": 14,
+          "count": 6
+        },
+        {
+          "value": 80,
+          "count": 5
+        },
+        {
+          "value": 10,
+          "count": 3
+        },
+        {
+          "value": 96,
+          "count": 3
+        },
+        {
+          "value": 1,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 23
+        },
+        {
+          "value": 2,
+          "count": 15
+        },
+        {
+          "value": 73,
+          "count": 11
+        },
+        {
+          "value": 16,
+          "count": 9
+        },
+        {
+          "value": 32,
+          "count": 5
+        },
+        {
+          "value": 28,
+          "count": 4
+        },
+        {
+          "value": 20,
+          "count": 3
+        },
+        {
+          "value": 48,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 1
+        },
+        {
+          "value": 44,
+          "count": 1
+        },
+        {
+          "value": 56,
+          "count": 1
+        },
+        {
+          "value": 112,
+          "count": 1
+        },
+        {
+          "value": 128,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#0b0f19",
+      "backgrounds": [
+        {
+          "value": "#0b0f19",
+          "count": 11
+        },
+        {
+          "value": "#ffffff",
+          "count": 3
+        }
+      ],
+      "text": [
+        {
+          "value": "#ffffff",
+          "count": 67
+        },
+        {
+          "value": "#b3bcc9",
+          "count": 53
+        },
+        {
+          "value": "#000000",
+          "count": 3
+        }
+      ],
+      "borders": [
+        {
+          "value": "#141c2e",
+          "count": 48
+        }
+      ],
+      "accents": [
+        {
+          "value": "#0b0f19",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": true,
+  "ok": true
+}

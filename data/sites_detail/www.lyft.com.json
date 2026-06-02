@@ -1,0 +1,549 @@
+{
+  "url": "https://www.lyft.com",
+  "name": "www.lyft.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#820076",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "48px",
+          "padding": "0px 0px 0px 0px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "RebelSansText",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Wait & Save Budget-friendly ",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "16px",
+          "padding": "24px 16px 24px 16px",
+          "height": 284,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "RebelSansText",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 5
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Skip to main content",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#1d0c17",
+          "border": "1px solid #b9b2b4",
+          "radius": "48px",
+          "padding": "0px 16px 0px 16px",
+          "height": 32,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "RebelSansText",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#1d0c17",
+          "border": "none",
+          "radius": "48px",
+          "padding": "0px 0px 0px 0px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "RebelSansText",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "60px",
+        "font_size_px": 60,
+        "font_weight": "600",
+        "line_height": "66px",
+        "line_height_ratio": 1.1,
+        "letter_spacing": "normal",
+        "font_family": "RebelSansDisplay",
+        "color": "#1d0c17",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 11,
+        "font_size": "36px",
+        "font_size_px": 36,
+        "font_weight": "600",
+        "line_height": "45px",
+        "line_height_ratio": 1.25,
+        "letter_spacing": "normal",
+        "font_family": "RebelSansText",
+        "color": "#1d0c17",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 20,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "22px",
+        "line_height_ratio": 1.38,
+        "letter_spacing": "normal",
+        "font_family": "RebelSansText",
+        "color": "#1d0c17"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1280,
+          "count": 12
+        },
+        {
+          "value": 1440,
+          "count": 5
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 3,
+          "count": 6
+        }
+      ],
+      "gaps": [
+        {
+          "value": 16,
+          "count": 6
+        },
+        {
+          "value": 24,
+          "count": 5
+        },
+        {
+          "value": 8,
+          "count": 2
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 80,
+          "count": 2
+        }
+      ],
+      "flex_blocks": 137,
+      "grid_blocks": 6
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 16,
+          "count": 59
+        },
+        {
+          "value": 24,
+          "count": 39
+        },
+        {
+          "value": 8,
+          "count": 7
+        },
+        {
+          "value": 32,
+          "count": 7
+        },
+        {
+          "value": 80,
+          "count": 4
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 47
+        },
+        {
+          "value": 80,
+          "count": 8
+        },
+        {
+          "value": 73,
+          "count": 2
+        },
+        {
+          "value": 24.77,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 11
+        },
+        {
+          "value": "#820076",
+          "count": 8
+        },
+        {
+          "value": "#f1f0ec",
+          "count": 3
+        }
+      ],
+      "text": [
+        {
+          "value": "#1d0c17",
+          "count": 616
+        },
+        {
+          "value": "#ffffff",
+          "count": 33
+        },
+        {
+          "value": "#000000",
+          "count": 31
+        },
+        {
+          "value": "#cf0090",
+          "count": 23
+        },
+        {
+          "value": "#ff00bf",
+          "count": 5
+        },
+        {
+          "value": "#820076",
+          "count": 2
+        }
+      ],
+      "borders": [
+        {
+          "value": "#b9b2b4",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#820076",
+          "count": 8
+        }
+      ]
+    }
+  },
+  "title": "Ride or drive with Lyft",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#820076",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "48px",
+          "padding": "0px 0px 0px 0px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "RebelSansText",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Wait & Save Budget-friendly ",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "16px",
+          "padding": "24px 16px 24px 16px",
+          "height": 284,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "RebelSansText",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 5
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Skip to main content",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#1d0c17",
+          "border": "1px solid #b9b2b4",
+          "radius": "48px",
+          "padding": "0px 16px 0px 16px",
+          "height": 32,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "RebelSansText",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#1d0c17",
+          "border": "none",
+          "radius": "48px",
+          "padding": "0px 0px 0px 0px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "RebelSansText",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "60px",
+        "font_size_px": 60,
+        "font_weight": "600",
+        "line_height": "66px",
+        "line_height_ratio": 1.1,
+        "letter_spacing": "normal",
+        "font_family": "RebelSansDisplay",
+        "color": "#1d0c17",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 11,
+        "font_size": "36px",
+        "font_size_px": 36,
+        "font_weight": "600",
+        "line_height": "45px",
+        "line_height_ratio": 1.25,
+        "letter_spacing": "normal",
+        "font_family": "RebelSansText",
+        "color": "#1d0c17",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 20,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "22px",
+        "line_height_ratio": 1.38,
+        "letter_spacing": "normal",
+        "font_family": "RebelSansText",
+        "color": "#1d0c17"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1280,
+          "count": 12
+        },
+        {
+          "value": 1440,
+          "count": 5
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 3,
+          "count": 6
+        }
+      ],
+      "gaps": [
+        {
+          "value": 16,
+          "count": 6
+        },
+        {
+          "value": 24,
+          "count": 5
+        },
+        {
+          "value": 8,
+          "count": 2
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 80,
+          "count": 2
+        }
+      ],
+      "flex_blocks": 137,
+      "grid_blocks": 6
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 16,
+          "count": 59
+        },
+        {
+          "value": 24,
+          "count": 39
+        },
+        {
+          "value": 8,
+          "count": 7
+        },
+        {
+          "value": 32,
+          "count": 7
+        },
+        {
+          "value": 80,
+          "count": 4
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 47
+        },
+        {
+          "value": 80,
+          "count": 8
+        },
+        {
+          "value": 73,
+          "count": 2
+        },
+        {
+          "value": 24.77,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 11
+        },
+        {
+          "value": "#820076",
+          "count": 8
+        },
+        {
+          "value": "#f1f0ec",
+          "count": 3
+        }
+      ],
+      "text": [
+        {
+          "value": "#1d0c17",
+          "count": 616
+        },
+        {
+          "value": "#ffffff",
+          "count": 33
+        },
+        {
+          "value": "#000000",
+          "count": 31
+        },
+        {
+          "value": "#cf0090",
+          "count": 23
+        },
+        {
+          "value": "#ff00bf",
+          "count": 5
+        },
+        {
+          "value": "#820076",
+          "count": 2
+        }
+      ],
+      "borders": [
+        {
+          "value": "#b9b2b4",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#820076",
+          "count": 8
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

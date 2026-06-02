@@ -1,0 +1,969 @@
+{
+  "url": "https://vercel.com",
+  "name": "vercel.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Ask AI",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#171717",
+          "border": "none",
+          "radius": "6px",
+          "padding": "0px 6px 0px 6px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "Geist",
+          "letter_spacing": "normal",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0",
+          "transition": "0.15s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Sign Up",
+          "bg": "#171717",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "6px",
+          "padding": "0px 6px 0px 6px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "Geist",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s, 0.3s, 0.3s, 0.3s, 0.3s, 0.4s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Get your ticket",
+          "bg": "#171717",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "100px",
+          "padding": "0px 6px 0px 6px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "Geist",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "DeployStart Deploying",
+          "bg": "#171717",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "100px",
+          "padding": "0px 14px 0px 14px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Geist",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 2
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Products",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#4d4d4d",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "8px 12px 8px 12px",
+          "height": 30,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Geist",
+          "letter_spacing": "normal",
+          "line_height": "14px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.09s",
+          "_n": 3
+        },
+        {
+          "role": "ghost",
+          "text": "AI AppsAI Apps",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#171717",
+          "border": "none",
+          "radius": "64px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Geist",
+          "letter_spacing": "normal",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 5
+        },
+        {
+          "role": "ghost",
+          "text": "AI SDK",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#171717",
+          "border": "none",
+          "radius": "0px",
+          "padding": "14px 2px 14px 2px",
+          "height": 50,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Geist",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "48px",
+        "font_size_px": 48,
+        "font_weight": "600",
+        "line_height": "48px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-2.4px",
+        "font_family": "Geist",
+        "color": "#171717",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 18,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "600",
+        "line_height": "48px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "-2.4px",
+        "font_family": "Geist",
+        "color": "#171717",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 7,
+        "font_size": "48px",
+        "font_size_px": 48,
+        "font_weight": "600",
+        "line_height": "56px",
+        "line_height_ratio": 1.17,
+        "letter_spacing": "-2.88px",
+        "font_family": "Geist",
+        "color": "#171717",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h5": {
+        "count": 9,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "400",
+        "line_height": "20px",
+        "line_height_ratio": 1.43,
+        "letter_spacing": "normal",
+        "font_family": "Geist",
+        "color": "#4d4d4d",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 83,
+        "font_size": "12px",
+        "font_size_px": 12,
+        "font_weight": "400",
+        "line_height": "16px",
+        "line_height_ratio": 1.33,
+        "letter_spacing": "normal",
+        "font_family": "Geist",
+        "color": "#4d4d4d"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1080,
+          "count": 6
+        },
+        {
+          "value": 720,
+          "count": 1
+        },
+        {
+          "value": 961,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 45
+        },
+        {
+          "value": 3,
+          "count": 9
+        },
+        {
+          "value": 6,
+          "count": 1
+        },
+        {
+          "value": 12,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 71
+        },
+        {
+          "value": 6,
+          "count": 69
+        },
+        {
+          "value": 12,
+          "count": 43
+        },
+        {
+          "value": 4,
+          "count": 17
+        },
+        {
+          "value": 16,
+          "count": 13
+        },
+        {
+          "value": 14,
+          "count": 10
+        },
+        {
+          "value": 24,
+          "count": 8
+        },
+        {
+          "value": 32,
+          "count": 7
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 48,
+          "count": 2
+        }
+      ],
+      "flex_blocks": 474,
+      "grid_blocks": 56
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 2,
+          "count": 348
+        },
+        {
+          "value": 12,
+          "count": 188
+        },
+        {
+          "value": 8,
+          "count": 110
+        },
+        {
+          "value": 16,
+          "count": 68
+        },
+        {
+          "value": 6,
+          "count": 60
+        },
+        {
+          "value": 48,
+          "count": 53
+        },
+        {
+          "value": 10,
+          "count": 21
+        },
+        {
+          "value": 3,
+          "count": 20
+        },
+        {
+          "value": 44,
+          "count": 15
+        },
+        {
+          "value": 14,
+          "count": 14
+        },
+        {
+          "value": 50,
+          "count": 12
+        },
+        {
+          "value": 4,
+          "count": 6
+        },
+        {
+          "value": 1,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 4
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 2,
+          "count": 47
+        },
+        {
+          "value": 1,
+          "count": 27
+        },
+        {
+          "value": 12,
+          "count": 23
+        },
+        {
+          "value": 4,
+          "count": 10
+        },
+        {
+          "value": 16,
+          "count": 7
+        },
+        {
+          "value": 32,
+          "count": 6
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 135,
+          "count": 2
+        },
+        {
+          "value": 36,
+          "count": 1
+        },
+        {
+          "value": 90,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#fafafa",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 41
+        },
+        {
+          "value": "#fafafa",
+          "count": 20
+        },
+        {
+          "value": "#ebebeb",
+          "count": 9
+        },
+        {
+          "value": "#171717",
+          "count": 7
+        },
+        {
+          "value": "#ebf5ff",
+          "count": 2
+        },
+        {
+          "value": "#52aeff",
+          "count": 2
+        },
+        {
+          "value": "#e5484d",
+          "count": 1
+        },
+        {
+          "value": "#45dec5",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#171717",
+          "count": 914
+        },
+        {
+          "value": "#4d4d4d",
+          "count": 486
+        },
+        {
+          "value": "#666666",
+          "count": 67
+        },
+        {
+          "value": "#ffffff",
+          "count": 29
+        },
+        {
+          "value": "#7d7d7d",
+          "count": 20
+        },
+        {
+          "value": "#a8a8a8",
+          "count": 7
+        },
+        {
+          "value": "#8f8f8f",
+          "count": 6
+        },
+        {
+          "value": "#0068d6",
+          "count": 3
+        }
+      ],
+      "borders": [
+        {
+          "value": "#ebebeb",
+          "count": 11
+        },
+        {
+          "value": "#171717",
+          "count": 5
+        },
+        {
+          "value": "#4d4d4d",
+          "count": 2
+        }
+      ],
+      "accents": []
+    }
+  },
+  "title": "Vercel: Build and deploy the best web experiences with the AI Cloud",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Ask AI",
+          "bg": "#0a0a0a",
+          "bg_alpha": 1,
+          "color": "#ededed",
+          "border": "none",
+          "radius": "6px",
+          "padding": "0px 6px 0px 6px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "Geist",
+          "letter_spacing": "normal",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0",
+          "transition": "0.15s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Sign Up",
+          "bg": "#ededed",
+          "bg_alpha": 1,
+          "color": "#0a0a0a",
+          "border": "none",
+          "radius": "6px",
+          "padding": "0px 6px 0px 6px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "Geist",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s, 0.3s, 0.3s, 0.3s, 0.3s, 0.4s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Get your ticket",
+          "bg": "#ededed",
+          "bg_alpha": 1,
+          "color": "#0a0a0a",
+          "border": "none",
+          "radius": "100px",
+          "padding": "0px 6px 0px 6px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "Geist",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "DeployStart Deploying",
+          "bg": "#ededed",
+          "bg_alpha": 1,
+          "color": "#0a0a0a",
+          "border": "none",
+          "radius": "100px",
+          "padding": "0px 14px 0px 14px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Geist",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 2
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Products",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#a1a1a1",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "8px 12px 8px 12px",
+          "height": 30,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Geist",
+          "letter_spacing": "normal",
+          "line_height": "14px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.09s",
+          "_n": 3
+        },
+        {
+          "role": "ghost",
+          "text": "AI AppsAI Apps",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ededed",
+          "border": "none",
+          "radius": "64px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Geist",
+          "letter_spacing": "normal",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 5
+        },
+        {
+          "role": "ghost",
+          "text": "AI SDK",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ededed",
+          "border": "none",
+          "radius": "0px",
+          "padding": "14px 2px 14px 2px",
+          "height": 50,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Geist",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "48px",
+        "font_size_px": 48,
+        "font_weight": "600",
+        "line_height": "48px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-2.4px",
+        "font_family": "Geist",
+        "color": "#ededed",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 18,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "600",
+        "line_height": "48px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "-2.4px",
+        "font_family": "Geist",
+        "color": "#ededed",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 7,
+        "font_size": "48px",
+        "font_size_px": 48,
+        "font_weight": "600",
+        "line_height": "56px",
+        "line_height_ratio": 1.17,
+        "letter_spacing": "-2.88px",
+        "font_family": "Geist",
+        "color": "#ededed",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h5": {
+        "count": 9,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "400",
+        "line_height": "20px",
+        "line_height_ratio": 1.43,
+        "letter_spacing": "normal",
+        "font_family": "Geist",
+        "color": "#a1a1a1",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 83,
+        "font_size": "12px",
+        "font_size_px": 12,
+        "font_weight": "400",
+        "line_height": "16px",
+        "line_height_ratio": 1.33,
+        "letter_spacing": "normal",
+        "font_family": "Geist",
+        "color": "#a1a1a1"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1080,
+          "count": 6
+        },
+        {
+          "value": 720,
+          "count": 1
+        },
+        {
+          "value": 961,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 45
+        },
+        {
+          "value": 3,
+          "count": 9
+        },
+        {
+          "value": 6,
+          "count": 1
+        },
+        {
+          "value": 12,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 71
+        },
+        {
+          "value": 6,
+          "count": 69
+        },
+        {
+          "value": 12,
+          "count": 43
+        },
+        {
+          "value": 4,
+          "count": 17
+        },
+        {
+          "value": 16,
+          "count": 13
+        },
+        {
+          "value": 14,
+          "count": 10
+        },
+        {
+          "value": 24,
+          "count": 8
+        },
+        {
+          "value": 32,
+          "count": 7
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 48,
+          "count": 2
+        }
+      ],
+      "flex_blocks": 474,
+      "grid_blocks": 56
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 2,
+          "count": 348
+        },
+        {
+          "value": 12,
+          "count": 188
+        },
+        {
+          "value": 8,
+          "count": 110
+        },
+        {
+          "value": 16,
+          "count": 68
+        },
+        {
+          "value": 6,
+          "count": 60
+        },
+        {
+          "value": 48,
+          "count": 53
+        },
+        {
+          "value": 10,
+          "count": 21
+        },
+        {
+          "value": 3,
+          "count": 20
+        },
+        {
+          "value": 44,
+          "count": 15
+        },
+        {
+          "value": 14,
+          "count": 14
+        },
+        {
+          "value": 50,
+          "count": 12
+        },
+        {
+          "value": 4,
+          "count": 6
+        },
+        {
+          "value": 1,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 4
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 2,
+          "count": 47
+        },
+        {
+          "value": 1,
+          "count": 27
+        },
+        {
+          "value": 12,
+          "count": 23
+        },
+        {
+          "value": 4,
+          "count": 10
+        },
+        {
+          "value": 16,
+          "count": 7
+        },
+        {
+          "value": 32,
+          "count": 6
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 135,
+          "count": 2
+        },
+        {
+          "value": 36,
+          "count": 1
+        },
+        {
+          "value": 90,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#000000",
+      "backgrounds": [
+        {
+          "value": "#000000",
+          "count": 31
+        },
+        {
+          "value": "#0a0a0a",
+          "count": 30
+        },
+        {
+          "value": "#2e2e2e",
+          "count": 9
+        },
+        {
+          "value": "#ededed",
+          "count": 8
+        },
+        {
+          "value": "#10233d",
+          "count": 2
+        },
+        {
+          "value": "#0091ff",
+          "count": 2
+        },
+        {
+          "value": "#e5484d",
+          "count": 1
+        },
+        {
+          "value": "#0c9784",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#ededed",
+          "count": 906
+        },
+        {
+          "value": "#a1a1a1",
+          "count": 486
+        },
+        {
+          "value": "#888888",
+          "count": 67
+        },
+        {
+          "value": "#0a0a0a",
+          "count": 29
+        },
+        {
+          "value": "#7d7d7d",
+          "count": 20
+        },
+        {
+          "value": "#878787",
+          "count": 7
+        },
+        {
+          "value": "#8f8f8f",
+          "count": 6
+        },
+        {
+          "value": "#52a8ff",
+          "count": 3
+        }
+      ],
+      "borders": [
+        {
+          "value": "#1f1f1f",
+          "count": 9
+        },
+        {
+          "value": "#ededed",
+          "count": 5
+        },
+        {
+          "value": "#2e2e2e",
+          "count": 3
+        },
+        {
+          "value": "#a1a1a1",
+          "count": 2
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": true,
+  "ok": true
+}

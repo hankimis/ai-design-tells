@@ -1,0 +1,83 @@
+{
+  "url": "https://igloo.inc",
+  "name": "igloo.inc",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {},
+    "layout": {
+      "containers": [],
+      "grid_columns": [],
+      "gaps": [],
+      "section_padding_top": [],
+      "flex_blocks": 1,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [],
+      "margin_scale": []
+    },
+    "color": {
+      "page_bg": "#a0a5b1",
+      "backgrounds": [
+        {
+          "value": "#a0a5b1",
+          "count": 3
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 6
+        }
+      ],
+      "borders": [],
+      "accents": []
+    }
+  },
+  "title": "Igloo Inc.",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {},
+    "layout": {
+      "containers": [],
+      "grid_columns": [],
+      "gaps": [],
+      "section_padding_top": [],
+      "flex_blocks": 0,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [],
+      "margin_scale": []
+    },
+    "color": {
+      "page_bg": "#a0a5b1",
+      "backgrounds": [
+        {
+          "value": "#a0a5b1",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 4
+        }
+      ],
+      "borders": [],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

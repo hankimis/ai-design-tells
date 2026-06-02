@@ -1,0 +1,803 @@
+{
+  "url": "https://www.figma.com/community",
+  "name": "www.figma.com_community",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "로그인",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "6px",
+          "padding": "0px 0px 0px 0px",
+          "height": 32,
+          "font_size": "11px",
+          "font_weight": "400",
+          "font_family": "Inter",
+          "letter_spacing": "0.005px",
+          "line_height": "16px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "가입",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "1px solid #000000",
+          "radius": "6px",
+          "padding": "7px 13px 7px 13px",
+          "height": 32,
+          "font_size": "11px",
+          "font_weight": "400",
+          "font_family": "Inter",
+          "letter_spacing": "0.005px",
+          "line_height": "16px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "0px 0px 0px 0px",
+          "height": 32,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Inter",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "쿠키 허용 안 함",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "2px solid #2c2c2c",
+          "radius": "8px",
+          "padding": "0px 10px 0px 10px",
+          "height": 32,
+          "font_size": "12px",
+          "font_weight": "700",
+          "font_family": "Figma Sans",
+          "letter_spacing": "normal",
+          "line_height": "18px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "지금 사용하기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "1px solid #2c2c2c",
+          "radius": "6px",
+          "padding": "0px 13px 0px 13px",
+          "height": 30,
+          "font_size": "11px",
+          "font_weight": "500",
+          "font_family": "Inter",
+          "letter_spacing": "0.005px",
+          "line_height": "16px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 10
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "디자인 리소스UI 키트버튼과 알림 같은 사전 제작된",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Inter",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 6
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "500",
+        "line_height": "32px",
+        "line_height_ratio": 1.33,
+        "letter_spacing": "-0.019px",
+        "font_family": "Inter",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 10,
+        "font_size": "13px",
+        "font_size_px": 13,
+        "font_weight": "550",
+        "line_height": "22px",
+        "line_height_ratio": 1.69,
+        "letter_spacing": "-0.032px",
+        "font_family": "Inter",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 1,
+        "font_size": "13px",
+        "font_size_px": 13,
+        "font_weight": "450",
+        "line_height": "22px",
+        "line_height_ratio": 1.69,
+        "letter_spacing": "-0.032px",
+        "font_family": "Inter",
+        "color": "#000000"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1216,
+          "count": 2
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 3,
+          "count": 9
+        },
+        {
+          "value": 1,
+          "count": 1
+        },
+        {
+          "value": 2,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 55
+        },
+        {
+          "value": 8,
+          "count": 46
+        },
+        {
+          "value": 10,
+          "count": 42
+        },
+        {
+          "value": 16,
+          "count": 37
+        },
+        {
+          "value": 32,
+          "count": 9
+        },
+        {
+          "value": 6,
+          "count": 7
+        },
+        {
+          "value": 3.3,
+          "count": 4
+        },
+        {
+          "value": 24,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 24,
+          "count": 5
+        },
+        {
+          "value": 48,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 587,
+      "grid_blocks": 11
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 1,
+          "count": 176
+        },
+        {
+          "value": 4,
+          "count": 146
+        },
+        {
+          "value": 12,
+          "count": 125
+        },
+        {
+          "value": 10,
+          "count": 88
+        },
+        {
+          "value": 16,
+          "count": 65
+        },
+        {
+          "value": 24,
+          "count": 62
+        },
+        {
+          "value": 214.88,
+          "count": 42
+        },
+        {
+          "value": 13,
+          "count": 22
+        },
+        {
+          "value": 8,
+          "count": 14
+        },
+        {
+          "value": 40,
+          "count": 10
+        },
+        {
+          "value": 6,
+          "count": 9
+        },
+        {
+          "value": 20,
+          "count": 9
+        },
+        {
+          "value": 237.95,
+          "count": 6
+        },
+        {
+          "value": 32,
+          "count": 3
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 12,
+          "count": 65
+        },
+        {
+          "value": 8,
+          "count": 35
+        },
+        {
+          "value": 4,
+          "count": 12
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 78,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 76
+        },
+        {
+          "value": "#e6e6e6",
+          "count": 7
+        },
+        {
+          "value": "#f5f5f5",
+          "count": 7
+        },
+        {
+          "value": "#fcfcfc",
+          "count": 5
+        },
+        {
+          "value": "#ffe9f2",
+          "count": 1
+        },
+        {
+          "value": "#fffad0",
+          "count": 1
+        },
+        {
+          "value": "#f5f0ec",
+          "count": 1
+        },
+        {
+          "value": "#f9ffaa",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 911
+        },
+        {
+          "value": "#0000ee",
+          "count": 383
+        },
+        {
+          "value": "#007be5",
+          "count": 103
+        },
+        {
+          "value": "#ffffff",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#e6e6e6",
+          "count": 30
+        },
+        {
+          "value": "#2c2c2c",
+          "count": 12
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "title": "Discover community-made templates, plugins, and widgets | Figma",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "로그인",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "6px",
+          "padding": "0px 0px 0px 0px",
+          "height": 32,
+          "font_size": "11px",
+          "font_weight": "400",
+          "font_family": "Inter",
+          "letter_spacing": "0.005px",
+          "line_height": "16px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "가입",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "1px solid #000000",
+          "radius": "6px",
+          "padding": "7px 13px 7px 13px",
+          "height": 32,
+          "font_size": "11px",
+          "font_weight": "400",
+          "font_family": "Inter",
+          "letter_spacing": "0.005px",
+          "line_height": "16px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "0px 0px 0px 0px",
+          "height": 32,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Inter",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "쿠키 허용 안 함",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "2px solid #2c2c2c",
+          "radius": "8px",
+          "padding": "0px 10px 0px 10px",
+          "height": 32,
+          "font_size": "12px",
+          "font_weight": "700",
+          "font_family": "Figma Sans",
+          "letter_spacing": "normal",
+          "line_height": "18px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "지금 사용하기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "1px solid #2c2c2c",
+          "radius": "6px",
+          "padding": "0px 13px 0px 13px",
+          "height": 30,
+          "font_size": "11px",
+          "font_weight": "500",
+          "font_family": "Inter",
+          "letter_spacing": "0.005px",
+          "line_height": "16px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 10
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "디자인 리소스UI 키트버튼과 알림 같은 사전 제작된",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Inter",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 6
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "500",
+        "line_height": "32px",
+        "line_height_ratio": 1.33,
+        "letter_spacing": "-0.019px",
+        "font_family": "Inter",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 10,
+        "font_size": "13px",
+        "font_size_px": 13,
+        "font_weight": "550",
+        "line_height": "22px",
+        "line_height_ratio": 1.69,
+        "letter_spacing": "-0.032px",
+        "font_family": "Inter",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 1,
+        "font_size": "13px",
+        "font_size_px": 13,
+        "font_weight": "450",
+        "line_height": "22px",
+        "line_height_ratio": 1.69,
+        "letter_spacing": "-0.032px",
+        "font_family": "Inter",
+        "color": "#000000"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1216,
+          "count": 2
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 3,
+          "count": 9
+        },
+        {
+          "value": 1,
+          "count": 1
+        },
+        {
+          "value": 2,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 55
+        },
+        {
+          "value": 8,
+          "count": 46
+        },
+        {
+          "value": 10,
+          "count": 42
+        },
+        {
+          "value": 16,
+          "count": 37
+        },
+        {
+          "value": 32,
+          "count": 9
+        },
+        {
+          "value": 6,
+          "count": 7
+        },
+        {
+          "value": 3.3,
+          "count": 4
+        },
+        {
+          "value": 24,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 24,
+          "count": 5
+        },
+        {
+          "value": 48,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 587,
+      "grid_blocks": 11
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 1,
+          "count": 176
+        },
+        {
+          "value": 4,
+          "count": 146
+        },
+        {
+          "value": 12,
+          "count": 125
+        },
+        {
+          "value": 10,
+          "count": 88
+        },
+        {
+          "value": 16,
+          "count": 65
+        },
+        {
+          "value": 24,
+          "count": 62
+        },
+        {
+          "value": 214.88,
+          "count": 42
+        },
+        {
+          "value": 13,
+          "count": 22
+        },
+        {
+          "value": 8,
+          "count": 14
+        },
+        {
+          "value": 40,
+          "count": 10
+        },
+        {
+          "value": 6,
+          "count": 9
+        },
+        {
+          "value": 20,
+          "count": 9
+        },
+        {
+          "value": 237.95,
+          "count": 6
+        },
+        {
+          "value": 32,
+          "count": 3
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 12,
+          "count": 65
+        },
+        {
+          "value": 8,
+          "count": 35
+        },
+        {
+          "value": 4,
+          "count": 12
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 78,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 76
+        },
+        {
+          "value": "#e6e6e6",
+          "count": 7
+        },
+        {
+          "value": "#f5f5f5",
+          "count": 7
+        },
+        {
+          "value": "#fcfcfc",
+          "count": 5
+        },
+        {
+          "value": "#ffe9f2",
+          "count": 1
+        },
+        {
+          "value": "#fffad0",
+          "count": 1
+        },
+        {
+          "value": "#f5f0ec",
+          "count": 1
+        },
+        {
+          "value": "#f9ffaa",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 911
+        },
+        {
+          "value": "#0000ee",
+          "count": 383
+        },
+        {
+          "value": "#007be5",
+          "count": 106
+        },
+        {
+          "value": "#ffffff",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#e6e6e6",
+          "count": 30
+        },
+        {
+          "value": "#2c2c2c",
+          "count": 12
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

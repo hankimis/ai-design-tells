@@ -1,0 +1,1149 @@
+{
+  "url": "https://calendly.com",
+  "name": "calendly.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Get started for freeGet star",
+          "bg": "#006bff",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #006bff",
+          "radius": "8px",
+          "padding": "10px 16px 10px 16px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "600",
+          "font_family": "gilroy",
+          "letter_spacing": "normal",
+          "line_height": "19.6px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.001s, 0.001s",
+          "_n": 4
+        },
+        {
+          "role": "primary",
+          "text": "Sign up with Google",
+          "bg": "#006bff",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #006bff",
+          "radius": "8px",
+          "padding": "6px 16px 6px 6px",
+          "height": 55,
+          "font_size": "18px",
+          "font_weight": "600",
+          "font_family": "gilroy",
+          "letter_spacing": "normal",
+          "line_height": "28.8px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.001s, 0.001s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Sign up with Microsoft",
+          "bg": "#0b3558",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #0b3558",
+          "radius": "8px",
+          "padding": "6px 16px 6px 6px",
+          "height": 55,
+          "font_size": "18px",
+          "font_weight": "600",
+          "font_family": "gilroy",
+          "letter_spacing": "normal",
+          "line_height": "28.8px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.001s, 0.001s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Sign up for free",
+          "bg": "#006bff",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #006bff",
+          "radius": "8px",
+          "padding": "10px 18px 10px 18px",
+          "height": 51,
+          "font_size": "18px",
+          "font_weight": "600",
+          "font_family": "gilroy",
+          "letter_spacing": "normal",
+          "line_height": "28.8px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.001s, 0.001s",
+          "_n": 3
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Log In",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#476788",
+          "border": "1px solid #476788",
+          "radius": "8px",
+          "padding": "10px 16px 10px 16px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "600",
+          "font_family": "gilroy",
+          "letter_spacing": "normal",
+          "line_height": "19.6px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.001s, 0.001s",
+          "_n": 1
+        },
+        {
+          "role": "secondary",
+          "text": "Get a demo",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#476788",
+          "border": "1px solid #476788",
+          "radius": "8px",
+          "padding": "10px 18px 10px 18px",
+          "height": 51,
+          "font_size": "18px",
+          "font_weight": "600",
+          "font_family": "gilroy",
+          "letter_spacing": "normal",
+          "line_height": "28.8px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.001s, 0.001s",
+          "_n": 1
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#0b3558",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 24,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "gilroy",
+          "letter_spacing": "normal",
+          "line_height": "25.6px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 5
+        },
+        {
+          "role": "ghost",
+          "text": "Talk to sales",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#0b3558",
+          "border": "none",
+          "radius": "4px",
+          "padding": "0px 0px 0px 0px",
+          "height": 20,
+          "font_size": "14px",
+          "font_weight": "600",
+          "font_family": "gilroy",
+          "letter_spacing": "normal",
+          "line_height": "19.6px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.001s, 0.001s",
+          "_n": 5
+        },
+        {
+          "role": "ghost",
+          "text": "Connect your calendars",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#0a0a0a",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "gilroy",
+          "letter_spacing": "normal",
+          "line_height": "16px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 10
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "68px",
+        "font_size_px": 68,
+        "font_weight": "700",
+        "line_height": "81.6px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "gilroy",
+        "color": "#0b3558",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 7,
+        "font_size": "80px",
+        "font_size_px": 80,
+        "font_weight": "700",
+        "line_height": "96px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "gilroy",
+        "color": "#0b3558",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 14,
+        "font_size": "38px",
+        "font_size_px": 38,
+        "font_weight": "700",
+        "line_height": "46px",
+        "line_height_ratio": 1.21,
+        "letter_spacing": "normal",
+        "font_family": "gilroy",
+        "color": "#0b3558",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h4": {
+        "count": 8,
+        "font_size": "28px",
+        "font_size_px": 28,
+        "font_weight": "600",
+        "line_height": "39.2px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "normal",
+        "font_family": "gilroy",
+        "color": "#0b3558",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h5": {
+        "count": 6,
+        "font_size": "18px",
+        "font_size_px": 18,
+        "font_weight": "700",
+        "line_height": "28.8px",
+        "line_height_ratio": 1.6,
+        "letter_spacing": "normal",
+        "font_family": "gilroy",
+        "color": "#0b3558",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h6": {
+        "count": 1,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "600",
+        "line_height": "25.6px",
+        "line_height_ratio": 1.6,
+        "letter_spacing": "normal",
+        "font_family": "gilroy",
+        "color": "#0b3558",
+        "text_transform": "none",
+        "margin_bottom": "2px"
+      },
+      "body": {
+        "count": 23,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "400",
+        "line_height": "28px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "normal",
+        "font_family": "gilroy",
+        "color": "#476788"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1200,
+          "count": 10
+        },
+        {
+          "value": 650,
+          "count": 4
+        },
+        {
+          "value": 486,
+          "count": 2
+        },
+        {
+          "value": 570,
+          "count": 1
+        },
+        {
+          "value": 640,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 5,
+          "count": 1
+        },
+        {
+          "value": 9,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 93
+        },
+        {
+          "value": 12,
+          "count": 30
+        },
+        {
+          "value": 4,
+          "count": 14
+        },
+        {
+          "value": 16,
+          "count": 13
+        },
+        {
+          "value": 24,
+          "count": 13
+        },
+        {
+          "value": 32,
+          "count": 10
+        },
+        {
+          "value": 40,
+          "count": 9
+        },
+        {
+          "value": 48,
+          "count": 7
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 64,
+          "count": 3
+        },
+        {
+          "value": 96,
+          "count": 3
+        },
+        {
+          "value": 72,
+          "count": 2
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 438,
+      "grid_blocks": 3
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 24,
+          "count": 42
+        },
+        {
+          "value": 8,
+          "count": 38
+        },
+        {
+          "value": 4,
+          "count": 35
+        },
+        {
+          "value": 40,
+          "count": 32
+        },
+        {
+          "value": 32,
+          "count": 25
+        },
+        {
+          "value": 10,
+          "count": 23
+        },
+        {
+          "value": 16,
+          "count": 23
+        },
+        {
+          "value": 12,
+          "count": 11
+        },
+        {
+          "value": 48,
+          "count": 10
+        },
+        {
+          "value": 6,
+          "count": 8
+        },
+        {
+          "value": 18,
+          "count": 8
+        },
+        {
+          "value": 72,
+          "count": 7
+        },
+        {
+          "value": 96,
+          "count": 5
+        },
+        {
+          "value": 36,
+          "count": 4
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 4
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 6,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 39
+        },
+        {
+          "value": "#0b3558",
+          "count": 20
+        },
+        {
+          "value": "#006bff",
+          "count": 10
+        },
+        {
+          "value": "#e7edf6",
+          "count": 8
+        },
+        {
+          "value": "#f8f9fb",
+          "count": 6
+        },
+        {
+          "value": "#e6f0ff",
+          "count": 3
+        },
+        {
+          "value": "#f0f3f8",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#0a0a0a",
+          "count": 857
+        },
+        {
+          "value": "#0b3558",
+          "count": 307
+        },
+        {
+          "value": "#ffffff",
+          "count": 58
+        },
+        {
+          "value": "#476788",
+          "count": 28
+        },
+        {
+          "value": "#006bff",
+          "count": 11
+        },
+        {
+          "value": "#a6bbd1",
+          "count": 8
+        },
+        {
+          "value": "#004eba",
+          "count": 3
+        },
+        {
+          "value": "#ffa600",
+          "count": 3
+        }
+      ],
+      "borders": [
+        {
+          "value": "#d4e0ed",
+          "count": 23
+        },
+        {
+          "value": "#006bff",
+          "count": 10
+        },
+        {
+          "value": "#0b3558",
+          "count": 5
+        },
+        {
+          "value": "#476788",
+          "count": 2
+        },
+        {
+          "value": "#ffa600",
+          "count": 1
+        },
+        {
+          "value": "#bb32d5",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#006bff",
+          "count": 9
+        },
+        {
+          "value": "#e7edf6",
+          "count": 8
+        },
+        {
+          "value": "#0b3558",
+          "count": 2
+        },
+        {
+          "value": "#f8f9fb",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "Free Online Appointment Scheduling Software | Calendly",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Get started for freeGet star",
+          "bg": "#006bff",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #006bff",
+          "radius": "8px",
+          "padding": "10px 16px 10px 16px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "600",
+          "font_family": "gilroy",
+          "letter_spacing": "normal",
+          "line_height": "19.6px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.001s, 0.001s",
+          "_n": 4
+        },
+        {
+          "role": "primary",
+          "text": "Sign up with Google",
+          "bg": "#006bff",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #006bff",
+          "radius": "8px",
+          "padding": "6px 16px 6px 6px",
+          "height": 55,
+          "font_size": "18px",
+          "font_weight": "600",
+          "font_family": "gilroy",
+          "letter_spacing": "normal",
+          "line_height": "28.8px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.001s, 0.001s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Sign up with Microsoft",
+          "bg": "#0b3558",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #0b3558",
+          "radius": "8px",
+          "padding": "6px 16px 6px 6px",
+          "height": 55,
+          "font_size": "18px",
+          "font_weight": "600",
+          "font_family": "gilroy",
+          "letter_spacing": "normal",
+          "line_height": "28.8px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.001s, 0.001s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Sign up for free",
+          "bg": "#006bff",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #006bff",
+          "radius": "8px",
+          "padding": "10px 18px 10px 18px",
+          "height": 51,
+          "font_size": "18px",
+          "font_weight": "600",
+          "font_family": "gilroy",
+          "letter_spacing": "normal",
+          "line_height": "28.8px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.001s, 0.001s",
+          "_n": 3
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Log In",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#476788",
+          "border": "1px solid #476788",
+          "radius": "8px",
+          "padding": "10px 16px 10px 16px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "600",
+          "font_family": "gilroy",
+          "letter_spacing": "normal",
+          "line_height": "19.6px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.001s, 0.001s",
+          "_n": 1
+        },
+        {
+          "role": "secondary",
+          "text": "Get a demo",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#476788",
+          "border": "1px solid #476788",
+          "radius": "8px",
+          "padding": "10px 18px 10px 18px",
+          "height": 51,
+          "font_size": "18px",
+          "font_weight": "600",
+          "font_family": "gilroy",
+          "letter_spacing": "normal",
+          "line_height": "28.8px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.001s, 0.001s",
+          "_n": 1
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#0b3558",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 24,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "gilroy",
+          "letter_spacing": "normal",
+          "line_height": "25.6px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 5
+        },
+        {
+          "role": "ghost",
+          "text": "Talk to sales",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#0b3558",
+          "border": "none",
+          "radius": "4px",
+          "padding": "0px 0px 0px 0px",
+          "height": 20,
+          "font_size": "14px",
+          "font_weight": "600",
+          "font_family": "gilroy",
+          "letter_spacing": "normal",
+          "line_height": "19.6px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.001s, 0.001s",
+          "_n": 5
+        },
+        {
+          "role": "ghost",
+          "text": "Connect your calendars",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#0a0a0a",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "gilroy",
+          "letter_spacing": "normal",
+          "line_height": "16px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 10
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "68px",
+        "font_size_px": 68,
+        "font_weight": "700",
+        "line_height": "81.6px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "gilroy",
+        "color": "#0b3558",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 7,
+        "font_size": "80px",
+        "font_size_px": 80,
+        "font_weight": "700",
+        "line_height": "96px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "gilroy",
+        "color": "#0b3558",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 14,
+        "font_size": "38px",
+        "font_size_px": 38,
+        "font_weight": "700",
+        "line_height": "46px",
+        "line_height_ratio": 1.21,
+        "letter_spacing": "normal",
+        "font_family": "gilroy",
+        "color": "#0b3558",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h4": {
+        "count": 8,
+        "font_size": "28px",
+        "font_size_px": 28,
+        "font_weight": "600",
+        "line_height": "39.2px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "normal",
+        "font_family": "gilroy",
+        "color": "#0b3558",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h5": {
+        "count": 6,
+        "font_size": "18px",
+        "font_size_px": 18,
+        "font_weight": "700",
+        "line_height": "28.8px",
+        "line_height_ratio": 1.6,
+        "letter_spacing": "normal",
+        "font_family": "gilroy",
+        "color": "#0b3558",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h6": {
+        "count": 1,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "600",
+        "line_height": "25.6px",
+        "line_height_ratio": 1.6,
+        "letter_spacing": "normal",
+        "font_family": "gilroy",
+        "color": "#0b3558",
+        "text_transform": "none",
+        "margin_bottom": "2px"
+      },
+      "body": {
+        "count": 23,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "400",
+        "line_height": "28px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "normal",
+        "font_family": "gilroy",
+        "color": "#476788"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1200,
+          "count": 10
+        },
+        {
+          "value": 650,
+          "count": 4
+        },
+        {
+          "value": 486,
+          "count": 2
+        },
+        {
+          "value": 570,
+          "count": 1
+        },
+        {
+          "value": 640,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 5,
+          "count": 1
+        },
+        {
+          "value": 9,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 93
+        },
+        {
+          "value": 12,
+          "count": 30
+        },
+        {
+          "value": 4,
+          "count": 14
+        },
+        {
+          "value": 16,
+          "count": 13
+        },
+        {
+          "value": 24,
+          "count": 13
+        },
+        {
+          "value": 32,
+          "count": 10
+        },
+        {
+          "value": 40,
+          "count": 9
+        },
+        {
+          "value": 48,
+          "count": 7
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 64,
+          "count": 3
+        },
+        {
+          "value": 96,
+          "count": 3
+        },
+        {
+          "value": 72,
+          "count": 2
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 439,
+      "grid_blocks": 3
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 24,
+          "count": 42
+        },
+        {
+          "value": 8,
+          "count": 38
+        },
+        {
+          "value": 4,
+          "count": 35
+        },
+        {
+          "value": 40,
+          "count": 32
+        },
+        {
+          "value": 32,
+          "count": 25
+        },
+        {
+          "value": 10,
+          "count": 23
+        },
+        {
+          "value": 16,
+          "count": 23
+        },
+        {
+          "value": 12,
+          "count": 11
+        },
+        {
+          "value": 48,
+          "count": 10
+        },
+        {
+          "value": 6,
+          "count": 8
+        },
+        {
+          "value": 18,
+          "count": 8
+        },
+        {
+          "value": 72,
+          "count": 7
+        },
+        {
+          "value": 96,
+          "count": 5
+        },
+        {
+          "value": 36,
+          "count": 4
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 4
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 6,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 39
+        },
+        {
+          "value": "#0b3558",
+          "count": 20
+        },
+        {
+          "value": "#006bff",
+          "count": 11
+        },
+        {
+          "value": "#e7edf6",
+          "count": 8
+        },
+        {
+          "value": "#f8f9fb",
+          "count": 6
+        },
+        {
+          "value": "#e6f0ff",
+          "count": 3
+        },
+        {
+          "value": "#f0f3f8",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#0a0a0a",
+          "count": 860
+        },
+        {
+          "value": "#0b3558",
+          "count": 307
+        },
+        {
+          "value": "#ffffff",
+          "count": 58
+        },
+        {
+          "value": "#476788",
+          "count": 28
+        },
+        {
+          "value": "#006bff",
+          "count": 11
+        },
+        {
+          "value": "#a6bbd1",
+          "count": 8
+        },
+        {
+          "value": "#004eba",
+          "count": 3
+        },
+        {
+          "value": "#ffa600",
+          "count": 3
+        }
+      ],
+      "borders": [
+        {
+          "value": "#d4e0ed",
+          "count": 23
+        },
+        {
+          "value": "#006bff",
+          "count": 10
+        },
+        {
+          "value": "#0b3558",
+          "count": 5
+        },
+        {
+          "value": "#476788",
+          "count": 2
+        },
+        {
+          "value": "#ffa600",
+          "count": 1
+        },
+        {
+          "value": "#bb32d5",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#006bff",
+          "count": 9
+        },
+        {
+          "value": "#e7edf6",
+          "count": 8
+        },
+        {
+          "value": "#0b3558",
+          "count": 2
+        },
+        {
+          "value": "#f8f9fb",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

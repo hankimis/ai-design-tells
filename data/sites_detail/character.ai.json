@@ -1,0 +1,584 @@
+{
+  "url": "https://character.ai",
+  "name": "character.ai",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "채팅에 가입하기",
+          "bg": "#202024",
+          "bg_alpha": 1,
+          "color": "#fafafa",
+          "border": "none",
+          "radius": "30px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "atHauss",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Google(으)로 계속",
+          "bg": "#131316",
+          "bg_alpha": 1,
+          "color": "#fafafa",
+          "border": "none",
+          "radius": "12px",
+          "padding": "0px 16px 0px 16px",
+          "height": 50,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "atHauss",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s",
+          "_n": 2
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "로그인",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#202024",
+          "border": "1px solid #d9d9df",
+          "radius": "30px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "atHauss",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s",
+          "_n": 1
+        },
+        {
+          "role": "secondary",
+          "text": "이메일로 계속",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#202024",
+          "border": "1px solid #6b7280",
+          "radius": "12px",
+          "padding": "0px 16px 0px 16px",
+          "height": 50,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "atHauss",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s",
+          "_n": 1
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "?",
+          "bg": "#e4e4e7",
+          "bg_alpha": 1,
+          "color": "#202024",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "8px 8px 8px 8px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "atHauss",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 5,
+        "font_size": "36px",
+        "font_size_px": 36,
+        "font_weight": "600",
+        "line_height": "40px",
+        "line_height_ratio": 1.11,
+        "letter_spacing": "-0.72px",
+        "font_family": "atHauss",
+        "color": "#26272b",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 1,
+        "font_size": "18px",
+        "font_size_px": 18,
+        "font_weight": "400",
+        "line_height": "27px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "atHauss",
+        "color": "#1f2937"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1440,
+          "count": 1
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 5
+        },
+        {
+          "value": 12,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 33,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 28
+        },
+        {
+          "value": 16,
+          "count": 18
+        },
+        {
+          "value": 20,
+          "count": 4
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        },
+        {
+          "value": 14,
+          "count": 1
+        },
+        {
+          "value": 22,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 12,
+          "count": 3
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 32,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#f4f4f5",
+      "backgrounds": [
+        {
+          "value": "#f4f4f5",
+          "count": 2
+        },
+        {
+          "value": "#131316",
+          "count": 2
+        },
+        {
+          "value": "#ffffff",
+          "count": 1
+        },
+        {
+          "value": "#202024",
+          "count": 1
+        },
+        {
+          "value": "#fafafa",
+          "count": 1
+        },
+        {
+          "value": "#e4e4e7",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#26272b",
+          "count": 33
+        },
+        {
+          "value": "#585962",
+          "count": 17
+        },
+        {
+          "value": "#fafafa",
+          "count": 14
+        },
+        {
+          "value": "#202024",
+          "count": 6
+        },
+        {
+          "value": "#6b7280",
+          "count": 2
+        },
+        {
+          "value": "#11181c",
+          "count": 1
+        },
+        {
+          "value": "#1f2937",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#d9d9df",
+          "count": 1
+        },
+        {
+          "value": "#6b7280",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "title": "character.ai | AI 채팅의 진화 - 말하는 대로, 펼쳐지는 세상.",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "채팅에 가입하기",
+          "bg": "#fafafa",
+          "bg_alpha": 1,
+          "color": "#131316",
+          "border": "none",
+          "radius": "30px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "atHauss",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Google(으)로 계속",
+          "bg": "#f4f4f5",
+          "bg_alpha": 1,
+          "color": "#131316",
+          "border": "none",
+          "radius": "12px",
+          "padding": "0px 16px 0px 16px",
+          "height": 50,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "atHauss",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "이메일로 계속",
+          "bg": "#26272b",
+          "bg_alpha": 1,
+          "color": "#fafafa",
+          "border": "1px solid #6b7280",
+          "radius": "12px",
+          "padding": "0px 16px 0px 16px",
+          "height": 50,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "atHauss",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "?",
+          "bg": "#26272b",
+          "bg_alpha": 1,
+          "color": "#fafafa",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "8px 8px 8px 8px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "atHauss",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "로그인",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#fafafa",
+          "border": "1px solid #303136",
+          "radius": "30px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "atHauss",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s",
+          "_n": 1
+        }
+      ],
+      "ghost": []
+    },
+    "typography": {
+      "h1": {
+        "count": 5,
+        "font_size": "36px",
+        "font_size_px": 36,
+        "font_weight": "600",
+        "line_height": "40px",
+        "line_height_ratio": 1.11,
+        "letter_spacing": "-0.72px",
+        "font_family": "atHauss",
+        "color": "#fafafa",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 1,
+        "font_size": "18px",
+        "font_size_px": 18,
+        "font_weight": "400",
+        "line_height": "27px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "atHauss",
+        "color": "#ffffff"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1440,
+          "count": 1
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 5
+        },
+        {
+          "value": 12,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 33,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 28
+        },
+        {
+          "value": 16,
+          "count": 18
+        },
+        {
+          "value": 20,
+          "count": 4
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        },
+        {
+          "value": 14,
+          "count": 1
+        },
+        {
+          "value": 22,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 12,
+          "count": 3
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 32,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#18181b",
+      "backgrounds": [
+        {
+          "value": "#18181b",
+          "count": 4
+        },
+        {
+          "value": "#26272b",
+          "count": 3
+        },
+        {
+          "value": "#f4f4f5",
+          "count": 2
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        },
+        {
+          "value": "#fafafa",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#fafafa",
+          "count": 38
+        },
+        {
+          "value": "#a2a2ac",
+          "count": 17
+        },
+        {
+          "value": "#131316",
+          "count": 14
+        },
+        {
+          "value": "#6b7280",
+          "count": 2
+        },
+        {
+          "value": "#ecedee",
+          "count": 1
+        },
+        {
+          "value": "#ffffff",
+          "count": 1
+        },
+        {
+          "value": "#9ca3af",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#303136",
+          "count": 1
+        },
+        {
+          "value": "#6b7280",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": true,
+  "ok": true
+}

@@ -1,0 +1,1031 @@
+{
+  "url": "https://about.gitlab.com",
+  "name": "about.gitlab.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Talk to sales",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#171321",
+          "border": "none",
+          "radius": "4px",
+          "padding": "11px 16px 11px 16px",
+          "height": 45,
+          "font_size": "18px",
+          "font_weight": "660",
+          "font_family": "GitLab Sans",
+          "letter_spacing": "normal",
+          "line_height": "22.5px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Get free trial",
+          "bg": "#171321",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #171321",
+          "radius": "4px",
+          "padding": "11px 16px 11px 16px",
+          "height": 47,
+          "font_size": "18px",
+          "font_weight": "660",
+          "font_family": "GitLab Sans",
+          "letter_spacing": "normal",
+          "line_height": "22.5px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 4
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#171321",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "999px",
+          "padding": "0px 0px 0px 0px",
+          "height": 9,
+          "font_size": "13.3333px",
+          "font_weight": "400",
+          "font_family": "GitLab Sans",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 0.15,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "50%",
+          "padding": "8px 8px 8px 8px",
+          "height": 32,
+          "font_size": "0px",
+          "font_weight": "660",
+          "font_family": "GitLab Sans",
+          "letter_spacing": "normal",
+          "line_height": "0px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 2
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Meet GitLab Duo Agent Platfo",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#171321",
+          "border": "1px solid #171321",
+          "radius": "4px",
+          "padding": "11px 16px 11px 16px",
+          "height": 44,
+          "font_size": "18px",
+          "font_weight": "660",
+          "font_family": "GitLab Sans",
+          "letter_spacing": "normal",
+          "line_height": "22.5px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 3
+        },
+        {
+          "role": "secondary",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "1px solid #d1d0d3",
+          "radius": "50%",
+          "padding": "8px 8px 8px 8px",
+          "height": 34,
+          "font_size": "0px",
+          "font_weight": "660",
+          "font_family": "GitLab Sans",
+          "letter_spacing": "normal",
+          "line_height": "0px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 2
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#0000ee",
+          "border": "none",
+          "radius": "4px",
+          "padding": "8px 8px 8px 8px",
+          "height": 50,
+          "font_size": "0px",
+          "font_weight": "660",
+          "font_family": "GitLab Sans",
+          "letter_spacing": "normal",
+          "line_height": "0px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Platform",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#74717a",
+          "border": "none",
+          "radius": "4px",
+          "padding": "0px 0px 0px 0px",
+          "height": 24,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "GitLab Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 6
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#74717a",
+          "border": "none",
+          "radius": "4px",
+          "padding": "8px 0px 8px 8px",
+          "height": 32,
+          "font_size": "0px",
+          "font_weight": "660",
+          "font_family": "GitLab Sans",
+          "letter_spacing": "normal",
+          "line_height": "0px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "96px",
+        "font_size_px": 96,
+        "font_weight": "660",
+        "line_height": "100px",
+        "line_height_ratio": 1.04,
+        "letter_spacing": "-2.88px",
+        "font_family": "GitLab Sans",
+        "color": "#171321",
+        "text_transform": "none",
+        "margin_bottom": "24px"
+      },
+      "h2": {
+        "count": 8,
+        "font_size": "96px",
+        "font_size_px": 96,
+        "font_weight": "660",
+        "line_height": "100px",
+        "line_height_ratio": 1.04,
+        "letter_spacing": "-2.88px",
+        "font_family": "GitLab Sans",
+        "color": "#171321",
+        "text_transform": "none",
+        "margin_bottom": "24px"
+      },
+      "h3": {
+        "count": 17,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "660",
+        "line_height": "42px",
+        "line_height_ratio": 1.05,
+        "letter_spacing": "-0.8px",
+        "font_family": "GitLab Sans",
+        "color": "#171321",
+        "text_transform": "none",
+        "margin_bottom": "24px"
+      },
+      "body": {
+        "count": 25,
+        "font_size": "18px",
+        "font_size_px": 18,
+        "font_weight": "400",
+        "line_height": "28px",
+        "line_height_ratio": 1.56,
+        "letter_spacing": "normal",
+        "font_family": "GitLab Sans",
+        "color": "#74717a"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1170,
+          "count": 9
+        },
+        {
+          "value": 1240,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 1
+        },
+        {
+          "value": 3,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 12
+        },
+        {
+          "value": 24,
+          "count": 4
+        },
+        {
+          "value": 64,
+          "count": 4
+        },
+        {
+          "value": 16,
+          "count": 3
+        },
+        {
+          "value": 32,
+          "count": 2
+        },
+        {
+          "value": 15,
+          "count": 1
+        },
+        {
+          "value": 30,
+          "count": 1
+        },
+        {
+          "value": 80,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 96,
+          "count": 3
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 132,
+          "count": 1
+        },
+        {
+          "value": 160,
+          "count": 1
+        },
+        {
+          "value": 165,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 133,
+      "grid_blocks": 2
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 32,
+          "count": 69
+        },
+        {
+          "value": 11,
+          "count": 33
+        },
+        {
+          "value": 16,
+          "count": 31
+        },
+        {
+          "value": 8,
+          "count": 30
+        },
+        {
+          "value": 12,
+          "count": 28
+        },
+        {
+          "value": 24,
+          "count": 27
+        },
+        {
+          "value": 48,
+          "count": 15
+        },
+        {
+          "value": 10,
+          "count": 4
+        },
+        {
+          "value": 96,
+          "count": 4
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 64,
+          "count": 2
+        },
+        {
+          "value": 100,
+          "count": 2
+        },
+        {
+          "value": 160,
+          "count": 2
+        },
+        {
+          "value": 28.8,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 66
+        },
+        {
+          "value": 24,
+          "count": 19
+        },
+        {
+          "value": 16,
+          "count": 13
+        },
+        {
+          "value": 32,
+          "count": 5
+        },
+        {
+          "value": 10,
+          "count": 2
+        },
+        {
+          "value": 48,
+          "count": 2
+        },
+        {
+          "value": 13.01,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 1
+        },
+        {
+          "value": 64,
+          "count": 1
+        },
+        {
+          "value": 96,
+          "count": 1
+        },
+        {
+          "value": 120,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ebeaec",
+      "backgrounds": [
+        {
+          "value": "#1f1c2e",
+          "count": 17
+        },
+        {
+          "value": "#171321",
+          "count": 11
+        },
+        {
+          "value": "#ffffff",
+          "count": 7
+        },
+        {
+          "value": "#74717a",
+          "count": 4
+        },
+        {
+          "value": "#060a0f",
+          "count": 1
+        },
+        {
+          "value": "#ebeaec",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#ffffff",
+          "count": 286
+        },
+        {
+          "value": "#171321",
+          "count": 199
+        },
+        {
+          "value": "#7759c2",
+          "count": 51
+        },
+        {
+          "value": "#74717a",
+          "count": 45
+        },
+        {
+          "value": "#fc6d26",
+          "count": 24
+        },
+        {
+          "value": "#000000",
+          "count": 12
+        },
+        {
+          "value": "#0000ee",
+          "count": 6
+        },
+        {
+          "value": "#d1d0d3",
+          "count": 3
+        }
+      ],
+      "borders": [
+        {
+          "value": "#171321",
+          "count": 8
+        },
+        {
+          "value": "#d1d0d3",
+          "count": 2
+        },
+        {
+          "value": "#7759c2",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#171321",
+          "count": 9
+        }
+      ]
+    }
+  },
+  "title": "Finally, AI for the entire software lifecycle.",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Talk to sales",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#171321",
+          "border": "none",
+          "radius": "4px",
+          "padding": "11px 16px 11px 16px",
+          "height": 45,
+          "font_size": "18px",
+          "font_weight": "660",
+          "font_family": "GitLab Sans",
+          "letter_spacing": "normal",
+          "line_height": "22.5px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Get free trial",
+          "bg": "#171321",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #171321",
+          "radius": "4px",
+          "padding": "11px 16px 11px 16px",
+          "height": 47,
+          "font_size": "18px",
+          "font_weight": "660",
+          "font_family": "GitLab Sans",
+          "letter_spacing": "normal",
+          "line_height": "22.5px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 4
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#171321",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "999px",
+          "padding": "0px 0px 0px 0px",
+          "height": 9,
+          "font_size": "13.3333px",
+          "font_weight": "400",
+          "font_family": "GitLab Sans",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 0.15,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "50%",
+          "padding": "8px 8px 8px 8px",
+          "height": 32,
+          "font_size": "0px",
+          "font_weight": "660",
+          "font_family": "GitLab Sans",
+          "letter_spacing": "normal",
+          "line_height": "0px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 2
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Meet GitLab Duo Agent Platfo",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#171321",
+          "border": "1px solid #171321",
+          "radius": "4px",
+          "padding": "11px 16px 11px 16px",
+          "height": 44,
+          "font_size": "18px",
+          "font_weight": "660",
+          "font_family": "GitLab Sans",
+          "letter_spacing": "normal",
+          "line_height": "22.5px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 3
+        },
+        {
+          "role": "secondary",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "1px solid #d1d0d3",
+          "radius": "50%",
+          "padding": "8px 8px 8px 8px",
+          "height": 34,
+          "font_size": "0px",
+          "font_weight": "660",
+          "font_family": "GitLab Sans",
+          "letter_spacing": "normal",
+          "line_height": "0px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 2
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#0000ee",
+          "border": "none",
+          "radius": "4px",
+          "padding": "8px 8px 8px 8px",
+          "height": 50,
+          "font_size": "0px",
+          "font_weight": "660",
+          "font_family": "GitLab Sans",
+          "letter_spacing": "normal",
+          "line_height": "0px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Platform",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#74717a",
+          "border": "none",
+          "radius": "4px",
+          "padding": "0px 0px 0px 0px",
+          "height": 24,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "GitLab Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 6
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#74717a",
+          "border": "none",
+          "radius": "4px",
+          "padding": "8px 0px 8px 8px",
+          "height": 32,
+          "font_size": "0px",
+          "font_weight": "660",
+          "font_family": "GitLab Sans",
+          "letter_spacing": "normal",
+          "line_height": "0px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "96px",
+        "font_size_px": 96,
+        "font_weight": "660",
+        "line_height": "100px",
+        "line_height_ratio": 1.04,
+        "letter_spacing": "-2.88px",
+        "font_family": "GitLab Sans",
+        "color": "#171321",
+        "text_transform": "none",
+        "margin_bottom": "24px"
+      },
+      "h2": {
+        "count": 8,
+        "font_size": "96px",
+        "font_size_px": 96,
+        "font_weight": "660",
+        "line_height": "100px",
+        "line_height_ratio": 1.04,
+        "letter_spacing": "-2.88px",
+        "font_family": "GitLab Sans",
+        "color": "#171321",
+        "text_transform": "none",
+        "margin_bottom": "24px"
+      },
+      "h3": {
+        "count": 17,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "660",
+        "line_height": "42px",
+        "line_height_ratio": 1.05,
+        "letter_spacing": "-0.8px",
+        "font_family": "GitLab Sans",
+        "color": "#171321",
+        "text_transform": "none",
+        "margin_bottom": "24px"
+      },
+      "body": {
+        "count": 25,
+        "font_size": "18px",
+        "font_size_px": 18,
+        "font_weight": "400",
+        "line_height": "28px",
+        "line_height_ratio": 1.56,
+        "letter_spacing": "normal",
+        "font_family": "GitLab Sans",
+        "color": "#74717a"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1170,
+          "count": 9
+        },
+        {
+          "value": 1240,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 1
+        },
+        {
+          "value": 3,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 12
+        },
+        {
+          "value": 24,
+          "count": 4
+        },
+        {
+          "value": 64,
+          "count": 4
+        },
+        {
+          "value": 16,
+          "count": 3
+        },
+        {
+          "value": 32,
+          "count": 2
+        },
+        {
+          "value": 15,
+          "count": 1
+        },
+        {
+          "value": 30,
+          "count": 1
+        },
+        {
+          "value": 80,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 96,
+          "count": 3
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 132,
+          "count": 1
+        },
+        {
+          "value": 160,
+          "count": 1
+        },
+        {
+          "value": 165,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 133,
+      "grid_blocks": 2
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 32,
+          "count": 69
+        },
+        {
+          "value": 11,
+          "count": 33
+        },
+        {
+          "value": 16,
+          "count": 31
+        },
+        {
+          "value": 8,
+          "count": 30
+        },
+        {
+          "value": 12,
+          "count": 28
+        },
+        {
+          "value": 24,
+          "count": 27
+        },
+        {
+          "value": 48,
+          "count": 15
+        },
+        {
+          "value": 10,
+          "count": 4
+        },
+        {
+          "value": 96,
+          "count": 4
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 64,
+          "count": 2
+        },
+        {
+          "value": 100,
+          "count": 2
+        },
+        {
+          "value": 160,
+          "count": 2
+        },
+        {
+          "value": 28.8,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 66
+        },
+        {
+          "value": 24,
+          "count": 19
+        },
+        {
+          "value": 16,
+          "count": 13
+        },
+        {
+          "value": 32,
+          "count": 5
+        },
+        {
+          "value": 10,
+          "count": 2
+        },
+        {
+          "value": 48,
+          "count": 2
+        },
+        {
+          "value": 13.01,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 1
+        },
+        {
+          "value": 64,
+          "count": 1
+        },
+        {
+          "value": 96,
+          "count": 1
+        },
+        {
+          "value": 120,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ebeaec",
+      "backgrounds": [
+        {
+          "value": "#1f1c2e",
+          "count": 17
+        },
+        {
+          "value": "#171321",
+          "count": 11
+        },
+        {
+          "value": "#ffffff",
+          "count": 7
+        },
+        {
+          "value": "#74717a",
+          "count": 4
+        },
+        {
+          "value": "#060a0f",
+          "count": 1
+        },
+        {
+          "value": "#ebeaec",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#ffffff",
+          "count": 286
+        },
+        {
+          "value": "#171321",
+          "count": 199
+        },
+        {
+          "value": "#7759c2",
+          "count": 51
+        },
+        {
+          "value": "#74717a",
+          "count": 45
+        },
+        {
+          "value": "#fc6d26",
+          "count": 24
+        },
+        {
+          "value": "#000000",
+          "count": 12
+        },
+        {
+          "value": "#0000ee",
+          "count": 6
+        },
+        {
+          "value": "#d1d0d3",
+          "count": 3
+        }
+      ],
+      "borders": [
+        {
+          "value": "#171321",
+          "count": 8
+        },
+        {
+          "value": "#d1d0d3",
+          "count": 2
+        },
+        {
+          "value": "#7759c2",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#171321",
+          "count": 9
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

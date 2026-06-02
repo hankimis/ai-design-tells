@@ -1,0 +1,262 @@
+{
+  "url": "https://www.doordash.com",
+  "name": "www.doordash.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "600",
+        "line_height": "50px",
+        "line_height_ratio": 1.25,
+        "letter_spacing": "normal",
+        "font_family": "system-ui",
+        "color": "#313131",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 1,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "600",
+        "line_height": "30px",
+        "line_height_ratio": 1.25,
+        "letter_spacing": "normal",
+        "font_family": "system-ui",
+        "color": "#313131",
+        "text_transform": "none",
+        "margin_bottom": "8px"
+      },
+      "body": {
+        "count": 1,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "system-ui",
+        "color": "#313131"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 960,
+          "count": 2
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 1
+        },
+        {
+          "value": 16,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 5,
+      "grid_blocks": 1
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 32,
+          "count": 4
+        },
+        {
+          "value": 16,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 128,
+          "count": 2
+        },
+        {
+          "value": 32,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": null,
+      "backgrounds": [],
+      "text": [
+        {
+          "value": "#313131",
+          "count": 20
+        },
+        {
+          "value": "#0000ee",
+          "count": 2
+        }
+      ],
+      "borders": [
+        {
+          "value": "#d9d9d9",
+          "count": 2
+        }
+      ],
+      "accents": []
+    }
+  },
+  "title": "잠시만 기다리십시오…",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "600",
+        "line_height": "50px",
+        "line_height_ratio": 1.25,
+        "letter_spacing": "normal",
+        "font_family": "system-ui",
+        "color": "#f2f2f2",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 1,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "600",
+        "line_height": "30px",
+        "line_height_ratio": 1.25,
+        "letter_spacing": "normal",
+        "font_family": "system-ui",
+        "color": "#f2f2f2",
+        "text_transform": "none",
+        "margin_bottom": "8px"
+      },
+      "body": {
+        "count": 1,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "system-ui",
+        "color": "#b6b6b6"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 960,
+          "count": 2
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 1
+        },
+        {
+          "value": 16,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 5,
+      "grid_blocks": 1
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 32,
+          "count": 4
+        },
+        {
+          "value": 16,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 128,
+          "count": 2
+        },
+        {
+          "value": 32,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#000000",
+      "backgrounds": [
+        {
+          "value": "#000000",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#f2f2f2",
+          "count": 18
+        },
+        {
+          "value": "#82b6ff",
+          "count": 2
+        },
+        {
+          "value": "#313131",
+          "count": 1
+        },
+        {
+          "value": "#b6b6b6",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#f2f2f2",
+          "count": 2
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": true,
+  "ok": true
+}

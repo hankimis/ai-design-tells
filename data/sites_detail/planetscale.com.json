@@ -1,0 +1,623 @@
+{
+  "url": "https://planetscale.com",
+  "name": "planetscale.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Get in touch",
+          "bg": "#f35815",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 8px 0px 8px",
+          "height": 32,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "ui-monospace",
+          "letter_spacing": "normal",
+          "line_height": "16px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Vitess",
+          "bg": "#111111",
+          "bg_alpha": 1,
+          "color": "#fafafa",
+          "border": "none",
+          "radius": "0px",
+          "padding": "16px 0px 16px 0px",
+          "height": 56,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "ui-monospace",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Platform▾",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#414141",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 24,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "ui-monospace",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "Postgres",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#414141",
+          "border": "none",
+          "radius": "0px",
+          "padding": "16px 0px 16px 0px",
+          "height": 56,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "ui-monospace",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "700",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "ui-monospace",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "24px"
+      },
+      "h2": {
+        "count": 10,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "700",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "ui-monospace",
+        "color": "#414141",
+        "text_transform": "none",
+        "margin_bottom": "24px"
+      },
+      "body": {
+        "count": 23,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "ui-monospace",
+        "color": "#414141"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1280,
+          "count": 2
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 5,
+          "count": 2
+        },
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 3,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 24,
+          "count": 5
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        },
+        {
+          "value": 12,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 24,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 47,
+      "grid_blocks": 4
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 24,
+          "count": 32
+        },
+        {
+          "value": 9.63,
+          "count": 20
+        },
+        {
+          "value": 16,
+          "count": 15
+        },
+        {
+          "value": 12,
+          "count": 6
+        },
+        {
+          "value": 8,
+          "count": 4
+        },
+        {
+          "value": 40,
+          "count": 4
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 96,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 24,
+          "count": 39
+        },
+        {
+          "value": 8,
+          "count": 22
+        },
+        {
+          "value": 16,
+          "count": 4
+        },
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 80,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#fafafa",
+      "backgrounds": [
+        {
+          "value": "#fafafa",
+          "count": 3
+        },
+        {
+          "value": "#111111",
+          "count": 2
+        },
+        {
+          "value": "#f2b600",
+          "count": 1
+        },
+        {
+          "value": "#f35815",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#414141",
+          "count": 234
+        },
+        {
+          "value": "#0b6ec5",
+          "count": 50
+        },
+        {
+          "value": "#c1c1c1",
+          "count": 15
+        },
+        {
+          "value": "#737373",
+          "count": 9
+        },
+        {
+          "value": "#ffffff",
+          "count": 7
+        },
+        {
+          "value": "#000000",
+          "count": 7
+        },
+        {
+          "value": "#111111",
+          "count": 1
+        },
+        {
+          "value": "#fafafa",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#414141",
+          "count": 37
+        }
+      ],
+      "accents": [
+        {
+          "value": "#f2b600",
+          "count": 1
+        },
+        {
+          "value": "#f35815",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "PlanetScale - the world’s fastest and most scalable cloud hosting for Vitess and Postgres",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Get in touch",
+          "bg": "#f35815",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 8px 0px 8px",
+          "height": 32,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "ui-monospace",
+          "letter_spacing": "normal",
+          "line_height": "16px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Vitess",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#111111",
+          "border": "none",
+          "radius": "0px",
+          "padding": "16px 0px 16px 0px",
+          "height": 56,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "ui-monospace",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Platform▾",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#e1e1e1",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 24,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "ui-monospace",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "Postgres",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#e1e1e1",
+          "border": "none",
+          "radius": "0px",
+          "padding": "16px 0px 16px 0px",
+          "height": 56,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "ui-monospace",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "700",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "ui-monospace",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "24px"
+      },
+      "h2": {
+        "count": 10,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "700",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "ui-monospace",
+        "color": "#e1e1e1",
+        "text_transform": "none",
+        "margin_bottom": "24px"
+      },
+      "body": {
+        "count": 23,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "ui-monospace",
+        "color": "#e1e1e1"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1280,
+          "count": 2
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 5,
+          "count": 2
+        },
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 3,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 24,
+          "count": 5
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        },
+        {
+          "value": 12,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 24,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 47,
+      "grid_blocks": 4
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 24,
+          "count": 32
+        },
+        {
+          "value": 9.63,
+          "count": 20
+        },
+        {
+          "value": 16,
+          "count": 15
+        },
+        {
+          "value": 12,
+          "count": 6
+        },
+        {
+          "value": 8,
+          "count": 4
+        },
+        {
+          "value": 40,
+          "count": 4
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 96,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 24,
+          "count": 39
+        },
+        {
+          "value": 8,
+          "count": 22
+        },
+        {
+          "value": 16,
+          "count": 4
+        },
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 80,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#111111",
+      "backgrounds": [
+        {
+          "value": "#111111",
+          "count": 3
+        },
+        {
+          "value": "#fafafa",
+          "count": 1
+        },
+        {
+          "value": "#f2b600",
+          "count": 1
+        },
+        {
+          "value": "#f35815",
+          "count": 1
+        },
+        {
+          "value": "#ffffff",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#e1e1e1",
+          "count": 234
+        },
+        {
+          "value": "#47b7f8",
+          "count": 50
+        },
+        {
+          "value": "#414141",
+          "count": 15
+        },
+        {
+          "value": "#a1a1a1",
+          "count": 9
+        },
+        {
+          "value": "#111111",
+          "count": 8
+        },
+        {
+          "value": "#ffffff",
+          "count": 8
+        }
+      ],
+      "borders": [
+        {
+          "value": "#c1c1c1",
+          "count": 37
+        }
+      ],
+      "accents": [
+        {
+          "value": "#f2b600",
+          "count": 1
+        },
+        {
+          "value": "#f35815",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": true,
+  "ok": true
+}

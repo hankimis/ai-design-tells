@@ -1,0 +1,307 @@
+{
+  "url": "https://www.deel.com",
+  "name": "www.deel.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "60px",
+        "font_size_px": 60,
+        "font_weight": "500",
+        "line_height": "60px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-0.3px",
+        "font_family": "BagossCondensedFont",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "16px"
+      },
+      "h2": {
+        "count": 4,
+        "font_size": "44px",
+        "font_size_px": 44,
+        "font_weight": "500",
+        "line_height": "46.2px",
+        "line_height_ratio": 1.05,
+        "letter_spacing": "-0.22px",
+        "font_family": "BagossCondensedFont",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 17,
+        "font_size": "44px",
+        "font_size_px": 44,
+        "font_weight": "500",
+        "line_height": "46.2px",
+        "line_height_ratio": 1.05,
+        "letter_spacing": "-0.22px",
+        "font_family": "BagossCondensedFont",
+        "color": "#1b1b1b",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 125,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "560",
+        "line_height": "23.8px",
+        "line_height_ratio": 1.7,
+        "letter_spacing": "normal",
+        "font_family": "Inter",
+        "color": "#faf4ee"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1440,
+          "count": 1
+        },
+        {
+          "value": 1600,
+          "count": 1
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 24,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 12,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 5.25,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 4
+        },
+        {
+          "value": 6,
+          "count": 2
+        },
+        {
+          "value": 12,
+          "count": 2
+        },
+        {
+          "value": 15.75,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 14,
+          "count": 1
+        },
+        {
+          "value": 21,
+          "count": 1
+        },
+        {
+          "value": 28,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#1b1b1b",
+          "count": 40
+        },
+        {
+          "value": "#000000",
+          "count": 2
+        },
+        {
+          "value": "#141414",
+          "count": 1
+        }
+      ],
+      "borders": [],
+      "accents": []
+    }
+  },
+  "title": "Deel | Global Payroll, Compliance, HR Solutions | HRIS",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "60px",
+        "font_size_px": 60,
+        "font_weight": "500",
+        "line_height": "60px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-0.3px",
+        "font_family": "BagossCondensedFont",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "16px"
+      },
+      "h2": {
+        "count": 4,
+        "font_size": "44px",
+        "font_size_px": 44,
+        "font_weight": "500",
+        "line_height": "46.2px",
+        "line_height_ratio": 1.05,
+        "letter_spacing": "-0.22px",
+        "font_family": "BagossCondensedFont",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 17,
+        "font_size": "44px",
+        "font_size_px": 44,
+        "font_weight": "500",
+        "line_height": "46.2px",
+        "line_height_ratio": 1.05,
+        "letter_spacing": "-0.22px",
+        "font_family": "BagossCondensedFont",
+        "color": "#1b1b1b",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 125,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "560",
+        "line_height": "23.8px",
+        "line_height_ratio": 1.7,
+        "letter_spacing": "normal",
+        "font_family": "Inter",
+        "color": "#faf4ee"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1440,
+          "count": 1
+        },
+        {
+          "value": 1600,
+          "count": 1
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 24,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 12,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 5.25,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 4
+        },
+        {
+          "value": 6,
+          "count": 2
+        },
+        {
+          "value": 12,
+          "count": 2
+        },
+        {
+          "value": 15.75,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 14,
+          "count": 1
+        },
+        {
+          "value": 21,
+          "count": 1
+        },
+        {
+          "value": 28,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#1b1b1b",
+          "count": 40
+        },
+        {
+          "value": "#000000",
+          "count": 2
+        },
+        {
+          "value": "#141414",
+          "count": 1
+        }
+      ],
+      "borders": [],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

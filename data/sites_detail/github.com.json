@@ -1,0 +1,989 @@
+{
+  "url": "https://github.com",
+  "name": "github.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Sign up for GitHub",
+          "bg": "#08872b",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "6px",
+          "padding": "6px 28px 6px 28px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Mona Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.48s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Try GitHub Copilot",
+          "bg": "#1f2328",
+          "bg_alpha": 0.4,
+          "color": "#8dd6ff",
+          "border": "2px solid #ffffff",
+          "radius": "8px",
+          "padding": "6px 28px 6px 28px",
+          "height": 56,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Mona Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.48s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#090d0a",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #191f1b",
+          "radius": "48px",
+          "padding": "0px 0px 0px 0px",
+          "height": 32,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Mona Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Sign up",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "1px solid #d1d9e0",
+          "radius": "6px",
+          "padding": "4px 12px 4px 12px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Mona Sans VF",
+          "letter_spacing": "normal",
+          "line_height": "14px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.5s",
+          "_n": 1
+        },
+        {
+          "role": "secondary",
+          "text": "Subscribe",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#f0f6fc",
+          "border": "1px solid #ffffff",
+          "radius": "6px",
+          "padding": "16px 24px 16px 24px",
+          "height": 50,
+          "font_size": "16px",
+          "font_weight": "700",
+          "font_family": "Mona Sans VF",
+          "letter_spacing": "normal",
+          "line_height": "16px",
+          "text_transform": "none",
+          "shadow": "rgba(255, 255, 255, 0) 0px 0px 0px 1px inset",
+          "transition": "0.2s, 0.2s, 0.2s",
+          "_n": 1
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Platform",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "8px 8px 8px 8px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Mona Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 5
+        },
+        {
+          "role": "ghost",
+          "text": "Search or jump to...",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "6px",
+          "padding": "0px 0px 0px 8px",
+          "height": 30,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Mona Sans VF",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.08s, 0.08s, 0.08s, 0.08s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Sign in",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "6px",
+          "padding": "4px 12px 4px 12px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Mona Sans VF",
+          "letter_spacing": "normal",
+          "line_height": "14px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.5s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "64px",
+        "font_size_px": 64,
+        "font_weight": "425",
+        "line_height": "69.12px",
+        "line_height_ratio": 1.08,
+        "letter_spacing": "-2.24px",
+        "font_family": "Mona Sans",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 16,
+        "font_size": "22px",
+        "font_size_px": 22,
+        "font_weight": "600",
+        "line_height": "30.8px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "normal",
+        "font_family": "Mona Sans",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 22,
+        "font_size": "18px",
+        "font_size_px": 18,
+        "font_weight": "400",
+        "line_height": "27px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "0.18px",
+        "font_family": "Mona Sans",
+        "color": "#ffffff"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1280,
+          "count": 23
+        },
+        {
+          "value": 980,
+          "count": 1
+        },
+        {
+          "value": 1246,
+          "count": 1
+        },
+        {
+          "value": 1440,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 10
+        },
+        {
+          "value": 12,
+          "count": 9
+        },
+        {
+          "value": 3,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 14
+        },
+        {
+          "value": 12,
+          "count": 11
+        },
+        {
+          "value": 16,
+          "count": 8
+        },
+        {
+          "value": 24,
+          "count": 6
+        },
+        {
+          "value": 44,
+          "count": 3
+        },
+        {
+          "value": 96,
+          "count": 3
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 28,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 384,
+          "count": 3
+        },
+        {
+          "value": 32,
+          "count": 2
+        },
+        {
+          "value": 80,
+          "count": 1
+        },
+        {
+          "value": 96,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 127,
+      "grid_blocks": 20
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 60
+        },
+        {
+          "value": 24,
+          "count": 28
+        },
+        {
+          "value": 16,
+          "count": 27
+        },
+        {
+          "value": 48,
+          "count": 24
+        },
+        {
+          "value": 2.4,
+          "count": 18
+        },
+        {
+          "value": 4,
+          "count": 14
+        },
+        {
+          "value": 20,
+          "count": 12
+        },
+        {
+          "value": 64,
+          "count": 9
+        },
+        {
+          "value": 3,
+          "count": 8
+        },
+        {
+          "value": 6,
+          "count": 8
+        },
+        {
+          "value": 28,
+          "count": 8
+        },
+        {
+          "value": 12,
+          "count": 7
+        },
+        {
+          "value": 40,
+          "count": 7
+        },
+        {
+          "value": 32,
+          "count": 6
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 40
+        },
+        {
+          "value": 24,
+          "count": 13
+        },
+        {
+          "value": 4,
+          "count": 10
+        },
+        {
+          "value": 8,
+          "count": 4
+        },
+        {
+          "value": 12,
+          "count": 3
+        },
+        {
+          "value": 32,
+          "count": 3
+        },
+        {
+          "value": 20,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#0d1117",
+      "backgrounds": [
+        {
+          "value": "#000000",
+          "count": 12
+        },
+        {
+          "value": "#0d1117",
+          "count": 9
+        },
+        {
+          "value": "#08872b",
+          "count": 2
+        },
+        {
+          "value": "#2e374a",
+          "count": 1
+        },
+        {
+          "value": "#151a22",
+          "count": 1
+        },
+        {
+          "value": "#090d0a",
+          "count": 1
+        },
+        {
+          "value": "#151b23",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#f0f6fc",
+          "count": 439
+        },
+        {
+          "value": "#ffffff",
+          "count": 164
+        },
+        {
+          "value": "#8dd6ff",
+          "count": 114
+        },
+        {
+          "value": "#9198a1",
+          "count": 97
+        },
+        {
+          "value": "#a4aea6",
+          "count": 48
+        },
+        {
+          "value": "#59636e",
+          "count": 3
+        },
+        {
+          "value": "#24292f",
+          "count": 2
+        },
+        {
+          "value": "#000000",
+          "count": 2
+        }
+      ],
+      "borders": [
+        {
+          "value": "#ffffff",
+          "count": 7
+        },
+        {
+          "value": "#484f58",
+          "count": 2
+        },
+        {
+          "value": "#818b98",
+          "count": 1
+        },
+        {
+          "value": "#d1d9e0",
+          "count": 1
+        },
+        {
+          "value": "#8c93fb",
+          "count": 1
+        },
+        {
+          "value": "#191f1b",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#08872b",
+          "count": 2
+        },
+        {
+          "value": "#0d1117",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Sign up for GitHub",
+          "bg": "#08872b",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "6px",
+          "padding": "6px 28px 6px 28px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Mona Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.48s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Try GitHub Copilot",
+          "bg": "#1f2328",
+          "bg_alpha": 0.4,
+          "color": "#8dd6ff",
+          "border": "2px solid #ffffff",
+          "radius": "8px",
+          "padding": "6px 28px 6px 28px",
+          "height": 56,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Mona Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.48s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#090d0a",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #191f1b",
+          "radius": "48px",
+          "padding": "0px 0px 0px 0px",
+          "height": 32,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Mona Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Sign up",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "1px solid #d1d9e0",
+          "radius": "6px",
+          "padding": "4px 12px 4px 12px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Mona Sans VF",
+          "letter_spacing": "normal",
+          "line_height": "14px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.5s",
+          "_n": 1
+        },
+        {
+          "role": "secondary",
+          "text": "Subscribe",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#f0f6fc",
+          "border": "1px solid #ffffff",
+          "radius": "6px",
+          "padding": "16px 24px 16px 24px",
+          "height": 50,
+          "font_size": "16px",
+          "font_weight": "700",
+          "font_family": "Mona Sans VF",
+          "letter_spacing": "normal",
+          "line_height": "16px",
+          "text_transform": "none",
+          "shadow": "rgba(255, 255, 255, 0) 0px 0px 0px 1px inset",
+          "transition": "0.2s, 0.2s, 0.2s",
+          "_n": 1
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Platform",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "8px 8px 8px 8px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Mona Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 5
+        },
+        {
+          "role": "ghost",
+          "text": "Search or jump to...",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "6px",
+          "padding": "0px 0px 0px 8px",
+          "height": 30,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Mona Sans VF",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.08s, 0.08s, 0.08s, 0.08s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Sign in",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "6px",
+          "padding": "4px 12px 4px 12px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Mona Sans VF",
+          "letter_spacing": "normal",
+          "line_height": "14px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.5s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "64px",
+        "font_size_px": 64,
+        "font_weight": "425",
+        "line_height": "69.12px",
+        "line_height_ratio": 1.08,
+        "letter_spacing": "-2.24px",
+        "font_family": "Mona Sans",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 16,
+        "font_size": "22px",
+        "font_size_px": 22,
+        "font_weight": "600",
+        "line_height": "30.8px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "normal",
+        "font_family": "Mona Sans",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 22,
+        "font_size": "18px",
+        "font_size_px": 18,
+        "font_weight": "400",
+        "line_height": "27px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "0.18px",
+        "font_family": "Mona Sans",
+        "color": "#ffffff"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1280,
+          "count": 23
+        },
+        {
+          "value": 980,
+          "count": 1
+        },
+        {
+          "value": 1246,
+          "count": 1
+        },
+        {
+          "value": 1440,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 10
+        },
+        {
+          "value": 12,
+          "count": 9
+        },
+        {
+          "value": 3,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 14
+        },
+        {
+          "value": 12,
+          "count": 11
+        },
+        {
+          "value": 16,
+          "count": 8
+        },
+        {
+          "value": 24,
+          "count": 6
+        },
+        {
+          "value": 44,
+          "count": 3
+        },
+        {
+          "value": 96,
+          "count": 3
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 28,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 384,
+          "count": 3
+        },
+        {
+          "value": 32,
+          "count": 2
+        },
+        {
+          "value": 80,
+          "count": 1
+        },
+        {
+          "value": 96,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 127,
+      "grid_blocks": 20
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 60
+        },
+        {
+          "value": 24,
+          "count": 28
+        },
+        {
+          "value": 16,
+          "count": 27
+        },
+        {
+          "value": 48,
+          "count": 24
+        },
+        {
+          "value": 2.4,
+          "count": 18
+        },
+        {
+          "value": 4,
+          "count": 14
+        },
+        {
+          "value": 20,
+          "count": 12
+        },
+        {
+          "value": 64,
+          "count": 9
+        },
+        {
+          "value": 3,
+          "count": 8
+        },
+        {
+          "value": 6,
+          "count": 8
+        },
+        {
+          "value": 28,
+          "count": 8
+        },
+        {
+          "value": 12,
+          "count": 7
+        },
+        {
+          "value": 40,
+          "count": 7
+        },
+        {
+          "value": 32,
+          "count": 6
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 40
+        },
+        {
+          "value": 24,
+          "count": 13
+        },
+        {
+          "value": 4,
+          "count": 10
+        },
+        {
+          "value": 8,
+          "count": 4
+        },
+        {
+          "value": 12,
+          "count": 3
+        },
+        {
+          "value": 32,
+          "count": 3
+        },
+        {
+          "value": 20,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#0d1117",
+      "backgrounds": [
+        {
+          "value": "#000000",
+          "count": 12
+        },
+        {
+          "value": "#0d1117",
+          "count": 9
+        },
+        {
+          "value": "#08872b",
+          "count": 2
+        },
+        {
+          "value": "#2e374a",
+          "count": 1
+        },
+        {
+          "value": "#151a22",
+          "count": 1
+        },
+        {
+          "value": "#090d0a",
+          "count": 1
+        },
+        {
+          "value": "#151b23",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#f0f6fc",
+          "count": 439
+        },
+        {
+          "value": "#ffffff",
+          "count": 164
+        },
+        {
+          "value": "#8dd6ff",
+          "count": 114
+        },
+        {
+          "value": "#9198a1",
+          "count": 97
+        },
+        {
+          "value": "#a4aea6",
+          "count": 48
+        },
+        {
+          "value": "#59636e",
+          "count": 3
+        },
+        {
+          "value": "#24292f",
+          "count": 2
+        },
+        {
+          "value": "#000000",
+          "count": 2
+        }
+      ],
+      "borders": [
+        {
+          "value": "#ffffff",
+          "count": 7
+        },
+        {
+          "value": "#484f58",
+          "count": 2
+        },
+        {
+          "value": "#818b98",
+          "count": 1
+        },
+        {
+          "value": "#d1d9e0",
+          "count": 1
+        },
+        {
+          "value": "#8c93fb",
+          "count": 1
+        },
+        {
+          "value": "#191f1b",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#08872b",
+          "count": 2
+        },
+        {
+          "value": "#0d1117",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

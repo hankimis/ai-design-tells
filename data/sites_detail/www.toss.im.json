@@ -1,0 +1,715 @@
+{
+  "url": "https://www.toss.im",
+  "name": "www.toss.im",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "App Store",
+          "bg": "#000c1e",
+          "bg_alpha": 0.8,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "7px",
+          "padding": "11px 16px 11px 14px",
+          "height": 46,
+          "font_size": "17px",
+          "font_weight": "600",
+          "font_family": "Toss Product Sans",
+          "letter_spacing": "normal",
+          "line_height": "18px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.1s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "접수하기",
+          "bg": "#e8f3ff",
+          "bg_alpha": 1,
+          "color": "#1b64da",
+          "border": "none",
+          "radius": "7px",
+          "padding": "11px 16px 11px 16px",
+          "height": 40,
+          "font_size": "15px",
+          "font_weight": "600",
+          "font_family": "Toss Product Sans",
+          "letter_spacing": "normal",
+          "line_height": "18px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.1s",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 50,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Toss Product Sans",
+          "letter_spacing": "normal",
+          "line_height": "16px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 3,
+        "font_size": "66px",
+        "font_size_px": 66,
+        "font_weight": "700",
+        "line_height": "92.4px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "normal",
+        "font_family": "Toss Product Sans",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "50px"
+      },
+      "h2": {
+        "count": 3,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "700",
+        "line_height": "52px",
+        "line_height_ratio": 1.3,
+        "letter_spacing": "normal",
+        "font_family": "Toss Product Sans",
+        "color": "#191f28",
+        "text_transform": "none",
+        "margin_bottom": "5px"
+      },
+      "h3": {
+        "count": 3,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "700",
+        "line_height": "52px",
+        "line_height_ratio": 1.3,
+        "letter_spacing": "normal",
+        "font_family": "Toss Product Sans",
+        "color": "#b0b8c1",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 4,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "600",
+        "line_height": "30px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Toss Product Sans",
+        "color": "#333d4b"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1140,
+          "count": 8
+        },
+        {
+          "value": 900,
+          "count": 2
+        },
+        {
+          "value": 800,
+          "count": 1
+        },
+        {
+          "value": 1064,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 7
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 250,
+          "count": 7
+        },
+        {
+          "value": 33,
+          "count": 1
+        },
+        {
+          "value": 100,
+          "count": 1
+        },
+        {
+          "value": 200,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 51,
+      "grid_blocks": 1
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 18
+        },
+        {
+          "value": 10,
+          "count": 16
+        },
+        {
+          "value": 12,
+          "count": 16
+        },
+        {
+          "value": 250,
+          "count": 13
+        },
+        {
+          "value": 40,
+          "count": 8
+        },
+        {
+          "value": 11,
+          "count": 6
+        },
+        {
+          "value": 5,
+          "count": 5
+        },
+        {
+          "value": 16,
+          "count": 5
+        },
+        {
+          "value": 20,
+          "count": 5
+        },
+        {
+          "value": 14,
+          "count": 2
+        },
+        {
+          "value": 33,
+          "count": 2
+        },
+        {
+          "value": 50,
+          "count": 2
+        },
+        {
+          "value": 67,
+          "count": 2
+        },
+        {
+          "value": 100,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 5,
+          "count": 3
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 50,
+          "count": 2
+        },
+        {
+          "value": 12,
+          "count": 1
+        },
+        {
+          "value": 16,
+          "count": 1
+        },
+        {
+          "value": 30,
+          "count": 1
+        },
+        {
+          "value": 122,
+          "count": 1
+        },
+        {
+          "value": 140,
+          "count": 1
+        },
+        {
+          "value": 170,
+          "count": 1
+        },
+        {
+          "value": 210,
+          "count": 1
+        },
+        {
+          "value": 220,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#f9fafb",
+          "count": 5
+        },
+        {
+          "value": "#ffffff",
+          "count": 4
+        },
+        {
+          "value": "#000c1e",
+          "count": 2
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        },
+        {
+          "value": "#f5f6f8",
+          "count": 1
+        },
+        {
+          "value": "#e8f3ff",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#6b7684",
+          "count": 105
+        },
+        {
+          "value": "#212529",
+          "count": 103
+        },
+        {
+          "value": "#4e5968",
+          "count": 23
+        },
+        {
+          "value": "#007bff",
+          "count": 17
+        },
+        {
+          "value": "#333d4b",
+          "count": 16
+        },
+        {
+          "value": "#000000",
+          "count": 8
+        },
+        {
+          "value": "#191f28",
+          "count": 5
+        },
+        {
+          "value": "#b0b8c1",
+          "count": 4
+        }
+      ],
+      "borders": [],
+      "accents": [
+        {
+          "value": "#000c1e",
+          "count": 2
+        },
+        {
+          "value": "#e8f3ff",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "토스",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "App Store",
+          "bg": "#000c1e",
+          "bg_alpha": 0.8,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "7px",
+          "padding": "11px 16px 11px 14px",
+          "height": 46,
+          "font_size": "17px",
+          "font_weight": "600",
+          "font_family": "Toss Product Sans",
+          "letter_spacing": "normal",
+          "line_height": "18px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.1s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "접수하기",
+          "bg": "#e8f3ff",
+          "bg_alpha": 1,
+          "color": "#1b64da",
+          "border": "none",
+          "radius": "7px",
+          "padding": "11px 16px 11px 16px",
+          "height": 40,
+          "font_size": "15px",
+          "font_weight": "600",
+          "font_family": "Toss Product Sans",
+          "letter_spacing": "normal",
+          "line_height": "18px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.1s",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 50,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Toss Product Sans",
+          "letter_spacing": "normal",
+          "line_height": "16px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 3,
+        "font_size": "66px",
+        "font_size_px": 66,
+        "font_weight": "700",
+        "line_height": "92.4px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "normal",
+        "font_family": "Toss Product Sans",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "50px"
+      },
+      "h2": {
+        "count": 3,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "700",
+        "line_height": "52px",
+        "line_height_ratio": 1.3,
+        "letter_spacing": "normal",
+        "font_family": "Toss Product Sans",
+        "color": "#191f28",
+        "text_transform": "none",
+        "margin_bottom": "5px"
+      },
+      "h3": {
+        "count": 3,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "700",
+        "line_height": "52px",
+        "line_height_ratio": 1.3,
+        "letter_spacing": "normal",
+        "font_family": "Toss Product Sans",
+        "color": "#b0b8c1",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 4,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "600",
+        "line_height": "30px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Toss Product Sans",
+        "color": "#333d4b"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1140,
+          "count": 8
+        },
+        {
+          "value": 900,
+          "count": 2
+        },
+        {
+          "value": 800,
+          "count": 1
+        },
+        {
+          "value": 1064,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 7
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 250,
+          "count": 7
+        },
+        {
+          "value": 33,
+          "count": 1
+        },
+        {
+          "value": 100,
+          "count": 1
+        },
+        {
+          "value": 200,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 51,
+      "grid_blocks": 1
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 18
+        },
+        {
+          "value": 10,
+          "count": 16
+        },
+        {
+          "value": 12,
+          "count": 16
+        },
+        {
+          "value": 250,
+          "count": 13
+        },
+        {
+          "value": 40,
+          "count": 8
+        },
+        {
+          "value": 11,
+          "count": 6
+        },
+        {
+          "value": 5,
+          "count": 5
+        },
+        {
+          "value": 16,
+          "count": 5
+        },
+        {
+          "value": 20,
+          "count": 5
+        },
+        {
+          "value": 14,
+          "count": 2
+        },
+        {
+          "value": 33,
+          "count": 2
+        },
+        {
+          "value": 50,
+          "count": 2
+        },
+        {
+          "value": 67,
+          "count": 2
+        },
+        {
+          "value": 100,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 5,
+          "count": 3
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 50,
+          "count": 2
+        },
+        {
+          "value": 12,
+          "count": 1
+        },
+        {
+          "value": 16,
+          "count": 1
+        },
+        {
+          "value": 30,
+          "count": 1
+        },
+        {
+          "value": 122,
+          "count": 1
+        },
+        {
+          "value": 140,
+          "count": 1
+        },
+        {
+          "value": 170,
+          "count": 1
+        },
+        {
+          "value": 210,
+          "count": 1
+        },
+        {
+          "value": 220,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#f9fafb",
+          "count": 5
+        },
+        {
+          "value": "#ffffff",
+          "count": 4
+        },
+        {
+          "value": "#000c1e",
+          "count": 2
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        },
+        {
+          "value": "#f5f6f8",
+          "count": 1
+        },
+        {
+          "value": "#e8f3ff",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#6b7684",
+          "count": 105
+        },
+        {
+          "value": "#212529",
+          "count": 103
+        },
+        {
+          "value": "#4e5968",
+          "count": 23
+        },
+        {
+          "value": "#007bff",
+          "count": 17
+        },
+        {
+          "value": "#333d4b",
+          "count": 16
+        },
+        {
+          "value": "#000000",
+          "count": 8
+        },
+        {
+          "value": "#191f28",
+          "count": 5
+        },
+        {
+          "value": "#b0b8c1",
+          "count": 4
+        }
+      ],
+      "borders": [],
+      "accents": [
+        {
+          "value": "#000c1e",
+          "count": 2
+        },
+        {
+          "value": "#e8f3ff",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

@@ -1,0 +1,741 @@
+{
+  "url": "https://www.dropbox.com/paper",
+  "name": "www.dropbox.com_paper",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "시작하기",
+          "bg": "#0061fe",
+          "bg_alpha": 1,
+          "color": "#f7f5f2",
+          "border": "2px solid #0061fe",
+          "radius": "12px",
+          "padding": "0px 12px 0px 12px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Times",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.1s, 0.1s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Dropbox로 로그인",
+          "bg": "#3984ff",
+          "bg_alpha": 1,
+          "color": "#1e1919",
+          "border": "2px solid #3984ff",
+          "radius": "16px",
+          "padding": "24px 24px 24px 24px",
+          "height": 71,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Times",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.1s, 0.1s",
+          "_n": 2
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#0000ee",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Times",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "제품",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#1e1919",
+          "border": "none",
+          "radius": "0px",
+          "padding": "16px 12px 16px 12px",
+          "height": 72,
+          "font_size": "13.3333px",
+          "font_weight": "400",
+          "font_family": "Arial",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.125s",
+          "_n": 14
+        },
+        {
+          "role": "ghost",
+          "text": "또는 가입",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#f7f5f2",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 19,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Times",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.1s, 0.1s",
+          "_n": 6
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "400",
+        "line_height": "48px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "Sharp Grotesk 23",
+        "color": "#f7f5f2",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 7,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "400",
+        "line_height": "44px",
+        "line_height_ratio": 1.1,
+        "letter_spacing": "normal",
+        "font_family": "Sharp Grotesk 23",
+        "color": "#f7f5f2",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 6,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "500",
+        "line_height": "30px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Atlas Grotesk Web",
+        "color": "#f7f5f2",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 12,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Atlas Grotesk Web",
+        "color": "#f7f5f2"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1344,
+          "count": 7
+        },
+        {
+          "value": 492,
+          "count": 3
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 11
+        },
+        {
+          "value": 2,
+          "count": 5
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 9
+        },
+        {
+          "value": 16,
+          "count": 7
+        },
+        {
+          "value": 24,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 48,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 162,
+      "grid_blocks": 16
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 12,
+          "count": 54
+        },
+        {
+          "value": 16,
+          "count": 32
+        },
+        {
+          "value": 48,
+          "count": 32
+        },
+        {
+          "value": 24,
+          "count": 17
+        },
+        {
+          "value": 32,
+          "count": 11
+        },
+        {
+          "value": 51.69,
+          "count": 7
+        },
+        {
+          "value": 258.45,
+          "count": 6
+        },
+        {
+          "value": 112.16,
+          "count": 4
+        },
+        {
+          "value": 72,
+          "count": 3
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 55.38,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 12,
+          "count": 43
+        },
+        {
+          "value": 24,
+          "count": 14
+        },
+        {
+          "value": 72,
+          "count": 13
+        },
+        {
+          "value": 16,
+          "count": 7
+        },
+        {
+          "value": 48,
+          "count": 2
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 96,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#1e1919",
+      "backgrounds": [
+        {
+          "value": "#f7f5f2",
+          "count": 8
+        },
+        {
+          "value": "#1e1919",
+          "count": 7
+        },
+        {
+          "value": "#ffffff",
+          "count": 5
+        },
+        {
+          "value": "#c0bbb4",
+          "count": 4
+        },
+        {
+          "value": "#eee9e2",
+          "count": 3
+        },
+        {
+          "value": "#0061fe",
+          "count": 2
+        },
+        {
+          "value": "#3984ff",
+          "count": 2
+        },
+        {
+          "value": "#000000",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 178
+        },
+        {
+          "value": "#1e1919",
+          "count": 171
+        },
+        {
+          "value": "#f7f5f2",
+          "count": 167
+        },
+        {
+          "value": "#524a3e",
+          "count": 9
+        },
+        {
+          "value": "#0000ee",
+          "count": 7
+        }
+      ],
+      "borders": [
+        {
+          "value": "#a69e92",
+          "count": 5
+        },
+        {
+          "value": "#3984ff",
+          "count": 2
+        },
+        {
+          "value": "#0061fe",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#3984ff",
+          "count": 2
+        },
+        {
+          "value": "#0061fe",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "Paper - Dropbox",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "시작하기",
+          "bg": "#0061fe",
+          "bg_alpha": 1,
+          "color": "#f7f5f2",
+          "border": "2px solid #0061fe",
+          "radius": "12px",
+          "padding": "0px 12px 0px 12px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Times",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.1s, 0.1s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Dropbox로 로그인",
+          "bg": "#3984ff",
+          "bg_alpha": 1,
+          "color": "#1e1919",
+          "border": "2px solid #3984ff",
+          "radius": "16px",
+          "padding": "24px 24px 24px 24px",
+          "height": 71,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Times",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.1s, 0.1s",
+          "_n": 2
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#0000ee",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Times",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "제품",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#1e1919",
+          "border": "none",
+          "radius": "0px",
+          "padding": "16px 12px 16px 12px",
+          "height": 72,
+          "font_size": "13.3333px",
+          "font_weight": "400",
+          "font_family": "Arial",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.125s",
+          "_n": 14
+        },
+        {
+          "role": "ghost",
+          "text": "또는 가입",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#f7f5f2",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 19,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Times",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.1s, 0.1s",
+          "_n": 6
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "400",
+        "line_height": "48px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "Sharp Grotesk 23",
+        "color": "#f7f5f2",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 7,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "400",
+        "line_height": "44px",
+        "line_height_ratio": 1.1,
+        "letter_spacing": "normal",
+        "font_family": "Sharp Grotesk 23",
+        "color": "#f7f5f2",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 6,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "500",
+        "line_height": "30px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Atlas Grotesk Web",
+        "color": "#f7f5f2",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 12,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Atlas Grotesk Web",
+        "color": "#f7f5f2"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1344,
+          "count": 7
+        },
+        {
+          "value": 492,
+          "count": 3
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 11
+        },
+        {
+          "value": 2,
+          "count": 5
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 9
+        },
+        {
+          "value": 16,
+          "count": 7
+        },
+        {
+          "value": 24,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 48,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 162,
+      "grid_blocks": 16
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 12,
+          "count": 54
+        },
+        {
+          "value": 16,
+          "count": 32
+        },
+        {
+          "value": 48,
+          "count": 32
+        },
+        {
+          "value": 24,
+          "count": 17
+        },
+        {
+          "value": 32,
+          "count": 11
+        },
+        {
+          "value": 51.69,
+          "count": 7
+        },
+        {
+          "value": 258.45,
+          "count": 6
+        },
+        {
+          "value": 112.16,
+          "count": 4
+        },
+        {
+          "value": 72,
+          "count": 3
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 55.38,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 12,
+          "count": 43
+        },
+        {
+          "value": 24,
+          "count": 14
+        },
+        {
+          "value": 72,
+          "count": 13
+        },
+        {
+          "value": 16,
+          "count": 7
+        },
+        {
+          "value": 48,
+          "count": 2
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 96,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#1e1919",
+      "backgrounds": [
+        {
+          "value": "#f7f5f2",
+          "count": 8
+        },
+        {
+          "value": "#1e1919",
+          "count": 7
+        },
+        {
+          "value": "#ffffff",
+          "count": 5
+        },
+        {
+          "value": "#c0bbb4",
+          "count": 4
+        },
+        {
+          "value": "#eee9e2",
+          "count": 3
+        },
+        {
+          "value": "#0061fe",
+          "count": 2
+        },
+        {
+          "value": "#3984ff",
+          "count": 2
+        },
+        {
+          "value": "#000000",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 178
+        },
+        {
+          "value": "#1e1919",
+          "count": 171
+        },
+        {
+          "value": "#f7f5f2",
+          "count": 167
+        },
+        {
+          "value": "#524a3e",
+          "count": 9
+        },
+        {
+          "value": "#0000ee",
+          "count": 7
+        }
+      ],
+      "borders": [
+        {
+          "value": "#a69e92",
+          "count": 5
+        },
+        {
+          "value": "#3984ff",
+          "count": 2
+        },
+        {
+          "value": "#0061fe",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#3984ff",
+          "count": 2
+        },
+        {
+          "value": "#0061fe",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

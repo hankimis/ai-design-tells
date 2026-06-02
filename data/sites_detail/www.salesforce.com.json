@@ -1,0 +1,1015 @@
+{
+  "url": "https://www.salesforce.com",
+  "name": "www.salesforce.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "무료로 시작하기",
+          "bg": "#0176d3",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "4px",
+          "padding": "20px 32px 20px 32px",
+          "height": 52,
+          "font_size": "16px",
+          "font_weight": "700",
+          "font_family": "Salesforce Sans",
+          "letter_spacing": "0.02px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "데모 보기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#0176d3",
+          "border": "1px solid #0176d3",
+          "radius": "6px",
+          "padding": "20px 32px 20px 32px",
+          "height": 52,
+          "font_size": "16px",
+          "font_weight": "700",
+          "font_family": "Salesforce Sans",
+          "letter_spacing": "0.02px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "무료로 시작하기",
+          "bg": "#0176d3",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "2px solid #0176d3",
+          "radius": "4px",
+          "padding": "12px 32px 12px 32px",
+          "height": 52,
+          "font_size": "16px",
+          "font_weight": "700",
+          "font_family": "Salesforce Sans",
+          "letter_spacing": "-0.032px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.1s",
+          "_n": 7
+        },
+        {
+          "role": "primary",
+          "text": "데모 보기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#0176d3",
+          "border": "2px solid #0176d3",
+          "radius": "4px",
+          "padding": "12px 32px 12px 32px",
+          "height": 52,
+          "font_size": "16px",
+          "font_weight": "700",
+          "font_family": "Salesforce Sans",
+          "letter_spacing": "-0.032px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.1s",
+          "_n": 5
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Go to previous slide",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "2px solid #ffffff",
+          "radius": "9999px",
+          "padding": "0px 0px 0px 0px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Salesforce Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 3
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#080707",
+          "border": "none",
+          "radius": "22px",
+          "padding": "0px 0px 0px 0px",
+          "height": 289,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Salesforce Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 7
+        },
+        {
+          "role": "ghost",
+          "text": "자세히 알아보기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#032d60",
+          "border": "none",
+          "radius": "4px",
+          "padding": "0px 0px 0px 0px",
+          "height": 24,
+          "font_size": "14px",
+          "font_weight": "700",
+          "font_family": "Salesforce Sans",
+          "letter_spacing": "-0.028px",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.1s",
+          "_n": 19
+        },
+        {
+          "role": "ghost",
+          "text": "Salesforce란?",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#031610",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 28,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Salesforce Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 4
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "70px",
+        "font_size_px": 70,
+        "font_weight": "400",
+        "line_height": "70px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "ITC Avant Garde",
+        "color": "#002c6e",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 12,
+        "font_size": "60px",
+        "font_size_px": 60,
+        "font_weight": "400",
+        "line_height": "60px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "ITC Avant Garde",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "10px"
+      },
+      "h3": {
+        "count": 29,
+        "font_size": "32px",
+        "font_size_px": 32,
+        "font_weight": "400",
+        "line_height": "40px",
+        "line_height_ratio": 1.25,
+        "letter_spacing": "-0.128px",
+        "font_family": "Seol Sans Heavy",
+        "color": "#032d60",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 27,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "0.12px",
+        "font_family": "Salesforce Sans",
+        "color": "#ffffff"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1280,
+          "count": 14
+        },
+        {
+          "value": 1040,
+          "count": 1
+        },
+        {
+          "value": 1145,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 12,
+          "count": 18
+        },
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 16,
+          "count": 14
+        },
+        {
+          "value": 40,
+          "count": 10
+        },
+        {
+          "value": 64,
+          "count": 8
+        },
+        {
+          "value": 4,
+          "count": 5
+        },
+        {
+          "value": 5,
+          "count": 4
+        },
+        {
+          "value": 15,
+          "count": 4
+        },
+        {
+          "value": 20,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 24,
+          "count": 8
+        },
+        {
+          "value": 64,
+          "count": 5
+        },
+        {
+          "value": 30,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 56,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 227,
+      "grid_blocks": 19
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 12,
+          "count": 39
+        },
+        {
+          "value": 32,
+          "count": 33
+        },
+        {
+          "value": 10,
+          "count": 28
+        },
+        {
+          "value": 24,
+          "count": 23
+        },
+        {
+          "value": 19.2,
+          "count": 16
+        },
+        {
+          "value": 64,
+          "count": 14
+        },
+        {
+          "value": 20,
+          "count": 11
+        },
+        {
+          "value": 16,
+          "count": 5
+        },
+        {
+          "value": 30,
+          "count": 5
+        },
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 28,
+          "count": 3
+        },
+        {
+          "value": 14,
+          "count": 2
+        },
+        {
+          "value": 15,
+          "count": 2
+        },
+        {
+          "value": 120,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 37
+        },
+        {
+          "value": 40,
+          "count": 19
+        },
+        {
+          "value": 24,
+          "count": 16
+        },
+        {
+          "value": 50,
+          "count": 16
+        },
+        {
+          "value": 48,
+          "count": 15
+        },
+        {
+          "value": 8,
+          "count": 14
+        },
+        {
+          "value": 32,
+          "count": 9
+        },
+        {
+          "value": 12,
+          "count": 8
+        },
+        {
+          "value": 3,
+          "count": 2
+        },
+        {
+          "value": 5,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 10,
+          "count": 1
+        },
+        {
+          "value": 30,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 52
+        },
+        {
+          "value": "#eaf5fe",
+          "count": 10
+        },
+        {
+          "value": "#0176d3",
+          "count": 9
+        },
+        {
+          "value": "#0b5cab",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#080707",
+          "count": 443
+        },
+        {
+          "value": "#032d60",
+          "count": 116
+        },
+        {
+          "value": "#ffffff",
+          "count": 57
+        },
+        {
+          "value": "#181818",
+          "count": 50
+        },
+        {
+          "value": "#0b5cab",
+          "count": 12
+        },
+        {
+          "value": "#0176d3",
+          "count": 8
+        },
+        {
+          "value": "#031610",
+          "count": 8
+        },
+        {
+          "value": "#002c6e",
+          "count": 5
+        }
+      ],
+      "borders": [
+        {
+          "value": "#0176d3",
+          "count": 14
+        },
+        {
+          "value": "#ffffff",
+          "count": 3
+        },
+        {
+          "value": "#e5e5e5",
+          "count": 3
+        }
+      ],
+      "accents": [
+        {
+          "value": "#0176d3",
+          "count": 9
+        },
+        {
+          "value": "#0b5cab",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "Salesforce: 세계 최고의 에이전트 기반 AI CRM | Salesforce KR",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "무료로 시작하기",
+          "bg": "#0176d3",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "4px",
+          "padding": "20px 32px 20px 32px",
+          "height": 52,
+          "font_size": "16px",
+          "font_weight": "700",
+          "font_family": "Salesforce Sans",
+          "letter_spacing": "0.02px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "데모 보기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#0176d3",
+          "border": "1px solid #0176d3",
+          "radius": "6px",
+          "padding": "20px 32px 20px 32px",
+          "height": 52,
+          "font_size": "16px",
+          "font_weight": "700",
+          "font_family": "Salesforce Sans",
+          "letter_spacing": "0.02px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "무료로 시작하기",
+          "bg": "#0176d3",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "2px solid #0176d3",
+          "radius": "4px",
+          "padding": "12px 32px 12px 32px",
+          "height": 52,
+          "font_size": "16px",
+          "font_weight": "700",
+          "font_family": "Salesforce Sans",
+          "letter_spacing": "-0.032px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.1s",
+          "_n": 7
+        },
+        {
+          "role": "primary",
+          "text": "데모 보기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#0176d3",
+          "border": "2px solid #0176d3",
+          "radius": "4px",
+          "padding": "12px 32px 12px 32px",
+          "height": 52,
+          "font_size": "16px",
+          "font_weight": "700",
+          "font_family": "Salesforce Sans",
+          "letter_spacing": "-0.032px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.1s",
+          "_n": 5
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Go to previous slide",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "2px solid #ffffff",
+          "radius": "9999px",
+          "padding": "0px 0px 0px 0px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Salesforce Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 3
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#080707",
+          "border": "none",
+          "radius": "22px",
+          "padding": "0px 0px 0px 0px",
+          "height": 289,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Salesforce Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 7
+        },
+        {
+          "role": "ghost",
+          "text": "자세히 알아보기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#032d60",
+          "border": "none",
+          "radius": "4px",
+          "padding": "0px 0px 0px 0px",
+          "height": 24,
+          "font_size": "14px",
+          "font_weight": "700",
+          "font_family": "Salesforce Sans",
+          "letter_spacing": "-0.028px",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.1s",
+          "_n": 19
+        },
+        {
+          "role": "ghost",
+          "text": "Salesforce란?",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#031610",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 28,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Salesforce Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 4
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "70px",
+        "font_size_px": 70,
+        "font_weight": "400",
+        "line_height": "70px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "ITC Avant Garde",
+        "color": "#002c6e",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 12,
+        "font_size": "60px",
+        "font_size_px": 60,
+        "font_weight": "400",
+        "line_height": "60px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "ITC Avant Garde",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "10px"
+      },
+      "h3": {
+        "count": 29,
+        "font_size": "32px",
+        "font_size_px": 32,
+        "font_weight": "400",
+        "line_height": "40px",
+        "line_height_ratio": 1.25,
+        "letter_spacing": "-0.128px",
+        "font_family": "Seol Sans Heavy",
+        "color": "#032d60",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 27,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "0.12px",
+        "font_family": "Salesforce Sans",
+        "color": "#ffffff"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1280,
+          "count": 14
+        },
+        {
+          "value": 1040,
+          "count": 1
+        },
+        {
+          "value": 1145,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 12,
+          "count": 18
+        },
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 16,
+          "count": 14
+        },
+        {
+          "value": 40,
+          "count": 10
+        },
+        {
+          "value": 64,
+          "count": 8
+        },
+        {
+          "value": 4,
+          "count": 5
+        },
+        {
+          "value": 5,
+          "count": 4
+        },
+        {
+          "value": 15,
+          "count": 4
+        },
+        {
+          "value": 20,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 24,
+          "count": 8
+        },
+        {
+          "value": 64,
+          "count": 5
+        },
+        {
+          "value": 30,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 56,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 227,
+      "grid_blocks": 19
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 12,
+          "count": 39
+        },
+        {
+          "value": 32,
+          "count": 33
+        },
+        {
+          "value": 10,
+          "count": 28
+        },
+        {
+          "value": 24,
+          "count": 23
+        },
+        {
+          "value": 19.2,
+          "count": 16
+        },
+        {
+          "value": 64,
+          "count": 14
+        },
+        {
+          "value": 20,
+          "count": 11
+        },
+        {
+          "value": 16,
+          "count": 5
+        },
+        {
+          "value": 30,
+          "count": 5
+        },
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 28,
+          "count": 3
+        },
+        {
+          "value": 14,
+          "count": 2
+        },
+        {
+          "value": 15,
+          "count": 2
+        },
+        {
+          "value": 120,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 37
+        },
+        {
+          "value": 40,
+          "count": 19
+        },
+        {
+          "value": 24,
+          "count": 16
+        },
+        {
+          "value": 50,
+          "count": 16
+        },
+        {
+          "value": 48,
+          "count": 15
+        },
+        {
+          "value": 8,
+          "count": 14
+        },
+        {
+          "value": 32,
+          "count": 9
+        },
+        {
+          "value": 12,
+          "count": 8
+        },
+        {
+          "value": 3,
+          "count": 2
+        },
+        {
+          "value": 5,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 10,
+          "count": 1
+        },
+        {
+          "value": 30,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 52
+        },
+        {
+          "value": "#eaf5fe",
+          "count": 10
+        },
+        {
+          "value": "#0176d3",
+          "count": 9
+        },
+        {
+          "value": "#0b5cab",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#080707",
+          "count": 443
+        },
+        {
+          "value": "#032d60",
+          "count": 116
+        },
+        {
+          "value": "#ffffff",
+          "count": 57
+        },
+        {
+          "value": "#181818",
+          "count": 50
+        },
+        {
+          "value": "#0b5cab",
+          "count": 12
+        },
+        {
+          "value": "#0176d3",
+          "count": 8
+        },
+        {
+          "value": "#031610",
+          "count": 8
+        },
+        {
+          "value": "#002c6e",
+          "count": 5
+        }
+      ],
+      "borders": [
+        {
+          "value": "#0176d3",
+          "count": 14
+        },
+        {
+          "value": "#ffffff",
+          "count": 3
+        },
+        {
+          "value": "#e5e5e5",
+          "count": 3
+        }
+      ],
+      "accents": [
+        {
+          "value": "#0176d3",
+          "count": 9
+        },
+        {
+          "value": "#0b5cab",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

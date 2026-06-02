@@ -1,0 +1,921 @@
+{
+  "url": "https://www.figma.com",
+  "name": "www.figma.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#000000",
+          "bg_alpha": 0.08,
+          "color": "#000000",
+          "border": "none",
+          "radius": "50%",
+          "padding": "0px 0px 0px 0px",
+          "height": 36,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "figmaSans",
+          "letter_spacing": "normal",
+          "line_height": "23.2px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Prompt",
+          "bg": "#000000",
+          "bg_alpha": 0.08,
+          "color": "#000000",
+          "border": "none",
+          "radius": "50px",
+          "padding": "8px 18px 10px 18px",
+          "height": 43,
+          "font_size": "18px",
+          "font_weight": "480",
+          "font_family": "figmaSans",
+          "letter_spacing": "-0.09px",
+          "line_height": "25.2px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.16s, 0.16s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Design",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "50px",
+          "padding": "8px 18px 10px 18px",
+          "height": 43,
+          "font_size": "18px",
+          "font_weight": "480",
+          "font_family": "figmaSans",
+          "letter_spacing": "-0.09px",
+          "line_height": "25.2px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.16s, 0.16s",
+          "_n": 7
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 0.16,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "50%",
+          "padding": "0px 0px 0px 0px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "figmaSans",
+          "letter_spacing": "normal",
+          "line_height": "23.2px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Products",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "8px 8px 8px 8px",
+          "height": 41,
+          "font_size": "18px",
+          "font_weight": "330",
+          "font_family": "figmaSans",
+          "letter_spacing": "-0.14px",
+          "line_height": "25.2px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 4
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "50%",
+          "padding": "0px 0px 0px 0px",
+          "height": 36,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "figmaSans",
+          "letter_spacing": "normal",
+          "line_height": "23.2px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Turn Figma context into code",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 32,
+          "font_size": "18px",
+          "font_weight": "330",
+          "font_family": "figmaSans",
+          "letter_spacing": "normal",
+          "line_height": "25.2px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s",
+          "_n": 3
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 10,
+        "font_size": "56px",
+        "font_size_px": 56,
+        "font_weight": "400",
+        "line_height": "61.6px",
+        "line_height_ratio": 1.1,
+        "letter_spacing": "-0.84px",
+        "font_family": "figmaSans",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 24,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "520",
+        "line_height": "32.4px",
+        "line_height_ratio": 1.35,
+        "letter_spacing": "-0.24px",
+        "font_family": "figmaSans",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 10,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "340",
+        "line_height": "32.4px",
+        "line_height_ratio": 1.35,
+        "letter_spacing": "-0.12px",
+        "font_family": "figmaSans",
+        "color": "#000000"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 720,
+          "count": 3
+        },
+        {
+          "value": 840,
+          "count": 3
+        },
+        {
+          "value": 1140,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 4
+        },
+        {
+          "value": 4,
+          "count": 1
+        },
+        {
+          "value": 5,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 16,
+          "count": 13
+        },
+        {
+          "value": 6,
+          "count": 8
+        },
+        {
+          "value": 8,
+          "count": 4
+        },
+        {
+          "value": 12,
+          "count": 4
+        },
+        {
+          "value": 60,
+          "count": 4
+        },
+        {
+          "value": 32,
+          "count": 3
+        },
+        {
+          "value": 120,
+          "count": 3
+        },
+        {
+          "value": 24,
+          "count": 2
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 120,
+          "count": 6
+        }
+      ],
+      "flex_blocks": 99,
+      "grid_blocks": 6
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 16,
+          "count": 47
+        },
+        {
+          "value": 8,
+          "count": 42
+        },
+        {
+          "value": 30,
+          "count": 18
+        },
+        {
+          "value": 18,
+          "count": 16
+        },
+        {
+          "value": 120,
+          "count": 13
+        },
+        {
+          "value": 24,
+          "count": 10
+        },
+        {
+          "value": 12,
+          "count": 9
+        },
+        {
+          "value": 6,
+          "count": 8
+        },
+        {
+          "value": 10,
+          "count": 8
+        },
+        {
+          "value": 21,
+          "count": 6
+        },
+        {
+          "value": 4.5,
+          "count": 6
+        },
+        {
+          "value": 4,
+          "count": 4
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 12,
+          "count": 56
+        },
+        {
+          "value": 2,
+          "count": 33
+        },
+        {
+          "value": 16,
+          "count": 15
+        },
+        {
+          "value": 64,
+          "count": 6
+        },
+        {
+          "value": 32,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 4
+        },
+        {
+          "value": 48,
+          "count": 3
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 56,
+          "count": 2
+        },
+        {
+          "value": 80,
+          "count": 2
+        },
+        {
+          "value": 1,
+          "count": 1
+        },
+        {
+          "value": 120,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 13
+        },
+        {
+          "value": "#000000",
+          "count": 4
+        },
+        {
+          "value": "#e6e6e6",
+          "count": 1
+        },
+        {
+          "value": "#4d49fc",
+          "count": 1
+        },
+        {
+          "value": "#f3ffe3",
+          "count": 1
+        },
+        {
+          "value": "#e2e2e2",
+          "count": 1
+        },
+        {
+          "value": "#e4ff97",
+          "count": 1
+        },
+        {
+          "value": "#00b6ff",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 501
+        },
+        {
+          "value": "#ffffff",
+          "count": 292
+        },
+        {
+          "value": "#33dfdf",
+          "count": 3
+        },
+        {
+          "value": "#b98e01",
+          "count": 3
+        }
+      ],
+      "borders": [],
+      "accents": [
+        {
+          "value": "#4d49fc",
+          "count": 1
+        },
+        {
+          "value": "#e4ff97",
+          "count": 1
+        },
+        {
+          "value": "#00b6ff",
+          "count": 1
+        },
+        {
+          "value": "#24cb71",
+          "count": 1
+        },
+        {
+          "value": "#c4baff",
+          "count": 1
+        },
+        {
+          "value": "#ff7237",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "Figma: The Collaborative Interface Design Tool",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "모든 쿠키 허용",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "8px",
+          "padding": "12px 21px 12px 21px",
+          "height": 49,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "figmaSans",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.16s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#000000",
+          "bg_alpha": 0.08,
+          "color": "#000000",
+          "border": "none",
+          "radius": "50%",
+          "padding": "0px 0px 0px 0px",
+          "height": 36,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "figmaSans",
+          "letter_spacing": "normal",
+          "line_height": "23.2px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "프롬프트",
+          "bg": "#000000",
+          "bg_alpha": 0.08,
+          "color": "#000000",
+          "border": "none",
+          "radius": "50px",
+          "padding": "8px 18px 10px 18px",
+          "height": 43,
+          "font_size": "18px",
+          "font_weight": "480",
+          "font_family": "figmaSans",
+          "letter_spacing": "-0.09px",
+          "line_height": "25.2px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.16s, 0.16s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "디자인",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "50px",
+          "padding": "8px 18px 10px 18px",
+          "height": 43,
+          "font_size": "18px",
+          "font_weight": "480",
+          "font_family": "figmaSans",
+          "letter_spacing": "-0.09px",
+          "line_height": "25.2px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.16s, 0.16s",
+          "_n": 7
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "쿠키 설정",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 25,
+          "font_size": "18px",
+          "font_weight": "330",
+          "font_family": "figmaSans",
+          "letter_spacing": "normal",
+          "line_height": "25.2px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "6px 6px 6px 6px",
+          "height": 36,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "figmaSans",
+          "letter_spacing": "normal",
+          "line_height": "23.2px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "제품",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "8px 8px 8px 8px",
+          "height": 41,
+          "font_size": "18px",
+          "font_weight": "330",
+          "font_family": "figmaSans",
+          "letter_spacing": "-0.14px",
+          "line_height": "25.2px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 4
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 10,
+        "font_size": "56px",
+        "font_size_px": 56,
+        "font_weight": "400",
+        "line_height": "61.6px",
+        "line_height_ratio": 1.1,
+        "letter_spacing": "-0.84px",
+        "font_family": "figmaSans",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 24,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "520",
+        "line_height": "32.4px",
+        "line_height_ratio": 1.35,
+        "letter_spacing": "-0.24px",
+        "font_family": "figmaSans",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 11,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "340",
+        "line_height": "32.4px",
+        "line_height_ratio": 1.35,
+        "letter_spacing": "-0.12px",
+        "font_family": "figmaSans",
+        "color": "#000000"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 720,
+          "count": 3
+        },
+        {
+          "value": 840,
+          "count": 3
+        },
+        {
+          "value": 1140,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 4
+        },
+        {
+          "value": 4,
+          "count": 1
+        },
+        {
+          "value": 5,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 16,
+          "count": 13
+        },
+        {
+          "value": 6,
+          "count": 8
+        },
+        {
+          "value": 8,
+          "count": 4
+        },
+        {
+          "value": 12,
+          "count": 4
+        },
+        {
+          "value": 60,
+          "count": 4
+        },
+        {
+          "value": 24,
+          "count": 3
+        },
+        {
+          "value": 32,
+          "count": 3
+        },
+        {
+          "value": 120,
+          "count": 3
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 120,
+          "count": 6
+        }
+      ],
+      "flex_blocks": 102,
+      "grid_blocks": 6
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 16,
+          "count": 47
+        },
+        {
+          "value": 8,
+          "count": 46
+        },
+        {
+          "value": 30,
+          "count": 18
+        },
+        {
+          "value": 18,
+          "count": 16
+        },
+        {
+          "value": 24,
+          "count": 15
+        },
+        {
+          "value": 12,
+          "count": 13
+        },
+        {
+          "value": 120,
+          "count": 13
+        },
+        {
+          "value": 6,
+          "count": 12
+        },
+        {
+          "value": 21,
+          "count": 10
+        },
+        {
+          "value": 4.5,
+          "count": 10
+        },
+        {
+          "value": 10,
+          "count": 8
+        },
+        {
+          "value": 4,
+          "count": 4
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 12,
+          "count": 71
+        },
+        {
+          "value": 2,
+          "count": 33
+        },
+        {
+          "value": 16,
+          "count": 15
+        },
+        {
+          "value": 32,
+          "count": 6
+        },
+        {
+          "value": 64,
+          "count": 6
+        },
+        {
+          "value": 24,
+          "count": 4
+        },
+        {
+          "value": 48,
+          "count": 3
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 56,
+          "count": 2
+        },
+        {
+          "value": 80,
+          "count": 2
+        },
+        {
+          "value": 1,
+          "count": 1
+        },
+        {
+          "value": 120,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 15
+        },
+        {
+          "value": "#000000",
+          "count": 5
+        },
+        {
+          "value": "#e6e6e6",
+          "count": 1
+        },
+        {
+          "value": "#4d49fc",
+          "count": 1
+        },
+        {
+          "value": "#f3ffe3",
+          "count": 1
+        },
+        {
+          "value": "#e2e2e2",
+          "count": 1
+        },
+        {
+          "value": "#e4ff97",
+          "count": 1
+        },
+        {
+          "value": "#00b6ff",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 525
+        },
+        {
+          "value": "#ffffff",
+          "count": 351
+        },
+        {
+          "value": "#33dfdf",
+          "count": 3
+        },
+        {
+          "value": "#b98e01",
+          "count": 3
+        }
+      ],
+      "borders": [],
+      "accents": [
+        {
+          "value": "#4d49fc",
+          "count": 1
+        },
+        {
+          "value": "#e4ff97",
+          "count": 1
+        },
+        {
+          "value": "#00b6ff",
+          "count": 1
+        },
+        {
+          "value": "#24cb71",
+          "count": 1
+        },
+        {
+          "value": "#c4baff",
+          "count": 1
+        },
+        {
+          "value": "#ff7237",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

@@ -1,0 +1,6 @@
+{
+  "url": "https://www.away.com",
+  "name": "www.away.com",
+  "ok": false,
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.away.com/\nCall log:\n  - navigating to \"https://www.away.com/\", waiting until \"domcontentloaded\"\n"
+}

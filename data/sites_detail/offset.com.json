@@ -1,0 +1,309 @@
+{
+  "url": "https://offset.com",
+  "name": "offset.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {
+      "h3": {
+        "count": 1,
+        "font_size": "36px",
+        "font_size_px": 36,
+        "font_weight": "700",
+        "line_height": "43.92px",
+        "line_height_ratio": 1.22,
+        "letter_spacing": "normal",
+        "font_family": "Roboto",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "15px"
+      },
+      "body": {
+        "count": 5,
+        "font_size": "18px",
+        "font_size_px": 18,
+        "font_weight": "400",
+        "line_height": "25.92px",
+        "line_height_ratio": 1.44,
+        "letter_spacing": "normal",
+        "font_family": "Roboto",
+        "color": "#cccccc"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1360,
+          "count": 4
+        },
+        {
+          "value": 670,
+          "count": 1
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [],
+      "section_padding_top": [
+        {
+          "value": 150,
+          "count": 2
+        }
+      ],
+      "flex_blocks": 7,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 80,
+          "count": 8
+        },
+        {
+          "value": 30,
+          "count": 5
+        },
+        {
+          "value": 20,
+          "count": 4
+        },
+        {
+          "value": 150,
+          "count": 4
+        },
+        {
+          "value": 28,
+          "count": 1
+        },
+        {
+          "value": 31,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 5,
+          "count": 6
+        },
+        {
+          "value": 20,
+          "count": 3
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 22,
+          "count": 2
+        },
+        {
+          "value": 15,
+          "count": 1
+        },
+        {
+          "value": 25,
+          "count": 1
+        },
+        {
+          "value": 60,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#0a0a0a",
+      "backgrounds": [
+        {
+          "value": "#0a0a0a",
+          "count": 2
+        },
+        {
+          "value": "#000000",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#cccccc",
+          "count": 39
+        },
+        {
+          "value": "#ffffff",
+          "count": 2
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        },
+        {
+          "value": "#0000ee",
+          "count": 1
+        },
+        {
+          "value": "#eeeeee",
+          "count": 1
+        }
+      ],
+      "borders": [],
+      "accents": []
+    }
+  },
+  "title": "OFFSET by Shutterstock",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {
+      "h3": {
+        "count": 1,
+        "font_size": "36px",
+        "font_size_px": 36,
+        "font_weight": "700",
+        "line_height": "43.92px",
+        "line_height_ratio": 1.22,
+        "letter_spacing": "normal",
+        "font_family": "Roboto",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "15px"
+      },
+      "body": {
+        "count": 5,
+        "font_size": "18px",
+        "font_size_px": 18,
+        "font_weight": "400",
+        "line_height": "25.92px",
+        "line_height_ratio": 1.44,
+        "letter_spacing": "normal",
+        "font_family": "Roboto",
+        "color": "#cccccc"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1360,
+          "count": 4
+        },
+        {
+          "value": 670,
+          "count": 1
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [],
+      "section_padding_top": [
+        {
+          "value": 150,
+          "count": 2
+        }
+      ],
+      "flex_blocks": 7,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 80,
+          "count": 8
+        },
+        {
+          "value": 30,
+          "count": 5
+        },
+        {
+          "value": 20,
+          "count": 4
+        },
+        {
+          "value": 150,
+          "count": 4
+        },
+        {
+          "value": 28,
+          "count": 1
+        },
+        {
+          "value": 31,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 5,
+          "count": 6
+        },
+        {
+          "value": 20,
+          "count": 3
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 22,
+          "count": 2
+        },
+        {
+          "value": 15,
+          "count": 1
+        },
+        {
+          "value": 25,
+          "count": 1
+        },
+        {
+          "value": 60,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#0a0a0a",
+      "backgrounds": [
+        {
+          "value": "#0a0a0a",
+          "count": 2
+        },
+        {
+          "value": "#000000",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#cccccc",
+          "count": 39
+        },
+        {
+          "value": "#ffffff",
+          "count": 2
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        },
+        {
+          "value": "#0000ee",
+          "count": 1
+        },
+        {
+          "value": "#eeeeee",
+          "count": 1
+        }
+      ],
+      "borders": [],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

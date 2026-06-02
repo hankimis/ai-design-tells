@@ -1,0 +1,357 @@
+{
+  "url": "https://godly.website",
+  "name": "godly.website",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Subscribe",
+          "bg": "#000000",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "0px 12px 0px 16px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Inter",
+          "letter_spacing": "-0.32px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Subscribe",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "6px 12px 6px 16px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Inter",
+          "letter_spacing": "-0.32px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "F",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "0px 12px 0px 12px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Inter",
+          "letter_spacing": "-0.32px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0",
+          "transition": "0.15s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "500",
+        "line_height": "25px",
+        "line_height_ratio": 1.25,
+        "letter_spacing": "-0.32px",
+        "font_family": "Inter",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 1,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "400",
+        "line_height": "20px",
+        "line_height_ratio": 1.43,
+        "letter_spacing": "-0.32px",
+        "font_family": "Inter",
+        "color": null
+      }
+    },
+    "layout": {
+      "containers": [],
+      "grid_columns": [],
+      "gaps": [
+        {
+          "value": 6,
+          "count": 3
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 10,
+          "count": 2
+        },
+        {
+          "value": 12,
+          "count": 1
+        },
+        {
+          "value": 16,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 290,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 8
+        },
+        {
+          "value": 6,
+          "count": 6
+        },
+        {
+          "value": 16,
+          "count": 5
+        },
+        {
+          "value": 12,
+          "count": 4
+        },
+        {
+          "value": 14,
+          "count": 1
+        }
+      ],
+      "margin_scale": []
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 1
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 854
+        },
+        {
+          "value": "#ffffff",
+          "count": 835
+        }
+      ],
+      "borders": [],
+      "accents": []
+    }
+  },
+  "title": "Godly - Astronomically good web design inspiration",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Subscribe",
+          "bg": "#000000",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "0px 12px 0px 16px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Inter",
+          "letter_spacing": "-0.32px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Subscribe",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "6px 12px 6px 16px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Inter",
+          "letter_spacing": "-0.32px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "F",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "0px 12px 0px 12px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Inter",
+          "letter_spacing": "-0.32px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0",
+          "transition": "0.15s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "500",
+        "line_height": "25px",
+        "line_height_ratio": 1.25,
+        "letter_spacing": "-0.32px",
+        "font_family": "Inter",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 1,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "400",
+        "line_height": "20px",
+        "line_height_ratio": 1.43,
+        "letter_spacing": "-0.32px",
+        "font_family": "Inter",
+        "color": null
+      }
+    },
+    "layout": {
+      "containers": [],
+      "grid_columns": [],
+      "gaps": [
+        {
+          "value": 6,
+          "count": 3
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 10,
+          "count": 2
+        },
+        {
+          "value": 12,
+          "count": 1
+        },
+        {
+          "value": 16,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 290,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 8
+        },
+        {
+          "value": 6,
+          "count": 6
+        },
+        {
+          "value": 16,
+          "count": 5
+        },
+        {
+          "value": 12,
+          "count": 4
+        },
+        {
+          "value": 14,
+          "count": 1
+        }
+      ],
+      "margin_scale": []
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 1
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 854
+        },
+        {
+          "value": "#ffffff",
+          "count": 835
+        }
+      ],
+      "borders": [],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

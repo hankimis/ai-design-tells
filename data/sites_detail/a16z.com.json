@@ -1,0 +1,295 @@
+{
+  "url": "https://a16z.com",
+  "name": "a16z.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "8px 8px 8px 8px",
+          "height": 32,
+          "font_size": "16px",
+          "font_weight": "300",
+          "font_family": "domaine-text",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "300",
+          "font_family": "domaine-text",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {},
+    "layout": {
+      "containers": [
+        {
+          "value": 1440,
+          "count": 2
+        },
+        {
+          "value": 1392,
+          "count": 1
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 3
+        },
+        {
+          "value": 22,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 96,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 15,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 13
+        },
+        {
+          "value": 24,
+          "count": 3
+        },
+        {
+          "value": 32,
+          "count": 2
+        },
+        {
+          "value": 56,
+          "count": 2
+        },
+        {
+          "value": 44,
+          "count": 1
+        },
+        {
+          "value": 96,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#f6f4ee",
+      "backgrounds": [
+        {
+          "value": "#504e4a",
+          "count": 6
+        },
+        {
+          "value": "#f6f4ee",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#ffffff",
+          "count": 77
+        },
+        {
+          "value": "#000000",
+          "count": 12
+        }
+      ],
+      "borders": [],
+      "accents": []
+    }
+  },
+  "title": "Andreessen Horowitz | Software Is Eating the World",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "8px 8px 8px 8px",
+          "height": 32,
+          "font_size": "16px",
+          "font_weight": "300",
+          "font_family": "domaine-text",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "300",
+          "font_family": "domaine-text",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {},
+    "layout": {
+      "containers": [
+        {
+          "value": 1440,
+          "count": 2
+        },
+        {
+          "value": 1392,
+          "count": 1
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 3
+        },
+        {
+          "value": 22,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 96,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 15,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 13
+        },
+        {
+          "value": 24,
+          "count": 3
+        },
+        {
+          "value": 32,
+          "count": 2
+        },
+        {
+          "value": 56,
+          "count": 2
+        },
+        {
+          "value": 44,
+          "count": 1
+        },
+        {
+          "value": 96,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#f6f4ee",
+      "backgrounds": [
+        {
+          "value": "#504e4a",
+          "count": 6
+        },
+        {
+          "value": "#f6f4ee",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#ffffff",
+          "count": 77
+        },
+        {
+          "value": "#000000",
+          "count": 12
+        }
+      ],
+      "borders": [],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

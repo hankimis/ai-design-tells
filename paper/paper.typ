@@ -519,6 +519,47 @@ as the MCP tool `audit_url`. On the corpus this is the difference between a tool
 that lectures from a style guide and one that can look at the running product and
 say, with evidence, whether anyone decided anything.
 
+= From negative to positive: a component-spec catalog
+
+A detector is a negative instrument: it says what _not_ to do. The recurring
+question from anyone trying to use it to actually build is the positive one, _then
+what numbers should I use?_ To answer it without inventing a house style, we read
+the answer off the same kind of evidence. We re-rendered #strong[199] design-led
+sites a second time, but instead of aggregate signals we recorded the _concrete
+CSS values_ they ship per component, and we did it twice per site, once under
+`prefers-color-scheme: light` and once under `dark`, to capture both palettes
+(`src/scrape_detail.py`, aggregated by `scripts/build_spec_catalog.py`).
+
+The result (@fig-specsheet, full tables in `reference/COMPONENT-SPECS.md`) is a set
+of empirical targets. Primary-button corner radius does not converge on one value;
+it splits between a soft-rounded 8 to 12#`px` cluster and a full pill, with sharp
+0#`px` corners a deliberate minority and only #strong[13%] of buttons carrying any
+shadow. The type scale lands near 64\/48\/32#`px` for #raw("h1")/#raw("h2")/#raw("h3")
+over a 16#`px` body, headlines on a tight #math.tilde 1.1 line-height with frequent
+negative tracking, body around 1.5. Content containers center on a #strong[1200#`px`]
+median; vertical section rhythm on #math.tilde 64#`px`. Spacing follows a 4\/8#`px`
+grid, but only loosely: 70% of padding values are multiples of four, not the
+religious adherence a generator assumes.
+
+Two findings matter for the thesis. First, accent color is genuinely unconstrained:
+the most common brand hues each appear once across the corpus, scattered around the
+wheel, which is the positive form of "the hue is never the tell." Second, dark mode
+has a grammar. Of the sites that repaint automatically for the OS, the page
+background is almost never pure `#000000`; it is a _tinted_ near-black
+(`#0b0f19`, `#111111`, `#18181b`, and similar), raised surfaces sit a step lighter
+rather than a hairline border away, and text is an off-white rather than pure
+`#ffffff`. Pure black on pure white, in either mode, is itself a tell.
+
+#figure(
+  image("figs/fig10_specsheet.png", width: 100%),
+  caption: [Measured component specs across 199 design-led sites: primary-button
+  radius distribution, the real type scale, the actual dark-mode page backgrounds
+  (tinted near-blacks, not pure black), and the spread of accent hues.],
+) <fig-specsheet>
+
+These numbers feed back into the harness as concrete targets, so the prompt module
+tells a builder not only what to avoid but what range to aim inside.
+
 = The harness
 
 The taxonomy ships as a usable tool in three forms, all generated from
@@ -536,10 +577,12 @@ and iterate, closing the loop without a human in the middle for the mechanical p
 
 *Drop-in prompt module.* `harness/AI-DESIGN-TELLS.md` turns each _detected_ tell
 into a _preventive_ instruction ("Don't: Inter default. Do instead: commit to a
-display face …") plus a pre-ship checklist. Pasted into a system prompt, CLAUDE.md
-or a builder's custom-instructions field, it pre-empts the look at generation
-time; the detector then verifies the output. Prevention and detection share one
-source of truth.
+display face …") plus a pre-ship checklist, and now carries the measured
+component-spec targets from the 199-site catalog so the guidance is two-sided:
+what to avoid, and the concrete range to aim inside. Pasted into a system prompt,
+CLAUDE.md or a builder's custom-instructions field, it pre-empts the look at
+generation time; the detector then verifies the output. Prevention and detection
+share one source of truth.
 
 The intended workflow is _generate → score → fix → re-score_, with the prompt
 module shifting the starting score down and the detector certifying the result.

@@ -109,6 +109,30 @@ tell. Pick from the product's own brand, domain, content, and voice.
 - [ ] **G**, Write the real words; copy is UX, not filler (Toss treats text as a foundational design element).
 - [ ] **G**, Make the CTA predict what happens next in the product's own words (Toss: a button should hint at the next step).
 
+## Concrete target values (measured on 199 real top-tier sites)
+
+Not opinions, the medians and shapes of what design-led sites actually ship. Aim
+inside these unless the brand gives you a reason to leave.
+
+- **Primary button:** radius median `8.0px` (the field
+  splits between soft-round 8-12px and a full pill, both fine; pills are ~24% of sites).
+  Padding around `7.9px 15.3px`,
+  label `15.0px`, weight ~`500`
+  (400 is common, a bold label is not required). Only ~13% put a shadow on the button.
+- **Type scale:** h1 median `64.0px`, body `16.0px`.
+  Headlines run a tight line-height (~`1.1`) and ~54%
+  negatively track; body sits at line-height ~`1.5` with normal tracking.
+- **Layout:** content max-width median `1200.0px` (commonly `1440px`, `1280px`, `1200px`).
+  Section vertical rhythm median `64.0px`.
+- **Spacing:** a 4/8px grid, but not religiously, most-used steps are `16px`, `8px`, `24px`, `12px`, `4px`, `32px`, `10px`, `20px`.
+- **Light palette:** page bg almost always `#ffffff` (or a near-white); primary text a near-black, rarely pure `#000` on pure white.
+  Accent is wide open, `#7c3aed`, `#1868db`, `#171321`, `#fcab79`, `#2702c2`, `#222875` all appear once each across sites. The hue is never the tell.
+- **Dark palette:** page bg is usually a *tinted* near-black (`#111111`, `#18181b`, `#14120b`, `#0b0f19`, `#07060d`); pure `#000000` shows up but
+  is the minority. Raised surfaces are a step lighter, not a 1px border on the same color; text is an off-white, not pure `#fff`.
+
+See `reference/COMPONENT-SPECS.md` for the full per-component tables and per-site appendix.
+
+
 ## What 202 real top-tier sites actually do (use these as targets)
 
 Learned by rendering 202 human-crafted sites (Stripe, Linear, Toss, Apple, Vercel,

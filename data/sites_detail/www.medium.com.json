@@ -1,0 +1,377 @@
+{
+  "url": "https://www.medium.com",
+  "name": "www.medium.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Get started",
+          "bg": "#191919",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #191919",
+          "radius": "1386px",
+          "padding": "8px 16px 8px 16px",
+          "height": 38,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "sohne",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s, 0.3s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Start reading",
+          "bg": "#191919",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #191919",
+          "radius": "1980px",
+          "padding": "8px 20px 8px 20px",
+          "height": 46,
+          "font_size": "20px",
+          "font_weight": "400",
+          "font_family": "sohne",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {
+      "h2": {
+        "count": 1,
+        "font_size": "120px",
+        "font_size_px": 120,
+        "font_weight": "400",
+        "line_height": "100px",
+        "line_height_ratio": 0.83,
+        "letter_spacing": "-6.6px",
+        "font_family": "gt-super",
+        "color": "#242424",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 1,
+        "font_size": "22px",
+        "font_size_px": 22,
+        "font_weight": "400",
+        "line_height": "28px",
+        "line_height_ratio": 1.27,
+        "letter_spacing": "normal",
+        "font_family": "sohne",
+        "color": "#242424",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 14,
+        "font_size": "13px",
+        "font_size_px": 13,
+        "font_weight": "400",
+        "line_height": "20px",
+        "line_height_ratio": 1.54,
+        "letter_spacing": "normal",
+        "font_family": "sohne",
+        "color": "#6b6b6b"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1192,
+          "count": 2
+        },
+        {
+          "value": 680,
+          "count": 1
+        },
+        {
+          "value": 720,
+          "count": 1
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [],
+      "section_padding_top": [],
+      "flex_blocks": 8,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 4
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 25,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 48,
+          "count": 2
+        },
+        {
+          "value": 75,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#f7f4ed",
+          "count": 3
+        },
+        {
+          "value": "#191919",
+          "count": 2
+        },
+        {
+          "value": "#ffffff",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 62
+        },
+        {
+          "value": "#242424",
+          "count": 12
+        },
+        {
+          "value": "#6b6b6b",
+          "count": 10
+        },
+        {
+          "value": "#ffffff",
+          "count": 2
+        }
+      ],
+      "borders": [
+        {
+          "value": "#191919",
+          "count": 2
+        }
+      ],
+      "accents": []
+    }
+  },
+  "title": "Medium: Read and write stories.",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Get started",
+          "bg": "#191919",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #191919",
+          "radius": "1386px",
+          "padding": "8px 16px 8px 16px",
+          "height": 38,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "sohne",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s, 0.3s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Start reading",
+          "bg": "#191919",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #191919",
+          "radius": "1980px",
+          "padding": "8px 20px 8px 20px",
+          "height": 46,
+          "font_size": "20px",
+          "font_weight": "400",
+          "font_family": "sohne",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {
+      "h2": {
+        "count": 1,
+        "font_size": "120px",
+        "font_size_px": 120,
+        "font_weight": "400",
+        "line_height": "100px",
+        "line_height_ratio": 0.83,
+        "letter_spacing": "-6.6px",
+        "font_family": "gt-super",
+        "color": "#242424",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 1,
+        "font_size": "22px",
+        "font_size_px": 22,
+        "font_weight": "400",
+        "line_height": "28px",
+        "line_height_ratio": 1.27,
+        "letter_spacing": "normal",
+        "font_family": "sohne",
+        "color": "#242424",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 14,
+        "font_size": "13px",
+        "font_size_px": 13,
+        "font_weight": "400",
+        "line_height": "20px",
+        "line_height_ratio": 1.54,
+        "letter_spacing": "normal",
+        "font_family": "sohne",
+        "color": "#6b6b6b"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1192,
+          "count": 2
+        },
+        {
+          "value": 680,
+          "count": 1
+        },
+        {
+          "value": 720,
+          "count": 1
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [],
+      "section_padding_top": [],
+      "flex_blocks": 8,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 4
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 25,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 48,
+          "count": 2
+        },
+        {
+          "value": 75,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#f7f4ed",
+          "count": 3
+        },
+        {
+          "value": "#191919",
+          "count": 2
+        },
+        {
+          "value": "#ffffff",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 62
+        },
+        {
+          "value": "#242424",
+          "count": 12
+        },
+        {
+          "value": "#6b6b6b",
+          "count": 10
+        },
+        {
+          "value": "#ffffff",
+          "count": 2
+        }
+      ],
+      "borders": [
+        {
+          "value": "#191919",
+          "count": 2
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

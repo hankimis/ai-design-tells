@@ -1,0 +1,645 @@
+{
+  "url": "https://www.midjourney.com",
+  "name": "www.midjourney.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Sign Up",
+          "bg": "#0f1c36",
+          "bg_alpha": 1,
+          "color": null,
+          "border": "none",
+          "radius": "9999px",
+          "padding": "8px 20px 8px 20px",
+          "height": 42,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "DM Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0",
+          "transition": "0.15s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Log In",
+          "bg": "#281730",
+          "bg_alpha": 1,
+          "color": null,
+          "border": "none",
+          "radius": "9999px",
+          "padding": "8px 20px 8px 20px",
+          "height": 42,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "DM Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0",
+          "transition": "0.15s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Explore",
+          "bg": "#2d0e36",
+          "bg_alpha": 1,
+          "color": null,
+          "border": "none",
+          "radius": "9999px",
+          "padding": "8px 20px 8px 20px",
+          "height": 42,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "DM Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0",
+          "transition": "0.15s",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Sign Up",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": null,
+          "border": "none",
+          "radius": "9999px",
+          "padding": "8px 20px 8px 20px",
+          "height": 42,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "DM Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0",
+          "transition": "0.15s",
+          "_n": 3
+        },
+        {
+          "role": "ghost",
+          "text": "community-funded research",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#63b3ed",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 26,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "JetBrains Mono",
+          "letter_spacing": "normal",
+          "line_height": "26px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Image and Video Models",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": null,
+          "border": "none",
+          "radius": "8px",
+          "padding": "0px 0px 0px 0px",
+          "height": 196,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "JetBrains Mono",
+          "letter_spacing": "normal",
+          "line_height": "26px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 4,
+        "font_size": "30px",
+        "font_size_px": 30,
+        "font_weight": "400",
+        "line_height": "48.75px",
+        "line_height_ratio": 1.63,
+        "letter_spacing": "normal",
+        "font_family": "JetBrains Mono",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 9,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "26px",
+        "line_height_ratio": 1.63,
+        "letter_spacing": "normal",
+        "font_family": "JetBrains Mono",
+        "color": null
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 896,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 7
+        },
+        {
+          "value": 32,
+          "count": 6
+        },
+        {
+          "value": 16,
+          "count": 3
+        },
+        {
+          "value": 12,
+          "count": 2
+        },
+        {
+          "value": 64,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 32,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 33,
+      "grid_blocks": 1
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 14
+        },
+        {
+          "value": 20,
+          "count": 14
+        },
+        {
+          "value": 64,
+          "count": 4
+        },
+        {
+          "value": 12,
+          "count": 2
+        },
+        {
+          "value": 14,
+          "count": 2
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 32,
+          "count": 2
+        },
+        {
+          "value": 48,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 24,
+          "count": 2
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#06051d",
+      "backgrounds": [
+        {
+          "value": "#06051d",
+          "count": 1
+        },
+        {
+          "value": "#314062",
+          "count": 1
+        },
+        {
+          "value": "#0f1c36",
+          "count": 1
+        },
+        {
+          "value": "#281730",
+          "count": 1
+        },
+        {
+          "value": "#2d0e36",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#2e3038",
+          "count": 14
+        },
+        {
+          "value": "#ebf8ff",
+          "count": 6
+        },
+        {
+          "value": "#63b3ed",
+          "count": 6
+        },
+        {
+          "value": "#ffffff",
+          "count": 4
+        },
+        {
+          "value": "#3182ce",
+          "count": 3
+        }
+      ],
+      "borders": [],
+      "accents": [
+        {
+          "value": "#0f1c36",
+          "count": 1
+        },
+        {
+          "value": "#281730",
+          "count": 1
+        },
+        {
+          "value": "#2d0e36",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "Midjourney",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Sign Up",
+          "bg": "#0f1c36",
+          "bg_alpha": 1,
+          "color": null,
+          "border": "1px solid #434651",
+          "radius": "9999px",
+          "padding": "8px 20px 8px 20px",
+          "height": 42,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "DM Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0",
+          "transition": "0.15s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Log In",
+          "bg": "#281730",
+          "bg_alpha": 1,
+          "color": null,
+          "border": "1px solid #434651",
+          "radius": "9999px",
+          "padding": "8px 20px 8px 20px",
+          "height": 42,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "DM Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0",
+          "transition": "0.15s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Explore",
+          "bg": "#2d0e36",
+          "bg_alpha": 1,
+          "color": null,
+          "border": "1px solid #434651",
+          "radius": "9999px",
+          "padding": "8px 20px 8px 20px",
+          "height": 42,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "DM Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0",
+          "transition": "0.15s",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Sign Up",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": null,
+          "border": "1px solid #434651",
+          "radius": "9999px",
+          "padding": "8px 20px 8px 20px",
+          "height": 42,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "DM Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0",
+          "transition": "0.15s",
+          "_n": 3
+        },
+        {
+          "role": "secondary",
+          "text": "Image and Video Models",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": null,
+          "border": "1px solid #434651",
+          "radius": "8px",
+          "padding": "0px 0px 0px 0px",
+          "height": 196,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "JetBrains Mono",
+          "letter_spacing": "normal",
+          "line_height": "26px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "community-funded research",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#63b3ed",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 26,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "JetBrains Mono",
+          "letter_spacing": "normal",
+          "line_height": "26px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Privacy Settings",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ebf8ff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 23,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "JetBrains Mono",
+          "letter_spacing": "normal",
+          "line_height": "22.75px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 4,
+        "font_size": "30px",
+        "font_size_px": 30,
+        "font_weight": "400",
+        "line_height": "48.75px",
+        "line_height_ratio": 1.63,
+        "letter_spacing": "normal",
+        "font_family": "JetBrains Mono",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 9,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "26px",
+        "line_height_ratio": 1.63,
+        "letter_spacing": "normal",
+        "font_family": "JetBrains Mono",
+        "color": null
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 896,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 7
+        },
+        {
+          "value": 32,
+          "count": 6
+        },
+        {
+          "value": 16,
+          "count": 3
+        },
+        {
+          "value": 12,
+          "count": 2
+        },
+        {
+          "value": 64,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 32,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 33,
+      "grid_blocks": 1
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 14
+        },
+        {
+          "value": 20,
+          "count": 14
+        },
+        {
+          "value": 64,
+          "count": 4
+        },
+        {
+          "value": 12,
+          "count": 2
+        },
+        {
+          "value": 14,
+          "count": 2
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 32,
+          "count": 2
+        },
+        {
+          "value": 48,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 24,
+          "count": 2
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#0d0e12",
+      "backgrounds": [
+        {
+          "value": "#0d0e12",
+          "count": 1
+        },
+        {
+          "value": "#06051d",
+          "count": 1
+        },
+        {
+          "value": "#314062",
+          "count": 1
+        },
+        {
+          "value": "#0f1c36",
+          "count": 1
+        },
+        {
+          "value": "#281730",
+          "count": 1
+        },
+        {
+          "value": "#2d0e36",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#ebecef",
+          "count": 14
+        },
+        {
+          "value": "#ebf8ff",
+          "count": 6
+        },
+        {
+          "value": "#63b3ed",
+          "count": 6
+        },
+        {
+          "value": "#ffffff",
+          "count": 4
+        },
+        {
+          "value": "#3182ce",
+          "count": 3
+        }
+      ],
+      "borders": [
+        {
+          "value": "#434651",
+          "count": 16
+        }
+      ],
+      "accents": [
+        {
+          "value": "#0f1c36",
+          "count": 1
+        },
+        {
+          "value": "#281730",
+          "count": 1
+        },
+        {
+          "value": "#2d0e36",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": true,
+  "ok": true
+}

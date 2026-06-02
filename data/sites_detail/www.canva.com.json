@@ -1,0 +1,813 @@
+{
+  "url": "https://www.canva.com",
+  "name": "www.canva.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "무료로 시작하기",
+          "bg": "#ffffff",
+          "bg_alpha": 0.9,
+          "color": "#0f1015",
+          "border": "none",
+          "radius": "16px",
+          "padding": "0px 20px 0px 20px",
+          "height": 56,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Canva Sans",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px inset",
+          "transition": "0.1s, 0.1s, 0.1s, 0.07s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#101219",
+          "bg_alpha": 0.7,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "48px",
+          "padding": "8px 8px 8px 8px",
+          "height": 48,
+          "font_size": "13.3333px",
+          "font_weight": "400",
+          "font_family": "Arial",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "모든 쿠키 허용",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#0f1015",
+          "border": "none",
+          "radius": "8px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "600",
+          "font_family": "Canva Sans",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(53, 65, 90, 0.2) 0px 0px 0px 1px inset",
+          "transition": "0.1s, 0.1s, 0.1s, 0.07s",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "디자인",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "8px",
+          "padding": "4px 8px 4px 8px",
+          "height": 32,
+          "font_size": "13.3333px",
+          "font_weight": "400",
+          "font_family": "Arial",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.1s, 0.1s, 0.1s",
+          "_n": 6
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "1px 6px 1px 6px",
+          "height": 583,
+          "font_size": "13.3333px",
+          "font_weight": "400",
+          "font_family": "Arial",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "600",
+        "line_height": "32px",
+        "line_height_ratio": 1.33,
+        "letter_spacing": "normal",
+        "font_family": "Canva Sans",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 11,
+        "font_size": "64px",
+        "font_size_px": 64,
+        "font_weight": "400",
+        "line_height": "80px",
+        "line_height_ratio": 1.25,
+        "letter_spacing": "-0.64px",
+        "font_family": "Canva Sans",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 20,
+        "font_size": "32px",
+        "font_size_px": 32,
+        "font_weight": "600",
+        "line_height": "40px",
+        "line_height_ratio": 1.25,
+        "letter_spacing": "normal",
+        "font_family": "Canva Sans",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h4": {
+        "count": 1,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "600",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Canva Sans",
+        "color": "#0f1015",
+        "text_transform": "none",
+        "margin_bottom": "8px"
+      },
+      "body": {
+        "count": 6,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "600",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Canva Sans",
+        "color": "#0f1015"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 568,
+          "count": 10
+        },
+        {
+          "value": 1288,
+          "count": 6
+        },
+        {
+          "value": 1416,
+          "count": 2
+        },
+        {
+          "value": 1920,
+          "count": 2
+        },
+        {
+          "value": 1192,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 121
+        },
+        {
+          "value": 6,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 9
+        },
+        {
+          "value": 24,
+          "count": 8
+        },
+        {
+          "value": 12,
+          "count": 5
+        },
+        {
+          "value": 32,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 256,
+          "count": 1
+        },
+        {
+          "value": 583.19,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 199,
+      "grid_blocks": 122
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 4,
+          "count": 164
+        },
+        {
+          "value": 12,
+          "count": 139
+        },
+        {
+          "value": 16,
+          "count": 84
+        },
+        {
+          "value": 32,
+          "count": 72
+        },
+        {
+          "value": 8,
+          "count": 71
+        },
+        {
+          "value": 24,
+          "count": 45
+        },
+        {
+          "value": 7,
+          "count": 12
+        },
+        {
+          "value": 353.75,
+          "count": 10
+        },
+        {
+          "value": 48,
+          "count": 7
+        },
+        {
+          "value": 352.47,
+          "count": 5
+        },
+        {
+          "value": 352.45,
+          "count": 5
+        },
+        {
+          "value": 1,
+          "count": 2
+        },
+        {
+          "value": 6,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 9,
+          "count": 52
+        },
+        {
+          "value": 4,
+          "count": 28
+        },
+        {
+          "value": 16,
+          "count": 12
+        },
+        {
+          "value": 8,
+          "count": 11
+        },
+        {
+          "value": 5,
+          "count": 6
+        },
+        {
+          "value": 12,
+          "count": 4
+        },
+        {
+          "value": 13,
+          "count": 2
+        },
+        {
+          "value": 17,
+          "count": 2
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#0f1015",
+          "count": 33
+        },
+        {
+          "value": "#ffffff",
+          "count": 25
+        },
+        {
+          "value": "#101219",
+          "count": 2
+        },
+        {
+          "value": "#cce1ff",
+          "count": 1
+        },
+        {
+          "value": "#8b3dff",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 675
+        },
+        {
+          "value": "#0f1015",
+          "count": 356
+        },
+        {
+          "value": "#ffffff",
+          "count": 59
+        },
+        {
+          "value": "#0000ee",
+          "count": 20
+        },
+        {
+          "value": "#101219",
+          "count": 8
+        },
+        {
+          "value": "#182c59",
+          "count": 5
+        },
+        {
+          "value": "#8b3dff",
+          "count": 5
+        },
+        {
+          "value": "#a370fc",
+          "count": 4
+        }
+      ],
+      "borders": [],
+      "accents": [
+        {
+          "value": "#8b3dff",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "모두가 사용할 수 있는 Canva 비주얼 스위트",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "무료로 시작하기",
+          "bg": "#ffffff",
+          "bg_alpha": 0.9,
+          "color": "#0f1015",
+          "border": "none",
+          "radius": "16px",
+          "padding": "0px 20px 0px 20px",
+          "height": 56,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Canva Sans",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px inset",
+          "transition": "0.1s, 0.1s, 0.1s, 0.07s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#101219",
+          "bg_alpha": 0.7,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "48px",
+          "padding": "8px 8px 8px 8px",
+          "height": 48,
+          "font_size": "13.3333px",
+          "font_weight": "400",
+          "font_family": "Arial",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "모든 쿠키 허용",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#0f1015",
+          "border": "none",
+          "radius": "8px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "600",
+          "font_family": "Canva Sans",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(53, 65, 90, 0.2) 0px 0px 0px 1px inset",
+          "transition": "0.1s, 0.1s, 0.1s, 0.07s",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "디자인",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "8px",
+          "padding": "4px 8px 4px 8px",
+          "height": 32,
+          "font_size": "13.3333px",
+          "font_weight": "400",
+          "font_family": "Arial",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.1s, 0.1s, 0.1s",
+          "_n": 6
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "1px 6px 1px 6px",
+          "height": 583,
+          "font_size": "13.3333px",
+          "font_weight": "400",
+          "font_family": "Arial",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "600",
+        "line_height": "32px",
+        "line_height_ratio": 1.33,
+        "letter_spacing": "normal",
+        "font_family": "Canva Sans",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 11,
+        "font_size": "64px",
+        "font_size_px": 64,
+        "font_weight": "400",
+        "line_height": "80px",
+        "line_height_ratio": 1.25,
+        "letter_spacing": "-0.64px",
+        "font_family": "Canva Sans",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 20,
+        "font_size": "32px",
+        "font_size_px": 32,
+        "font_weight": "600",
+        "line_height": "40px",
+        "line_height_ratio": 1.25,
+        "letter_spacing": "normal",
+        "font_family": "Canva Sans",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h4": {
+        "count": 1,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "600",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Canva Sans",
+        "color": "#0f1015",
+        "text_transform": "none",
+        "margin_bottom": "8px"
+      },
+      "body": {
+        "count": 6,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "600",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Canva Sans",
+        "color": "#0f1015"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 568,
+          "count": 10
+        },
+        {
+          "value": 1288,
+          "count": 6
+        },
+        {
+          "value": 1416,
+          "count": 2
+        },
+        {
+          "value": 1920,
+          "count": 2
+        },
+        {
+          "value": 1192,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 121
+        },
+        {
+          "value": 6,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 9
+        },
+        {
+          "value": 24,
+          "count": 8
+        },
+        {
+          "value": 12,
+          "count": 5
+        },
+        {
+          "value": 32,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 256,
+          "count": 1
+        },
+        {
+          "value": 583.19,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 199,
+      "grid_blocks": 122
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 4,
+          "count": 164
+        },
+        {
+          "value": 12,
+          "count": 139
+        },
+        {
+          "value": 16,
+          "count": 84
+        },
+        {
+          "value": 32,
+          "count": 72
+        },
+        {
+          "value": 8,
+          "count": 71
+        },
+        {
+          "value": 24,
+          "count": 45
+        },
+        {
+          "value": 7,
+          "count": 12
+        },
+        {
+          "value": 353.75,
+          "count": 10
+        },
+        {
+          "value": 48,
+          "count": 7
+        },
+        {
+          "value": 352.47,
+          "count": 5
+        },
+        {
+          "value": 352.45,
+          "count": 5
+        },
+        {
+          "value": 1,
+          "count": 2
+        },
+        {
+          "value": 6,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 9,
+          "count": 52
+        },
+        {
+          "value": 4,
+          "count": 28
+        },
+        {
+          "value": 16,
+          "count": 12
+        },
+        {
+          "value": 8,
+          "count": 11
+        },
+        {
+          "value": 5,
+          "count": 6
+        },
+        {
+          "value": 12,
+          "count": 4
+        },
+        {
+          "value": 13,
+          "count": 2
+        },
+        {
+          "value": 17,
+          "count": 2
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 25
+        },
+        {
+          "value": "#0f1015",
+          "count": 16
+        },
+        {
+          "value": "#101219",
+          "count": 2
+        },
+        {
+          "value": "#cce1ff",
+          "count": 1
+        },
+        {
+          "value": "#8b3dff",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 658
+        },
+        {
+          "value": "#0f1015",
+          "count": 356
+        },
+        {
+          "value": "#ffffff",
+          "count": 59
+        },
+        {
+          "value": "#0000ee",
+          "count": 20
+        },
+        {
+          "value": "#101219",
+          "count": 8
+        },
+        {
+          "value": "#182c59",
+          "count": 5
+        },
+        {
+          "value": "#8b3dff",
+          "count": 5
+        },
+        {
+          "value": "#a370fc",
+          "count": 4
+        }
+      ],
+      "borders": [],
+      "accents": [
+        {
+          "value": "#8b3dff",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

@@ -1,0 +1,881 @@
+{
+  "url": "https://stripe.press",
+  "name": "stripe.press",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "The Origins of Efficiency\n  ",
+          "bg": "#0d121f",
+          "bg_alpha": 1,
+          "color": "#d0d1d4",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 103.6px 0px 103.6px",
+          "height": 236,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Ivar Headline",
+          "letter_spacing": "0.32px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Boom\n      \n    \n    Byrne H",
+          "bg": "#4d1a28",
+          "bg_alpha": 1,
+          "color": "#ebadcb",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 103.6px 0px 103.6px",
+          "height": 236,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Ivar Headline",
+          "letter_spacing": "0.32px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Poor Charlie’s Almanack\n    ",
+          "bg": "#c1b676",
+          "bg_alpha": 1,
+          "color": "#18185e",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 103.6px 0px 103.6px",
+          "height": 236,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Ivar Headline",
+          "letter_spacing": "0.32px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Scaling People\n      \n    \n ",
+          "bg": "#143199",
+          "bg_alpha": 1,
+          "color": "#dee6ff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 103.6px 0px 103.6px",
+          "height": 236,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Ivar Headline",
+          "letter_spacing": "0.32px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Maintenance\n      \n    \n    ",
+          "bg": "#6e665b",
+          "bg_alpha": 1,
+          "color": "#dfc78e",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 103.6px 0px 103.6px",
+          "height": 236,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Ivar Headline",
+          "letter_spacing": "0.32px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "The Scaling Era\n      \n    \n",
+          "bg": "#e2e2e2",
+          "bg_alpha": 1,
+          "color": "#504f4f",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 103.6px 0px 103.6px",
+          "height": 236,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Ivar Headline",
+          "letter_spacing": "0.32px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "24.4px 24.4px 24.4px 24.4px",
+          "height": 72,
+          "font_size": "17px",
+          "font_weight": "600",
+          "font_family": "Ivar Headline",
+          "letter_spacing": "0.32px",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "17.6px",
+        "font_size_px": 17.6,
+        "font_weight": "600",
+        "line_height": "17.6px",
+        "line_height_ratio": 1,
+        "letter_spacing": "0.32px",
+        "font_family": "Ivar Headline",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "6px"
+      },
+      "h2": {
+        "count": 22,
+        "font_size": "21px",
+        "font_size_px": 21,
+        "font_weight": "400",
+        "line_height": "21px",
+        "line_height_ratio": 1,
+        "letter_spacing": "0.32px",
+        "font_family": "Ivar Headline",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "12px"
+      },
+      "h3": {
+        "count": 21,
+        "font_size": "17px",
+        "font_size_px": 17,
+        "font_weight": "400",
+        "line_height": "17px",
+        "line_height_ratio": 1,
+        "letter_spacing": "0.32px",
+        "font_family": "Ivar Text",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 7,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "500",
+        "line_height": "19.6px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "normal",
+        "font_family": "Ivar Text",
+        "color": "#000000"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 512,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 2
+        },
+        {
+          "value": 2,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 12,
+          "count": 1
+        },
+        {
+          "value": 16,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 49,
+      "grid_blocks": 3
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 103.6,
+          "count": 38
+        },
+        {
+          "value": 5,
+          "count": 22
+        },
+        {
+          "value": 24.4,
+          "count": 9
+        },
+        {
+          "value": 16,
+          "count": 8
+        },
+        {
+          "value": 1,
+          "count": 2
+        },
+        {
+          "value": 3,
+          "count": 2
+        },
+        {
+          "value": 6,
+          "count": 2
+        },
+        {
+          "value": 14,
+          "count": 2
+        },
+        {
+          "value": 36,
+          "count": 2
+        },
+        {
+          "value": 67.7,
+          "count": 2
+        },
+        {
+          "value": 201.6,
+          "count": 2
+        },
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 8,
+          "count": 1
+        },
+        {
+          "value": 12,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 20,
+          "count": 6
+        },
+        {
+          "value": 30,
+          "count": 4
+        },
+        {
+          "value": 12,
+          "count": 3
+        },
+        {
+          "value": 100,
+          "count": 2
+        },
+        {
+          "value": 6,
+          "count": 1
+        },
+        {
+          "value": 8,
+          "count": 1
+        },
+        {
+          "value": 40,
+          "count": 1
+        },
+        {
+          "value": 180,
+          "count": 1
+        },
+        {
+          "value": 200,
+          "count": 1
+        },
+        {
+          "value": 261,
+          "count": 1
+        },
+        {
+          "value": 23.4,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#201819",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 13
+        },
+        {
+          "value": "#201819",
+          "count": 3
+        },
+        {
+          "value": "#222222",
+          "count": 2
+        },
+        {
+          "value": "#6e665b",
+          "count": 1
+        },
+        {
+          "value": "#0d121f",
+          "count": 1
+        },
+        {
+          "value": "#e2e2e2",
+          "count": 1
+        },
+        {
+          "value": "#4d1a28",
+          "count": 1
+        },
+        {
+          "value": "#c1b676",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#ffffff",
+          "count": 61
+        },
+        {
+          "value": "#000000",
+          "count": 36
+        },
+        {
+          "value": "#201819",
+          "count": 12
+        },
+        {
+          "value": "#222222",
+          "count": 10
+        },
+        {
+          "value": "#dfc78e",
+          "count": 5
+        },
+        {
+          "value": "#d0d1d4",
+          "count": 5
+        },
+        {
+          "value": "#504f4f",
+          "count": 5
+        },
+        {
+          "value": "#ebadcb",
+          "count": 5
+        }
+      ],
+      "borders": [],
+      "accents": [
+        {
+          "value": "#0d121f",
+          "count": 1
+        },
+        {
+          "value": "#4d1a28",
+          "count": 1
+        },
+        {
+          "value": "#c1b676",
+          "count": 1
+        },
+        {
+          "value": "#143199",
+          "count": 1
+        },
+        {
+          "value": "#96dced",
+          "count": 1
+        },
+        {
+          "value": "#442c25",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "Stripe Press — Ideas for progress",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "The Origins of Efficiency\n  ",
+          "bg": "#0d121f",
+          "bg_alpha": 1,
+          "color": "#d0d1d4",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 103.6px 0px 103.6px",
+          "height": 175,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Ivar Headline",
+          "letter_spacing": "0.32px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Boom\n      \n    \n    Byrne H",
+          "bg": "#4d1a28",
+          "bg_alpha": 1,
+          "color": "#ebadcb",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 103.6px 0px 103.6px",
+          "height": 175,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Ivar Headline",
+          "letter_spacing": "0.32px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Poor Charlie’s Almanack\n    ",
+          "bg": "#c1b676",
+          "bg_alpha": 1,
+          "color": "#18185e",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 103.6px 0px 103.6px",
+          "height": 175,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Ivar Headline",
+          "letter_spacing": "0.32px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Scaling People\n      \n    \n ",
+          "bg": "#143199",
+          "bg_alpha": 1,
+          "color": "#dee6ff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 103.6px 0px 103.6px",
+          "height": 175,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Ivar Headline",
+          "letter_spacing": "0.32px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Maintenance\n      \n    \n    ",
+          "bg": "#6e665b",
+          "bg_alpha": 1,
+          "color": "#dfc78e",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 103.6px 0px 103.6px",
+          "height": 175,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Ivar Headline",
+          "letter_spacing": "0.32px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "The Scaling Era\n      \n    \n",
+          "bg": "#e2e2e2",
+          "bg_alpha": 1,
+          "color": "#504f4f",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 103.6px 0px 103.6px",
+          "height": 175,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Ivar Headline",
+          "letter_spacing": "0.32px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "24.4px 24.4px 24.4px 24.4px",
+          "height": 72,
+          "font_size": "17px",
+          "font_weight": "600",
+          "font_family": "Ivar Headline",
+          "letter_spacing": "0.32px",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "17.6px",
+        "font_size_px": 17.6,
+        "font_weight": "600",
+        "line_height": "17.6px",
+        "line_height_ratio": 1,
+        "letter_spacing": "0.32px",
+        "font_family": "Ivar Headline",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "6px"
+      },
+      "h2": {
+        "count": 22,
+        "font_size": "21px",
+        "font_size_px": 21,
+        "font_weight": "400",
+        "line_height": "21px",
+        "line_height_ratio": 1,
+        "letter_spacing": "0.32px",
+        "font_family": "Ivar Headline",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "12px"
+      },
+      "h3": {
+        "count": 21,
+        "font_size": "17px",
+        "font_size_px": 17,
+        "font_weight": "400",
+        "line_height": "17px",
+        "line_height_ratio": 1,
+        "letter_spacing": "0.32px",
+        "font_family": "Ivar Text",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 7,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "500",
+        "line_height": "19.6px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "normal",
+        "font_family": "Ivar Text",
+        "color": "#000000"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 512,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 2
+        },
+        {
+          "value": 2,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 12,
+          "count": 1
+        },
+        {
+          "value": 16,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 49,
+      "grid_blocks": 3
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 103.6,
+          "count": 38
+        },
+        {
+          "value": 5,
+          "count": 30
+        },
+        {
+          "value": 24.4,
+          "count": 9
+        },
+        {
+          "value": 16,
+          "count": 8
+        },
+        {
+          "value": 1,
+          "count": 2
+        },
+        {
+          "value": 3,
+          "count": 2
+        },
+        {
+          "value": 6,
+          "count": 2
+        },
+        {
+          "value": 14,
+          "count": 2
+        },
+        {
+          "value": 36,
+          "count": 2
+        },
+        {
+          "value": 67.7,
+          "count": 2
+        },
+        {
+          "value": 201.6,
+          "count": 2
+        },
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 8,
+          "count": 1
+        },
+        {
+          "value": 12,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 20,
+          "count": 6
+        },
+        {
+          "value": 30,
+          "count": 4
+        },
+        {
+          "value": 12,
+          "count": 3
+        },
+        {
+          "value": 100,
+          "count": 2
+        },
+        {
+          "value": 6,
+          "count": 1
+        },
+        {
+          "value": 8,
+          "count": 1
+        },
+        {
+          "value": 40,
+          "count": 1
+        },
+        {
+          "value": 180,
+          "count": 1
+        },
+        {
+          "value": 200,
+          "count": 1
+        },
+        {
+          "value": 23.4,
+          "count": 1
+        },
+        {
+          "value": 242.06,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#201819",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 17
+        },
+        {
+          "value": "#201819",
+          "count": 3
+        },
+        {
+          "value": "#222222",
+          "count": 2
+        },
+        {
+          "value": "#6e665b",
+          "count": 1
+        },
+        {
+          "value": "#0d121f",
+          "count": 1
+        },
+        {
+          "value": "#e2e2e2",
+          "count": 1
+        },
+        {
+          "value": "#4d1a28",
+          "count": 1
+        },
+        {
+          "value": "#c1b676",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#ffffff",
+          "count": 69
+        },
+        {
+          "value": "#000000",
+          "count": 36
+        },
+        {
+          "value": "#201819",
+          "count": 12
+        },
+        {
+          "value": "#222222",
+          "count": 10
+        },
+        {
+          "value": "#dfc78e",
+          "count": 5
+        },
+        {
+          "value": "#d0d1d4",
+          "count": 5
+        },
+        {
+          "value": "#504f4f",
+          "count": 5
+        },
+        {
+          "value": "#ebadcb",
+          "count": 5
+        }
+      ],
+      "borders": [],
+      "accents": [
+        {
+          "value": "#0d121f",
+          "count": 1
+        },
+        {
+          "value": "#4d1a28",
+          "count": 1
+        },
+        {
+          "value": "#c1b676",
+          "count": 1
+        },
+        {
+          "value": "#143199",
+          "count": 1
+        },
+        {
+          "value": "#96dced",
+          "count": 1
+        },
+        {
+          "value": "#442c25",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

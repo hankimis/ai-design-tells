@@ -1,0 +1,909 @@
+{
+  "url": "https://www.uber.com",
+  "name": "www.uber.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "소개",
+          "bg": "#000000",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "999px",
+          "padding": "10px 12px 10px 12px",
+          "height": 38,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "UberMoveText",
+          "letter_spacing": "normal",
+          "line_height": "16px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "가입하기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "999px",
+          "padding": "10px 12px 10px 12px",
+          "height": 36,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "UberMoveText",
+          "letter_spacing": "normal",
+          "line_height": "16px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Clock지금 픽업Chevron down small",
+          "bg": "#efefef",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "999px",
+          "padding": "14px 16px 14px 16px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "UberMoveText",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "다음",
+          "bg": "#000000",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "8px",
+          "padding": "14px 25px 14px 25px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "UberMoveText",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "도시 변경",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "8px",
+          "padding": "0px 0px 0px 0px",
+          "height": 24,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "UberMoveText",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 24,
+          "font_size": "24px",
+          "font_weight": "400",
+          "font_family": "UberMoveText",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 2,
+        "font_size": "52px",
+        "font_size_px": 52,
+        "font_weight": "700",
+        "line_height": "64px",
+        "line_height_ratio": 1.23,
+        "letter_spacing": "normal",
+        "font_family": "UberMove",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 13,
+        "font_size": "36px",
+        "font_size_px": 36,
+        "font_weight": "700",
+        "line_height": "44px",
+        "line_height_ratio": 1.22,
+        "letter_spacing": "normal",
+        "font_family": "UberMove",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "29.88px"
+      },
+      "h3": {
+        "count": 1,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "700",
+        "line_height": "28px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "normal",
+        "font_family": "UberMove",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "20px"
+      },
+      "body": {
+        "count": 36,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.71,
+        "letter_spacing": "normal",
+        "font_family": "UberMoveText",
+        "color": "#000000"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1280,
+          "count": 10
+        },
+        {
+          "value": 1152,
+          "count": 1
+        },
+        {
+          "value": 1408,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 30
+        },
+        {
+          "value": 12,
+          "count": 16
+        },
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 36,
+          "count": 15
+        },
+        {
+          "value": 2,
+          "count": 3
+        },
+        {
+          "value": 8,
+          "count": 3
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 6,
+          "count": 1
+        },
+        {
+          "value": 10,
+          "count": 1
+        },
+        {
+          "value": 12,
+          "count": 1
+        },
+        {
+          "value": 16,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 64,
+          "count": 7
+        }
+      ],
+      "flex_blocks": 138,
+      "grid_blocks": 49
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 12,
+          "count": 40
+        },
+        {
+          "value": 64,
+          "count": 40
+        },
+        {
+          "value": 10,
+          "count": 27
+        },
+        {
+          "value": 16,
+          "count": 23
+        },
+        {
+          "value": 14,
+          "count": 21
+        },
+        {
+          "value": 8,
+          "count": 12
+        },
+        {
+          "value": 25,
+          "count": 10
+        },
+        {
+          "value": 4,
+          "count": 8
+        },
+        {
+          "value": 24,
+          "count": 8
+        },
+        {
+          "value": 36,
+          "count": 5
+        },
+        {
+          "value": 6,
+          "count": 3
+        },
+        {
+          "value": 48,
+          "count": 3
+        },
+        {
+          "value": 150,
+          "count": 2
+        },
+        {
+          "value": 2,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 34
+        },
+        {
+          "value": 12,
+          "count": 13
+        },
+        {
+          "value": 20,
+          "count": 9
+        },
+        {
+          "value": 24,
+          "count": 9
+        },
+        {
+          "value": 8,
+          "count": 7
+        },
+        {
+          "value": 4,
+          "count": 4
+        },
+        {
+          "value": 14.94,
+          "count": 4
+        },
+        {
+          "value": 29.88,
+          "count": 3
+        },
+        {
+          "value": 18,
+          "count": 2
+        },
+        {
+          "value": 24.12,
+          "count": 2
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 36,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 25
+        },
+        {
+          "value": "#000000",
+          "count": 20
+        },
+        {
+          "value": "#f3f3f3",
+          "count": 8
+        },
+        {
+          "value": "#eaf6ed",
+          "count": 1
+        },
+        {
+          "value": "#addec9",
+          "count": 1
+        },
+        {
+          "value": "#efefef",
+          "count": 1
+        },
+        {
+          "value": "#e8e8e8",
+          "count": 1
+        },
+        {
+          "value": "#9dcdd6",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 466
+        },
+        {
+          "value": "#ffffff",
+          "count": 84
+        },
+        {
+          "value": "#0000ee",
+          "count": 14
+        },
+        {
+          "value": "#afafaf",
+          "count": 8
+        },
+        {
+          "value": "#5e5e5e",
+          "count": 5
+        },
+        {
+          "value": "#333333",
+          "count": 2
+        },
+        {
+          "value": "#4b4b4b",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#f3f3f3",
+          "count": 2
+        }
+      ],
+      "accents": [
+        {
+          "value": "#addec9",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "지금 운행으로 수익을 올리거나 차량 서비스를 이용하세요 | Uber 대한민국",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "소개",
+          "bg": "#000000",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "999px",
+          "padding": "10px 12px 10px 12px",
+          "height": 38,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "UberMoveText",
+          "letter_spacing": "normal",
+          "line_height": "16px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "가입하기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "999px",
+          "padding": "10px 12px 10px 12px",
+          "height": 36,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "UberMoveText",
+          "letter_spacing": "normal",
+          "line_height": "16px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Clock지금 픽업Chevron down small",
+          "bg": "#efefef",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "999px",
+          "padding": "14px 16px 14px 16px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "UberMoveText",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "다음",
+          "bg": "#000000",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "8px",
+          "padding": "14px 25px 14px 25px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "UberMoveText",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "도시 변경",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "8px",
+          "padding": "0px 0px 0px 0px",
+          "height": 24,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "UberMoveText",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 24,
+          "font_size": "24px",
+          "font_weight": "400",
+          "font_family": "UberMoveText",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 2,
+        "font_size": "52px",
+        "font_size_px": 52,
+        "font_weight": "700",
+        "line_height": "64px",
+        "line_height_ratio": 1.23,
+        "letter_spacing": "normal",
+        "font_family": "UberMove",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 13,
+        "font_size": "36px",
+        "font_size_px": 36,
+        "font_weight": "700",
+        "line_height": "44px",
+        "line_height_ratio": 1.22,
+        "letter_spacing": "normal",
+        "font_family": "UberMove",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "29.88px"
+      },
+      "h3": {
+        "count": 1,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "700",
+        "line_height": "28px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "normal",
+        "font_family": "UberMove",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "20px"
+      },
+      "body": {
+        "count": 36,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.71,
+        "letter_spacing": "normal",
+        "font_family": "UberMoveText",
+        "color": "#000000"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1280,
+          "count": 10
+        },
+        {
+          "value": 1152,
+          "count": 1
+        },
+        {
+          "value": 1408,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 30
+        },
+        {
+          "value": 12,
+          "count": 16
+        },
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 36,
+          "count": 15
+        },
+        {
+          "value": 2,
+          "count": 3
+        },
+        {
+          "value": 8,
+          "count": 3
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 6,
+          "count": 1
+        },
+        {
+          "value": 10,
+          "count": 1
+        },
+        {
+          "value": 12,
+          "count": 1
+        },
+        {
+          "value": 16,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 64,
+          "count": 7
+        }
+      ],
+      "flex_blocks": 138,
+      "grid_blocks": 49
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 12,
+          "count": 40
+        },
+        {
+          "value": 64,
+          "count": 40
+        },
+        {
+          "value": 10,
+          "count": 27
+        },
+        {
+          "value": 16,
+          "count": 23
+        },
+        {
+          "value": 14,
+          "count": 21
+        },
+        {
+          "value": 8,
+          "count": 12
+        },
+        {
+          "value": 25,
+          "count": 10
+        },
+        {
+          "value": 4,
+          "count": 8
+        },
+        {
+          "value": 24,
+          "count": 8
+        },
+        {
+          "value": 36,
+          "count": 5
+        },
+        {
+          "value": 6,
+          "count": 3
+        },
+        {
+          "value": 48,
+          "count": 3
+        },
+        {
+          "value": 150,
+          "count": 2
+        },
+        {
+          "value": 2,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 34
+        },
+        {
+          "value": 12,
+          "count": 13
+        },
+        {
+          "value": 20,
+          "count": 9
+        },
+        {
+          "value": 24,
+          "count": 9
+        },
+        {
+          "value": 8,
+          "count": 7
+        },
+        {
+          "value": 4,
+          "count": 4
+        },
+        {
+          "value": 14.94,
+          "count": 4
+        },
+        {
+          "value": 29.88,
+          "count": 3
+        },
+        {
+          "value": 18,
+          "count": 2
+        },
+        {
+          "value": 24.12,
+          "count": 2
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 36,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 25
+        },
+        {
+          "value": "#000000",
+          "count": 20
+        },
+        {
+          "value": "#f3f3f3",
+          "count": 8
+        },
+        {
+          "value": "#eaf6ed",
+          "count": 1
+        },
+        {
+          "value": "#addec9",
+          "count": 1
+        },
+        {
+          "value": "#efefef",
+          "count": 1
+        },
+        {
+          "value": "#e8e8e8",
+          "count": 1
+        },
+        {
+          "value": "#9dcdd6",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 466
+        },
+        {
+          "value": "#ffffff",
+          "count": 84
+        },
+        {
+          "value": "#0000ee",
+          "count": 14
+        },
+        {
+          "value": "#afafaf",
+          "count": 8
+        },
+        {
+          "value": "#5e5e5e",
+          "count": 5
+        },
+        {
+          "value": "#333333",
+          "count": 2
+        },
+        {
+          "value": "#4b4b4b",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#f3f3f3",
+          "count": 2
+        }
+      ],
+      "accents": [
+        {
+          "value": "#addec9",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

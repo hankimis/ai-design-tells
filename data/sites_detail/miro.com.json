@@ -1,0 +1,927 @@
+{
+  "url": "https://miro.com",
+  "name": "miro.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#1c1c1e",
+          "border": "none",
+          "radius": "50%",
+          "padding": "12px 12px 12px 9px",
+          "height": 36,
+          "font_size": "12px",
+          "font_weight": "400",
+          "font_family": "sans-serif",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0.18) 0px 0.602187px 0.602187px -1.25px, rgba(0, 0, 0, 0.16) 0px 2.28853px 2.28853px -2.5px, rgba(0, 0, 0,",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#1c1c1e",
+          "border": "none",
+          "radius": "50%",
+          "padding": "12px 9px 12px 12px",
+          "height": 36,
+          "font_size": "12px",
+          "font_weight": "400",
+          "font_family": "sans-serif",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0.18) 0px 0.602187px 0.602187px -1.25px, rgba(0, 0, 0, 0.16) 0px 2.28853px 2.28853px -2.5px, rgba(0, 0, 0,",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "쿠키 설정",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#1c1c1e",
+          "border": "1px solid #c7cad5",
+          "radius": "8px",
+          "padding": "7px 12px 7px 12px",
+          "height": 39,
+          "font_size": "18px",
+          "font_weight": "400",
+          "font_family": "Roobert PRO Medium",
+          "letter_spacing": "0.18px",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s",
+          "_n": 2
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "프로덕트",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#1c1c1e",
+          "border": "none",
+          "radius": "8px",
+          "padding": "8px 4px 8px 8px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Roobert PRO",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 3
+        },
+        {
+          "role": "ghost",
+          "text": "무료 가입하기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "8px",
+          "padding": "1px 6px 1px 6px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Noto Sans",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.6s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 187,
+          "font_size": "12px",
+          "font_weight": "400",
+          "font_family": "sans-serif",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 5,
+        "font_size": "56px",
+        "font_size_px": 56,
+        "font_weight": "500",
+        "line_height": "56px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-1.68px",
+        "font_family": "Roobert PRO Medium",
+        "color": "#1c1c1e",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 7,
+        "font_size": "48px",
+        "font_size_px": 48,
+        "font_weight": "400",
+        "line_height": "55.2px",
+        "line_height_ratio": 1.15,
+        "letter_spacing": "-1.44px",
+        "font_family": "Roobert PRO Medium",
+        "color": "#1c1c1e",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 13,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "400",
+        "line_height": "46px",
+        "line_height_ratio": 1.15,
+        "letter_spacing": "-1.2px",
+        "font_family": "Roobert PRO Medium",
+        "color": "#1c1c1e",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 50,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "19.2px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "Inter",
+        "color": "#000000"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1200,
+          "count": 4
+        },
+        {
+          "value": 480,
+          "count": 2
+        },
+        {
+          "value": 740,
+          "count": 2
+        },
+        {
+          "value": 800,
+          "count": 2
+        },
+        {
+          "value": 640,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 6,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 61
+        },
+        {
+          "value": 10,
+          "count": 29
+        },
+        {
+          "value": 8,
+          "count": 28
+        },
+        {
+          "value": 12,
+          "count": 24
+        },
+        {
+          "value": 16,
+          "count": 17
+        },
+        {
+          "value": 24,
+          "count": 17
+        },
+        {
+          "value": 20,
+          "count": 15
+        },
+        {
+          "value": 6,
+          "count": 13
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 80,
+          "count": 2
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 36,
+          "count": 1
+        },
+        {
+          "value": 40,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 54,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 353,
+      "grid_blocks": 1
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 12,
+          "count": 54
+        },
+        {
+          "value": 8,
+          "count": 48
+        },
+        {
+          "value": 24,
+          "count": 34
+        },
+        {
+          "value": 16,
+          "count": 28
+        },
+        {
+          "value": 40,
+          "count": 27
+        },
+        {
+          "value": 4,
+          "count": 26
+        },
+        {
+          "value": 32,
+          "count": 20
+        },
+        {
+          "value": 7,
+          "count": 15
+        },
+        {
+          "value": 28,
+          "count": 12
+        },
+        {
+          "value": 9,
+          "count": 11
+        },
+        {
+          "value": 2,
+          "count": 8
+        },
+        {
+          "value": 6,
+          "count": 6
+        },
+        {
+          "value": 1,
+          "count": 5
+        },
+        {
+          "value": 5,
+          "count": 5
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 6,
+          "count": 43
+        },
+        {
+          "value": 12,
+          "count": 8
+        },
+        {
+          "value": 16,
+          "count": 7
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 32,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#f0f0f0",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 22
+        },
+        {
+          "value": "#1c1c1e",
+          "count": 18
+        },
+        {
+          "value": "#c9512c",
+          "count": 3
+        },
+        {
+          "value": "#aa2cc9",
+          "count": 3
+        },
+        {
+          "value": "#f0f0f0",
+          "count": 2
+        },
+        {
+          "value": "#fde050",
+          "count": 2
+        },
+        {
+          "value": "#3859ff",
+          "count": 2
+        },
+        {
+          "value": "#fff09a",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 532
+        },
+        {
+          "value": "#0000ee",
+          "count": 241
+        },
+        {
+          "value": "#ffffff",
+          "count": 192
+        },
+        {
+          "value": "#1c1c1e",
+          "count": 65
+        },
+        {
+          "value": "#555a6a",
+          "count": 13
+        },
+        {
+          "value": "#c7cad5",
+          "count": 5
+        },
+        {
+          "value": "#222428",
+          "count": 4
+        },
+        {
+          "value": "#600000",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#c7cad5",
+          "count": 3
+        },
+        {
+          "value": "#7a90fe",
+          "count": 1
+        },
+        {
+          "value": "#e9eaef",
+          "count": 1
+        },
+        {
+          "value": "#656b81",
+          "count": 1
+        },
+        {
+          "value": "#455bed",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#3859ff",
+          "count": 2
+        },
+        {
+          "value": "#fde050",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "AI 이노베이션 워크스페이스 | Miro",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#1c1c1e",
+          "border": "none",
+          "radius": "50%",
+          "padding": "12px 12px 12px 9px",
+          "height": 36,
+          "font_size": "12px",
+          "font_weight": "400",
+          "font_family": "sans-serif",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0.18) 0px 0.602187px 0.602187px -1.25px, rgba(0, 0, 0, 0.16) 0px 2.28853px 2.28853px -2.5px, rgba(0, 0, 0,",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#1c1c1e",
+          "border": "none",
+          "radius": "50%",
+          "padding": "12px 9px 12px 12px",
+          "height": 36,
+          "font_size": "12px",
+          "font_weight": "400",
+          "font_family": "sans-serif",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0.18) 0px 0.602187px 0.602187px -1.25px, rgba(0, 0, 0, 0.16) 0px 2.28853px 2.28853px -2.5px, rgba(0, 0, 0,",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "쿠키 설정",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#1c1c1e",
+          "border": "1px solid #c7cad5",
+          "radius": "8px",
+          "padding": "7px 12px 7px 12px",
+          "height": 39,
+          "font_size": "18px",
+          "font_weight": "400",
+          "font_family": "Roobert PRO Medium",
+          "letter_spacing": "0.18px",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s",
+          "_n": 2
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "프로덕트",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#1c1c1e",
+          "border": "none",
+          "radius": "8px",
+          "padding": "8px 4px 8px 8px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Roobert PRO",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 3
+        },
+        {
+          "role": "ghost",
+          "text": "무료 가입하기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "8px",
+          "padding": "1px 6px 1px 6px",
+          "height": 48,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Noto Sans",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.6s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 187,
+          "font_size": "12px",
+          "font_weight": "400",
+          "font_family": "sans-serif",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 5,
+        "font_size": "56px",
+        "font_size_px": 56,
+        "font_weight": "500",
+        "line_height": "56px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-1.68px",
+        "font_family": "Roobert PRO Medium",
+        "color": "#1c1c1e",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 7,
+        "font_size": "48px",
+        "font_size_px": 48,
+        "font_weight": "400",
+        "line_height": "55.2px",
+        "line_height_ratio": 1.15,
+        "letter_spacing": "-1.44px",
+        "font_family": "Roobert PRO Medium",
+        "color": "#1c1c1e",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 13,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "400",
+        "line_height": "46px",
+        "line_height_ratio": 1.15,
+        "letter_spacing": "-1.2px",
+        "font_family": "Roobert PRO Medium",
+        "color": "#1c1c1e",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 50,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "19.2px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "Inter",
+        "color": "#000000"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1200,
+          "count": 4
+        },
+        {
+          "value": 480,
+          "count": 2
+        },
+        {
+          "value": 740,
+          "count": 2
+        },
+        {
+          "value": 800,
+          "count": 2
+        },
+        {
+          "value": 640,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 6,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 61
+        },
+        {
+          "value": 10,
+          "count": 29
+        },
+        {
+          "value": 8,
+          "count": 28
+        },
+        {
+          "value": 12,
+          "count": 24
+        },
+        {
+          "value": 16,
+          "count": 17
+        },
+        {
+          "value": 24,
+          "count": 17
+        },
+        {
+          "value": 20,
+          "count": 15
+        },
+        {
+          "value": 6,
+          "count": 13
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 80,
+          "count": 2
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 36,
+          "count": 1
+        },
+        {
+          "value": 40,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 54,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 353,
+      "grid_blocks": 1
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 12,
+          "count": 54
+        },
+        {
+          "value": 8,
+          "count": 48
+        },
+        {
+          "value": 24,
+          "count": 34
+        },
+        {
+          "value": 16,
+          "count": 28
+        },
+        {
+          "value": 40,
+          "count": 27
+        },
+        {
+          "value": 4,
+          "count": 26
+        },
+        {
+          "value": 32,
+          "count": 20
+        },
+        {
+          "value": 7,
+          "count": 15
+        },
+        {
+          "value": 28,
+          "count": 12
+        },
+        {
+          "value": 9,
+          "count": 11
+        },
+        {
+          "value": 2,
+          "count": 8
+        },
+        {
+          "value": 6,
+          "count": 6
+        },
+        {
+          "value": 1,
+          "count": 5
+        },
+        {
+          "value": 5,
+          "count": 5
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 6,
+          "count": 43
+        },
+        {
+          "value": 12,
+          "count": 8
+        },
+        {
+          "value": 16,
+          "count": 7
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 32,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#f0f0f0",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 22
+        },
+        {
+          "value": "#1c1c1e",
+          "count": 18
+        },
+        {
+          "value": "#c9512c",
+          "count": 3
+        },
+        {
+          "value": "#aa2cc9",
+          "count": 3
+        },
+        {
+          "value": "#f0f0f0",
+          "count": 2
+        },
+        {
+          "value": "#fde050",
+          "count": 2
+        },
+        {
+          "value": "#3859ff",
+          "count": 2
+        },
+        {
+          "value": "#fff09a",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 532
+        },
+        {
+          "value": "#0000ee",
+          "count": 241
+        },
+        {
+          "value": "#ffffff",
+          "count": 192
+        },
+        {
+          "value": "#1c1c1e",
+          "count": 65
+        },
+        {
+          "value": "#555a6a",
+          "count": 13
+        },
+        {
+          "value": "#c7cad5",
+          "count": 5
+        },
+        {
+          "value": "#222428",
+          "count": 4
+        },
+        {
+          "value": "#600000",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#c7cad5",
+          "count": 3
+        },
+        {
+          "value": "#7a90fe",
+          "count": 1
+        },
+        {
+          "value": "#e9eaef",
+          "count": 1
+        },
+        {
+          "value": "#656b81",
+          "count": 1
+        },
+        {
+          "value": "#455bed",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#3859ff",
+          "count": 2
+        },
+        {
+          "value": "#fde050",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

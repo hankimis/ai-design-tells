@@ -1,0 +1,149 @@
+{
+  "url": "https://www.godaddy.com",
+  "name": "www.godaddy.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "32px",
+        "font_size_px": 32,
+        "font_weight": "700",
+        "line_height": "normal",
+        "line_height_ratio": null,
+        "letter_spacing": "normal",
+        "font_family": "Times",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "21.44px"
+      },
+      "body": {
+        "count": 2,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "normal",
+        "line_height_ratio": null,
+        "letter_spacing": "normal",
+        "font_family": "Times",
+        "color": "#000000"
+      }
+    },
+    "layout": {
+      "containers": [],
+      "grid_columns": [],
+      "gaps": [],
+      "section_padding_top": [],
+      "flex_blocks": 0,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 4
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 21.44,
+          "count": 2
+        }
+      ]
+    },
+    "color": {
+      "page_bg": null,
+      "backgrounds": [],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 5
+        }
+      ],
+      "borders": [],
+      "accents": []
+    }
+  },
+  "title": "Access Denied",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "32px",
+        "font_size_px": 32,
+        "font_weight": "700",
+        "line_height": "normal",
+        "line_height_ratio": null,
+        "letter_spacing": "normal",
+        "font_family": "Times",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "21.44px"
+      },
+      "body": {
+        "count": 2,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "normal",
+        "line_height_ratio": null,
+        "letter_spacing": "normal",
+        "font_family": "Times",
+        "color": "#000000"
+      }
+    },
+    "layout": {
+      "containers": [],
+      "grid_columns": [],
+      "gaps": [],
+      "section_padding_top": [],
+      "flex_blocks": 0,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 4
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 21.44,
+          "count": 2
+        }
+      ]
+    },
+    "color": {
+      "page_bg": null,
+      "backgrounds": [],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 5
+        }
+      ],
+      "borders": [],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

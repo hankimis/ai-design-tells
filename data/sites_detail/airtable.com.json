@@ -1,0 +1,1079 @@
+{
+  "url": "https://airtable.com",
+  "name": "airtable.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Sign up for freeSign up",
+          "bg": "#181d26",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #181d26",
+          "radius": "12px",
+          "padding": "16px 24px 16px 24px",
+          "height": 55,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Haas",
+          "letter_spacing": "0.16px",
+          "line_height": "20.8px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 6
+        },
+        {
+          "role": "primary",
+          "text": "Learn more",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#181d26",
+          "border": "1px solid #ffffff",
+          "radius": "12px",
+          "padding": "16px 24px 16px 24px",
+          "height": 56,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Haas",
+          "letter_spacing": "0.16px",
+          "line_height": "21.6px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "<img alt=\"bento-3\" loading=\"",
+          "bg": "#254fad",
+          "bg_alpha": 1,
+          "color": "#fa91e0",
+          "border": "none",
+          "radius": "32px",
+          "padding": "0px 0px 0px 0px",
+          "height": 427,
+          "font_size": "20px",
+          "font_weight": "400",
+          "font_family": "Haas Groot Disp",
+          "letter_spacing": "normal",
+          "line_height": "30px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Book Demo",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#181d26",
+          "border": "1px solid #181d26",
+          "radius": "12px",
+          "padding": "16px 24px 16px 24px",
+          "height": 55,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Haas",
+          "letter_spacing": "0.16px",
+          "line_height": "20.8px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 2
+        },
+        {
+          "role": "secondary",
+          "text": "01 AI app building",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#181d26",
+          "border": "1px solid #f8fafc",
+          "radius": "0px",
+          "padding": "16px 0px 16px 0px",
+          "height": 58,
+          "font_size": "18px",
+          "font_weight": "400",
+          "font_family": "Haas",
+          "letter_spacing": "0.18px",
+          "line_height": "24.3px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        },
+        {
+          "role": "secondary",
+          "text": "02 Agents at Scale",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#9297a0",
+          "border": "1px solid #f8fafc",
+          "radius": "0px",
+          "padding": "16px 0px 16px 0px",
+          "height": 58,
+          "font_size": "18px",
+          "font_weight": "400",
+          "font_family": "Haas",
+          "letter_spacing": "0.18px",
+          "line_height": "24.3px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 3
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#070c14",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 42,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Haas",
+          "letter_spacing": "normal",
+          "line_height": "17.5px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Platform",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#181d26",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 21,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Haas",
+          "letter_spacing": "normal",
+          "line_height": "20.8px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 3
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "400",
+        "line_height": "48px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "Haas",
+        "color": "#181d26",
+        "text_transform": "none",
+        "margin_bottom": "32px"
+      },
+      "h2": {
+        "count": 7,
+        "font_size": "32px",
+        "font_size_px": 32,
+        "font_weight": "400",
+        "line_height": "36.8px",
+        "line_height_ratio": 1.15,
+        "letter_spacing": "normal",
+        "font_family": "Haas",
+        "color": "#181d26",
+        "text_transform": "none",
+        "margin_bottom": "48px"
+      },
+      "h3": {
+        "count": 1,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "400",
+        "line_height": "32.4px",
+        "line_height_ratio": 1.35,
+        "letter_spacing": "0.12px",
+        "font_family": "Haas",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "16px"
+      },
+      "body": {
+        "count": 87,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "21.6px",
+        "line_height_ratio": 1.35,
+        "letter_spacing": "0.16px",
+        "font_family": "Haas",
+        "color": "#040e20"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1344,
+          "count": 14
+        },
+        {
+          "value": 1536,
+          "count": 3
+        },
+        {
+          "value": 1114,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 26,
+          "count": 13
+        },
+        {
+          "value": 1,
+          "count": 5
+        },
+        {
+          "value": 2,
+          "count": 2
+        },
+        {
+          "value": 3,
+          "count": 2
+        },
+        {
+          "value": 5,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 16,
+          "count": 13
+        },
+        {
+          "value": 12,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 4
+        },
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 32,
+          "count": 3
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 8,
+          "count": 1
+        },
+        {
+          "value": 20,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 64,
+          "count": 5
+        },
+        {
+          "value": 40,
+          "count": 4
+        },
+        {
+          "value": 48,
+          "count": 3
+        },
+        {
+          "value": 120.98,
+          "count": 1
+        },
+        {
+          "value": 427.16,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 118,
+      "grid_blocks": 24
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 16,
+          "count": 106
+        },
+        {
+          "value": 40,
+          "count": 30
+        },
+        {
+          "value": 48,
+          "count": 27
+        },
+        {
+          "value": 24,
+          "count": 26
+        },
+        {
+          "value": 2,
+          "count": 20
+        },
+        {
+          "value": 32,
+          "count": 17
+        },
+        {
+          "value": 64,
+          "count": 13
+        },
+        {
+          "value": 6,
+          "count": 12
+        },
+        {
+          "value": 4,
+          "count": 4
+        },
+        {
+          "value": 12,
+          "count": 4
+        },
+        {
+          "value": 427,
+          "count": 2
+        },
+        {
+          "value": 120.98,
+          "count": 1
+        },
+        {
+          "value": 427.16,
+          "count": 1
+        },
+        {
+          "value": 426.67,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 20
+        },
+        {
+          "value": 20,
+          "count": 18
+        },
+        {
+          "value": 8,
+          "count": 8
+        },
+        {
+          "value": 40,
+          "count": 3
+        },
+        {
+          "value": 48,
+          "count": 3
+        },
+        {
+          "value": 2,
+          "count": 2
+        },
+        {
+          "value": 12,
+          "count": 2
+        },
+        {
+          "value": 22,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 72,
+          "count": 1
+        },
+        {
+          "value": 96,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 14
+        },
+        {
+          "value": "#181d26",
+          "count": 6
+        },
+        {
+          "value": "#f8fafc",
+          "count": 4
+        },
+        {
+          "value": "#912e1f",
+          "count": 2
+        },
+        {
+          "value": "#f0f6ff",
+          "count": 1
+        },
+        {
+          "value": "#faf5e8",
+          "count": 1
+        },
+        {
+          "value": "#fcab79",
+          "count": 1
+        },
+        {
+          "value": "#c7e5f2",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#333333",
+          "count": 359
+        },
+        {
+          "value": "#181d26",
+          "count": 112
+        },
+        {
+          "value": "#333840",
+          "count": 95
+        },
+        {
+          "value": "#41454d",
+          "count": 44
+        },
+        {
+          "value": "#ffffff",
+          "count": 25
+        },
+        {
+          "value": "#254fad",
+          "count": 9
+        },
+        {
+          "value": "#040e20",
+          "count": 8
+        },
+        {
+          "value": "#070c14",
+          "count": 7
+        }
+      ],
+      "borders": [
+        {
+          "value": "#181d26",
+          "count": 8
+        },
+        {
+          "value": "#e0e2e6",
+          "count": 8
+        },
+        {
+          "value": "#f8fafc",
+          "count": 4
+        },
+        {
+          "value": "#ffffff",
+          "count": 2
+        }
+      ],
+      "accents": [
+        {
+          "value": "#fcab79",
+          "count": 1
+        },
+        {
+          "value": "#c7e5f2",
+          "count": 1
+        },
+        {
+          "value": "#254fad",
+          "count": 1
+        },
+        {
+          "value": "#0a2e0e",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "Airtable: Build Enterprise-ready AI Workflows, Apps & Agents - Airtable",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Sign up for freeSign up",
+          "bg": "#181d26",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #181d26",
+          "radius": "12px",
+          "padding": "16px 24px 16px 24px",
+          "height": 55,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Haas",
+          "letter_spacing": "0.16px",
+          "line_height": "20.8px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 6
+        },
+        {
+          "role": "primary",
+          "text": "Learn more",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#181d26",
+          "border": "1px solid #ffffff",
+          "radius": "12px",
+          "padding": "16px 24px 16px 24px",
+          "height": 56,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Haas",
+          "letter_spacing": "0.16px",
+          "line_height": "21.6px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "<img alt=\"bento-3\" loading=\"",
+          "bg": "#254fad",
+          "bg_alpha": 1,
+          "color": "#fa91e0",
+          "border": "none",
+          "radius": "32px",
+          "padding": "0px 0px 0px 0px",
+          "height": 427,
+          "font_size": "20px",
+          "font_weight": "400",
+          "font_family": "Haas Groot Disp",
+          "letter_spacing": "normal",
+          "line_height": "30px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Book Demo",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#181d26",
+          "border": "1px solid #181d26",
+          "radius": "12px",
+          "padding": "16px 24px 16px 24px",
+          "height": 55,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Haas",
+          "letter_spacing": "0.16px",
+          "line_height": "20.8px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 2
+        },
+        {
+          "role": "secondary",
+          "text": "01 AI app building",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#181d26",
+          "border": "1px solid #f8fafc",
+          "radius": "0px",
+          "padding": "16px 0px 16px 0px",
+          "height": 58,
+          "font_size": "18px",
+          "font_weight": "400",
+          "font_family": "Haas",
+          "letter_spacing": "0.18px",
+          "line_height": "24.3px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        },
+        {
+          "role": "secondary",
+          "text": "02 Agents at Scale",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#9297a0",
+          "border": "1px solid #f8fafc",
+          "radius": "0px",
+          "padding": "16px 0px 16px 0px",
+          "height": 58,
+          "font_size": "18px",
+          "font_weight": "400",
+          "font_family": "Haas",
+          "letter_spacing": "0.18px",
+          "line_height": "24.3px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 3
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#070c14",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 42,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Haas",
+          "letter_spacing": "normal",
+          "line_height": "17.5px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Platform",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#181d26",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 21,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Haas",
+          "letter_spacing": "normal",
+          "line_height": "20.8px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 3
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "400",
+        "line_height": "48px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "Haas",
+        "color": "#181d26",
+        "text_transform": "none",
+        "margin_bottom": "32px"
+      },
+      "h2": {
+        "count": 7,
+        "font_size": "32px",
+        "font_size_px": 32,
+        "font_weight": "400",
+        "line_height": "36.8px",
+        "line_height_ratio": 1.15,
+        "letter_spacing": "normal",
+        "font_family": "Haas",
+        "color": "#181d26",
+        "text_transform": "none",
+        "margin_bottom": "48px"
+      },
+      "h3": {
+        "count": 1,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "400",
+        "line_height": "32.4px",
+        "line_height_ratio": 1.35,
+        "letter_spacing": "0.12px",
+        "font_family": "Haas",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "16px"
+      },
+      "body": {
+        "count": 87,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "21.6px",
+        "line_height_ratio": 1.35,
+        "letter_spacing": "0.16px",
+        "font_family": "Haas",
+        "color": "#040e20"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1344,
+          "count": 14
+        },
+        {
+          "value": 1536,
+          "count": 3
+        },
+        {
+          "value": 1114,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 26,
+          "count": 13
+        },
+        {
+          "value": 1,
+          "count": 5
+        },
+        {
+          "value": 2,
+          "count": 2
+        },
+        {
+          "value": 3,
+          "count": 2
+        },
+        {
+          "value": 5,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 16,
+          "count": 13
+        },
+        {
+          "value": 12,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 4
+        },
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 32,
+          "count": 3
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 8,
+          "count": 1
+        },
+        {
+          "value": 20,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 64,
+          "count": 5
+        },
+        {
+          "value": 40,
+          "count": 4
+        },
+        {
+          "value": 48,
+          "count": 3
+        },
+        {
+          "value": 120.98,
+          "count": 1
+        },
+        {
+          "value": 427.16,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 118,
+      "grid_blocks": 24
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 16,
+          "count": 106
+        },
+        {
+          "value": 40,
+          "count": 30
+        },
+        {
+          "value": 48,
+          "count": 27
+        },
+        {
+          "value": 24,
+          "count": 26
+        },
+        {
+          "value": 2,
+          "count": 20
+        },
+        {
+          "value": 32,
+          "count": 17
+        },
+        {
+          "value": 64,
+          "count": 13
+        },
+        {
+          "value": 6,
+          "count": 12
+        },
+        {
+          "value": 4,
+          "count": 4
+        },
+        {
+          "value": 12,
+          "count": 4
+        },
+        {
+          "value": 427,
+          "count": 2
+        },
+        {
+          "value": 120.98,
+          "count": 1
+        },
+        {
+          "value": 427.16,
+          "count": 1
+        },
+        {
+          "value": 426.67,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 20
+        },
+        {
+          "value": 20,
+          "count": 18
+        },
+        {
+          "value": 8,
+          "count": 8
+        },
+        {
+          "value": 40,
+          "count": 3
+        },
+        {
+          "value": 48,
+          "count": 3
+        },
+        {
+          "value": 2,
+          "count": 2
+        },
+        {
+          "value": 12,
+          "count": 2
+        },
+        {
+          "value": 22,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 72,
+          "count": 1
+        },
+        {
+          "value": 96,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 14
+        },
+        {
+          "value": "#181d26",
+          "count": 6
+        },
+        {
+          "value": "#f8fafc",
+          "count": 4
+        },
+        {
+          "value": "#912e1f",
+          "count": 2
+        },
+        {
+          "value": "#f0f6ff",
+          "count": 1
+        },
+        {
+          "value": "#faf5e8",
+          "count": 1
+        },
+        {
+          "value": "#fcab79",
+          "count": 1
+        },
+        {
+          "value": "#c7e5f2",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#333333",
+          "count": 359
+        },
+        {
+          "value": "#181d26",
+          "count": 112
+        },
+        {
+          "value": "#333840",
+          "count": 95
+        },
+        {
+          "value": "#41454d",
+          "count": 44
+        },
+        {
+          "value": "#ffffff",
+          "count": 25
+        },
+        {
+          "value": "#254fad",
+          "count": 9
+        },
+        {
+          "value": "#040e20",
+          "count": 8
+        },
+        {
+          "value": "#070c14",
+          "count": 7
+        }
+      ],
+      "borders": [
+        {
+          "value": "#181d26",
+          "count": 8
+        },
+        {
+          "value": "#e0e2e6",
+          "count": 8
+        },
+        {
+          "value": "#f8fafc",
+          "count": 4
+        },
+        {
+          "value": "#ffffff",
+          "count": 2
+        }
+      ],
+      "accents": [
+        {
+          "value": "#fcab79",
+          "count": 1
+        },
+        {
+          "value": "#c7e5f2",
+          "count": 1
+        },
+        {
+          "value": "#254fad",
+          "count": 1
+        },
+        {
+          "value": "#0a2e0e",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

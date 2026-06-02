@@ -1,0 +1,669 @@
+{
+  "url": "https://www.nytimes.com",
+  "name": "www.nytimes.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 17,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "nyt-franklin",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "uppercase",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 12
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Search",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "3px",
+          "padding": "8px 9px 9px 9px",
+          "height": 33,
+          "font_size": "11px",
+          "font_weight": "700",
+          "font_family": "nyt-franklin",
+          "letter_spacing": "0.22px",
+          "line_height": "11px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.6s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "50%",
+          "padding": "0px 0px 0px 0px",
+          "height": 26,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "nyt-franklin",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.2s",
+          "_n": 4
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 9,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "16px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "Times",
+        "color": "#121212",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 218,
+        "font_size": "10px",
+        "font_size_px": 10,
+        "font_weight": "500",
+        "line_height": "12.5px",
+        "line_height_ratio": 1.25,
+        "letter_spacing": "1px",
+        "font_family": "nyt-franklin",
+        "color": "#727272"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1200,
+          "count": 3
+        },
+        {
+          "value": 1605,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 6,
+          "count": 39
+        },
+        {
+          "value": 14,
+          "count": 34
+        },
+        {
+          "value": 7,
+          "count": 12
+        },
+        {
+          "value": 20,
+          "count": 10
+        },
+        {
+          "value": 4,
+          "count": 7
+        }
+      ],
+      "gaps": [
+        {
+          "value": 10,
+          "count": 6
+        },
+        {
+          "value": 16,
+          "count": 6
+        },
+        {
+          "value": 4,
+          "count": 2
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 369,
+      "grid_blocks": 113
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 10,
+          "count": 61
+        },
+        {
+          "value": 12,
+          "count": 32
+        },
+        {
+          "value": 24,
+          "count": 26
+        },
+        {
+          "value": 16,
+          "count": 24
+        },
+        {
+          "value": 8,
+          "count": 22
+        },
+        {
+          "value": 6,
+          "count": 17
+        },
+        {
+          "value": 90.3,
+          "count": 15
+        },
+        {
+          "value": 347.91,
+          "count": 9
+        },
+        {
+          "value": 43.19,
+          "count": 8
+        },
+        {
+          "value": 9,
+          "count": 6
+        },
+        {
+          "value": 11,
+          "count": 6
+        },
+        {
+          "value": 142.25,
+          "count": 6
+        },
+        {
+          "value": 2,
+          "count": 5
+        },
+        {
+          "value": 7,
+          "count": 5
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 4,
+          "count": 136
+        },
+        {
+          "value": 10,
+          "count": 121
+        },
+        {
+          "value": 11,
+          "count": 40
+        },
+        {
+          "value": 30,
+          "count": 40
+        },
+        {
+          "value": 8,
+          "count": 22
+        },
+        {
+          "value": 12,
+          "count": 16
+        },
+        {
+          "value": 20,
+          "count": 8
+        },
+        {
+          "value": 2,
+          "count": 6
+        },
+        {
+          "value": 16,
+          "count": 4
+        },
+        {
+          "value": 6,
+          "count": 2
+        },
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 15,
+          "count": 1
+        },
+        {
+          "value": 35,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ebebeb",
+          "count": 242
+        },
+        {
+          "value": "#ffffff",
+          "count": 19
+        },
+        {
+          "value": "#f8f8f8",
+          "count": 5
+        },
+        {
+          "value": "#567b95",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#121212",
+          "count": 1400
+        },
+        {
+          "value": "#000000",
+          "count": 765
+        },
+        {
+          "value": "#5a5a5a",
+          "count": 259
+        },
+        {
+          "value": "#727272",
+          "count": 125
+        },
+        {
+          "value": "#666666",
+          "count": 16
+        },
+        {
+          "value": "#ffffff",
+          "count": 8
+        },
+        {
+          "value": "#d0021b",
+          "count": 6
+        },
+        {
+          "value": "#3f893b",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#dfdfdf",
+          "count": 4
+        },
+        {
+          "value": "#326891",
+          "count": 2
+        },
+        {
+          "value": "#ebebeb",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "title": "The New York Times - Breaking News, US News, World News and Videos",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 17,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "nyt-franklin",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "uppercase",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 12
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Search",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "3px",
+          "padding": "8px 9px 9px 9px",
+          "height": 33,
+          "font_size": "11px",
+          "font_weight": "700",
+          "font_family": "nyt-franklin",
+          "letter_spacing": "0.22px",
+          "line_height": "11px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.6s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "50%",
+          "padding": "0px 0px 0px 0px",
+          "height": 26,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "nyt-franklin",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.2s",
+          "_n": 4
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 9,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "16px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "Times",
+        "color": "#121212",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 218,
+        "font_size": "10px",
+        "font_size_px": 10,
+        "font_weight": "500",
+        "line_height": "12.5px",
+        "line_height_ratio": 1.25,
+        "letter_spacing": "1px",
+        "font_family": "nyt-franklin",
+        "color": "#727272"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1200,
+          "count": 3
+        },
+        {
+          "value": 1605,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 6,
+          "count": 39
+        },
+        {
+          "value": 14,
+          "count": 34
+        },
+        {
+          "value": 7,
+          "count": 12
+        },
+        {
+          "value": 20,
+          "count": 10
+        },
+        {
+          "value": 4,
+          "count": 7
+        }
+      ],
+      "gaps": [
+        {
+          "value": 10,
+          "count": 6
+        },
+        {
+          "value": 16,
+          "count": 6
+        },
+        {
+          "value": 4,
+          "count": 2
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 369,
+      "grid_blocks": 113
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 10,
+          "count": 61
+        },
+        {
+          "value": 12,
+          "count": 32
+        },
+        {
+          "value": 24,
+          "count": 26
+        },
+        {
+          "value": 16,
+          "count": 24
+        },
+        {
+          "value": 8,
+          "count": 22
+        },
+        {
+          "value": 6,
+          "count": 17
+        },
+        {
+          "value": 90.3,
+          "count": 15
+        },
+        {
+          "value": 347.91,
+          "count": 9
+        },
+        {
+          "value": 43.19,
+          "count": 8
+        },
+        {
+          "value": 9,
+          "count": 6
+        },
+        {
+          "value": 11,
+          "count": 6
+        },
+        {
+          "value": 142.25,
+          "count": 6
+        },
+        {
+          "value": 2,
+          "count": 5
+        },
+        {
+          "value": 7,
+          "count": 5
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 4,
+          "count": 136
+        },
+        {
+          "value": 10,
+          "count": 121
+        },
+        {
+          "value": 11,
+          "count": 40
+        },
+        {
+          "value": 30,
+          "count": 40
+        },
+        {
+          "value": 8,
+          "count": 22
+        },
+        {
+          "value": 12,
+          "count": 16
+        },
+        {
+          "value": 20,
+          "count": 8
+        },
+        {
+          "value": 2,
+          "count": 6
+        },
+        {
+          "value": 16,
+          "count": 4
+        },
+        {
+          "value": 6,
+          "count": 2
+        },
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 15,
+          "count": 1
+        },
+        {
+          "value": 35,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ebebeb",
+          "count": 242
+        },
+        {
+          "value": "#ffffff",
+          "count": 19
+        },
+        {
+          "value": "#f8f8f8",
+          "count": 5
+        },
+        {
+          "value": "#567b95",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#121212",
+          "count": 1400
+        },
+        {
+          "value": "#000000",
+          "count": 765
+        },
+        {
+          "value": "#5a5a5a",
+          "count": 259
+        },
+        {
+          "value": "#727272",
+          "count": 125
+        },
+        {
+          "value": "#666666",
+          "count": 16
+        },
+        {
+          "value": "#ffffff",
+          "count": 8
+        },
+        {
+          "value": "#d0021b",
+          "count": 6
+        },
+        {
+          "value": "#3f893b",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#dfdfdf",
+          "count": 4
+        },
+        {
+          "value": "#326891",
+          "count": 2
+        },
+        {
+          "value": "#ebebeb",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

@@ -1,0 +1,769 @@
+{
+  "url": "https://www.calm.com",
+  "name": "www.calm.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Calm 무료 체험하기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#383838",
+          "border": "none",
+          "radius": "100px",
+          "padding": "14px 17.7778px 14px 17.7778px",
+          "height": 56,
+          "font_size": "18px",
+          "font_weight": "700",
+          "font_family": "Figtree",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#000000",
+          "bg_alpha": 0.2,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "100px",
+          "padding": "0px 0px 0px 0px",
+          "height": 32,
+          "font_size": "18px",
+          "font_weight": "500",
+          "font_family": "Figtree",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Yearly₩59,000/년₩4,917/개월14일 ",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "2px solid #1a3e6f",
+          "radius": "10px",
+          "padding": "2px 16px 2px 16px",
+          "height": 76,
+          "font_size": "18px",
+          "font_weight": "700",
+          "font_family": "Figtree",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "수면",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 22,
+          "font_size": "18px",
+          "font_weight": "700",
+          "font_family": "Figtree",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 6
+        },
+        {
+          "role": "ghost",
+          "text": "Calm 무료 체험하기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "100px",
+          "padding": "14px 17.7778px 14px 17.7778px",
+          "height": 58,
+          "font_size": "18px",
+          "font_weight": "700",
+          "font_family": "Figtree",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "평온한 일상,스트레스와 불안에서 벗어나 일상으로 돌",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 247,
+          "font_size": "18px",
+          "font_weight": "400",
+          "font_family": "Figtree",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 3
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "49.5px",
+        "font_size_px": 49.5,
+        "font_weight": "700",
+        "line_height": "74.25px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Figtree",
+        "color": "#1a3e6f",
+        "text_transform": "none",
+        "margin_bottom": "8px"
+      },
+      "h2": {
+        "count": 8,
+        "font_size": "36px",
+        "font_size_px": 36,
+        "font_weight": "700",
+        "line_height": "60px",
+        "line_height_ratio": 1.67,
+        "letter_spacing": "normal",
+        "font_family": "Figtree",
+        "color": "#1a3e6f",
+        "text_transform": "none",
+        "margin_bottom": "40px"
+      },
+      "h3": {
+        "count": 3,
+        "font_size": "31.5px",
+        "font_size_px": 31.5,
+        "font_weight": "500",
+        "line_height": "48px",
+        "line_height_ratio": 1.52,
+        "letter_spacing": "normal",
+        "font_family": "Figtree",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "8px"
+      },
+      "body": {
+        "count": 24,
+        "font_size": "18px",
+        "font_size_px": 18,
+        "font_weight": "400",
+        "line_height": "28px",
+        "line_height_ratio": 1.56,
+        "letter_spacing": "normal",
+        "font_family": "Figtree",
+        "color": "#000000"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1440,
+          "count": 3
+        },
+        {
+          "value": 620,
+          "count": 1
+        },
+        {
+          "value": 1168,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 5,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 12,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 29,
+      "grid_blocks": 2
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 40,
+          "count": 20
+        },
+        {
+          "value": 32,
+          "count": 18
+        },
+        {
+          "value": 14,
+          "count": 10
+        },
+        {
+          "value": 17.78,
+          "count": 10
+        },
+        {
+          "value": 136,
+          "count": 6
+        },
+        {
+          "value": 8,
+          "count": 4
+        },
+        {
+          "value": 16,
+          "count": 4
+        },
+        {
+          "value": 2,
+          "count": 2
+        },
+        {
+          "value": 6,
+          "count": 2
+        },
+        {
+          "value": 12,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 48,
+          "count": 2
+        },
+        {
+          "value": 100,
+          "count": 2
+        },
+        {
+          "value": 140,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 12,
+          "count": 28
+        },
+        {
+          "value": 8,
+          "count": 19
+        },
+        {
+          "value": 20,
+          "count": 6
+        },
+        {
+          "value": 16,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 4
+        },
+        {
+          "value": 14,
+          "count": 3
+        },
+        {
+          "value": 40,
+          "count": 3
+        },
+        {
+          "value": 100,
+          "count": 2
+        },
+        {
+          "value": 28,
+          "count": 1
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 36,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#f7f7f7",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 4
+        },
+        {
+          "value": "#f7f7f7",
+          "count": 2
+        },
+        {
+          "value": "#1b2250",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 136
+        },
+        {
+          "value": "#ffffff",
+          "count": 127
+        },
+        {
+          "value": "#383838",
+          "count": 4
+        },
+        {
+          "value": "#1a3e6f",
+          "count": 4
+        },
+        {
+          "value": "#555be4",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#1a3e6f",
+          "count": 1
+        },
+        {
+          "value": "#aaaaaa",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "title": "Calm - 명상 및 수면 부문 1위 앱",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Calm 무료 체험하기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#383838",
+          "border": "none",
+          "radius": "100px",
+          "padding": "14px 17.7778px 14px 17.7778px",
+          "height": 56,
+          "font_size": "18px",
+          "font_weight": "700",
+          "font_family": "Figtree",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#000000",
+          "bg_alpha": 0.2,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "100px",
+          "padding": "0px 0px 0px 0px",
+          "height": 32,
+          "font_size": "18px",
+          "font_weight": "500",
+          "font_family": "Figtree",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Yearly₩59,000/년₩4,917/개월14일 ",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "2px solid #1a3e6f",
+          "radius": "10px",
+          "padding": "2px 16px 2px 16px",
+          "height": 76,
+          "font_size": "18px",
+          "font_weight": "700",
+          "font_family": "Figtree",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "수면",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 22,
+          "font_size": "18px",
+          "font_weight": "700",
+          "font_family": "Figtree",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 6
+        },
+        {
+          "role": "ghost",
+          "text": "Calm 무료 체험하기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "100px",
+          "padding": "14px 17.7778px 14px 17.7778px",
+          "height": 58,
+          "font_size": "18px",
+          "font_weight": "700",
+          "font_family": "Figtree",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "평온한 일상,스트레스와 불안에서 벗어나 일상으로 돌",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 247,
+          "font_size": "18px",
+          "font_weight": "400",
+          "font_family": "Figtree",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 3
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "49.5px",
+        "font_size_px": 49.5,
+        "font_weight": "700",
+        "line_height": "74.25px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Figtree",
+        "color": "#1a3e6f",
+        "text_transform": "none",
+        "margin_bottom": "8px"
+      },
+      "h2": {
+        "count": 8,
+        "font_size": "36px",
+        "font_size_px": 36,
+        "font_weight": "700",
+        "line_height": "60px",
+        "line_height_ratio": 1.67,
+        "letter_spacing": "normal",
+        "font_family": "Figtree",
+        "color": "#1a3e6f",
+        "text_transform": "none",
+        "margin_bottom": "40px"
+      },
+      "h3": {
+        "count": 3,
+        "font_size": "31.5px",
+        "font_size_px": 31.5,
+        "font_weight": "500",
+        "line_height": "48px",
+        "line_height_ratio": 1.52,
+        "letter_spacing": "normal",
+        "font_family": "Figtree",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "8px"
+      },
+      "body": {
+        "count": 24,
+        "font_size": "18px",
+        "font_size_px": 18,
+        "font_weight": "400",
+        "line_height": "28px",
+        "line_height_ratio": 1.56,
+        "letter_spacing": "normal",
+        "font_family": "Figtree",
+        "color": "#000000"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1440,
+          "count": 3
+        },
+        {
+          "value": 620,
+          "count": 1
+        },
+        {
+          "value": 1168,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 5,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 12,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 29,
+      "grid_blocks": 2
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 40,
+          "count": 20
+        },
+        {
+          "value": 32,
+          "count": 18
+        },
+        {
+          "value": 14,
+          "count": 10
+        },
+        {
+          "value": 17.78,
+          "count": 10
+        },
+        {
+          "value": 136,
+          "count": 6
+        },
+        {
+          "value": 8,
+          "count": 4
+        },
+        {
+          "value": 16,
+          "count": 4
+        },
+        {
+          "value": 2,
+          "count": 2
+        },
+        {
+          "value": 6,
+          "count": 2
+        },
+        {
+          "value": 12,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 48,
+          "count": 2
+        },
+        {
+          "value": 100,
+          "count": 2
+        },
+        {
+          "value": 140,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 12,
+          "count": 28
+        },
+        {
+          "value": 8,
+          "count": 19
+        },
+        {
+          "value": 20,
+          "count": 6
+        },
+        {
+          "value": 16,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 4
+        },
+        {
+          "value": 14,
+          "count": 3
+        },
+        {
+          "value": 40,
+          "count": 3
+        },
+        {
+          "value": 100,
+          "count": 2
+        },
+        {
+          "value": 28,
+          "count": 1
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 36,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#f7f7f7",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 4
+        },
+        {
+          "value": "#f7f7f7",
+          "count": 2
+        },
+        {
+          "value": "#1b2250",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 136
+        },
+        {
+          "value": "#ffffff",
+          "count": 127
+        },
+        {
+          "value": "#383838",
+          "count": 4
+        },
+        {
+          "value": "#1a3e6f",
+          "count": 4
+        },
+        {
+          "value": "#555be4",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#1a3e6f",
+          "count": 1
+        },
+        {
+          "value": "#aaaaaa",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

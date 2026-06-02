@@ -1,0 +1,803 @@
+{
+  "url": "https://www.airbnb.com",
+  "name": "www.airbnb.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#f2f2f2",
+          "bg_alpha": 1,
+          "color": "#222222",
+          "border": "none",
+          "radius": "50%",
+          "padding": "0px 0px 0px 0px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Airbnb Cereal VF",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s",
+          "_n": 6
+        },
+        {
+          "role": "primary",
+          "text": "_",
+          "bg": "#f2f2f2",
+          "bg_alpha": 1,
+          "color": "#c1c1c1",
+          "border": "none",
+          "radius": "50%",
+          "padding": "0px 0px 0px 0px",
+          "height": 28,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Airbnb Cereal VF",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s",
+          "_n": 4
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "날짜날짜 추가",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#222222",
+          "border": "none",
+          "radius": "32px",
+          "padding": "0px 0px 0px 0px",
+          "height": 66,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Airbnb Cereal VF",
+          "letter_spacing": "normal",
+          "line_height": "20.02px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#222222",
+          "border": "none",
+          "radius": "50px",
+          "padding": "0px 0px 0px 0px",
+          "height": 48,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Airbnb Cereal VF",
+          "letter_spacing": "normal",
+          "line_height": "20.02px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "호스팅 하기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#222222",
+          "border": "none",
+          "radius": "20px",
+          "padding": "11px 12px 11px 12px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "Airbnb Cereal VF",
+          "letter_spacing": "normal",
+          "line_height": "18px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.1s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 5,
+        "font_size": "22px",
+        "font_size_px": 22,
+        "font_weight": "500",
+        "line_height": "26px",
+        "line_height_ratio": 1.18,
+        "letter_spacing": "normal",
+        "font_family": "Airbnb Cereal VF",
+        "color": "#222222",
+        "text_transform": "none",
+        "margin_bottom": "8px"
+      },
+      "h3": {
+        "count": 3,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "500",
+        "line_height": "18px",
+        "line_height_ratio": 1.29,
+        "letter_spacing": "normal",
+        "font_family": "Airbnb Cereal VF",
+        "color": "#222222",
+        "text_transform": "none",
+        "margin_bottom": "16px"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1440,
+          "count": 4
+        },
+        {
+          "value": 1920,
+          "count": 3
+        },
+        {
+          "value": 850,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 68
+        },
+        {
+          "value": 3,
+          "count": 65
+        },
+        {
+          "value": 1,
+          "count": 43
+        },
+        {
+          "value": 9,
+          "count": 4
+        },
+        {
+          "value": 6,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 34
+        },
+        {
+          "value": 2,
+          "count": 33
+        },
+        {
+          "value": 12,
+          "count": 6
+        },
+        {
+          "value": 16,
+          "count": 3
+        },
+        {
+          "value": 4,
+          "count": 1
+        },
+        {
+          "value": 20,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 35,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 48,
+          "count": 2
+        }
+      ],
+      "flex_blocks": 398,
+      "grid_blocks": 183
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 12,
+          "count": 100
+        },
+        {
+          "value": 5.5,
+          "count": 50
+        },
+        {
+          "value": 9.5,
+          "count": 50
+        },
+        {
+          "value": 2,
+          "count": 40
+        },
+        {
+          "value": 10,
+          "count": 32
+        },
+        {
+          "value": 8,
+          "count": 19
+        },
+        {
+          "value": 4,
+          "count": 16
+        },
+        {
+          "value": 48,
+          "count": 12
+        },
+        {
+          "value": 6,
+          "count": 8
+        },
+        {
+          "value": 44,
+          "count": 8
+        },
+        {
+          "value": 15,
+          "count": 6
+        },
+        {
+          "value": 24,
+          "count": 5
+        },
+        {
+          "value": 3,
+          "count": 4
+        },
+        {
+          "value": 13.3,
+          "count": 4
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 4,
+          "count": 64
+        },
+        {
+          "value": 12,
+          "count": 39
+        },
+        {
+          "value": 6,
+          "count": 12
+        },
+        {
+          "value": 8,
+          "count": 5
+        },
+        {
+          "value": 28.25,
+          "count": 4
+        },
+        {
+          "value": 16,
+          "count": 3
+        },
+        {
+          "value": 40,
+          "count": 3
+        },
+        {
+          "value": 22,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 49,
+          "count": 1
+        },
+        {
+          "value": 53,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#dddddd",
+          "count": 32
+        },
+        {
+          "value": "#ffffff",
+          "count": 31
+        },
+        {
+          "value": "#f2f2f2",
+          "count": 14
+        },
+        {
+          "value": "#b0b0b0",
+          "count": 12
+        },
+        {
+          "value": "#222222",
+          "count": 3
+        },
+        {
+          "value": "#f7f7f7",
+          "count": 2
+        },
+        {
+          "value": "#e00b41",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#222222",
+          "count": 1271
+        },
+        {
+          "value": "#6a6a6a",
+          "count": 524
+        },
+        {
+          "value": "#c1c1c1",
+          "count": 80
+        },
+        {
+          "value": "#ffffff",
+          "count": 11
+        },
+        {
+          "value": "#ff385c",
+          "count": 4
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#ffffff",
+          "count": 37
+        },
+        {
+          "value": "#dddddd",
+          "count": 2
+        },
+        {
+          "value": "#ebebeb",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "title": "에어비앤비 | 휴가지 숙소, 통나무집, 해변가 주택 등",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#f2f2f2",
+          "bg_alpha": 1,
+          "color": "#222222",
+          "border": "none",
+          "radius": "50%",
+          "padding": "0px 0px 0px 0px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Airbnb Cereal VF",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s",
+          "_n": 6
+        },
+        {
+          "role": "primary",
+          "text": "_",
+          "bg": "#f2f2f2",
+          "bg_alpha": 1,
+          "color": "#c1c1c1",
+          "border": "none",
+          "radius": "50%",
+          "padding": "0px 0px 0px 0px",
+          "height": 28,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Airbnb Cereal VF",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s",
+          "_n": 4
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "날짜날짜 추가",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#222222",
+          "border": "none",
+          "radius": "32px",
+          "padding": "0px 0px 0px 0px",
+          "height": 66,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Airbnb Cereal VF",
+          "letter_spacing": "normal",
+          "line_height": "20.02px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#222222",
+          "border": "none",
+          "radius": "50px",
+          "padding": "0px 0px 0px 0px",
+          "height": 48,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Airbnb Cereal VF",
+          "letter_spacing": "normal",
+          "line_height": "20.02px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "호스팅 하기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#222222",
+          "border": "none",
+          "radius": "20px",
+          "padding": "11px 12px 11px 12px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "Airbnb Cereal VF",
+          "letter_spacing": "normal",
+          "line_height": "18px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.1s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 5,
+        "font_size": "22px",
+        "font_size_px": 22,
+        "font_weight": "500",
+        "line_height": "26px",
+        "line_height_ratio": 1.18,
+        "letter_spacing": "normal",
+        "font_family": "Airbnb Cereal VF",
+        "color": "#222222",
+        "text_transform": "none",
+        "margin_bottom": "8px"
+      },
+      "h3": {
+        "count": 3,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "500",
+        "line_height": "18px",
+        "line_height_ratio": 1.29,
+        "letter_spacing": "normal",
+        "font_family": "Airbnb Cereal VF",
+        "color": "#222222",
+        "text_transform": "none",
+        "margin_bottom": "16px"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1440,
+          "count": 4
+        },
+        {
+          "value": 1920,
+          "count": 3
+        },
+        {
+          "value": 850,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 68
+        },
+        {
+          "value": 3,
+          "count": 65
+        },
+        {
+          "value": 1,
+          "count": 43
+        },
+        {
+          "value": 9,
+          "count": 4
+        },
+        {
+          "value": 6,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 34
+        },
+        {
+          "value": 2,
+          "count": 33
+        },
+        {
+          "value": 12,
+          "count": 6
+        },
+        {
+          "value": 16,
+          "count": 3
+        },
+        {
+          "value": 4,
+          "count": 1
+        },
+        {
+          "value": 20,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 35,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 48,
+          "count": 2
+        }
+      ],
+      "flex_blocks": 398,
+      "grid_blocks": 183
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 12,
+          "count": 100
+        },
+        {
+          "value": 5.5,
+          "count": 50
+        },
+        {
+          "value": 9.5,
+          "count": 50
+        },
+        {
+          "value": 2,
+          "count": 40
+        },
+        {
+          "value": 10,
+          "count": 32
+        },
+        {
+          "value": 8,
+          "count": 19
+        },
+        {
+          "value": 4,
+          "count": 16
+        },
+        {
+          "value": 48,
+          "count": 12
+        },
+        {
+          "value": 6,
+          "count": 8
+        },
+        {
+          "value": 44,
+          "count": 8
+        },
+        {
+          "value": 15,
+          "count": 6
+        },
+        {
+          "value": 24,
+          "count": 5
+        },
+        {
+          "value": 3,
+          "count": 4
+        },
+        {
+          "value": 13.3,
+          "count": 4
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 4,
+          "count": 64
+        },
+        {
+          "value": 12,
+          "count": 39
+        },
+        {
+          "value": 6,
+          "count": 12
+        },
+        {
+          "value": 8,
+          "count": 5
+        },
+        {
+          "value": 28.25,
+          "count": 4
+        },
+        {
+          "value": 16,
+          "count": 3
+        },
+        {
+          "value": 40,
+          "count": 3
+        },
+        {
+          "value": 22,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 49,
+          "count": 1
+        },
+        {
+          "value": 53,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#dddddd",
+          "count": 32
+        },
+        {
+          "value": "#ffffff",
+          "count": 31
+        },
+        {
+          "value": "#f2f2f2",
+          "count": 14
+        },
+        {
+          "value": "#b0b0b0",
+          "count": 12
+        },
+        {
+          "value": "#222222",
+          "count": 3
+        },
+        {
+          "value": "#f7f7f7",
+          "count": 2
+        },
+        {
+          "value": "#e00b41",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#222222",
+          "count": 1271
+        },
+        {
+          "value": "#6a6a6a",
+          "count": 524
+        },
+        {
+          "value": "#c1c1c1",
+          "count": 80
+        },
+        {
+          "value": "#ffffff",
+          "count": 11
+        },
+        {
+          "value": "#ff385c",
+          "count": 4
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#ffffff",
+          "count": 37
+        },
+        {
+          "value": "#dddddd",
+          "count": 2
+        },
+        {
+          "value": "#ebebeb",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

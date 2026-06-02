@@ -10,7 +10,9 @@ MCP SDK itself.
 Tools
   score_design(html)      score an HTML string; returns score, grade, fired tells + fixes
   score_file(path)        read a local .html file and score it
+  audit_url(url)          render a live URL in headless Chrome and score its computed styles
   list_tells()            the full taxonomy (id, family, weight, why, fix)
+  component_specs()       concrete CSS target values measured from 199 real sites
   harness_prompt()        a ready-to-paste system-prompt section that pre-empts the tells
 
 Run (stdio):  python mcp/server.py
@@ -117,6 +119,22 @@ def list_tells() -> list:
          "weight": t.weight, "severity": t.severity, "why": t.why, "fix": t.fix}
         for t in TELLS
     ]
+
+
+@mcp.tool()
+def component_specs() -> dict:
+    """Return measured, concrete CSS target values from a catalog of 199 real
+    design-led sites: button radius/padding/weight, the type scale (h1-body sizes,
+    line-heights, tracking), layout container widths and section rhythm, the 4/8px
+    spacing scale, and light + dark color palettes (page bg, text, accents,
+    surfaces). Use this when building UI to pick values that match what top sites
+    ship, instead of framework defaults. Companion to the negative `list_tells`."""
+    here = os.path.dirname(os.path.abspath(__file__))
+    path = os.path.join(here, "..", "data", "spec_catalog.json")
+    if not os.path.exists(path):
+        return {"error": "catalog not built; run scripts/build_spec_catalog.py"}
+    import json
+    return json.load(open(path, encoding="utf-8"))
 
 
 @mcp.tool()

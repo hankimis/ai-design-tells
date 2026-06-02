@@ -1,0 +1,1007 @@
+{
+  "url": "https://www.hubspot.com",
+  "name": "www.hubspot.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Accept all",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#1f1f1f",
+          "border": "none",
+          "radius": "8px",
+          "padding": "8px 16px 8px 16px",
+          "height": 46,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "HubSpot Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "capitalize",
+          "shadow": "none",
+          "transition": "0.15s, 0.15s, 0.15s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Skip to content",
+          "bg": "#1f1f1f",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "8px",
+          "padding": "8px 16px 8px 16px",
+          "height": 42,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "HubSpot Sans",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s, 0.15s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Get a demo of HubSpot's prem",
+          "bg": "#ff4800",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "8px",
+          "padding": "8px 16px 8px 16px",
+          "height": 42,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "HubSpot Sans",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s, 0.15s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Get started free with HubSpo",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#ff4800",
+          "border": "2px solid #ff4800",
+          "radius": "8px",
+          "padding": "8px 16px 8px 16px",
+          "height": 42,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "HubSpot Sans",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s, 0.15s",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Explore Breeze Agents\n      ",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#1f1f1f",
+          "border": "2px solid #1f1f1f",
+          "radius": "8px",
+          "padding": "12px 24px 12px 24px",
+          "height": 56,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "HubSpot Sans",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s, 0.15s",
+          "_n": 2
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "×close",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 56,
+          "font_size": "32px",
+          "font_weight": "400",
+          "font_family": "HubSpot Sans",
+          "letter_spacing": "normal",
+          "line_height": "56px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Manage Cookies",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "42px",
+          "padding": "0px 0px 0px 0px",
+          "height": 46,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "HubSpot Sans",
+          "letter_spacing": "normal",
+          "line_height": "24.5px",
+          "text_transform": "capitalize",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Select a language",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#1f1f1f",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 16,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "HubSpot Sans",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 5
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "65px",
+        "font_size_px": 65,
+        "font_weight": "500",
+        "line_height": "78px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "HubSpot Serif Page Header Human",
+        "color": "#f8f5ee",
+        "text_transform": "none",
+        "margin_bottom": "24px"
+      },
+      "h2": {
+        "count": 11,
+        "font_size": "48px",
+        "font_size_px": 48,
+        "font_weight": "500",
+        "line_height": "55.3846px",
+        "line_height_ratio": 1.15,
+        "letter_spacing": "normal",
+        "font_family": "HubSpot Serif",
+        "color": "#1f1f1f",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 24,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "500",
+        "line_height": "44px",
+        "line_height_ratio": 1.1,
+        "letter_spacing": "normal",
+        "font_family": "HubSpot Serif",
+        "color": "#1f1f1f",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 27,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "300",
+        "line_height": "28px",
+        "line_height_ratio": 1.75,
+        "letter_spacing": "normal",
+        "font_family": "HubSpot Sans",
+        "color": "#1f1f1f"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1080,
+          "count": 15
+        },
+        {
+          "value": 712,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 6
+        },
+        {
+          "value": 3,
+          "count": 3
+        },
+        {
+          "value": 1,
+          "count": 2
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 51
+        },
+        {
+          "value": 16,
+          "count": 43
+        },
+        {
+          "value": 6,
+          "count": 19
+        },
+        {
+          "value": 24,
+          "count": 16
+        },
+        {
+          "value": 4,
+          "count": 13
+        },
+        {
+          "value": 40,
+          "count": 5
+        },
+        {
+          "value": 28,
+          "count": 2
+        },
+        {
+          "value": 7,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 64,
+          "count": 7
+        },
+        {
+          "value": 32,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 215,
+      "grid_blocks": 11
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 2,
+          "count": 102
+        },
+        {
+          "value": 16,
+          "count": 70
+        },
+        {
+          "value": 24,
+          "count": 66
+        },
+        {
+          "value": 32,
+          "count": 51
+        },
+        {
+          "value": 8,
+          "count": 32
+        },
+        {
+          "value": 12,
+          "count": 26
+        },
+        {
+          "value": 64,
+          "count": 12
+        },
+        {
+          "value": 7.2,
+          "count": 10
+        },
+        {
+          "value": 14,
+          "count": 8
+        },
+        {
+          "value": 40,
+          "count": 8
+        },
+        {
+          "value": 4,
+          "count": 7
+        },
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 56,
+          "count": 2
+        },
+        {
+          "value": 3.2,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 3,
+          "count": 38
+        },
+        {
+          "value": 8,
+          "count": 18
+        },
+        {
+          "value": 2,
+          "count": 16
+        },
+        {
+          "value": 4,
+          "count": 10
+        },
+        {
+          "value": 16,
+          "count": 10
+        },
+        {
+          "value": 24,
+          "count": 10
+        },
+        {
+          "value": 40,
+          "count": 3
+        },
+        {
+          "value": 22,
+          "count": 2
+        },
+        {
+          "value": 9.19,
+          "count": 2
+        },
+        {
+          "value": 42,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 64,
+          "count": 1
+        },
+        {
+          "value": 72,
+          "count": 1
+        },
+        {
+          "value": 80,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#fcfcfa",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 35
+        },
+        {
+          "value": "#fcfcfa",
+          "count": 9
+        },
+        {
+          "value": "#1f1f1f",
+          "count": 5
+        },
+        {
+          "value": "#ff4800",
+          "count": 4
+        },
+        {
+          "value": "#042729",
+          "count": 2
+        },
+        {
+          "value": "#0000c5",
+          "count": 1
+        },
+        {
+          "value": "#fcded2",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#1f1f1f",
+          "count": 530
+        },
+        {
+          "value": "#f8f5ee",
+          "count": 112
+        },
+        {
+          "value": "#ffffff",
+          "count": 79
+        },
+        {
+          "value": "#000000",
+          "count": 18
+        },
+        {
+          "value": "#15295a",
+          "count": 6
+        },
+        {
+          "value": "#ff4800",
+          "count": 3
+        }
+      ],
+      "borders": [
+        {
+          "value": "#ff4800",
+          "count": 3
+        },
+        {
+          "value": "#1f1f1f",
+          "count": 2
+        },
+        {
+          "value": "#f8f5ee",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#ff4800",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "title": "HubSpot | Software & Tools for your Business - Homepage",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Accept all",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#1f1f1f",
+          "border": "none",
+          "radius": "8px",
+          "padding": "8px 16px 8px 16px",
+          "height": 46,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "HubSpot Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "capitalize",
+          "shadow": "none",
+          "transition": "0.15s, 0.15s, 0.15s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Skip to content",
+          "bg": "#1f1f1f",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "8px",
+          "padding": "8px 16px 8px 16px",
+          "height": 42,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "HubSpot Sans",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s, 0.15s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Get a demo of HubSpot's prem",
+          "bg": "#ff4800",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "8px",
+          "padding": "8px 16px 8px 16px",
+          "height": 42,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "HubSpot Sans",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s, 0.15s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Get started free with HubSpo",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#ff4800",
+          "border": "2px solid #ff4800",
+          "radius": "8px",
+          "padding": "8px 16px 8px 16px",
+          "height": 42,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "HubSpot Sans",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s, 0.15s",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Explore Breeze Agents\n      ",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#1f1f1f",
+          "border": "2px solid #1f1f1f",
+          "radius": "8px",
+          "padding": "12px 24px 12px 24px",
+          "height": 56,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "HubSpot Sans",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s, 0.15s",
+          "_n": 2
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "×close",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 56,
+          "font_size": "32px",
+          "font_weight": "400",
+          "font_family": "HubSpot Sans",
+          "letter_spacing": "normal",
+          "line_height": "56px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Manage Cookies",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "42px",
+          "padding": "0px 0px 0px 0px",
+          "height": 46,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "HubSpot Sans",
+          "letter_spacing": "normal",
+          "line_height": "24.5px",
+          "text_transform": "capitalize",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Select a language",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#1f1f1f",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 16,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "HubSpot Sans",
+          "letter_spacing": "normal",
+          "line_height": "18.4px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 5
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "65px",
+        "font_size_px": 65,
+        "font_weight": "500",
+        "line_height": "78px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "HubSpot Serif Page Header Human",
+        "color": "#f8f5ee",
+        "text_transform": "none",
+        "margin_bottom": "24px"
+      },
+      "h2": {
+        "count": 11,
+        "font_size": "48px",
+        "font_size_px": 48,
+        "font_weight": "500",
+        "line_height": "55.3846px",
+        "line_height_ratio": 1.15,
+        "letter_spacing": "normal",
+        "font_family": "HubSpot Serif",
+        "color": "#1f1f1f",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 24,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "500",
+        "line_height": "44px",
+        "line_height_ratio": 1.1,
+        "letter_spacing": "normal",
+        "font_family": "HubSpot Serif",
+        "color": "#1f1f1f",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 27,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "300",
+        "line_height": "28px",
+        "line_height_ratio": 1.75,
+        "letter_spacing": "normal",
+        "font_family": "HubSpot Sans",
+        "color": "#1f1f1f"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1080,
+          "count": 15
+        },
+        {
+          "value": 712,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 6
+        },
+        {
+          "value": 3,
+          "count": 3
+        },
+        {
+          "value": 1,
+          "count": 2
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 51
+        },
+        {
+          "value": 16,
+          "count": 43
+        },
+        {
+          "value": 6,
+          "count": 19
+        },
+        {
+          "value": 24,
+          "count": 16
+        },
+        {
+          "value": 4,
+          "count": 13
+        },
+        {
+          "value": 40,
+          "count": 5
+        },
+        {
+          "value": 28,
+          "count": 2
+        },
+        {
+          "value": 7,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 64,
+          "count": 7
+        },
+        {
+          "value": 32,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 215,
+      "grid_blocks": 11
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 2,
+          "count": 102
+        },
+        {
+          "value": 16,
+          "count": 70
+        },
+        {
+          "value": 24,
+          "count": 66
+        },
+        {
+          "value": 32,
+          "count": 51
+        },
+        {
+          "value": 8,
+          "count": 32
+        },
+        {
+          "value": 12,
+          "count": 26
+        },
+        {
+          "value": 64,
+          "count": 12
+        },
+        {
+          "value": 7.2,
+          "count": 10
+        },
+        {
+          "value": 14,
+          "count": 8
+        },
+        {
+          "value": 40,
+          "count": 8
+        },
+        {
+          "value": 4,
+          "count": 7
+        },
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 56,
+          "count": 2
+        },
+        {
+          "value": 3.2,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 3,
+          "count": 38
+        },
+        {
+          "value": 8,
+          "count": 18
+        },
+        {
+          "value": 2,
+          "count": 16
+        },
+        {
+          "value": 4,
+          "count": 10
+        },
+        {
+          "value": 16,
+          "count": 10
+        },
+        {
+          "value": 24,
+          "count": 10
+        },
+        {
+          "value": 40,
+          "count": 3
+        },
+        {
+          "value": 22,
+          "count": 2
+        },
+        {
+          "value": 9.19,
+          "count": 2
+        },
+        {
+          "value": 42,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 64,
+          "count": 1
+        },
+        {
+          "value": 72,
+          "count": 1
+        },
+        {
+          "value": 80,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#fcfcfa",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 35
+        },
+        {
+          "value": "#fcfcfa",
+          "count": 9
+        },
+        {
+          "value": "#1f1f1f",
+          "count": 5
+        },
+        {
+          "value": "#ff4800",
+          "count": 4
+        },
+        {
+          "value": "#042729",
+          "count": 2
+        },
+        {
+          "value": "#0000c5",
+          "count": 1
+        },
+        {
+          "value": "#fcded2",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#1f1f1f",
+          "count": 530
+        },
+        {
+          "value": "#f8f5ee",
+          "count": 112
+        },
+        {
+          "value": "#ffffff",
+          "count": 79
+        },
+        {
+          "value": "#000000",
+          "count": 18
+        },
+        {
+          "value": "#15295a",
+          "count": 6
+        },
+        {
+          "value": "#ff4800",
+          "count": 3
+        }
+      ],
+      "borders": [
+        {
+          "value": "#ff4800",
+          "count": 3
+        },
+        {
+          "value": "#1f1f1f",
+          "count": 2
+        },
+        {
+          "value": "#f8f5ee",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#ff4800",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

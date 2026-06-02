@@ -1,0 +1,1037 @@
+{
+  "url": "https://suno.com",
+  "name": "suno.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Join Suno for free",
+          "bg": "#f7f4ef",
+          "bg_alpha": 1,
+          "color": "#101012",
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "8px 16px 8px 16px",
+          "height": 40,
+          "font_size": "15px",
+          "font_weight": "500",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.075s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Subscribe",
+          "bg": "#f7f4ef",
+          "bg_alpha": 1,
+          "color": "#101012",
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "16px 32px 16px 32px",
+          "height": 56,
+          "font_size": "17px",
+          "font_weight": "500",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.075s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Download on iPhone",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "12px 32px 12px 32px",
+          "height": 48,
+          "font_size": "17px",
+          "font_weight": "500",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.075s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Join Suno for free",
+          "bg": "#000000",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "16px 78px 16px 78px",
+          "height": 56,
+          "font_size": "17px",
+          "font_weight": "500",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.075s",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "31K",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#fcfbf9",
+          "border": "1px solid #ffffff",
+          "radius": "6px",
+          "padding": "4px 8px 4px 8px",
+          "height": 30,
+          "font_size": "12.68px",
+          "font_weight": "500",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "15.216px",
+          "text_transform": "uppercase",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 13
+        },
+        {
+          "role": "secondary",
+          "text": "Your Privacy Choices",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#c2c2c1",
+          "border": "1px solid #ffffff",
+          "radius": "3.35544e+07px",
+          "padding": "8px 16px 8px 16px",
+          "height": 42,
+          "font_size": "15px",
+          "font_weight": "400",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "0.15px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Log in",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#f7f4ef",
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "8px 16px 8px 16px",
+          "height": 40,
+          "font_size": "15px",
+          "font_weight": "500",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.075s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#f7f4ef",
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "0px 0px 0px 0px",
+          "height": 36,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "Advanced",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#f7f4ef",
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "0px 12px 0px 12px",
+          "height": 36,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 5,
+        "font_size": "72px",
+        "font_size_px": 72,
+        "font_weight": "500",
+        "line_height": "72px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-0.96px",
+        "font_family": "Neue Montreal",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 9,
+        "font_size": "140px",
+        "font_size_px": 140,
+        "font_weight": "500",
+        "line_height": "121.8px",
+        "line_height_ratio": 0.87,
+        "letter_spacing": "-3.68px",
+        "font_family": "Neue Montreal",
+        "color": "#f7f4ef",
+        "text_transform": "none",
+        "margin_bottom": "40px"
+      },
+      "h3": {
+        "count": 14,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "500",
+        "line_height": "24px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "Neue Montreal",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "16px"
+      },
+      "body": {
+        "count": 7,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "26px",
+        "line_height_ratio": 1.63,
+        "letter_spacing": "normal",
+        "font_family": "Neue Montreal",
+        "color": null
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1296,
+          "count": 9
+        },
+        {
+          "value": 800,
+          "count": 3
+        },
+        {
+          "value": 672,
+          "count": 1
+        },
+        {
+          "value": 744,
+          "count": 1
+        },
+        {
+          "value": 768,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 3,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 60
+        },
+        {
+          "value": 8,
+          "count": 20
+        },
+        {
+          "value": 16,
+          "count": 8
+        },
+        {
+          "value": 6,
+          "count": 4
+        },
+        {
+          "value": 24,
+          "count": 4
+        },
+        {
+          "value": 32,
+          "count": 4
+        },
+        {
+          "value": 40,
+          "count": 4
+        },
+        {
+          "value": 10,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 80,
+          "count": 1
+        },
+        {
+          "value": 100,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 275,
+      "grid_blocks": 2
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 70
+        },
+        {
+          "value": 24,
+          "count": 65
+        },
+        {
+          "value": 4,
+          "count": 54
+        },
+        {
+          "value": 32,
+          "count": 46
+        },
+        {
+          "value": 16,
+          "count": 40
+        },
+        {
+          "value": 20,
+          "count": 10
+        },
+        {
+          "value": 12,
+          "count": 9
+        },
+        {
+          "value": 2,
+          "count": 6
+        },
+        {
+          "value": 48,
+          "count": 5
+        },
+        {
+          "value": 6,
+          "count": 2
+        },
+        {
+          "value": 10,
+          "count": 2
+        },
+        {
+          "value": 35,
+          "count": 2
+        },
+        {
+          "value": 60,
+          "count": 2
+        },
+        {
+          "value": 64,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 3,
+          "count": 32
+        },
+        {
+          "value": 8,
+          "count": 31
+        },
+        {
+          "value": 16,
+          "count": 27
+        },
+        {
+          "value": 15,
+          "count": 22
+        },
+        {
+          "value": 10,
+          "count": 14
+        },
+        {
+          "value": 19,
+          "count": 12
+        },
+        {
+          "value": 24,
+          "count": 10
+        },
+        {
+          "value": 4,
+          "count": 3
+        },
+        {
+          "value": 60,
+          "count": 3
+        },
+        {
+          "value": 80,
+          "count": 3
+        },
+        {
+          "value": 12,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 48,
+          "count": 2
+        },
+        {
+          "value": 72,
+          "count": 2
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#101012",
+      "backgrounds": [
+        {
+          "value": "#101012",
+          "count": 8
+        },
+        {
+          "value": "#f7f4ef",
+          "count": 5
+        },
+        {
+          "value": "#1c1c1f",
+          "count": 2
+        },
+        {
+          "value": "#ffffff",
+          "count": 2
+        },
+        {
+          "value": "#fd429c",
+          "count": 1
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#f7f4ef",
+          "count": 394
+        },
+        {
+          "value": "#ffffff",
+          "count": 312
+        },
+        {
+          "value": "#fcfbf9",
+          "count": 198
+        },
+        {
+          "value": "#02d95c",
+          "count": 90
+        },
+        {
+          "value": "#faf7f5",
+          "count": 14
+        },
+        {
+          "value": "#000000",
+          "count": 11
+        },
+        {
+          "value": "#a3a3a3",
+          "count": 7
+        },
+        {
+          "value": "#101012",
+          "count": 6
+        }
+      ],
+      "borders": [],
+      "accents": [
+        {
+          "value": "#f7f4ef",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "title": "Suno | AI Music Generator",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Join Suno for free",
+          "bg": "#f7f4ef",
+          "bg_alpha": 1,
+          "color": "#101012",
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "8px 16px 8px 16px",
+          "height": 40,
+          "font_size": "15px",
+          "font_weight": "500",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.075s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Subscribe",
+          "bg": "#f7f4ef",
+          "bg_alpha": 1,
+          "color": "#101012",
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "16px 32px 16px 32px",
+          "height": 56,
+          "font_size": "17px",
+          "font_weight": "500",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.075s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Download on iPhone",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "12px 32px 12px 32px",
+          "height": 48,
+          "font_size": "17px",
+          "font_weight": "500",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.075s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Join Suno for free",
+          "bg": "#000000",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "16px 78px 16px 78px",
+          "height": 56,
+          "font_size": "17px",
+          "font_weight": "500",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.075s",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "31K",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#fcfbf9",
+          "border": "1px solid #ffffff",
+          "radius": "6px",
+          "padding": "4px 8px 4px 8px",
+          "height": 30,
+          "font_size": "12.68px",
+          "font_weight": "500",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "15.216px",
+          "text_transform": "uppercase",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 13
+        },
+        {
+          "role": "secondary",
+          "text": "Your Privacy Choices",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#c2c2c1",
+          "border": "1px solid #ffffff",
+          "radius": "3.35544e+07px",
+          "padding": "8px 16px 8px 16px",
+          "height": 42,
+          "font_size": "15px",
+          "font_weight": "400",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "0.15px",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Log in",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#f7f4ef",
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "8px 16px 8px 16px",
+          "height": 40,
+          "font_size": "15px",
+          "font_weight": "500",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.075s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#f7f4ef",
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "0px 0px 0px 0px",
+          "height": 36,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "Advanced",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#f7f4ef",
+          "border": "none",
+          "radius": "3.35544e+07px",
+          "padding": "0px 12px 0px 12px",
+          "height": 36,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 5,
+        "font_size": "72px",
+        "font_size_px": 72,
+        "font_weight": "500",
+        "line_height": "72px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-0.96px",
+        "font_family": "Neue Montreal",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 9,
+        "font_size": "140px",
+        "font_size_px": 140,
+        "font_weight": "500",
+        "line_height": "121.8px",
+        "line_height_ratio": 0.87,
+        "letter_spacing": "-3.68px",
+        "font_family": "Neue Montreal",
+        "color": "#f7f4ef",
+        "text_transform": "none",
+        "margin_bottom": "40px"
+      },
+      "h3": {
+        "count": 14,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "500",
+        "line_height": "24px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "Neue Montreal",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "16px"
+      },
+      "body": {
+        "count": 7,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "26px",
+        "line_height_ratio": 1.63,
+        "letter_spacing": "normal",
+        "font_family": "Neue Montreal",
+        "color": null
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1296,
+          "count": 9
+        },
+        {
+          "value": 800,
+          "count": 3
+        },
+        {
+          "value": 672,
+          "count": 1
+        },
+        {
+          "value": 744,
+          "count": 1
+        },
+        {
+          "value": 768,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 3,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 60
+        },
+        {
+          "value": 8,
+          "count": 20
+        },
+        {
+          "value": 16,
+          "count": 8
+        },
+        {
+          "value": 6,
+          "count": 4
+        },
+        {
+          "value": 24,
+          "count": 4
+        },
+        {
+          "value": 32,
+          "count": 4
+        },
+        {
+          "value": 40,
+          "count": 4
+        },
+        {
+          "value": 10,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 80,
+          "count": 1
+        },
+        {
+          "value": 100,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 275,
+      "grid_blocks": 2
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 70
+        },
+        {
+          "value": 24,
+          "count": 65
+        },
+        {
+          "value": 4,
+          "count": 54
+        },
+        {
+          "value": 32,
+          "count": 46
+        },
+        {
+          "value": 16,
+          "count": 40
+        },
+        {
+          "value": 20,
+          "count": 10
+        },
+        {
+          "value": 12,
+          "count": 9
+        },
+        {
+          "value": 2,
+          "count": 6
+        },
+        {
+          "value": 48,
+          "count": 5
+        },
+        {
+          "value": 6,
+          "count": 2
+        },
+        {
+          "value": 10,
+          "count": 2
+        },
+        {
+          "value": 35,
+          "count": 2
+        },
+        {
+          "value": 60,
+          "count": 2
+        },
+        {
+          "value": 64,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 3,
+          "count": 32
+        },
+        {
+          "value": 8,
+          "count": 31
+        },
+        {
+          "value": 16,
+          "count": 27
+        },
+        {
+          "value": 15,
+          "count": 22
+        },
+        {
+          "value": 10,
+          "count": 14
+        },
+        {
+          "value": 19,
+          "count": 12
+        },
+        {
+          "value": 24,
+          "count": 10
+        },
+        {
+          "value": 4,
+          "count": 3
+        },
+        {
+          "value": 60,
+          "count": 3
+        },
+        {
+          "value": 80,
+          "count": 3
+        },
+        {
+          "value": 12,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 48,
+          "count": 2
+        },
+        {
+          "value": 72,
+          "count": 2
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#101012",
+      "backgrounds": [
+        {
+          "value": "#101012",
+          "count": 8
+        },
+        {
+          "value": "#f7f4ef",
+          "count": 5
+        },
+        {
+          "value": "#1c1c1f",
+          "count": 2
+        },
+        {
+          "value": "#ffffff",
+          "count": 2
+        },
+        {
+          "value": "#fd429c",
+          "count": 1
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#f7f4ef",
+          "count": 394
+        },
+        {
+          "value": "#ffffff",
+          "count": 312
+        },
+        {
+          "value": "#fcfbf9",
+          "count": 198
+        },
+        {
+          "value": "#02d95c",
+          "count": 90
+        },
+        {
+          "value": "#faf7f5",
+          "count": 14
+        },
+        {
+          "value": "#000000",
+          "count": 11
+        },
+        {
+          "value": "#a3a3a3",
+          "count": 7
+        },
+        {
+          "value": "#101012",
+          "count": 6
+        }
+      ],
+      "borders": [],
+      "accents": [
+        {
+          "value": "#f7f4ef",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

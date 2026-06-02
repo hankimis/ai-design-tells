@@ -1,0 +1,989 @@
+{
+  "url": "https://www.bloomberg.com",
+  "name": "www.bloomberg.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Sign In",
+          "bg": "#000000",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "6px 10px 6px 10px",
+          "height": 30,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "BWHaasGroteskWeb",
+          "letter_spacing": "0.2px",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Subscribe",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "1px solid #767676",
+          "radius": "4px",
+          "padding": "6px 10px 6px 10px",
+          "height": 30,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "BWHaasGroteskWeb",
+          "letter_spacing": "0.2px",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#000000",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "50%",
+          "padding": "0px 0px 0px 0px",
+          "height": 8,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "BWHaasGroteskWeb",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 4
+        },
+        {
+          "role": "primary",
+          "text": "Plus Signed UpPlus Sign UpPl",
+          "bg": "#000000",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #000000",
+          "radius": "9999px",
+          "padding": "6.5px 20px 6.5px 20px",
+          "height": 36,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "BWHaasGroteskWeb",
+          "letter_spacing": "normal",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "All categoriesChevron Down",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "1px solid #999999",
+          "radius": "14px",
+          "padding": "8px 12px 8px 12px",
+          "height": 28,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "BWHaasGroteskWeb",
+          "letter_spacing": "normal",
+          "line_height": "12px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Bloomberg the Company & Its ",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#f3f4ef",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 27px 0px 0px",
+          "height": 12,
+          "font_size": "12px",
+          "font_weight": "600",
+          "font_family": "AvenirNextPForBBG",
+          "letter_spacing": "normal",
+          "line_height": "12px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Search",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 28,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "BWHaasGroteskWeb",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Asia EditionChevron Down",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 8px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "BWHaasGroteskWeb",
+          "letter_spacing": "0.2px",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h3": {
+        "count": 34,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "700",
+        "line_height": "24px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "BWHaasGroteskWeb",
+        "color": "#e51503",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 6,
+        "font_size": "10px",
+        "font_size_px": 10,
+        "font_weight": "400",
+        "line_height": "12px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "BWHaasGroteskWeb",
+        "color": "#545454"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1324,
+          "count": 3
+        },
+        {
+          "value": 500,
+          "count": 1
+        },
+        {
+          "value": 512,
+          "count": 1
+        },
+        {
+          "value": 565,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 2
+        }
+      ],
+      "gaps": [
+        {
+          "value": 16,
+          "count": 28
+        },
+        {
+          "value": 4,
+          "count": 15
+        },
+        {
+          "value": 12,
+          "count": 14
+        },
+        {
+          "value": 10,
+          "count": 11
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 6,
+          "count": 1
+        },
+        {
+          "value": 18,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 32,
+          "count": 23
+        }
+      ],
+      "flex_blocks": 381,
+      "grid_blocks": 2
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 12,
+          "count": 210
+        },
+        {
+          "value": 8,
+          "count": 115
+        },
+        {
+          "value": 19,
+          "count": 86
+        },
+        {
+          "value": 32,
+          "count": 70
+        },
+        {
+          "value": 35,
+          "count": 70
+        },
+        {
+          "value": 9,
+          "count": 42
+        },
+        {
+          "value": 16,
+          "count": 35
+        },
+        {
+          "value": 4,
+          "count": 32
+        },
+        {
+          "value": 10,
+          "count": 25
+        },
+        {
+          "value": 18,
+          "count": 25
+        },
+        {
+          "value": 3,
+          "count": 22
+        },
+        {
+          "value": 6,
+          "count": 15
+        },
+        {
+          "value": 1,
+          "count": 10
+        },
+        {
+          "value": 20,
+          "count": 6
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 3,
+          "count": 130
+        },
+        {
+          "value": 12,
+          "count": 51
+        },
+        {
+          "value": 8,
+          "count": 34
+        },
+        {
+          "value": 16,
+          "count": 33
+        },
+        {
+          "value": 4,
+          "count": 32
+        },
+        {
+          "value": 2,
+          "count": 28
+        },
+        {
+          "value": 6,
+          "count": 27
+        },
+        {
+          "value": 20,
+          "count": 3
+        },
+        {
+          "value": 1,
+          "count": 2
+        },
+        {
+          "value": 18,
+          "count": 2
+        },
+        {
+          "value": 6.88,
+          "count": 2
+        },
+        {
+          "value": 5.28,
+          "count": 2
+        },
+        {
+          "value": 10,
+          "count": 1
+        },
+        {
+          "value": 30,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": null,
+      "backgrounds": [
+        {
+          "value": "#efefef",
+          "count": 85
+        },
+        {
+          "value": "#ffffff",
+          "count": 51
+        },
+        {
+          "value": "#1c1c1c",
+          "count": 18
+        },
+        {
+          "value": "#000000",
+          "count": 14
+        },
+        {
+          "value": "#cccccc",
+          "count": 12
+        },
+        {
+          "value": "#999999",
+          "count": 3
+        },
+        {
+          "value": "#f2f7ff",
+          "count": 1
+        },
+        {
+          "value": "#0064fa",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 1645
+        },
+        {
+          "value": "#ffffff",
+          "count": 328
+        },
+        {
+          "value": "#4db250",
+          "count": 35
+        },
+        {
+          "value": "#545454",
+          "count": 28
+        },
+        {
+          "value": "#3c3c3c",
+          "count": 28
+        },
+        {
+          "value": "#767676",
+          "count": 11
+        },
+        {
+          "value": "#f05143",
+          "count": 10
+        },
+        {
+          "value": "#e51503",
+          "count": 8
+        }
+      ],
+      "borders": [
+        {
+          "value": "#cccccc",
+          "count": 40
+        },
+        {
+          "value": "#efefef",
+          "count": 9
+        },
+        {
+          "value": "#000000",
+          "count": 7
+        },
+        {
+          "value": "#b3b3b3",
+          "count": 3
+        },
+        {
+          "value": "#3c3c3c",
+          "count": 2
+        },
+        {
+          "value": "#767676",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "title": "Bloomberg Asia",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Sign In",
+          "bg": "#000000",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "6px 10px 6px 10px",
+          "height": 30,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "BWHaasGroteskWeb",
+          "letter_spacing": "0.2px",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Subscribe",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "1px solid #767676",
+          "radius": "4px",
+          "padding": "6px 10px 6px 10px",
+          "height": 30,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "BWHaasGroteskWeb",
+          "letter_spacing": "0.2px",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#000000",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "50%",
+          "padding": "0px 0px 0px 0px",
+          "height": 8,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "BWHaasGroteskWeb",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 5
+        },
+        {
+          "role": "primary",
+          "text": "Plus Signed UpPlus Sign UpPl",
+          "bg": "#000000",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #000000",
+          "radius": "9999px",
+          "padding": "6.5px 20px 6.5px 20px",
+          "height": 36,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "BWHaasGroteskWeb",
+          "letter_spacing": "normal",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "All categoriesChevron Down",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "1px solid #999999",
+          "radius": "14px",
+          "padding": "8px 12px 8px 12px",
+          "height": 28,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "BWHaasGroteskWeb",
+          "letter_spacing": "normal",
+          "line_height": "12px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "secondary",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "1px solid #b3b3b3",
+          "radius": "9999px",
+          "padding": "0px 16px 0px 16px",
+          "height": 28,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "BWHaasGroteskWeb",
+          "letter_spacing": "normal",
+          "line_height": "14px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Bloomberg the Company & Its ",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#f3f4ef",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 27px 0px 0px",
+          "height": 12,
+          "font_size": "12px",
+          "font_weight": "600",
+          "font_family": "AvenirNextPForBBG",
+          "letter_spacing": "normal",
+          "line_height": "12px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Search",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 28,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "BWHaasGroteskWeb",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Asia EditionChevron Down",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 8px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "BWHaasGroteskWeb",
+          "letter_spacing": "0.2px",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h3": {
+        "count": 36,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "700",
+        "line_height": "24px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "BWHaasGroteskWeb",
+        "color": "#e51503",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 18,
+        "font_size": "12px",
+        "font_size_px": 12,
+        "font_weight": "400",
+        "line_height": "14px",
+        "line_height_ratio": 1.17,
+        "letter_spacing": "normal",
+        "font_family": "BWHaasGroteskWeb",
+        "color": "#000000"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1324,
+          "count": 3
+        },
+        {
+          "value": 500,
+          "count": 1
+        },
+        {
+          "value": 512,
+          "count": 1
+        },
+        {
+          "value": 565,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 2
+        }
+      ],
+      "gaps": [
+        {
+          "value": 2,
+          "count": 41
+        },
+        {
+          "value": 18,
+          "count": 41
+        },
+        {
+          "value": 10,
+          "count": 15
+        },
+        {
+          "value": 12,
+          "count": 15
+        },
+        {
+          "value": 4,
+          "count": 12
+        },
+        {
+          "value": 16,
+          "count": 9
+        },
+        {
+          "value": 9,
+          "count": 8
+        },
+        {
+          "value": 8,
+          "count": 5
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 32,
+          "count": 24
+        }
+      ],
+      "flex_blocks": 484,
+      "grid_blocks": 2
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 12,
+          "count": 226
+        },
+        {
+          "value": 8,
+          "count": 187
+        },
+        {
+          "value": 19,
+          "count": 86
+        },
+        {
+          "value": 32,
+          "count": 72
+        },
+        {
+          "value": 35,
+          "count": 72
+        },
+        {
+          "value": 6,
+          "count": 71
+        },
+        {
+          "value": 9,
+          "count": 48
+        },
+        {
+          "value": 16,
+          "count": 43
+        },
+        {
+          "value": 10,
+          "count": 42
+        },
+        {
+          "value": 4,
+          "count": 32
+        },
+        {
+          "value": 18,
+          "count": 26
+        },
+        {
+          "value": 3,
+          "count": 22
+        },
+        {
+          "value": 1,
+          "count": 10
+        },
+        {
+          "value": 2,
+          "count": 7
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 11,
+          "count": 72
+        },
+        {
+          "value": 12,
+          "count": 51
+        },
+        {
+          "value": 8,
+          "count": 42
+        },
+        {
+          "value": 16,
+          "count": 34
+        },
+        {
+          "value": 4,
+          "count": 32
+        },
+        {
+          "value": 2,
+          "count": 29
+        },
+        {
+          "value": 6,
+          "count": 27
+        },
+        {
+          "value": 3,
+          "count": 10
+        },
+        {
+          "value": 20,
+          "count": 6
+        },
+        {
+          "value": 1,
+          "count": 3
+        },
+        {
+          "value": 18,
+          "count": 2
+        },
+        {
+          "value": 30,
+          "count": 2
+        },
+        {
+          "value": 6.88,
+          "count": 2
+        },
+        {
+          "value": 4.98,
+          "count": 2
+        }
+      ]
+    },
+    "color": {
+      "page_bg": null,
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 57
+        },
+        {
+          "value": "#1c1c1c",
+          "count": 48
+        },
+        {
+          "value": "#000000",
+          "count": 15
+        },
+        {
+          "value": "#cccccc",
+          "count": 14
+        },
+        {
+          "value": "#999999",
+          "count": 3
+        },
+        {
+          "value": "#efefef",
+          "count": 1
+        },
+        {
+          "value": "#f2f7ff",
+          "count": 1
+        },
+        {
+          "value": "#0064fa",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 1921
+        },
+        {
+          "value": "#ffffff",
+          "count": 385
+        },
+        {
+          "value": "#b3b3b3",
+          "count": 59
+        },
+        {
+          "value": "#1c1c1c",
+          "count": 54
+        },
+        {
+          "value": "#4db250",
+          "count": 35
+        },
+        {
+          "value": "#545454",
+          "count": 28
+        },
+        {
+          "value": "#3c3c3c",
+          "count": 28
+        },
+        {
+          "value": "#767676",
+          "count": 11
+        }
+      ],
+      "borders": [
+        {
+          "value": "#cccccc",
+          "count": 44
+        },
+        {
+          "value": "#3c3c3c",
+          "count": 30
+        },
+        {
+          "value": "#b3b3b3",
+          "count": 12
+        },
+        {
+          "value": "#000000",
+          "count": 9
+        },
+        {
+          "value": "#efefef",
+          "count": 9
+        },
+        {
+          "value": "#767676",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

@@ -1,0 +1,611 @@
+{
+  "url": "https://www.anthropic.com",
+  "name": "www.anthropic.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Commitments",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#141413",
+          "border": "none",
+          "radius": "0px",
+          "padding": "22.4px 12px 22.4px 12px",
+          "height": 69,
+          "font_size": "20px",
+          "font_weight": "400",
+          "font_family": "Anthropic Serif",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "Learn more about Claude",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#141413",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 36,
+          "font_size": "20px",
+          "font_weight": "400",
+          "font_family": "Anthropic Serif",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Privacy choices",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#b0aea5",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 17,
+          "font_size": "12px",
+          "font_weight": "400",
+          "font_family": "Anthropic Sans",
+          "letter_spacing": "-0.24px",
+          "line_height": "16.8px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "60.8653px",
+        "font_size_px": 60.87,
+        "font_weight": "700",
+        "line_height": "66.9518px",
+        "line_height_ratio": 1.1,
+        "letter_spacing": "normal",
+        "font_family": "Anthropic Sans",
+        "color": "#141413",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 4,
+        "font_size": "90.7755px",
+        "font_size_px": 90.78,
+        "font_weight": "400",
+        "line_height": "99.8531px",
+        "line_height_ratio": 1.1,
+        "letter_spacing": "normal",
+        "font_family": "Anthropic Serif",
+        "color": "#faf9f5",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 16,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "600",
+        "line_height": "31.2px",
+        "line_height_ratio": 1.3,
+        "letter_spacing": "normal",
+        "font_family": "Anthropic Sans",
+        "color": "#141413",
+        "text_transform": "none",
+        "margin_bottom": "16px"
+      },
+      "body": {
+        "count": 5,
+        "font_size": "18px",
+        "font_size_px": 18,
+        "font_weight": "400",
+        "line_height": "25.2px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "normal",
+        "font_family": "Anthropic Serif",
+        "color": "#141413"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1284.54,
+          "count": 6
+        },
+        {
+          "value": 480,
+          "count": 1
+        },
+        {
+          "value": 1285,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 12,
+          "count": 3
+        },
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 31.48,
+          "count": 13
+        },
+        {
+          "value": 8,
+          "count": 11
+        },
+        {
+          "value": 46.43,
+          "count": 4
+        },
+        {
+          "value": 12,
+          "count": 2
+        },
+        {
+          "value": 16,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 90.78,
+          "count": 1
+        },
+        {
+          "value": 75.82,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 158,
+      "grid_blocks": 4
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 88
+        },
+        {
+          "value": 4,
+          "count": 78
+        },
+        {
+          "value": 12,
+          "count": 27
+        },
+        {
+          "value": 16,
+          "count": 20
+        },
+        {
+          "value": 31.48,
+          "count": 16
+        },
+        {
+          "value": 22.4,
+          "count": 10
+        },
+        {
+          "value": 90.78,
+          "count": 2
+        },
+        {
+          "value": 75.82,
+          "count": 2
+        },
+        {
+          "value": 5,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 10
+        },
+        {
+          "value": 16,
+          "count": 4
+        },
+        {
+          "value": 31.48,
+          "count": 4
+        },
+        {
+          "value": 32,
+          "count": 2
+        },
+        {
+          "value": 61,
+          "count": 2
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#faf9f5",
+      "backgrounds": [
+        {
+          "value": "#141413",
+          "count": 8
+        },
+        {
+          "value": "#faf9f5",
+          "count": 4
+        },
+        {
+          "value": "#e3dacc",
+          "count": 3
+        },
+        {
+          "value": "#f0eee6",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#141413",
+          "count": 227
+        },
+        {
+          "value": "#b0aea5",
+          "count": 170
+        },
+        {
+          "value": "#faf9f5",
+          "count": 160
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        },
+        {
+          "value": "#e8e6dc",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#141413",
+          "count": 5
+        },
+        {
+          "value": "#f0eee6",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#faf9f5",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "title": "Home \\ Anthropic",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Commitments",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#141413",
+          "border": "none",
+          "radius": "0px",
+          "padding": "22.4px 12px 22.4px 12px",
+          "height": 69,
+          "font_size": "20px",
+          "font_weight": "400",
+          "font_family": "Anthropic Serif",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "Learn more about Claude",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#141413",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 36,
+          "font_size": "20px",
+          "font_weight": "400",
+          "font_family": "Anthropic Serif",
+          "letter_spacing": "normal",
+          "line_height": "28px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Privacy choices",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#b0aea5",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 17,
+          "font_size": "12px",
+          "font_weight": "400",
+          "font_family": "Anthropic Sans",
+          "letter_spacing": "-0.24px",
+          "line_height": "16.8px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "60.8653px",
+        "font_size_px": 60.87,
+        "font_weight": "700",
+        "line_height": "66.9518px",
+        "line_height_ratio": 1.1,
+        "letter_spacing": "normal",
+        "font_family": "Anthropic Sans",
+        "color": "#141413",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 4,
+        "font_size": "90.7755px",
+        "font_size_px": 90.78,
+        "font_weight": "400",
+        "line_height": "99.8531px",
+        "line_height_ratio": 1.1,
+        "letter_spacing": "normal",
+        "font_family": "Anthropic Serif",
+        "color": "#faf9f5",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 16,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "600",
+        "line_height": "31.2px",
+        "line_height_ratio": 1.3,
+        "letter_spacing": "normal",
+        "font_family": "Anthropic Sans",
+        "color": "#141413",
+        "text_transform": "none",
+        "margin_bottom": "16px"
+      },
+      "body": {
+        "count": 5,
+        "font_size": "18px",
+        "font_size_px": 18,
+        "font_weight": "400",
+        "line_height": "25.2px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "normal",
+        "font_family": "Anthropic Serif",
+        "color": "#141413"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1284.54,
+          "count": 6
+        },
+        {
+          "value": 480,
+          "count": 1
+        },
+        {
+          "value": 1285,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 12,
+          "count": 3
+        },
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 31.48,
+          "count": 13
+        },
+        {
+          "value": 8,
+          "count": 11
+        },
+        {
+          "value": 46.43,
+          "count": 4
+        },
+        {
+          "value": 12,
+          "count": 2
+        },
+        {
+          "value": 16,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 90.78,
+          "count": 1
+        },
+        {
+          "value": 75.82,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 158,
+      "grid_blocks": 4
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 88
+        },
+        {
+          "value": 4,
+          "count": 78
+        },
+        {
+          "value": 12,
+          "count": 27
+        },
+        {
+          "value": 16,
+          "count": 20
+        },
+        {
+          "value": 31.48,
+          "count": 16
+        },
+        {
+          "value": 22.4,
+          "count": 10
+        },
+        {
+          "value": 90.78,
+          "count": 2
+        },
+        {
+          "value": 75.82,
+          "count": 2
+        },
+        {
+          "value": 5,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 10
+        },
+        {
+          "value": 16,
+          "count": 4
+        },
+        {
+          "value": 31.48,
+          "count": 4
+        },
+        {
+          "value": 32,
+          "count": 2
+        },
+        {
+          "value": 61,
+          "count": 2
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#faf9f5",
+      "backgrounds": [
+        {
+          "value": "#141413",
+          "count": 8
+        },
+        {
+          "value": "#faf9f5",
+          "count": 4
+        },
+        {
+          "value": "#e3dacc",
+          "count": 3
+        },
+        {
+          "value": "#f0eee6",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#141413",
+          "count": 227
+        },
+        {
+          "value": "#b0aea5",
+          "count": 170
+        },
+        {
+          "value": "#faf9f5",
+          "count": 160
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        },
+        {
+          "value": "#e8e6dc",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#141413",
+          "count": 5
+        },
+        {
+          "value": "#f0eee6",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#faf9f5",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

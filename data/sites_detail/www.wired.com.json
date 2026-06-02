@@ -1,0 +1,639 @@
+{
+  "url": "https://www.wired.com",
+  "name": "www.wired.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Menu",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "12px 8px 12px 8px",
+          "height": 42,
+          "font_size": "13px",
+          "font_weight": "400",
+          "font_family": "WiredMono",
+          "letter_spacing": "0.92px",
+          "line_height": "16px",
+          "text_transform": "uppercase",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "SUBSCRIBE",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#057dbc",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 16,
+          "font_size": "13px",
+          "font_weight": "400",
+          "font_family": "WIRED Mono",
+          "letter_spacing": "0.9px",
+          "line_height": "16px",
+          "text_transform": "uppercase",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "MoreExpand",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "12px 8px 12px 8px",
+          "height": 44,
+          "font_size": "16px",
+          "font_weight": "700",
+          "font_family": "Apercu",
+          "letter_spacing": "0.3px",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 36,
+        "font_size": "17px",
+        "font_size_px": 17,
+        "font_weight": "700",
+        "line_height": "22px",
+        "line_height_ratio": 1.29,
+        "letter_spacing": "-0.144px",
+        "font_family": "Apercu",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "14.11px"
+      },
+      "h3": {
+        "count": 49,
+        "font_size": "84px",
+        "font_size_px": 84,
+        "font_weight": "400",
+        "line_height": "73.5px",
+        "line_height_ratio": 0.88,
+        "letter_spacing": "normal",
+        "font_family": "WiredDisplaySlab",
+        "color": "#ffffff",
+        "text_transform": "uppercase",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 13,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "0.09px",
+        "font_family": "BreveText",
+        "color": "#333333"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1600,
+          "count": 18
+        },
+        {
+          "value": 640,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 3,
+          "count": 59
+        },
+        {
+          "value": 1,
+          "count": 55
+        },
+        {
+          "value": 2,
+          "count": 36
+        },
+        {
+          "value": 7,
+          "count": 6
+        },
+        {
+          "value": 8,
+          "count": 5
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 138
+        },
+        {
+          "value": 16,
+          "count": 36
+        },
+        {
+          "value": 10,
+          "count": 5
+        },
+        {
+          "value": 32,
+          "count": 4
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 32,
+          "count": 2
+        }
+      ],
+      "flex_blocks": 212,
+      "grid_blocks": 169
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 102
+        },
+        {
+          "value": 12,
+          "count": 72
+        },
+        {
+          "value": 16,
+          "count": 40
+        },
+        {
+          "value": 64,
+          "count": 34
+        },
+        {
+          "value": 4,
+          "count": 25
+        },
+        {
+          "value": 32,
+          "count": 8
+        },
+        {
+          "value": 48,
+          "count": 7
+        },
+        {
+          "value": 40,
+          "count": 4
+        },
+        {
+          "value": 120,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 14.11,
+          "count": 54
+        },
+        {
+          "value": 16,
+          "count": 31
+        },
+        {
+          "value": 8,
+          "count": 12
+        },
+        {
+          "value": 32,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 3
+        },
+        {
+          "value": 40,
+          "count": 1
+        },
+        {
+          "value": 64,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": null,
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 59
+        },
+        {
+          "value": "#000000",
+          "count": 31
+        },
+        {
+          "value": "#f3f3f3",
+          "count": 3
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 1102
+        },
+        {
+          "value": "#ffffff",
+          "count": 97
+        },
+        {
+          "value": "#757575",
+          "count": 50
+        },
+        {
+          "value": "#1a1a1a",
+          "count": 45
+        },
+        {
+          "value": "#333333",
+          "count": 21
+        },
+        {
+          "value": "#999999",
+          "count": 18
+        },
+        {
+          "value": "#f3f3f3",
+          "count": 2
+        },
+        {
+          "value": "#e5e5e5",
+          "count": 2
+        }
+      ],
+      "borders": [
+        {
+          "value": "#757575",
+          "count": 10
+        },
+        {
+          "value": "#000000",
+          "count": 9
+        },
+        {
+          "value": "#333333",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "title": "WIRED - The Latest in Technology, Science, Culture and Business | WIRED",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Menu",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "12px 8px 12px 8px",
+          "height": 42,
+          "font_size": "13px",
+          "font_weight": "400",
+          "font_family": "WiredMono",
+          "letter_spacing": "0.92px",
+          "line_height": "16px",
+          "text_transform": "uppercase",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "SUBSCRIBE",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#057dbc",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 16,
+          "font_size": "13px",
+          "font_weight": "400",
+          "font_family": "WIRED Mono",
+          "letter_spacing": "0.9px",
+          "line_height": "16px",
+          "text_transform": "uppercase",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "MoreExpand",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "12px 8px 12px 8px",
+          "height": 44,
+          "font_size": "16px",
+          "font_weight": "700",
+          "font_family": "Apercu",
+          "letter_spacing": "0.3px",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 36,
+        "font_size": "17px",
+        "font_size_px": 17,
+        "font_weight": "700",
+        "line_height": "22px",
+        "line_height_ratio": 1.29,
+        "letter_spacing": "-0.144px",
+        "font_family": "Apercu",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "14.11px"
+      },
+      "h3": {
+        "count": 49,
+        "font_size": "84px",
+        "font_size_px": 84,
+        "font_weight": "400",
+        "line_height": "73.5px",
+        "line_height_ratio": 0.88,
+        "letter_spacing": "normal",
+        "font_family": "WiredDisplaySlab",
+        "color": "#ffffff",
+        "text_transform": "uppercase",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 13,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "0.09px",
+        "font_family": "BreveText",
+        "color": "#333333"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1600,
+          "count": 18
+        },
+        {
+          "value": 640,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 3,
+          "count": 59
+        },
+        {
+          "value": 1,
+          "count": 55
+        },
+        {
+          "value": 2,
+          "count": 36
+        },
+        {
+          "value": 7,
+          "count": 6
+        },
+        {
+          "value": 8,
+          "count": 5
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 138
+        },
+        {
+          "value": 16,
+          "count": 36
+        },
+        {
+          "value": 10,
+          "count": 5
+        },
+        {
+          "value": 32,
+          "count": 4
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 32,
+          "count": 2
+        }
+      ],
+      "flex_blocks": 212,
+      "grid_blocks": 169
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 102
+        },
+        {
+          "value": 12,
+          "count": 72
+        },
+        {
+          "value": 16,
+          "count": 40
+        },
+        {
+          "value": 64,
+          "count": 34
+        },
+        {
+          "value": 4,
+          "count": 25
+        },
+        {
+          "value": 32,
+          "count": 8
+        },
+        {
+          "value": 48,
+          "count": 7
+        },
+        {
+          "value": 40,
+          "count": 4
+        },
+        {
+          "value": 120,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 14.11,
+          "count": 54
+        },
+        {
+          "value": 16,
+          "count": 31
+        },
+        {
+          "value": 8,
+          "count": 12
+        },
+        {
+          "value": 32,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 3
+        },
+        {
+          "value": 40,
+          "count": 1
+        },
+        {
+          "value": 64,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": null,
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 59
+        },
+        {
+          "value": "#000000",
+          "count": 31
+        },
+        {
+          "value": "#f3f3f3",
+          "count": 3
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 1102
+        },
+        {
+          "value": "#ffffff",
+          "count": 97
+        },
+        {
+          "value": "#757575",
+          "count": 50
+        },
+        {
+          "value": "#1a1a1a",
+          "count": 45
+        },
+        {
+          "value": "#333333",
+          "count": 21
+        },
+        {
+          "value": "#999999",
+          "count": 18
+        },
+        {
+          "value": "#f3f3f3",
+          "count": 2
+        },
+        {
+          "value": "#e5e5e5",
+          "count": 2
+        }
+      ],
+      "borders": [
+        {
+          "value": "#757575",
+          "count": 10
+        },
+        {
+          "value": "#000000",
+          "count": 9
+        },
+        {
+          "value": "#333333",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

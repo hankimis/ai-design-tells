@@ -1,0 +1,801 @@
+{
+  "url": "https://www.squarespace.com",
+  "name": "www.squarespace.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "주요 콘텐츠로 건너뛰기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "24px 24px 24px 24px",
+          "height": 48,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "Noto Sans KR",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "uppercase",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "JUN20WF",
+          "bg": "#ffffff",
+          "bg_alpha": 0.2,
+          "color": "#000000",
+          "border": "none",
+          "radius": "100px",
+          "padding": "4px 12px 4px 12px",
+          "height": 25,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "sans-serif",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "시작하기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "24px 32px 24px 32px",
+          "height": 68,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "Noto Sans KR",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "uppercase",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "서드파티(타사) 도구\n            강력한 ",
+          "bg": "#2f2f2f",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "8px",
+          "padding": "24px 24px 24px 24px",
+          "height": 420,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "sans-serif",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 5
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 30,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "sans-serif",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 11
+        },
+        {
+          "role": "ghost",
+          "text": "서비스",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "100px",
+          "padding": "12px 16px 12px 16px",
+          "height": 45,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "sans-serif",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 8
+        },
+        {
+          "role": "ghost",
+          "text": "서비스를 제공하세요경험과 서비스를 홍보하고, 참석자",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "8px",
+          "padding": "32px 32px 32px 32px",
+          "height": 558,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "sans-serif",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 15
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "64px",
+        "font_size_px": 64,
+        "font_weight": "300",
+        "line_height": "66.5601px",
+        "line_height_ratio": 1.04,
+        "letter_spacing": "-3.84px",
+        "font_family": "Noto Sans KR",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 3,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "400",
+        "line_height": "43.2px",
+        "line_height_ratio": 1.08,
+        "letter_spacing": "-1.6px",
+        "font_family": "Noto Sans KR",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 48,
+        "font_size": "26px",
+        "font_size_px": 26,
+        "font_weight": "400",
+        "line_height": "28.08px",
+        "line_height_ratio": 1.08,
+        "letter_spacing": "-0.52px",
+        "font_family": "Noto Serif KR",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 149,
+        "font_size": "15px",
+        "font_size_px": 15,
+        "font_weight": "400",
+        "line_height": "21px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "-0.015px",
+        "font_family": "Noto Sans KR",
+        "color": "#ffffff"
+      }
+    },
+    "layout": {
+      "containers": [],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 24
+        },
+        {
+          "value": 12,
+          "count": 16
+        },
+        {
+          "value": 16,
+          "count": 9
+        },
+        {
+          "value": 40,
+          "count": 7
+        },
+        {
+          "value": 24,
+          "count": 5
+        },
+        {
+          "value": 4,
+          "count": 4
+        },
+        {
+          "value": 32,
+          "count": 3
+        },
+        {
+          "value": 120,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 120,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 1
+        },
+        {
+          "value": 80,
+          "count": 1
+        },
+        {
+          "value": 240,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 134,
+      "grid_blocks": 3
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 32,
+          "count": 95
+        },
+        {
+          "value": 40,
+          "count": 49
+        },
+        {
+          "value": 24,
+          "count": 32
+        },
+        {
+          "value": 16,
+          "count": 24
+        },
+        {
+          "value": 12,
+          "count": 23
+        },
+        {
+          "value": 120,
+          "count": 11
+        },
+        {
+          "value": 76.67,
+          "count": 11
+        },
+        {
+          "value": 4,
+          "count": 8
+        },
+        {
+          "value": 80,
+          "count": 6
+        },
+        {
+          "value": 8,
+          "count": 4
+        },
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 56,
+          "count": 2
+        },
+        {
+          "value": 240,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 24,
+          "count": 17
+        },
+        {
+          "value": 16,
+          "count": 8
+        },
+        {
+          "value": 12,
+          "count": 6
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 40,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#000000",
+          "count": 23
+        },
+        {
+          "value": "#ffffff",
+          "count": 6
+        },
+        {
+          "value": "#2f2f2f",
+          "count": 5
+        },
+        {
+          "value": "#d9d9d9",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 489
+        },
+        {
+          "value": "#ffffff",
+          "count": 453
+        },
+        {
+          "value": "#898989",
+          "count": 70
+        },
+        {
+          "value": "#dddddd",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#dddddd",
+          "count": 2
+        }
+      ],
+      "accents": []
+    }
+  },
+  "title": "웹사이트 빌더 - 손쉽게 나만의 웹사이트 만들기 - Squarespace",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "주요 콘텐츠로 건너뛰기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "24px 24px 24px 24px",
+          "height": 48,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "Noto Sans KR",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "uppercase",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "JUN20WF",
+          "bg": "#ffffff",
+          "bg_alpha": 0.2,
+          "color": "#000000",
+          "border": "none",
+          "radius": "100px",
+          "padding": "4px 12px 4px 12px",
+          "height": 25,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "sans-serif",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "시작하기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "24px 32px 24px 32px",
+          "height": 68,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "Noto Sans KR",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "uppercase",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "서드파티(타사) 도구\n            강력한 ",
+          "bg": "#2f2f2f",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "8px",
+          "padding": "24px 24px 24px 24px",
+          "height": 420,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "sans-serif",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 5
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 30,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "sans-serif",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 11
+        },
+        {
+          "role": "ghost",
+          "text": "서비스",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "100px",
+          "padding": "12px 16px 12px 16px",
+          "height": 45,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "sans-serif",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 8
+        },
+        {
+          "role": "ghost",
+          "text": "서비스를 제공하세요경험과 서비스를 홍보하고, 참석자",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "8px",
+          "padding": "32px 32px 32px 32px",
+          "height": 558,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "sans-serif",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 15
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "64px",
+        "font_size_px": 64,
+        "font_weight": "300",
+        "line_height": "66.5601px",
+        "line_height_ratio": 1.04,
+        "letter_spacing": "-3.84px",
+        "font_family": "Noto Sans KR",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 3,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "400",
+        "line_height": "43.2px",
+        "line_height_ratio": 1.08,
+        "letter_spacing": "-1.6px",
+        "font_family": "Noto Sans KR",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 48,
+        "font_size": "26px",
+        "font_size_px": 26,
+        "font_weight": "400",
+        "line_height": "28.08px",
+        "line_height_ratio": 1.08,
+        "letter_spacing": "-0.52px",
+        "font_family": "Noto Serif KR",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 149,
+        "font_size": "15px",
+        "font_size_px": 15,
+        "font_weight": "400",
+        "line_height": "21px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "-0.015px",
+        "font_family": "Noto Sans KR",
+        "color": "#ffffff"
+      }
+    },
+    "layout": {
+      "containers": [],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 24
+        },
+        {
+          "value": 12,
+          "count": 16
+        },
+        {
+          "value": 16,
+          "count": 9
+        },
+        {
+          "value": 40,
+          "count": 7
+        },
+        {
+          "value": 24,
+          "count": 5
+        },
+        {
+          "value": 4,
+          "count": 4
+        },
+        {
+          "value": 32,
+          "count": 3
+        },
+        {
+          "value": 120,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 120,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 1
+        },
+        {
+          "value": 80,
+          "count": 1
+        },
+        {
+          "value": 240,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 134,
+      "grid_blocks": 3
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 32,
+          "count": 95
+        },
+        {
+          "value": 40,
+          "count": 49
+        },
+        {
+          "value": 24,
+          "count": 32
+        },
+        {
+          "value": 16,
+          "count": 24
+        },
+        {
+          "value": 12,
+          "count": 23
+        },
+        {
+          "value": 120,
+          "count": 11
+        },
+        {
+          "value": 76.67,
+          "count": 11
+        },
+        {
+          "value": 4,
+          "count": 8
+        },
+        {
+          "value": 80,
+          "count": 6
+        },
+        {
+          "value": 8,
+          "count": 4
+        },
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 56,
+          "count": 2
+        },
+        {
+          "value": 240,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 24,
+          "count": 17
+        },
+        {
+          "value": 16,
+          "count": 8
+        },
+        {
+          "value": 12,
+          "count": 6
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 40,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#000000",
+          "count": 23
+        },
+        {
+          "value": "#ffffff",
+          "count": 6
+        },
+        {
+          "value": "#2f2f2f",
+          "count": 5
+        },
+        {
+          "value": "#d9d9d9",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 489
+        },
+        {
+          "value": "#ffffff",
+          "count": 453
+        },
+        {
+          "value": "#898989",
+          "count": 70
+        },
+        {
+          "value": "#dddddd",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#dddddd",
+          "count": 2
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

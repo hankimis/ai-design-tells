@@ -1,0 +1,909 @@
+{
+  "url": "https://www.economist.com",
+  "name": "www.economist.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#efefef",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 384,
+          "font_size": "13.3333px",
+          "font_weight": "400",
+          "font_family": "Arial",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 5
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#0d0d0d",
+          "border": "1px solid #b3b3b3",
+          "radius": "4px",
+          "padding": "6px 6px 6px 6px",
+          "height": 34,
+          "font_size": "17px",
+          "font_weight": "400",
+          "font_family": "EconomistSans",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "rgba(13, 13, 13, 0.15) 0px 4px 16px 0px",
+          "transition": "0.2s, 0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Continue to checkout",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#0d0d0d",
+          "border": "none",
+          "radius": "4px",
+          "padding": "8px 16px 8px 16px",
+          "height": 40,
+          "font_size": "17px",
+          "font_weight": "400",
+          "font_family": "EconomistSans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.05s",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Menu",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#0d0d0d",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 32,
+          "font_size": "20px",
+          "font_weight": "400",
+          "font_family": "EconomistSans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.2s",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "Add to calendar",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "4px",
+          "padding": "8px 16px 8px 16px",
+          "height": 40,
+          "font_size": "17px",
+          "font_weight": "400",
+          "font_family": "EconomistSans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "rgb(255, 255, 255) 0px 0px 0px 1px inset",
+          "transition": "0.2s, 0.2s, 0.2s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Manage cookies",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "4px",
+          "padding": "6px 12px 6px 12px",
+          "height": 28,
+          "font_size": "15px",
+          "font_weight": "400",
+          "font_family": "EconomistSans",
+          "letter_spacing": "normal",
+          "line_height": "16px",
+          "text_transform": "none",
+          "shadow": "rgb(255, 255, 255) 0px 0px 0px 1px inset",
+          "transition": "0.2s, 0.2s, 0.2s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 18,
+        "font_size": "44px",
+        "font_size_px": 44,
+        "font_weight": "700",
+        "line_height": "44px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "EconomistSerif",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 83,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "400",
+        "line_height": "40px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "EconomistSerif",
+        "color": "#0d0d0d",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h4": {
+        "count": 4,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "500",
+        "line_height": "24px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "EconomistSerif",
+        "color": "#0d0d0d",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 91,
+        "font_size": "15px",
+        "font_size_px": 15,
+        "font_weight": "400",
+        "line_height": "20px",
+        "line_height_ratio": 1.33,
+        "letter_spacing": "normal",
+        "font_family": "EconomistSans",
+        "color": "#e3120b"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1432,
+          "count": 9
+        },
+        {
+          "value": 608,
+          "count": 2
+        },
+        {
+          "value": 1440,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 7
+        },
+        {
+          "value": 1,
+          "count": 3
+        },
+        {
+          "value": 16,
+          "count": 3
+        },
+        {
+          "value": 3,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 16,
+          "count": 19
+        },
+        {
+          "value": 8,
+          "count": 15
+        },
+        {
+          "value": 12,
+          "count": 12
+        },
+        {
+          "value": 24,
+          "count": 6
+        },
+        {
+          "value": 4,
+          "count": 4
+        },
+        {
+          "value": 56,
+          "count": 3
+        },
+        {
+          "value": 2,
+          "count": 2
+        },
+        {
+          "value": 48,
+          "count": 2
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 48,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 157,
+      "grid_blocks": 18
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 16,
+          "count": 108
+        },
+        {
+          "value": 8,
+          "count": 22
+        },
+        {
+          "value": 32,
+          "count": 22
+        },
+        {
+          "value": 6,
+          "count": 10
+        },
+        {
+          "value": 3,
+          "count": 8
+        },
+        {
+          "value": 12,
+          "count": 6
+        },
+        {
+          "value": 24,
+          "count": 6
+        },
+        {
+          "value": 72,
+          "count": 5
+        },
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 64,
+          "count": 1
+        },
+        {
+          "value": 352,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 12,
+          "count": 47
+        },
+        {
+          "value": 2,
+          "count": 44
+        },
+        {
+          "value": 8,
+          "count": 44
+        },
+        {
+          "value": 4,
+          "count": 36
+        },
+        {
+          "value": 56,
+          "count": 16
+        },
+        {
+          "value": 24,
+          "count": 13
+        },
+        {
+          "value": 16,
+          "count": 12
+        },
+        {
+          "value": 0.2,
+          "count": 2
+        },
+        {
+          "value": 250,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 15
+        },
+        {
+          "value": "#efefef",
+          "count": 5
+        },
+        {
+          "value": "#f2f2f2",
+          "count": 5
+        },
+        {
+          "value": "#1f2e7a",
+          "count": 3
+        },
+        {
+          "value": "#0d0d0d",
+          "count": 2
+        },
+        {
+          "value": "#f5f4ef",
+          "count": 1
+        },
+        {
+          "value": "#1a1a1a",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#0d0d0d",
+          "count": 778
+        },
+        {
+          "value": "#ffffff",
+          "count": 148
+        },
+        {
+          "value": "#0000ee",
+          "count": 42
+        },
+        {
+          "value": "#e3120b",
+          "count": 39
+        },
+        {
+          "value": "#333333",
+          "count": 32
+        },
+        {
+          "value": "#000000",
+          "count": 28
+        },
+        {
+          "value": "#d9d9d9",
+          "count": 8
+        },
+        {
+          "value": "#f2f2f2",
+          "count": 6
+        }
+      ],
+      "borders": [
+        {
+          "value": "#d6d6d6",
+          "count": 4
+        },
+        {
+          "value": "#d9d9d9",
+          "count": 2
+        },
+        {
+          "value": "#ffffff",
+          "count": 2
+        },
+        {
+          "value": "#333333",
+          "count": 1
+        },
+        {
+          "value": "#b3b3b3",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#1f2e7a",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "title": "The Economist | Go beyond breaking news",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#efefef",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 384,
+          "font_size": "13.3333px",
+          "font_weight": "400",
+          "font_family": "Arial",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 5
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#0d0d0d",
+          "border": "1px solid #b3b3b3",
+          "radius": "4px",
+          "padding": "6px 6px 6px 6px",
+          "height": 34,
+          "font_size": "17px",
+          "font_weight": "400",
+          "font_family": "EconomistSans",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "rgba(13, 13, 13, 0.15) 0px 4px 16px 0px",
+          "transition": "0.2s, 0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Continue to checkout",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#0d0d0d",
+          "border": "none",
+          "radius": "4px",
+          "padding": "8px 16px 8px 16px",
+          "height": 40,
+          "font_size": "17px",
+          "font_weight": "400",
+          "font_family": "EconomistSans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.05s",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Menu",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#0d0d0d",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 32,
+          "font_size": "20px",
+          "font_weight": "400",
+          "font_family": "EconomistSans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.2s",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "Add to calendar",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "4px",
+          "padding": "8px 16px 8px 16px",
+          "height": 40,
+          "font_size": "17px",
+          "font_weight": "400",
+          "font_family": "EconomistSans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "rgb(255, 255, 255) 0px 0px 0px 1px inset",
+          "transition": "0.2s, 0.2s, 0.2s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Manage cookies",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "4px",
+          "padding": "6px 12px 6px 12px",
+          "height": 28,
+          "font_size": "15px",
+          "font_weight": "400",
+          "font_family": "EconomistSans",
+          "letter_spacing": "normal",
+          "line_height": "16px",
+          "text_transform": "none",
+          "shadow": "rgb(255, 255, 255) 0px 0px 0px 1px inset",
+          "transition": "0.2s, 0.2s, 0.2s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 18,
+        "font_size": "44px",
+        "font_size_px": 44,
+        "font_weight": "700",
+        "line_height": "44px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "EconomistSerif",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 83,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "400",
+        "line_height": "40px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "EconomistSerif",
+        "color": "#0d0d0d",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h4": {
+        "count": 4,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "500",
+        "line_height": "24px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "EconomistSerif",
+        "color": "#0d0d0d",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 91,
+        "font_size": "15px",
+        "font_size_px": 15,
+        "font_weight": "400",
+        "line_height": "20px",
+        "line_height_ratio": 1.33,
+        "letter_spacing": "normal",
+        "font_family": "EconomistSans",
+        "color": "#e3120b"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1432,
+          "count": 9
+        },
+        {
+          "value": 608,
+          "count": 2
+        },
+        {
+          "value": 1440,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 7
+        },
+        {
+          "value": 1,
+          "count": 3
+        },
+        {
+          "value": 16,
+          "count": 3
+        },
+        {
+          "value": 3,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 16,
+          "count": 19
+        },
+        {
+          "value": 8,
+          "count": 15
+        },
+        {
+          "value": 12,
+          "count": 12
+        },
+        {
+          "value": 24,
+          "count": 6
+        },
+        {
+          "value": 4,
+          "count": 4
+        },
+        {
+          "value": 56,
+          "count": 3
+        },
+        {
+          "value": 2,
+          "count": 2
+        },
+        {
+          "value": 48,
+          "count": 2
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 48,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 157,
+      "grid_blocks": 18
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 16,
+          "count": 108
+        },
+        {
+          "value": 8,
+          "count": 22
+        },
+        {
+          "value": 32,
+          "count": 22
+        },
+        {
+          "value": 6,
+          "count": 10
+        },
+        {
+          "value": 3,
+          "count": 8
+        },
+        {
+          "value": 12,
+          "count": 6
+        },
+        {
+          "value": 24,
+          "count": 6
+        },
+        {
+          "value": 72,
+          "count": 5
+        },
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 64,
+          "count": 1
+        },
+        {
+          "value": 352,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 12,
+          "count": 47
+        },
+        {
+          "value": 2,
+          "count": 44
+        },
+        {
+          "value": 8,
+          "count": 44
+        },
+        {
+          "value": 4,
+          "count": 36
+        },
+        {
+          "value": 56,
+          "count": 16
+        },
+        {
+          "value": 24,
+          "count": 13
+        },
+        {
+          "value": 16,
+          "count": 12
+        },
+        {
+          "value": 0.2,
+          "count": 2
+        },
+        {
+          "value": 250,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 15
+        },
+        {
+          "value": "#efefef",
+          "count": 5
+        },
+        {
+          "value": "#f2f2f2",
+          "count": 5
+        },
+        {
+          "value": "#1f2e7a",
+          "count": 3
+        },
+        {
+          "value": "#0d0d0d",
+          "count": 2
+        },
+        {
+          "value": "#f5f4ef",
+          "count": 1
+        },
+        {
+          "value": "#1a1a1a",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#0d0d0d",
+          "count": 778
+        },
+        {
+          "value": "#ffffff",
+          "count": 148
+        },
+        {
+          "value": "#0000ee",
+          "count": 42
+        },
+        {
+          "value": "#e3120b",
+          "count": 39
+        },
+        {
+          "value": "#333333",
+          "count": 32
+        },
+        {
+          "value": "#000000",
+          "count": 28
+        },
+        {
+          "value": "#d9d9d9",
+          "count": 8
+        },
+        {
+          "value": "#f2f2f2",
+          "count": 6
+        }
+      ],
+      "borders": [
+        {
+          "value": "#d6d6d6",
+          "count": 4
+        },
+        {
+          "value": "#d9d9d9",
+          "count": 2
+        },
+        {
+          "value": "#ffffff",
+          "count": 2
+        },
+        {
+          "value": "#333333",
+          "count": 1
+        },
+        {
+          "value": "#b3b3b3",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#1f2e7a",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

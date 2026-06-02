@@ -1,0 +1,917 @@
+{
+  "url": "https://www.revolut.com",
+  "name": "www.revolut.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Sign up",
+          "bg": "#f4f4f4",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "10px 24px 10px 24px",
+          "height": 42,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Aeonik Pro",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s, 0.3s, 0.3s, 0.2s, 0.2s, 0.2s",
+          "_n": 6
+        },
+        {
+          "role": "primary",
+          "text": "Download the app",
+          "bg": "#191c1f",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "10px 24px 10px 24px",
+          "height": 42,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Aeonik Pro",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s, 0.3s, 0.3s, 0.2s, 0.2s, 0.2s",
+          "_n": 5
+        },
+        {
+          "role": "primary",
+          "text": "Physical cards",
+          "bg": "#f4f4f4",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "10px 26px 10px 26px",
+          "height": 42,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Aeonik Pro",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Virtual cards",
+          "bg": "#f4f4f4",
+          "bg_alpha": 0.1,
+          "color": "#f4f4f4",
+          "border": "2px solid #f4f4f4",
+          "radius": "9999px",
+          "padding": "10px 24px 10px 24px",
+          "height": 42,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Aeonik Pro",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 3
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Reject non-essential cookies",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#191c1f",
+          "border": "2px solid #191c1f",
+          "radius": "9999px",
+          "padding": "10px 24px 10px 24px",
+          "height": 46,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Aeonik Pro",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s, 0.3s, 0.3s, 0.2s, 0.2s, 0.2s",
+          "_n": 1
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Personal",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "8px 20px 8px 20px",
+          "height": 38,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Aeonik Pro",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s, 0.3s",
+          "_n": 4
+        },
+        {
+          "role": "ghost",
+          "text": "Log in",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "10px 24px 10px 24px",
+          "height": 42,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Aeonik Pro",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s, 0.3s, 0.3s, 0.2s, 0.2s, 0.2s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "United Kingdom",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#8d969e",
+          "border": "none",
+          "radius": "12px",
+          "padding": "0px 0px 0px 0px",
+          "height": 26,
+          "font_size": "12px",
+          "font_weight": "400",
+          "font_family": "Inter",
+          "letter_spacing": "0.18px",
+          "line_height": "18px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "89.216px",
+        "font_size_px": 89.22,
+        "font_weight": "500",
+        "line_height": "89.216px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-2.08px",
+        "font_family": "Aeonik Pro",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 27,
+        "font_size": "52.608px",
+        "font_size_px": 52.61,
+        "font_weight": "500",
+        "line_height": "52.608px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-0.6px",
+        "font_family": "Aeonik Pro",
+        "color": "#191c1f",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 5,
+        "font_size": "18px",
+        "font_size_px": 18,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.33,
+        "letter_spacing": "normal",
+        "font_family": "Aeonik Pro",
+        "color": "#191c1f",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 26,
+        "font_size": "12px",
+        "font_size_px": 12,
+        "font_weight": "400",
+        "line_height": "18px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "0.18px",
+        "font_family": "Inter",
+        "color": "#f4f4f4"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1000,
+          "count": 11
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 7
+        },
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 12,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 30
+        },
+        {
+          "value": 24,
+          "count": 11
+        },
+        {
+          "value": 16,
+          "count": 10
+        },
+        {
+          "value": 12,
+          "count": 3
+        },
+        {
+          "value": 56,
+          "count": 2
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 72,
+          "count": 1
+        },
+        {
+          "value": 80,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 94,
+      "grid_blocks": 10
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 150
+        },
+        {
+          "value": 24,
+          "count": 52
+        },
+        {
+          "value": 10,
+          "count": 36
+        },
+        {
+          "value": 16,
+          "count": 18
+        },
+        {
+          "value": 4,
+          "count": 14
+        },
+        {
+          "value": 20,
+          "count": 12
+        },
+        {
+          "value": 80,
+          "count": 6
+        },
+        {
+          "value": 26,
+          "count": 4
+        },
+        {
+          "value": 810,
+          "count": 3
+        },
+        {
+          "value": 109.42,
+          "count": 3
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 220,
+          "count": 2
+        },
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 72,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 20,
+          "count": 14
+        },
+        {
+          "value": 8,
+          "count": 13
+        },
+        {
+          "value": 18,
+          "count": 10
+        },
+        {
+          "value": 40,
+          "count": 7
+        },
+        {
+          "value": 80,
+          "count": 6
+        },
+        {
+          "value": 32,
+          "count": 5
+        },
+        {
+          "value": 12,
+          "count": 4
+        },
+        {
+          "value": 24,
+          "count": 2
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#191c1f",
+          "count": 11
+        },
+        {
+          "value": "#f4f4f4",
+          "count": 8
+        },
+        {
+          "value": "#f7f7f7",
+          "count": 5
+        },
+        {
+          "value": "#8d969e",
+          "count": 5
+        },
+        {
+          "value": "#ffffff",
+          "count": 3
+        },
+        {
+          "value": "#000000",
+          "count": 3
+        }
+      ],
+      "text": [
+        {
+          "value": "#191c1f",
+          "count": 197
+        },
+        {
+          "value": "#8d969e",
+          "count": 104
+        },
+        {
+          "value": "#f4f4f4",
+          "count": 102
+        },
+        {
+          "value": "#ffffff",
+          "count": 58
+        },
+        {
+          "value": "#000000",
+          "count": 24
+        },
+        {
+          "value": "#717173",
+          "count": 7
+        },
+        {
+          "value": "#505a63",
+          "count": 6
+        }
+      ],
+      "borders": [
+        {
+          "value": "#f4f4f4",
+          "count": 3
+        },
+        {
+          "value": "#c9c9cd",
+          "count": 1
+        },
+        {
+          "value": "#191c1f",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "title": "Banking & Beyond | Revolut United Kingdom",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Sign up",
+          "bg": "#f4f4f4",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "10px 24px 10px 24px",
+          "height": 42,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Aeonik Pro",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s, 0.3s, 0.3s, 0.2s, 0.2s, 0.2s",
+          "_n": 6
+        },
+        {
+          "role": "primary",
+          "text": "Download the app",
+          "bg": "#191c1f",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "10px 24px 10px 24px",
+          "height": 42,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Aeonik Pro",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s, 0.3s, 0.3s, 0.2s, 0.2s, 0.2s",
+          "_n": 5
+        },
+        {
+          "role": "primary",
+          "text": "Physical cards",
+          "bg": "#f4f4f4",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "10px 26px 10px 26px",
+          "height": 42,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Aeonik Pro",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Virtual cards",
+          "bg": "#f4f4f4",
+          "bg_alpha": 0.1,
+          "color": "#f4f4f4",
+          "border": "2px solid #f4f4f4",
+          "radius": "9999px",
+          "padding": "10px 24px 10px 24px",
+          "height": 42,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Aeonik Pro",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 3
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Reject non-essential cookies",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#191c1f",
+          "border": "2px solid #191c1f",
+          "radius": "9999px",
+          "padding": "10px 24px 10px 24px",
+          "height": 46,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Aeonik Pro",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s, 0.3s, 0.3s, 0.2s, 0.2s, 0.2s",
+          "_n": 1
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Personal",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "8px 20px 8px 20px",
+          "height": 38,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Aeonik Pro",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s, 0.3s",
+          "_n": 4
+        },
+        {
+          "role": "ghost",
+          "text": "Log in",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "10px 24px 10px 24px",
+          "height": 42,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Aeonik Pro",
+          "letter_spacing": "normal",
+          "line_height": "22px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s, 0.3s, 0.3s, 0.2s, 0.2s, 0.2s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "United Kingdom",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#8d969e",
+          "border": "none",
+          "radius": "12px",
+          "padding": "0px 0px 0px 0px",
+          "height": 26,
+          "font_size": "12px",
+          "font_weight": "400",
+          "font_family": "Inter",
+          "letter_spacing": "0.18px",
+          "line_height": "18px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "89.216px",
+        "font_size_px": 89.22,
+        "font_weight": "500",
+        "line_height": "89.216px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-2.08px",
+        "font_family": "Aeonik Pro",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 27,
+        "font_size": "52.608px",
+        "font_size_px": 52.61,
+        "font_weight": "500",
+        "line_height": "52.608px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-0.6px",
+        "font_family": "Aeonik Pro",
+        "color": "#191c1f",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 5,
+        "font_size": "18px",
+        "font_size_px": 18,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.33,
+        "letter_spacing": "normal",
+        "font_family": "Aeonik Pro",
+        "color": "#191c1f",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 26,
+        "font_size": "12px",
+        "font_size_px": 12,
+        "font_weight": "400",
+        "line_height": "18px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "0.18px",
+        "font_family": "Inter",
+        "color": "#f4f4f4"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1000,
+          "count": 11
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 7
+        },
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 12,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 30
+        },
+        {
+          "value": 24,
+          "count": 11
+        },
+        {
+          "value": 16,
+          "count": 10
+        },
+        {
+          "value": 12,
+          "count": 3
+        },
+        {
+          "value": 56,
+          "count": 2
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 72,
+          "count": 1
+        },
+        {
+          "value": 80,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 94,
+      "grid_blocks": 10
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 8,
+          "count": 150
+        },
+        {
+          "value": 24,
+          "count": 52
+        },
+        {
+          "value": 10,
+          "count": 36
+        },
+        {
+          "value": 16,
+          "count": 18
+        },
+        {
+          "value": 4,
+          "count": 14
+        },
+        {
+          "value": 20,
+          "count": 12
+        },
+        {
+          "value": 80,
+          "count": 6
+        },
+        {
+          "value": 26,
+          "count": 4
+        },
+        {
+          "value": 810,
+          "count": 3
+        },
+        {
+          "value": 109.42,
+          "count": 3
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 220,
+          "count": 2
+        },
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 72,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 20,
+          "count": 14
+        },
+        {
+          "value": 8,
+          "count": 13
+        },
+        {
+          "value": 18,
+          "count": 10
+        },
+        {
+          "value": 40,
+          "count": 7
+        },
+        {
+          "value": 80,
+          "count": 6
+        },
+        {
+          "value": 32,
+          "count": 5
+        },
+        {
+          "value": 12,
+          "count": 4
+        },
+        {
+          "value": 24,
+          "count": 2
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#191c1f",
+          "count": 11
+        },
+        {
+          "value": "#f4f4f4",
+          "count": 8
+        },
+        {
+          "value": "#f7f7f7",
+          "count": 5
+        },
+        {
+          "value": "#8d969e",
+          "count": 5
+        },
+        {
+          "value": "#ffffff",
+          "count": 3
+        },
+        {
+          "value": "#000000",
+          "count": 3
+        }
+      ],
+      "text": [
+        {
+          "value": "#191c1f",
+          "count": 197
+        },
+        {
+          "value": "#8d969e",
+          "count": 104
+        },
+        {
+          "value": "#f4f4f4",
+          "count": 102
+        },
+        {
+          "value": "#ffffff",
+          "count": 58
+        },
+        {
+          "value": "#000000",
+          "count": 24
+        },
+        {
+          "value": "#717173",
+          "count": 7
+        },
+        {
+          "value": "#505a63",
+          "count": 6
+        }
+      ],
+      "borders": [
+        {
+          "value": "#f4f4f4",
+          "count": 3
+        },
+        {
+          "value": "#c9c9cd",
+          "count": 1
+        },
+        {
+          "value": "#191c1f",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

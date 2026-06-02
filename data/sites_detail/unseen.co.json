@@ -1,0 +1,503 @@
+{
+  "url": "https://unseen.co",
+  "name": "unseen.co",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Enter without audio",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 1.44px 0px",
+          "height": 17,
+          "font_size": "10.08px",
+          "font_weight": "500",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "15.12px",
+          "text_transform": "uppercase",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Enter\n\n\n\n\n\n\n\n\n\nEnter",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#424242",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 37,
+          "font_size": "14.4px",
+          "font_weight": "400",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "21.6px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Toggle Menu",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "50%",
+          "padding": "0px 0px 0px 0px",
+          "height": 53,
+          "font_size": "14.4px",
+          "font_weight": "400",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "21.6px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 3
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "28.8px",
+        "font_size_px": 28.8,
+        "font_weight": "700",
+        "line_height": "43.2px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Neue Montreal",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "19.296px"
+      },
+      "body": {
+        "count": 2,
+        "font_size": "14.4px",
+        "font_size_px": 14.4,
+        "font_weight": "400",
+        "line_height": "16.56px",
+        "line_height_ratio": 1.15,
+        "letter_spacing": "-0.36px",
+        "font_family": "Neue Montreal",
+        "color": "#424242"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 590.4,
+          "count": 1
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [],
+      "section_padding_top": [],
+      "flex_blocks": 31,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 2.16,
+          "count": 6
+        },
+        {
+          "value": 10.8,
+          "count": 6
+        },
+        {
+          "value": 9.52,
+          "count": 4
+        },
+        {
+          "value": 21.6,
+          "count": 4
+        },
+        {
+          "value": 8.64,
+          "count": 4
+        },
+        {
+          "value": 5.76,
+          "count": 4
+        },
+        {
+          "value": 90,
+          "count": 3
+        },
+        {
+          "value": 17.28,
+          "count": 3
+        },
+        {
+          "value": 1.44,
+          "count": 2
+        },
+        {
+          "value": 14.4,
+          "count": 2
+        },
+        {
+          "value": 28.8,
+          "count": 2
+        },
+        {
+          "value": 119.52,
+          "count": 2
+        },
+        {
+          "value": 12.96,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 2,
+          "count": 2
+        },
+        {
+          "value": 3,
+          "count": 2
+        },
+        {
+          "value": 5.04,
+          "count": 2
+        },
+        {
+          "value": 25.2,
+          "count": 2
+        },
+        {
+          "value": 34.56,
+          "count": 2
+        },
+        {
+          "value": 19.58,
+          "count": 2
+        },
+        {
+          "value": 5.76,
+          "count": 1
+        },
+        {
+          "value": 19.3,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#212121",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 3
+        },
+        {
+          "value": "#212121",
+          "count": 1
+        },
+        {
+          "value": "#efded9",
+          "count": 1
+        },
+        {
+          "value": "#f1edeb",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#212121",
+          "count": 106
+        },
+        {
+          "value": "#000000",
+          "count": 63
+        },
+        {
+          "value": "#424242",
+          "count": 42
+        },
+        {
+          "value": "#ffffff",
+          "count": 4
+        },
+        {
+          "value": "#d6d6d6",
+          "count": 4
+        }
+      ],
+      "borders": [
+        {
+          "value": "#212121",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "title": "Unseen Studio® – Brand, Digital & Motion",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Enter without audio",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 1.44px 0px",
+          "height": 17,
+          "font_size": "10.08px",
+          "font_weight": "500",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "15.12px",
+          "text_transform": "uppercase",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Enter\n\n\n\n\n\n\n\n\n\nEnter",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#424242",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 37,
+          "font_size": "14.4px",
+          "font_weight": "400",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "21.6px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Toggle Menu",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "50%",
+          "padding": "0px 0px 0px 0px",
+          "height": 53,
+          "font_size": "14.4px",
+          "font_weight": "400",
+          "font_family": "Neue Montreal",
+          "letter_spacing": "normal",
+          "line_height": "21.6px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 3
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "28.8px",
+        "font_size_px": 28.8,
+        "font_weight": "700",
+        "line_height": "43.2px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Neue Montreal",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "19.296px"
+      },
+      "body": {
+        "count": 2,
+        "font_size": "14.4px",
+        "font_size_px": 14.4,
+        "font_weight": "400",
+        "line_height": "16.56px",
+        "line_height_ratio": 1.15,
+        "letter_spacing": "-0.36px",
+        "font_family": "Neue Montreal",
+        "color": "#424242"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 590.4,
+          "count": 1
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [],
+      "section_padding_top": [],
+      "flex_blocks": 31,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 2.16,
+          "count": 6
+        },
+        {
+          "value": 10.8,
+          "count": 6
+        },
+        {
+          "value": 9.52,
+          "count": 4
+        },
+        {
+          "value": 21.6,
+          "count": 4
+        },
+        {
+          "value": 8.64,
+          "count": 4
+        },
+        {
+          "value": 5.76,
+          "count": 4
+        },
+        {
+          "value": 90,
+          "count": 3
+        },
+        {
+          "value": 17.28,
+          "count": 3
+        },
+        {
+          "value": 1.44,
+          "count": 2
+        },
+        {
+          "value": 14.4,
+          "count": 2
+        },
+        {
+          "value": 28.8,
+          "count": 2
+        },
+        {
+          "value": 119.52,
+          "count": 2
+        },
+        {
+          "value": 12.96,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 2,
+          "count": 2
+        },
+        {
+          "value": 3,
+          "count": 2
+        },
+        {
+          "value": 5.04,
+          "count": 2
+        },
+        {
+          "value": 25.2,
+          "count": 2
+        },
+        {
+          "value": 34.56,
+          "count": 2
+        },
+        {
+          "value": 19.58,
+          "count": 2
+        },
+        {
+          "value": 5.76,
+          "count": 1
+        },
+        {
+          "value": 19.3,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#212121",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 3
+        },
+        {
+          "value": "#212121",
+          "count": 1
+        },
+        {
+          "value": "#efded9",
+          "count": 1
+        },
+        {
+          "value": "#f1edeb",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#212121",
+          "count": 106
+        },
+        {
+          "value": "#000000",
+          "count": 63
+        },
+        {
+          "value": "#424242",
+          "count": 42
+        },
+        {
+          "value": "#ffffff",
+          "count": 4
+        },
+        {
+          "value": "#d6d6d6",
+          "count": 4
+        }
+      ],
+      "borders": [
+        {
+          "value": "#212121",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

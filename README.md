@@ -29,7 +29,7 @@ harness so any team or coding agent can audit and prevent the look.
 
 ## Contents
 
-- [Quickstart](#quickstart) · [The result](#the-result) · [Validated on 202 real sites](#validated-on-202-real-sites-v2) · [The 21 tells](#the-21-tells)
+- [Quickstart](#quickstart) · [The result](#the-result) · [Validated on 202 real sites](#validated-on-202-real-sites-v2) · [Component spec catalog](#component-spec-catalog-v3) · [The 21 tells](#the-21-tells)
 - [The harness: CLI · MCP · drop-in prompt](#the-harness)
 - [Figure gallery](#figure-gallery) · [How it works](#how-it-works) · [Honest limits](#honest-limits)
 - [Paper & citation](#paper) · [Repo layout](#repo-layout)
@@ -139,6 +139,33 @@ So no single signal is the tell. The recalibrated detector uses a **craft-credit
 The corpus (per-site signals + scores) ships in `data/`; re-run it with
 `python src/scrape.py && python scripts/analyze_corpus.py && python scripts/validate_signals.py`.
 
+## Component spec catalog (v3)
+
+"Don't look AI" is a negative. So we also read the **positive**: the actual CSS
+**199 design-led sites** ship, component by component, in **light and dark**.
+For every site we render twice (once per `prefers-color-scheme`) and read the
+computed button styles, the full type scale, layout containers, the spacing grid,
+and the color palette. The aggregate is concrete targets, not vibes.
+
+<p align="center">
+  <img alt="button radii, type scale, dark backgrounds, accent diversity across 199 sites" src="paper/figs/fig10_specsheet.png" width="100%">
+</p>
+<p align="center"><sub>Measured across 199 sites. Primary-button radius splits between soft-round 8 to 12px and a full pill. The real type scale lands near 64/48/32/16px. Dark backgrounds are <b>tinted near-blacks</b>, never pure <code>#000</code>. Accent hues are all over the wheel, the hue is never the tell.</sub></p>
+
+A few measured norms (full tables in [`reference/COMPONENT-SPECS.md`](reference/COMPONENT-SPECS.md)):
+
+| Thing | What real sites do |
+|---|---|
+| **Primary button** | radius median **8px** (24% go full pill), padding ~**8px / 15px**, label **15px**, weight **500** (400 is common), only **13%** carry a shadow |
+| **Type scale** | h1 **64px** / h2 **48px** / h3 **32px** / body **16px**; headlines tight line-height **~1.1** with negative tracking, body **~1.5** |
+| **Layout** | content max-width median **1200px** (1440/1280/1200 common); section rhythm **~64px** top padding |
+| **Spacing** | a 4/8px grid, not religiously; most-used steps 16, 8, 24, 12, 4, 32px |
+| **Light** | page bg **#fff** / near-white; text a **near-black** (rarely pure #000 on pure #fff) |
+| **Dark** | page bg a **tinted near-black** (`#0b0f19`, `#111`, `#18181b`...), surfaces a step lighter, text off-white |
+
+Rebuild the catalog with
+`python src/scrape_detail.py data/site_list_big.txt && python scripts/build_spec_catalog.py`.
+
 ## The 21 tells
 
 Seven families; each tell has a weight, a severity (**tell** = strong, *smell* =
@@ -185,7 +212,7 @@ showing it to you**, get the specific fixes, and iterate. Register in Claude Cod
   "command": "python", "args": ["mcp/server.py"] } } }
 ```
 
-Tools: `score_design(html)`, `score_file(path)`, **`audit_url(url)`** (live site), `list_tells()`, `harness_prompt()`.
+Tools: `score_design(html)`, `score_file(path)`, **`audit_url(url)`** (live site), `list_tells()`, **`component_specs()`** (measured target values), `harness_prompt()`.
 
 **3 · Drop-in prompt module**, [`harness/AI-DESIGN-TELLS.md`](harness/AI-DESIGN-TELLS.md)
 turns each *detected* tell into a *preventive* instruction plus a pre-ship
@@ -286,13 +313,16 @@ src/taxonomy.py     the 21 tells, single source of truth (detector, paper, harne
 src/scorer.py       the static detector + Tell Score
 src/cli.py          the `aidt` command-line linter
 src/scrape.py       render real sites (headless Chrome) and read computed styles (v2 live audit)
+src/scrape_detail.py    deep per-component CSS extraction, light + dark (v3 spec catalog)
 scripts/audit_url.py    audit a deployed URL; analyze_corpus.py learns calibration from data/
-mcp/server.py       MCP server (score_design / score_file / list_tells / harness_prompt)
-harness/            AI-DESIGN-TELLS.md, drop-in prompt module (generated)
+scripts/build_spec_catalog.py  aggregate sites_detail/ into reference/COMPONENT-SPECS.md
+mcp/server.py       MCP server (score_design / score_file / audit_url / list_tells / component_specs / harness_prompt)
+harness/            AI-DESIGN-TELLS.md, drop-in prompt module (generated, now with measured targets)
+reference/          COMPONENT-SPECS.md, the measured per-component catalog (199 sites)
 fixtures/           the 6 corpus pages (3 AI-default, 3 designed), viewable templates
-scripts/            run_audit, make_figures, make_gifs, render, gen_harness
+scripts/            run_audit, make_figures, make_gifs, render, gen_harness, build_spec_catalog
 paper/              paper.typ, refs.bib, paper.pdf, figs/
-data/               202-site corpus: per-site signals, calibration.json, site_scores.json
+data/               site corpora: per-site signals, sites_detail/, spec_catalog.json, calibration.json
 results/            scores.json
 DESIGN.md           pre-registration (hypotheses, confound controls)
 ```

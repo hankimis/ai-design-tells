@@ -1,0 +1,703 @@
+{
+  "url": "https://opensea.io",
+  "name": "opensea.io",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "NFTs",
+          "bg": "#ffffff",
+          "bg_alpha": 0.08,
+          "color": "#ffffff",
+          "border": "1px solid #ffffff",
+          "radius": "6px",
+          "padding": "0px 10px 0px 10px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "gtAmerica",
+          "letter_spacing": "normal",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Gaming",
+          "bg": "#ffffff",
+          "bg_alpha": 0.02,
+          "color": "#acadae",
+          "border": "1px solid #ffffff",
+          "radius": "6px",
+          "padding": "0px 10px 0px 10px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "gtAmerica",
+          "letter_spacing": "normal",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 6
+        },
+        {
+          "role": "secondary",
+          "text": "1d",
+          "bg": "#ffffff",
+          "bg_alpha": 0.02,
+          "color": "#ffffff",
+          "border": "1px solid #ffffff",
+          "radius": "6px",
+          "padding": "0px 8px 0px 12px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "gtAmerica",
+          "letter_spacing": "normal",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "secondary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 0.02,
+          "color": "#ffffff",
+          "border": "1px solid #ffffff",
+          "radius": "6px",
+          "padding": "6px 6px 6px 6px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "gtAmerica",
+          "letter_spacing": "normal",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Resources",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#acadae",
+          "border": "none",
+          "radius": "6px",
+          "padding": "8px 8px 8px 8px",
+          "height": 36,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "gtAmerica",
+          "letter_spacing": "normal",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 3
+        },
+        {
+          "role": "ghost",
+          "text": "Connect Wallet",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "6px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "gtAmerica",
+          "letter_spacing": "normal",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 6,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "gtAmerica",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 17
+        }
+      ]
+    },
+    "typography": {
+      "body": {
+        "count": 3,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "400",
+        "line_height": "21px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "gtAmerica",
+        "color": "#ffffff"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1968,
+          "count": 17
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 14
+        },
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 5,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 126
+        },
+        {
+          "value": 8,
+          "count": 100
+        },
+        {
+          "value": 12,
+          "count": 78
+        },
+        {
+          "value": 6,
+          "count": 30
+        },
+        {
+          "value": 16,
+          "count": 26
+        },
+        {
+          "value": 32,
+          "count": 6
+        },
+        {
+          "value": 2,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 4
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 24,
+          "count": 14
+        }
+      ],
+      "flex_blocks": 773,
+      "grid_blocks": 17
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 12,
+          "count": 121
+        },
+        {
+          "value": 8,
+          "count": 101
+        },
+        {
+          "value": 24,
+          "count": 83
+        },
+        {
+          "value": 16,
+          "count": 58
+        },
+        {
+          "value": 10,
+          "count": 36
+        },
+        {
+          "value": 20,
+          "count": 24
+        },
+        {
+          "value": 4,
+          "count": 20
+        },
+        {
+          "value": 6,
+          "count": 14
+        },
+        {
+          "value": 2,
+          "count": 12
+        },
+        {
+          "value": 3,
+          "count": 4
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 12,
+          "count": 9
+        },
+        {
+          "value": 24,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#101011",
+      "backgrounds": [
+        {
+          "value": "#26272d",
+          "count": 9
+        },
+        {
+          "value": "#1b1d1f",
+          "count": 9
+        },
+        {
+          "value": "#ffffff",
+          "count": 6
+        },
+        {
+          "value": "#141415",
+          "count": 5
+        },
+        {
+          "value": "#101011",
+          "count": 2
+        },
+        {
+          "value": "#47bb64",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#ffffff",
+          "count": 1736
+        },
+        {
+          "value": "#acadae",
+          "count": 328
+        },
+        {
+          "value": "#47bb64",
+          "count": 28
+        },
+        {
+          "value": "#e24756",
+          "count": 21
+        },
+        {
+          "value": "#83c3ff",
+          "count": 20
+        }
+      ],
+      "borders": [
+        {
+          "value": "#47bb64",
+          "count": 1
+        },
+        {
+          "value": "#26272d",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "title": "OpenSea, exchange everything — token trading and NFT marketplace",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "NFTs",
+          "bg": "#ffffff",
+          "bg_alpha": 0.08,
+          "color": "#ffffff",
+          "border": "1px solid #ffffff",
+          "radius": "6px",
+          "padding": "0px 10px 0px 10px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "gtAmerica",
+          "letter_spacing": "normal",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Gaming",
+          "bg": "#ffffff",
+          "bg_alpha": 0.02,
+          "color": "#acadae",
+          "border": "1px solid #ffffff",
+          "radius": "6px",
+          "padding": "0px 10px 0px 10px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "gtAmerica",
+          "letter_spacing": "normal",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 6
+        },
+        {
+          "role": "secondary",
+          "text": "1d",
+          "bg": "#ffffff",
+          "bg_alpha": 0.02,
+          "color": "#ffffff",
+          "border": "1px solid #ffffff",
+          "radius": "6px",
+          "padding": "0px 8px 0px 12px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "gtAmerica",
+          "letter_spacing": "normal",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "secondary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 0.02,
+          "color": "#ffffff",
+          "border": "1px solid #ffffff",
+          "radius": "6px",
+          "padding": "6px 6px 6px 6px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "gtAmerica",
+          "letter_spacing": "normal",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "Resources",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#acadae",
+          "border": "none",
+          "radius": "6px",
+          "padding": "8px 8px 8px 8px",
+          "height": 36,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "gtAmerica",
+          "letter_spacing": "normal",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 3
+        },
+        {
+          "role": "ghost",
+          "text": "Connect Wallet",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "6px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "gtAmerica",
+          "letter_spacing": "normal",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 6,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "gtAmerica",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 17
+        }
+      ]
+    },
+    "typography": {
+      "body": {
+        "count": 3,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "400",
+        "line_height": "21px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "gtAmerica",
+        "color": "#ffffff"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1968,
+          "count": 17
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 14
+        },
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 5,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 126
+        },
+        {
+          "value": 8,
+          "count": 100
+        },
+        {
+          "value": 12,
+          "count": 78
+        },
+        {
+          "value": 6,
+          "count": 30
+        },
+        {
+          "value": 16,
+          "count": 26
+        },
+        {
+          "value": 32,
+          "count": 6
+        },
+        {
+          "value": 2,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 4
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 24,
+          "count": 14
+        }
+      ],
+      "flex_blocks": 773,
+      "grid_blocks": 17
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 12,
+          "count": 121
+        },
+        {
+          "value": 8,
+          "count": 101
+        },
+        {
+          "value": 24,
+          "count": 83
+        },
+        {
+          "value": 16,
+          "count": 58
+        },
+        {
+          "value": 10,
+          "count": 36
+        },
+        {
+          "value": 20,
+          "count": 24
+        },
+        {
+          "value": 4,
+          "count": 20
+        },
+        {
+          "value": 6,
+          "count": 14
+        },
+        {
+          "value": 2,
+          "count": 12
+        },
+        {
+          "value": 3,
+          "count": 4
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 12,
+          "count": 9
+        },
+        {
+          "value": 24,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#101011",
+      "backgrounds": [
+        {
+          "value": "#26272d",
+          "count": 9
+        },
+        {
+          "value": "#1b1d1f",
+          "count": 9
+        },
+        {
+          "value": "#ffffff",
+          "count": 6
+        },
+        {
+          "value": "#141415",
+          "count": 5
+        },
+        {
+          "value": "#101011",
+          "count": 2
+        },
+        {
+          "value": "#47bb64",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#ffffff",
+          "count": 1736
+        },
+        {
+          "value": "#acadae",
+          "count": 328
+        },
+        {
+          "value": "#47bb64",
+          "count": 28
+        },
+        {
+          "value": "#e24756",
+          "count": 21
+        },
+        {
+          "value": "#83c3ff",
+          "count": 20
+        }
+      ],
+      "borders": [
+        {
+          "value": "#47bb64",
+          "count": 1
+        },
+        {
+          "value": "#26272d",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

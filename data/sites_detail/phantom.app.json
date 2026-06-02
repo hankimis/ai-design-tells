@@ -1,0 +1,899 @@
+{
+  "url": "https://phantom.app",
+  "name": "phantom.app",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#fdfcfe",
+          "bg_alpha": 1,
+          "color": "#3c315b",
+          "border": "none",
+          "radius": "32px",
+          "padding": "16px 16px 16px 16px",
+          "height": 56,
+          "font_size": "13.3333px",
+          "font_weight": "400",
+          "font_family": "Phantom",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.4s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Download Phantom",
+          "bg": "#e2dffe",
+          "bg_alpha": 1,
+          "color": "#3c315b",
+          "border": "none",
+          "radius": "96px",
+          "padding": "32px 32px 32px 32px",
+          "height": 89,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Phantom",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.4s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#e2dffe",
+          "bg_alpha": 1,
+          "color": "#3c315b",
+          "border": "none",
+          "radius": "32px",
+          "padding": "16px 16px 16px 16px",
+          "height": 40,
+          "font_size": "13.3333px",
+          "font_weight": "400",
+          "font_family": "Phantom",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.4s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Download Phantom",
+          "bg": "#fdfcfe",
+          "bg_alpha": 1,
+          "color": "#3c315b",
+          "border": "none",
+          "radius": "96px",
+          "padding": "32px 32px 32px 32px",
+          "height": 89,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Phantom",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.4s",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#fffdf8",
+          "border": "none",
+          "radius": "32px",
+          "padding": "16px 16px 16px 16px",
+          "height": 40,
+          "font_size": "13.3333px",
+          "font_weight": "400",
+          "font_family": "Phantom",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.4s",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "Cookie Preferences",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#3c315b",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 20,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Phantom",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#555555",
+          "border": "none",
+          "radius": "2px",
+          "padding": "0px 0px 0px 0px",
+          "height": 44,
+          "font_size": "14.4px",
+          "font_weight": "400",
+          "font_family": "Phantom",
+          "letter_spacing": "0.144px",
+          "line_height": "38px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "80px",
+        "font_size_px": 80,
+        "font_weight": "400",
+        "line_height": "88px",
+        "line_height_ratio": 1.1,
+        "letter_spacing": "-2px",
+        "font_family": "Phantom",
+        "color": "#fffdf8",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 6,
+        "font_size": "96px",
+        "font_size_px": 96,
+        "font_weight": "400",
+        "line_height": "105.6px",
+        "line_height_ratio": 1.1,
+        "letter_spacing": "-2.4px",
+        "font_family": "Phantom",
+        "color": "#3c315b",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 4,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "400",
+        "line_height": "32.4px",
+        "line_height_ratio": 1.35,
+        "letter_spacing": "-0.6px",
+        "font_family": "Phantom",
+        "color": "#3c315b",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 13,
+        "font_size": "30px",
+        "font_size_px": 30,
+        "font_weight": "400",
+        "line_height": "36px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "Phantom",
+        "color": "#1c1c1c"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1560,
+          "count": 11
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 12,
+          "count": 5
+        },
+        {
+          "value": 16,
+          "count": 1
+        },
+        {
+          "value": 20,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 26
+        },
+        {
+          "value": 10,
+          "count": 20
+        },
+        {
+          "value": 16,
+          "count": 10
+        },
+        {
+          "value": 8,
+          "count": 6
+        },
+        {
+          "value": 64,
+          "count": 2
+        },
+        {
+          "value": 12,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 128,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 96,
+          "count": 3
+        },
+        {
+          "value": 128,
+          "count": 2
+        }
+      ],
+      "flex_blocks": 152,
+      "grid_blocks": 7
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 48,
+          "count": 68
+        },
+        {
+          "value": 16,
+          "count": 38
+        },
+        {
+          "value": 12,
+          "count": 20
+        },
+        {
+          "value": 24,
+          "count": 19
+        },
+        {
+          "value": 32,
+          "count": 17
+        },
+        {
+          "value": 8,
+          "count": 13
+        },
+        {
+          "value": 4,
+          "count": 8
+        },
+        {
+          "value": 20,
+          "count": 6
+        },
+        {
+          "value": 96,
+          "count": 6
+        },
+        {
+          "value": 3,
+          "count": 4
+        },
+        {
+          "value": 128,
+          "count": 4
+        },
+        {
+          "value": 30,
+          "count": 3
+        },
+        {
+          "value": 76,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 32,
+          "count": 13
+        },
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 64,
+          "count": 2
+        },
+        {
+          "value": 120,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#f5f2ff",
+      "backgrounds": [
+        {
+          "value": "#fdfcfe",
+          "count": 10
+        },
+        {
+          "value": "#e2dffe",
+          "count": 7
+        },
+        {
+          "value": "#ab9ff2",
+          "count": 4
+        },
+        {
+          "value": "#1c1c1c",
+          "count": 3
+        },
+        {
+          "value": "#e9e8ea",
+          "count": 2
+        },
+        {
+          "value": "#3c315b",
+          "count": 2
+        },
+        {
+          "value": "#f4f2f4",
+          "count": 2
+        },
+        {
+          "value": "#f5f2ff",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#3c315b",
+          "count": 321
+        },
+        {
+          "value": "#fffdf8",
+          "count": 40
+        },
+        {
+          "value": "#1c1c1c",
+          "count": 30
+        },
+        {
+          "value": "#86848d",
+          "count": 8
+        },
+        {
+          "value": "#ab9ff2",
+          "count": 6
+        },
+        {
+          "value": "#555555",
+          "count": 1
+        }
+      ],
+      "borders": [],
+      "accents": [
+        {
+          "value": "#e2dffe",
+          "count": 6
+        },
+        {
+          "value": "#ab9ff2",
+          "count": 4
+        },
+        {
+          "value": "#3c315b",
+          "count": 2
+        },
+        {
+          "value": "#fdfcfe",
+          "count": 1
+        },
+        {
+          "value": "#6ca0fb",
+          "count": 1
+        },
+        {
+          "value": "#fffdf8",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "Phantom: The money app that'll take you places",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#fdfcfe",
+          "bg_alpha": 1,
+          "color": "#3c315b",
+          "border": "none",
+          "radius": "32px",
+          "padding": "16px 16px 16px 16px",
+          "height": 56,
+          "font_size": "13.3333px",
+          "font_weight": "400",
+          "font_family": "Phantom",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.4s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Download Phantom",
+          "bg": "#e2dffe",
+          "bg_alpha": 1,
+          "color": "#3c315b",
+          "border": "none",
+          "radius": "96px",
+          "padding": "32px 32px 32px 32px",
+          "height": 89,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Phantom",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.4s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#e2dffe",
+          "bg_alpha": 1,
+          "color": "#3c315b",
+          "border": "none",
+          "radius": "32px",
+          "padding": "16px 16px 16px 16px",
+          "height": 40,
+          "font_size": "13.3333px",
+          "font_weight": "400",
+          "font_family": "Phantom",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.4s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Download Phantom",
+          "bg": "#fdfcfe",
+          "bg_alpha": 1,
+          "color": "#3c315b",
+          "border": "none",
+          "radius": "96px",
+          "padding": "32px 32px 32px 32px",
+          "height": 89,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Phantom",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.4s",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#fffdf8",
+          "border": "none",
+          "radius": "32px",
+          "padding": "16px 16px 16px 16px",
+          "height": 40,
+          "font_size": "13.3333px",
+          "font_weight": "400",
+          "font_family": "Phantom",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.4s",
+          "_n": 2
+        },
+        {
+          "role": "ghost",
+          "text": "Cookie Preferences",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#3c315b",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 20,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Phantom",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#555555",
+          "border": "none",
+          "radius": "2px",
+          "padding": "0px 0px 0px 0px",
+          "height": 44,
+          "font_size": "14.4px",
+          "font_weight": "400",
+          "font_family": "Phantom",
+          "letter_spacing": "0.144px",
+          "line_height": "38px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "80px",
+        "font_size_px": 80,
+        "font_weight": "400",
+        "line_height": "88px",
+        "line_height_ratio": 1.1,
+        "letter_spacing": "-2px",
+        "font_family": "Phantom",
+        "color": "#fffdf8",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 6,
+        "font_size": "96px",
+        "font_size_px": 96,
+        "font_weight": "400",
+        "line_height": "105.6px",
+        "line_height_ratio": 1.1,
+        "letter_spacing": "-2.4px",
+        "font_family": "Phantom",
+        "color": "#3c315b",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 4,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "400",
+        "line_height": "32.4px",
+        "line_height_ratio": 1.35,
+        "letter_spacing": "-0.6px",
+        "font_family": "Phantom",
+        "color": "#3c315b",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 13,
+        "font_size": "30px",
+        "font_size_px": 30,
+        "font_weight": "400",
+        "line_height": "36px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "Phantom",
+        "color": "#1c1c1c"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1560,
+          "count": 11
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 12,
+          "count": 5
+        },
+        {
+          "value": 16,
+          "count": 1
+        },
+        {
+          "value": 20,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 26
+        },
+        {
+          "value": 10,
+          "count": 20
+        },
+        {
+          "value": 16,
+          "count": 10
+        },
+        {
+          "value": 8,
+          "count": 6
+        },
+        {
+          "value": 64,
+          "count": 2
+        },
+        {
+          "value": 12,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 128,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 96,
+          "count": 3
+        },
+        {
+          "value": 128,
+          "count": 2
+        }
+      ],
+      "flex_blocks": 152,
+      "grid_blocks": 7
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 48,
+          "count": 68
+        },
+        {
+          "value": 16,
+          "count": 38
+        },
+        {
+          "value": 12,
+          "count": 20
+        },
+        {
+          "value": 24,
+          "count": 19
+        },
+        {
+          "value": 32,
+          "count": 17
+        },
+        {
+          "value": 8,
+          "count": 13
+        },
+        {
+          "value": 4,
+          "count": 8
+        },
+        {
+          "value": 20,
+          "count": 6
+        },
+        {
+          "value": 96,
+          "count": 6
+        },
+        {
+          "value": 3,
+          "count": 4
+        },
+        {
+          "value": 128,
+          "count": 4
+        },
+        {
+          "value": 30,
+          "count": 3
+        },
+        {
+          "value": 76,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 32,
+          "count": 13
+        },
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 64,
+          "count": 2
+        },
+        {
+          "value": 120,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#f5f2ff",
+      "backgrounds": [
+        {
+          "value": "#fdfcfe",
+          "count": 10
+        },
+        {
+          "value": "#e2dffe",
+          "count": 7
+        },
+        {
+          "value": "#ab9ff2",
+          "count": 4
+        },
+        {
+          "value": "#1c1c1c",
+          "count": 3
+        },
+        {
+          "value": "#e9e8ea",
+          "count": 2
+        },
+        {
+          "value": "#3c315b",
+          "count": 2
+        },
+        {
+          "value": "#f4f2f4",
+          "count": 2
+        },
+        {
+          "value": "#f5f2ff",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#3c315b",
+          "count": 321
+        },
+        {
+          "value": "#fffdf8",
+          "count": 40
+        },
+        {
+          "value": "#1c1c1c",
+          "count": 30
+        },
+        {
+          "value": "#86848d",
+          "count": 8
+        },
+        {
+          "value": "#ab9ff2",
+          "count": 6
+        },
+        {
+          "value": "#555555",
+          "count": 1
+        }
+      ],
+      "borders": [],
+      "accents": [
+        {
+          "value": "#e2dffe",
+          "count": 6
+        },
+        {
+          "value": "#ab9ff2",
+          "count": 4
+        },
+        {
+          "value": "#3c315b",
+          "count": 2
+        },
+        {
+          "value": "#fdfcfe",
+          "count": 1
+        },
+        {
+          "value": "#6ca0fb",
+          "count": 1
+        },
+        {
+          "value": "#fffdf8",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

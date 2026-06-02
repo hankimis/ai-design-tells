@@ -1,0 +1,163 @@
+{
+  "url": "https://activetheory.net",
+  "name": "activetheory.net",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {},
+    "layout": {
+      "containers": [],
+      "grid_columns": [],
+      "gaps": [],
+      "section_padding_top": [],
+      "flex_blocks": 0,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [],
+      "margin_scale": []
+    },
+    "color": {
+      "page_bg": "#000000",
+      "backgrounds": [
+        {
+          "value": "#000000",
+          "count": 3
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 4
+        },
+        {
+          "value": "#81ecfe",
+          "count": 1
+        },
+        {
+          "value": "#77c4d9",
+          "count": 1
+        }
+      ],
+      "borders": [],
+      "accents": []
+    }
+  },
+  "title": "Active Theory · Creative Digital Experiences",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "<<",
+          "bg": "#ffffff",
+          "bg_alpha": 0.1,
+          "color": "#ffffff",
+          "border": "1px solid #ffffff",
+          "radius": "5px",
+          "padding": "1px 6px 1px 6px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "700",
+          "font_family": "nbarchitekt",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.4s",
+          "_n": 2
+        }
+      ],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {
+      "body": {
+        "count": 2,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "700",
+        "line_height": "normal",
+        "line_height_ratio": null,
+        "letter_spacing": "normal",
+        "font_family": "nbarchitekt",
+        "color": "#ffffff"
+      }
+    },
+    "layout": {
+      "containers": [],
+      "grid_columns": [],
+      "gaps": [],
+      "section_padding_top": [],
+      "flex_blocks": 2,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 1,
+          "count": 4
+        },
+        {
+          "value": 6,
+          "count": 4
+        },
+        {
+          "value": 12.8,
+          "count": 4
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 14,
+          "count": 4
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#000000",
+      "backgrounds": [
+        {
+          "value": "#000000",
+          "count": 4
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 15
+        },
+        {
+          "value": "#ffffff",
+          "count": 6
+        },
+        {
+          "value": "#0000ee",
+          "count": 3
+        },
+        {
+          "value": "#81ecfe",
+          "count": 1
+        },
+        {
+          "value": "#ace6e8",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#ffffff",
+          "count": 2
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

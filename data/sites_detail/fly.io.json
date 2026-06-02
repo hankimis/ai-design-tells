@@ -1,0 +1,827 @@
+{
+  "url": "https://fly.io",
+  "name": "fly.io",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Get Started",
+          "bg": "#7c3aed",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "8px",
+          "padding": "0px 12px 0px 10px",
+          "height": 32,
+          "font_size": "14.5px",
+          "font_weight": "450",
+          "font_family": "Fricolage Grotesque",
+          "letter_spacing": "normal",
+          "line_height": "21.75px",
+          "text_transform": "none",
+          "shadow": "rgba(67, 56, 202, 0.25) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Deploy your app",
+          "bg": "#7c3aed",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "0px 20px 0px 20px",
+          "height": 48,
+          "font_size": "15.5px",
+          "font_weight": "450",
+          "font_family": "Fricolage Grotesque",
+          "letter_spacing": "normal",
+          "line_height": "23.25px",
+          "text_transform": "none",
+          "shadow": "rgba(67, 56, 202, 0.25) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+          "transition": "0.2s",
+          "_n": 5
+        },
+        {
+          "role": "primary",
+          "text": "Fly.io Security",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#281950",
+          "border": "1px solid #5b21b6",
+          "radius": "9999px",
+          "padding": "0px 20px 0px 20px",
+          "height": 48,
+          "font_size": "15.5px",
+          "font_weight": "450",
+          "font_family": "Fricolage Grotesque",
+          "letter_spacing": "normal",
+          "line_height": "23.25px",
+          "text_transform": "none",
+          "shadow": "rgb(231, 230, 244) 0px -3px 6px -2px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Learn More",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "1px solid #ffffff",
+          "radius": "9999px",
+          "padding": "0px 20px 0px 20px",
+          "height": 48,
+          "font_size": "15.5px",
+          "font_weight": "450",
+          "font_family": "Fricolage Grotesque",
+          "letter_spacing": "normal",
+          "line_height": "23.25px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(91, 33, 182, 0.1) 0px 5px 5px -2px, rgba(91, 33, 182, 0.1) 0px 2px 4px -2px",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "secondary",
+          "text": "Phoenix Framework",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "1px solid #ffffff",
+          "radius": "16px",
+          "padding": "32px 16px 32px 16px",
+          "height": 98,
+          "font_size": "16px",
+          "font_weight": "450",
+          "font_family": "Fricolage Grotesque",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(91, 33, 182, 0.1) 0px 5px 5px -2px, rgba(91, 33, 182, 0.1) 0px 2px 4px -2px",
+          "transition": "0.2s",
+          "_n": 7
+        }
+      ],
+      "ghost": []
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "64px",
+        "font_size_px": 64,
+        "font_weight": "500",
+        "line_height": "73.6px",
+        "line_height_ratio": 1.15,
+        "letter_spacing": "-2.88px",
+        "font_family": "Mackinac",
+        "color": "#281950",
+        "text_transform": "none",
+        "margin_bottom": "20px"
+      },
+      "h2": {
+        "count": 13,
+        "font_size": "36px",
+        "font_size_px": 36,
+        "font_weight": "500",
+        "line_height": "47.7px",
+        "line_height_ratio": 1.33,
+        "letter_spacing": "-0.9px",
+        "font_family": "Mackinac",
+        "color": "#281950",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 14,
+        "font_size": "19px",
+        "font_size_px": 19,
+        "font_weight": "325",
+        "line_height": "28.5px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Fricolage Grotesque",
+        "color": "#281950"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1200,
+          "count": 12
+        },
+        {
+          "value": 512,
+          "count": 2
+        },
+        {
+          "value": 576,
+          "count": 1
+        },
+        {
+          "value": 896,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 14
+        },
+        {
+          "value": 1,
+          "count": 8
+        },
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 7,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 32,
+          "count": 29
+        },
+        {
+          "value": 8,
+          "count": 7
+        },
+        {
+          "value": 80,
+          "count": 3
+        },
+        {
+          "value": 64,
+          "count": 2
+        },
+        {
+          "value": 12,
+          "count": 1
+        },
+        {
+          "value": 20,
+          "count": 1
+        },
+        {
+          "value": 40,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 128,
+          "count": 8
+        },
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 96,
+          "count": 1
+        },
+        {
+          "value": 340,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 68,
+      "grid_blocks": 24
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 12,
+          "count": 67
+        },
+        {
+          "value": 16,
+          "count": 58
+        },
+        {
+          "value": 10,
+          "count": 48
+        },
+        {
+          "value": 24,
+          "count": 44
+        },
+        {
+          "value": 32,
+          "count": 39
+        },
+        {
+          "value": 128,
+          "count": 16
+        },
+        {
+          "value": 20,
+          "count": 14
+        },
+        {
+          "value": 80,
+          "count": 8
+        },
+        {
+          "value": 28,
+          "count": 5
+        },
+        {
+          "value": 8,
+          "count": 4
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 96,
+          "count": 2
+        },
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 70,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 14
+        },
+        {
+          "value": 12,
+          "count": 7
+        },
+        {
+          "value": 2,
+          "count": 5
+        },
+        {
+          "value": 4,
+          "count": 4
+        },
+        {
+          "value": 21.41,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 28,
+          "count": 1
+        },
+        {
+          "value": 36,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#f1f2f9",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 13
+        },
+        {
+          "value": "#7c3aed",
+          "count": 6
+        },
+        {
+          "value": "#f1f2f9",
+          "count": 1
+        },
+        {
+          "value": "#8b5cf6",
+          "count": 1
+        },
+        {
+          "value": "#191034",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#281950",
+          "count": 240
+        },
+        {
+          "value": "#ffffff",
+          "count": 81
+        },
+        {
+          "value": "#a39ac1",
+          "count": 43
+        },
+        {
+          "value": "#202237",
+          "count": 12
+        },
+        {
+          "value": "#10b981",
+          "count": 7
+        },
+        {
+          "value": "#3b82f6",
+          "count": 6
+        },
+        {
+          "value": "#f59e0b",
+          "count": 6
+        },
+        {
+          "value": "#f97316",
+          "count": 5
+        }
+      ],
+      "borders": [
+        {
+          "value": "#ffffff",
+          "count": 3
+        }
+      ],
+      "accents": [
+        {
+          "value": "#7c3aed",
+          "count": 6
+        }
+      ]
+    }
+  },
+  "title": "Build fast. Run any code fearlessly. · Fly",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Get Started",
+          "bg": "#7c3aed",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "8px",
+          "padding": "0px 12px 0px 10px",
+          "height": 32,
+          "font_size": "14.5px",
+          "font_weight": "450",
+          "font_family": "Fricolage Grotesque",
+          "letter_spacing": "normal",
+          "line_height": "21.75px",
+          "text_transform": "none",
+          "shadow": "rgba(67, 56, 202, 0.25) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Deploy your app",
+          "bg": "#7c3aed",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "0px 20px 0px 20px",
+          "height": 48,
+          "font_size": "15.5px",
+          "font_weight": "450",
+          "font_family": "Fricolage Grotesque",
+          "letter_spacing": "normal",
+          "line_height": "23.25px",
+          "text_transform": "none",
+          "shadow": "rgba(67, 56, 202, 0.25) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+          "transition": "0.2s",
+          "_n": 5
+        },
+        {
+          "role": "primary",
+          "text": "Fly.io Security",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#281950",
+          "border": "1px solid #5b21b6",
+          "radius": "9999px",
+          "padding": "0px 20px 0px 20px",
+          "height": 48,
+          "font_size": "15.5px",
+          "font_weight": "450",
+          "font_family": "Fricolage Grotesque",
+          "letter_spacing": "normal",
+          "line_height": "23.25px",
+          "text_transform": "none",
+          "shadow": "rgb(231, 230, 244) 0px -3px 6px -2px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+          "transition": "0.2s",
+          "_n": 1
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "Learn More",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "1px solid #ffffff",
+          "radius": "9999px",
+          "padding": "0px 20px 0px 20px",
+          "height": 48,
+          "font_size": "15.5px",
+          "font_weight": "450",
+          "font_family": "Fricolage Grotesque",
+          "letter_spacing": "normal",
+          "line_height": "23.25px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(91, 33, 182, 0.1) 0px 5px 5px -2px, rgba(91, 33, 182, 0.1) 0px 2px 4px -2px",
+          "transition": "0.2s",
+          "_n": 1
+        },
+        {
+          "role": "secondary",
+          "text": "Phoenix Framework",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "1px solid #ffffff",
+          "radius": "16px",
+          "padding": "32px 16px 32px 16px",
+          "height": 98,
+          "font_size": "16px",
+          "font_weight": "450",
+          "font_family": "Fricolage Grotesque",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(91, 33, 182, 0.1) 0px 5px 5px -2px, rgba(91, 33, 182, 0.1) 0px 2px 4px -2px",
+          "transition": "0.2s",
+          "_n": 7
+        }
+      ],
+      "ghost": []
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "64px",
+        "font_size_px": 64,
+        "font_weight": "500",
+        "line_height": "73.6px",
+        "line_height_ratio": 1.15,
+        "letter_spacing": "-2.88px",
+        "font_family": "Mackinac",
+        "color": "#281950",
+        "text_transform": "none",
+        "margin_bottom": "20px"
+      },
+      "h2": {
+        "count": 13,
+        "font_size": "36px",
+        "font_size_px": 36,
+        "font_weight": "500",
+        "line_height": "47.7px",
+        "line_height_ratio": 1.33,
+        "letter_spacing": "-0.9px",
+        "font_family": "Mackinac",
+        "color": "#281950",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 14,
+        "font_size": "19px",
+        "font_size_px": 19,
+        "font_weight": "325",
+        "line_height": "28.5px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Fricolage Grotesque",
+        "color": "#281950"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1200,
+          "count": 12
+        },
+        {
+          "value": 512,
+          "count": 2
+        },
+        {
+          "value": 576,
+          "count": 1
+        },
+        {
+          "value": 896,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 14
+        },
+        {
+          "value": 1,
+          "count": 8
+        },
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 7,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 32,
+          "count": 29
+        },
+        {
+          "value": 8,
+          "count": 7
+        },
+        {
+          "value": 80,
+          "count": 3
+        },
+        {
+          "value": 64,
+          "count": 2
+        },
+        {
+          "value": 12,
+          "count": 1
+        },
+        {
+          "value": 20,
+          "count": 1
+        },
+        {
+          "value": 40,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 128,
+          "count": 8
+        },
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 96,
+          "count": 1
+        },
+        {
+          "value": 340,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 68,
+      "grid_blocks": 24
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 12,
+          "count": 67
+        },
+        {
+          "value": 16,
+          "count": 58
+        },
+        {
+          "value": 10,
+          "count": 48
+        },
+        {
+          "value": 24,
+          "count": 44
+        },
+        {
+          "value": 32,
+          "count": 39
+        },
+        {
+          "value": 128,
+          "count": 16
+        },
+        {
+          "value": 20,
+          "count": 14
+        },
+        {
+          "value": 80,
+          "count": 8
+        },
+        {
+          "value": 28,
+          "count": 5
+        },
+        {
+          "value": 8,
+          "count": 4
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 96,
+          "count": 2
+        },
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 70,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 14
+        },
+        {
+          "value": 12,
+          "count": 7
+        },
+        {
+          "value": 2,
+          "count": 5
+        },
+        {
+          "value": 4,
+          "count": 4
+        },
+        {
+          "value": 21.41,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 28,
+          "count": 1
+        },
+        {
+          "value": 36,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#f1f2f9",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 13
+        },
+        {
+          "value": "#7c3aed",
+          "count": 6
+        },
+        {
+          "value": "#f1f2f9",
+          "count": 1
+        },
+        {
+          "value": "#8b5cf6",
+          "count": 1
+        },
+        {
+          "value": "#191034",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#281950",
+          "count": 240
+        },
+        {
+          "value": "#ffffff",
+          "count": 81
+        },
+        {
+          "value": "#a39ac1",
+          "count": 43
+        },
+        {
+          "value": "#202237",
+          "count": 12
+        },
+        {
+          "value": "#10b981",
+          "count": 7
+        },
+        {
+          "value": "#3b82f6",
+          "count": 6
+        },
+        {
+          "value": "#f59e0b",
+          "count": 6
+        },
+        {
+          "value": "#f97316",
+          "count": 5
+        }
+      ],
+      "borders": [
+        {
+          "value": "#ffffff",
+          "count": 3
+        }
+      ],
+      "accents": [
+        {
+          "value": "#7c3aed",
+          "count": 6
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

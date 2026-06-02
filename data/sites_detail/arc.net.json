@@ -1,0 +1,629 @@
+{
+  "url": "https://arc.net",
+  "name": "arc.net",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Download Arc for Mac",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#2702c2",
+          "border": "none",
+          "radius": "10px",
+          "padding": "8px 0px 8px 0px",
+          "height": 45,
+          "font_size": "14px",
+          "font_weight": "600",
+          "font_family": "-apple-system",
+          "letter_spacing": "-0.14px",
+          "line_height": "29px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0.1) 0px 5px 5px 0px",
+          "transition": "0.15s, 0.15s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Download Arc for Windows",
+          "bg": "#2702c2",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "10px",
+          "padding": "8px 0px 8px 0px",
+          "height": 45,
+          "font_size": "14px",
+          "font_weight": "600",
+          "font_family": "-apple-system",
+          "letter_spacing": "-0.14px",
+          "line_height": "29px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0.1) 0px 5px 5px 0px",
+          "transition": "0.15s, 0.15s",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "45.51px",
+        "font_size_px": 45.51,
+        "font_weight": "700",
+        "line_height": "42.25px",
+        "line_height_ratio": 0.93,
+        "letter_spacing": "-1.8204px",
+        "font_family": "Marlin Soft SQ",
+        "color": "#fffcec",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 5,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "700",
+        "line_height": "39px",
+        "line_height_ratio": 0.98,
+        "letter_spacing": "-1.6px",
+        "font_family": "Marlin Soft SQ",
+        "color": "#3139fb"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1440,
+          "count": 3
+        },
+        {
+          "value": 1344,
+          "count": 2
+        },
+        {
+          "value": 1400,
+          "count": 2
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [
+        {
+          "value": 12,
+          "count": 19
+        },
+        {
+          "value": 8,
+          "count": 8
+        },
+        {
+          "value": 16,
+          "count": 8
+        },
+        {
+          "value": 6,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 5
+        },
+        {
+          "value": 10,
+          "count": 3
+        },
+        {
+          "value": 32,
+          "count": 2
+        },
+        {
+          "value": 43.2,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 72,
+          "count": 1
+        },
+        {
+          "value": 128,
+          "count": 1
+        },
+        {
+          "value": 150,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 59,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 24,
+          "count": 72
+        },
+        {
+          "value": 8,
+          "count": 19
+        },
+        {
+          "value": 32,
+          "count": 19
+        },
+        {
+          "value": 16,
+          "count": 11
+        },
+        {
+          "value": 10,
+          "count": 10
+        },
+        {
+          "value": 4,
+          "count": 8
+        },
+        {
+          "value": 3,
+          "count": 5
+        },
+        {
+          "value": 20,
+          "count": 4
+        },
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 128,
+          "count": 2
+        },
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 22,
+          "count": 1
+        },
+        {
+          "value": 40,
+          "count": 1
+        },
+        {
+          "value": 72,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 16,
+          "count": 1
+        },
+        {
+          "value": 20,
+          "count": 1
+        },
+        {
+          "value": 25,
+          "count": 1
+        },
+        {
+          "value": 37,
+          "count": 1
+        },
+        {
+          "value": 90,
+          "count": 1
+        },
+        {
+          "value": 155,
+          "count": 1
+        },
+        {
+          "value": 160,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#fffcec",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 7
+        },
+        {
+          "value": "#fffcec",
+          "count": 4
+        },
+        {
+          "value": "#3139fb",
+          "count": 4
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        },
+        {
+          "value": "#2702c2",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#3139fb",
+          "count": 118
+        },
+        {
+          "value": "#fffcec",
+          "count": 52
+        },
+        {
+          "value": "#000000",
+          "count": 51
+        },
+        {
+          "value": "#ffffff",
+          "count": 23
+        },
+        {
+          "value": "#fffadd",
+          "count": 20
+        },
+        {
+          "value": "#696969",
+          "count": 9
+        },
+        {
+          "value": "#2702c2",
+          "count": 6
+        }
+      ],
+      "borders": [
+        {
+          "value": "#3139fb",
+          "count": 4
+        }
+      ],
+      "accents": [
+        {
+          "value": "#2702c2",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "Arc from The Browser Company",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Download Arc for Mac",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#2702c2",
+          "border": "none",
+          "radius": "10px",
+          "padding": "8px 0px 8px 0px",
+          "height": 45,
+          "font_size": "14px",
+          "font_weight": "600",
+          "font_family": "-apple-system",
+          "letter_spacing": "-0.14px",
+          "line_height": "29px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0.1) 0px 5px 5px 0px",
+          "transition": "0.15s, 0.15s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Download Arc for Windows",
+          "bg": "#2702c2",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "10px",
+          "padding": "8px 0px 8px 0px",
+          "height": 45,
+          "font_size": "14px",
+          "font_weight": "600",
+          "font_family": "-apple-system",
+          "letter_spacing": "-0.14px",
+          "line_height": "29px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0.1) 0px 5px 5px 0px",
+          "transition": "0.15s, 0.15s",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "45.51px",
+        "font_size_px": 45.51,
+        "font_weight": "700",
+        "line_height": "42.25px",
+        "line_height_ratio": 0.93,
+        "letter_spacing": "-1.8204px",
+        "font_family": "Marlin Soft SQ",
+        "color": "#fffcec",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 5,
+        "font_size": "40px",
+        "font_size_px": 40,
+        "font_weight": "700",
+        "line_height": "39px",
+        "line_height_ratio": 0.98,
+        "letter_spacing": "-1.6px",
+        "font_family": "Marlin Soft SQ",
+        "color": "#3139fb"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1440,
+          "count": 3
+        },
+        {
+          "value": 1344,
+          "count": 2
+        },
+        {
+          "value": 1400,
+          "count": 2
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [
+        {
+          "value": 12,
+          "count": 19
+        },
+        {
+          "value": 8,
+          "count": 8
+        },
+        {
+          "value": 16,
+          "count": 8
+        },
+        {
+          "value": 6,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 5
+        },
+        {
+          "value": 10,
+          "count": 3
+        },
+        {
+          "value": 32,
+          "count": 2
+        },
+        {
+          "value": 43.2,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 72,
+          "count": 1
+        },
+        {
+          "value": 128,
+          "count": 1
+        },
+        {
+          "value": 150,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 59,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 24,
+          "count": 72
+        },
+        {
+          "value": 8,
+          "count": 19
+        },
+        {
+          "value": 32,
+          "count": 19
+        },
+        {
+          "value": 16,
+          "count": 11
+        },
+        {
+          "value": 10,
+          "count": 10
+        },
+        {
+          "value": 4,
+          "count": 8
+        },
+        {
+          "value": 3,
+          "count": 5
+        },
+        {
+          "value": 20,
+          "count": 4
+        },
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 128,
+          "count": 2
+        },
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 22,
+          "count": 1
+        },
+        {
+          "value": 40,
+          "count": 1
+        },
+        {
+          "value": 72,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 16,
+          "count": 1
+        },
+        {
+          "value": 20,
+          "count": 1
+        },
+        {
+          "value": 25,
+          "count": 1
+        },
+        {
+          "value": 37,
+          "count": 1
+        },
+        {
+          "value": 90,
+          "count": 1
+        },
+        {
+          "value": 155,
+          "count": 1
+        },
+        {
+          "value": 160,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#fffcec",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 7
+        },
+        {
+          "value": "#fffcec",
+          "count": 4
+        },
+        {
+          "value": "#3139fb",
+          "count": 4
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        },
+        {
+          "value": "#2702c2",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#3139fb",
+          "count": 118
+        },
+        {
+          "value": "#fffcec",
+          "count": 52
+        },
+        {
+          "value": "#000000",
+          "count": 51
+        },
+        {
+          "value": "#ffffff",
+          "count": 23
+        },
+        {
+          "value": "#fffadd",
+          "count": 20
+        },
+        {
+          "value": "#696969",
+          "count": 9
+        },
+        {
+          "value": "#2702c2",
+          "count": 6
+        }
+      ],
+      "borders": [
+        {
+          "value": "#3139fb",
+          "count": 4
+        }
+      ],
+      "accents": [
+        {
+          "value": "#2702c2",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

@@ -1,0 +1,705 @@
+{
+  "url": "https://www.lennysnewsletter.com",
+  "name": "www.lennysnewsletter.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Subscribe",
+          "bg": "#f47c55",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "8px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "15px",
+          "font_weight": "600",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "rgba(255, 255, 255, 0.2) 0px 1px 0px 0px inset, rgba(0, 0, 0, 0.1) 0px -1px 0px 0px inset",
+          "transition": "0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "See all",
+          "bg": "#f0f0f0",
+          "bg_alpha": 1,
+          "color": "#363737",
+          "border": "none",
+          "radius": "8px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "15px",
+          "font_weight": "600",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Subscribe",
+          "bg": "#f47c55",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #f47c55",
+          "radius": "0px",
+          "padding": "0px 20px 0px 20px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Start your Substack",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#868787",
+          "border": "1px solid #e6e6e6",
+          "radius": "8px",
+          "padding": "10px 16px 10px 12px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "600",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "18px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#363737",
+          "border": "none",
+          "radius": "8px",
+          "padding": "0px 0px 0px 0px",
+          "height": 40,
+          "font_size": "19px",
+          "font_weight": "400",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s",
+          "_n": 3
+        },
+        {
+          "role": "ghost",
+          "text": "Sign in",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#363737",
+          "border": "none",
+          "radius": "8px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "15px",
+          "font_weight": "600",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Home",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#363737",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 12px 0px 12px",
+          "height": 48,
+          "font_size": "14px",
+          "font_weight": "700",
+          "font_family": "system-ui",
+          "letter_spacing": "-0.15px",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "700",
+        "line_height": "32px",
+        "line_height_ratio": 1.33,
+        "letter_spacing": "normal",
+        "font_family": "SF Pro Display",
+        "color": "#363737",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h4": {
+        "count": 2,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "700",
+        "line_height": "24px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "SF Pro Display",
+        "color": "#363737",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      }
+    },
+    "layout": {
+      "containers": [],
+      "grid_columns": [
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 4,
+          "count": 1
+        },
+        {
+          "value": 7,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 106
+        },
+        {
+          "value": 12,
+          "count": 17
+        },
+        {
+          "value": 8,
+          "count": 11
+        },
+        {
+          "value": 6,
+          "count": 7
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 16,
+          "count": 1
+        },
+        {
+          "value": 40,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 266,
+      "grid_blocks": 3
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 4,
+          "count": 123
+        },
+        {
+          "value": 6,
+          "count": 112
+        },
+        {
+          "value": 8,
+          "count": 94
+        },
+        {
+          "value": 16,
+          "count": 27
+        },
+        {
+          "value": 12,
+          "count": 26
+        },
+        {
+          "value": 10,
+          "count": 8
+        },
+        {
+          "value": 20,
+          "count": 7
+        },
+        {
+          "value": 32,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 3
+        },
+        {
+          "value": 18,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 20,
+          "count": 5
+        },
+        {
+          "value": 16,
+          "count": 4
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 32,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 18
+        },
+        {
+          "value": "#f0f0f0",
+          "count": 16
+        },
+        {
+          "value": "#f47c55",
+          "count": 3
+        },
+        {
+          "value": "#eeeeee",
+          "count": 3
+        }
+      ],
+      "text": [
+        {
+          "value": "#363737",
+          "count": 332
+        },
+        {
+          "value": "#000000",
+          "count": 253
+        },
+        {
+          "value": "#868787",
+          "count": 191
+        },
+        {
+          "value": "#ffffff",
+          "count": 8
+        },
+        {
+          "value": "#777777",
+          "count": 2
+        }
+      ],
+      "borders": [
+        {
+          "value": "#e6e6e6",
+          "count": 4
+        },
+        {
+          "value": "#f47c55",
+          "count": 4
+        }
+      ],
+      "accents": [
+        {
+          "value": "#f47c55",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "title": "Lenny's Newsletter | Substack",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "Subscribe",
+          "bg": "#f47c55",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "8px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "15px",
+          "font_weight": "600",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "rgba(255, 255, 255, 0.2) 0px 1px 0px 0px inset, rgba(0, 0, 0, 0.1) 0px -1px 0px 0px inset",
+          "transition": "0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "See all",
+          "bg": "#f0f0f0",
+          "bg_alpha": 1,
+          "color": "#363737",
+          "border": "none",
+          "radius": "8px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "15px",
+          "font_weight": "600",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "Subscribe",
+          "bg": "#f47c55",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #f47c55",
+          "radius": "0px",
+          "padding": "0px 20px 0px 20px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "Start your Substack",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#868787",
+          "border": "1px solid #e6e6e6",
+          "radius": "8px",
+          "padding": "10px 16px 10px 12px",
+          "height": 40,
+          "font_size": "14px",
+          "font_weight": "600",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "18px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#363737",
+          "border": "none",
+          "radius": "8px",
+          "padding": "0px 0px 0px 0px",
+          "height": 40,
+          "font_size": "19px",
+          "font_weight": "400",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s",
+          "_n": 3
+        },
+        {
+          "role": "ghost",
+          "text": "Sign in",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#363737",
+          "border": "none",
+          "radius": "8px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "15px",
+          "font_weight": "600",
+          "font_family": "system-ui",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s, 0.25s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "Home",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#363737",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 12px 0px 12px",
+          "height": 48,
+          "font_size": "14px",
+          "font_weight": "700",
+          "font_family": "system-ui",
+          "letter_spacing": "-0.15px",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "700",
+        "line_height": "32px",
+        "line_height_ratio": 1.33,
+        "letter_spacing": "normal",
+        "font_family": "SF Pro Display",
+        "color": "#363737",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h4": {
+        "count": 2,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "700",
+        "line_height": "24px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "SF Pro Display",
+        "color": "#363737",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      }
+    },
+    "layout": {
+      "containers": [],
+      "grid_columns": [
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 4,
+          "count": 1
+        },
+        {
+          "value": 7,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 106
+        },
+        {
+          "value": 12,
+          "count": 17
+        },
+        {
+          "value": 8,
+          "count": 11
+        },
+        {
+          "value": 6,
+          "count": 7
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 16,
+          "count": 1
+        },
+        {
+          "value": 40,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 266,
+      "grid_blocks": 3
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 4,
+          "count": 123
+        },
+        {
+          "value": 6,
+          "count": 112
+        },
+        {
+          "value": 8,
+          "count": 94
+        },
+        {
+          "value": 16,
+          "count": 27
+        },
+        {
+          "value": 12,
+          "count": 26
+        },
+        {
+          "value": 10,
+          "count": 8
+        },
+        {
+          "value": 20,
+          "count": 7
+        },
+        {
+          "value": 32,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 3
+        },
+        {
+          "value": 18,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 20,
+          "count": 5
+        },
+        {
+          "value": 16,
+          "count": 4
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 32,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 18
+        },
+        {
+          "value": "#f0f0f0",
+          "count": 16
+        },
+        {
+          "value": "#f47c55",
+          "count": 3
+        },
+        {
+          "value": "#eeeeee",
+          "count": 3
+        }
+      ],
+      "text": [
+        {
+          "value": "#363737",
+          "count": 332
+        },
+        {
+          "value": "#000000",
+          "count": 253
+        },
+        {
+          "value": "#868787",
+          "count": 191
+        },
+        {
+          "value": "#ffffff",
+          "count": 8
+        },
+        {
+          "value": "#777777",
+          "count": 2
+        }
+      ],
+      "borders": [
+        {
+          "value": "#e6e6e6",
+          "count": 4
+        },
+        {
+          "value": "#f47c55",
+          "count": 4
+        }
+      ],
+      "accents": [
+        {
+          "value": "#f47c55",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}
