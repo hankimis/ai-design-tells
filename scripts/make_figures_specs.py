@@ -122,8 +122,71 @@ def fig_sample():
     print("wrote", out)
 
 
+def fig_korean():
+    """KR vs global: Pretendard dominance, body size, line-height (the real differences)."""
+    kp = os.path.join(ROOT, "data", "korean_catalog.json")
+    if not os.path.exists(kp):
+        return
+    K = json.load(open(kp))
+    G = CAT  # global spec_catalog
+    fig, ax = plt.subplots(1, 3, figsize=(13, 4.4))
+    fig.patch.set_facecolor(BG)
+    for a in ax:
+        a.set_facecolor(BG)
+        for s in ("top", "right"):
+            a.spines[s].set_visible(False)
+
+    # 1) top Korean body fonts (romanize hangul names so matplotlib has glyphs)
+    romanize = {"맑은 고딕": "malgun gothic", "본고딕": "noto sans cjk", "코어 고딕": "core gothic",
+                "명조": "myeongjo", "고딕": "gothic"}
+
+    def ascii_label(s):
+        for k, v in romanize.items():
+            s = s.replace(k, v)
+        return s if s.isascii() else s.encode("ascii", "replace").decode().replace("?", "")
+
+    fonts = K["fonts"]["body_fonts"][:6][::-1]
+    labels = [(lambda x: x if len(x) < 19 else x[:18] + "…")(ascii_label(f)) for f, _ in fonts]
+    vals = [c for _, c in fonts]
+    y = np.arange(len(labels))
+    cols = [ACC if "pretendard" in f.lower() else INK for f, _ in fonts]
+    ax[0].barh(y, vals, color=cols, height=0.62)
+    ax[0].set_yticks(y); ax[0].set_yticklabels(labels, fontsize=9)
+    ax[0].set_title("Korean body typefaces", fontsize=11, loc="left", color=INK, pad=8)
+    ax[0].set_xlabel("sites", fontsize=9)
+
+    # 2) body font-size KR vs global
+    kb = K["typography"]["body"]["font_size_px"]["median"]
+    gb = G["typography"]["body"]["font_size_px"]["median"]
+    ax[1].bar(["Korean", "Global"], [kb, gb], color=[ACC, FAINT], width=0.56)
+    for i, v in enumerate([kb, gb]):
+        ax[1].text(i, v + 0.3, f"{v:g}px", ha="center", fontsize=11, color=INK)
+    ax[1].set_ylim(0, max(kb, gb) * 1.25)
+    ax[1].set_title("Body font-size", fontsize=11, loc="left", color=INK, pad=8)
+    ax[1].set_ylabel("px", fontsize=9)
+
+    # 3) body line-height KR vs global (the "not a difference")
+    kl = K["typography"]["body"]["line_height_ratio"]["median"]
+    gl = G["typography"]["body"]["line_height_ratio"]["median"]
+    ax[2].bar(["Korean", "Global"], [kl, gl], color=[ACC, FAINT], width=0.56)
+    for i, v in enumerate([kl, gl]):
+        ax[2].text(i, v + 0.02, f"{v:g}", ha="center", fontsize=11, color=INK)
+    ax[2].set_ylim(0, max(kl, gl) * 1.25)
+    ax[2].set_title("Body line-height (nearly equal)", fontsize=11, loc="left", color=INK, pad=8)
+
+    fig.suptitle("Korean web type vs the global set", fontsize=14, x=0.065, ha="left", y=1.05,
+                 color=INK, weight="bold")
+    fig.text(0.065, 0.965, f"{K['n_sites']} Korean design-led sites. The differences are the font (Pretendard) "
+             f"and a smaller body size, not line-height.", fontsize=9.5, color=SOFT, ha="left")
+    fig.tight_layout(rect=[0, 0, 1, 0.88])
+    out = os.path.join(FIGS, "fig12_korean.png")
+    fig.savefig(out, dpi=170, facecolor=BG, bbox_inches="tight")
+    print("wrote", out)
+
+
 def main():
     fig_sample()
+    fig_korean()
     fig, axes = plt.subplots(2, 2, figsize=(11, 8))
     fig.patch.set_facecolor(BG)
     for ax in axes.flat:

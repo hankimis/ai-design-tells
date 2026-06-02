@@ -1,0 +1,547 @@
+{
+  "url": "https://www.daangn.com",
+  "name": "www.daangn.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "앱 다운로드",
+          "bg": "#ff6600",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "4px",
+          "padding": "0px 12px 0px 12px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "600",
+          "font_family": "-apple-system",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.1s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#2a3038",
+          "bg_alpha": 1,
+          "color": "#2a3038",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "0px 0px 0px 0px",
+          "height": 28,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "-apple-system",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "중고거래",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#2a3038",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 24,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "-apple-system",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 1,
+        "font_size": "38px",
+        "font_size_px": 38,
+        "font_weight": "700",
+        "line_height": "38px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "-apple-system",
+        "color": "#2a3038",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1400,
+          "count": 3
+        },
+        {
+          "value": 754,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 4,
+          "count": 2
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 8
+        },
+        {
+          "value": 32,
+          "count": 8
+        },
+        {
+          "value": 16,
+          "count": 4
+        },
+        {
+          "value": 2,
+          "count": 2
+        },
+        {
+          "value": 6,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 64,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 130,
+      "grid_blocks": 2
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 10,
+          "count": 41
+        },
+        {
+          "value": 14,
+          "count": 40
+        },
+        {
+          "value": 16,
+          "count": 24
+        },
+        {
+          "value": 12,
+          "count": 23
+        },
+        {
+          "value": 80,
+          "count": 6
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 6,
+          "count": 2
+        },
+        {
+          "value": 64,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 24
+        },
+        {
+          "value": 12,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 64,
+          "count": 1
+        },
+        {
+          "value": 128,
+          "count": 1
+        },
+        {
+          "value": 354,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#f3f4f5",
+          "count": 28
+        },
+        {
+          "value": "#ffffff",
+          "count": 8
+        },
+        {
+          "value": "#2a3038",
+          "count": 2
+        },
+        {
+          "value": "#ff6600",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#2a3038",
+          "count": 290
+        },
+        {
+          "value": "#868b94",
+          "count": 24
+        },
+        {
+          "value": "#555d6d",
+          "count": 22
+        },
+        {
+          "value": "#ffffff",
+          "count": 5
+        },
+        {
+          "value": "#ff6600",
+          "count": 3
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#dcdee3",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#ff6600",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "당신 근처의 당근",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "앱 다운로드",
+          "bg": "#ff6600",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "4px",
+          "padding": "0px 12px 0px 12px",
+          "height": 32,
+          "font_size": "14px",
+          "font_weight": "600",
+          "font_family": "-apple-system",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.1s",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "중고거래",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#e9eaec",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 24,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "-apple-system",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "#e9eaec",
+          "bg_alpha": 1,
+          "color": "#e9eaec",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "0px 0px 0px 0px",
+          "height": 28,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "-apple-system",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 1,
+        "font_size": "38px",
+        "font_size_px": 38,
+        "font_weight": "700",
+        "line_height": "38px",
+        "line_height_ratio": 1,
+        "letter_spacing": "normal",
+        "font_family": "-apple-system",
+        "color": "#e9eaec",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1400,
+          "count": 3
+        },
+        {
+          "value": 754,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 4,
+          "count": 2
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 8
+        },
+        {
+          "value": 32,
+          "count": 8
+        },
+        {
+          "value": 16,
+          "count": 4
+        },
+        {
+          "value": 2,
+          "count": 2
+        },
+        {
+          "value": 6,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 64,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 130,
+      "grid_blocks": 2
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 10,
+          "count": 41
+        },
+        {
+          "value": 14,
+          "count": 40
+        },
+        {
+          "value": 16,
+          "count": 24
+        },
+        {
+          "value": 12,
+          "count": 23
+        },
+        {
+          "value": 80,
+          "count": 6
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 6,
+          "count": 2
+        },
+        {
+          "value": 64,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 1
+        },
+        {
+          "value": 48,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 24
+        },
+        {
+          "value": 12,
+          "count": 5
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 40,
+          "count": 2
+        },
+        {
+          "value": 48,
+          "count": 1
+        },
+        {
+          "value": 64,
+          "count": 1
+        },
+        {
+          "value": 128,
+          "count": 1
+        },
+        {
+          "value": 354,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#000000",
+      "backgrounds": [
+        {
+          "value": "#393d46",
+          "count": 28
+        },
+        {
+          "value": "#000000",
+          "count": 8
+        },
+        {
+          "value": "#e9eaec",
+          "count": 2
+        },
+        {
+          "value": "#ff6600",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#e9eaec",
+          "count": 290
+        },
+        {
+          "value": "#b0b3ba",
+          "count": 24
+        },
+        {
+          "value": "#dcdee3",
+          "count": 22
+        },
+        {
+          "value": "#16171b",
+          "count": 4
+        },
+        {
+          "value": "#ff6600",
+          "count": 3
+        },
+        {
+          "value": "#ffffff",
+          "count": 2
+        }
+      ],
+      "borders": [
+        {
+          "value": "#393d46",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#ff6600",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": true,
+  "ok": true
+}

@@ -13,6 +13,7 @@ Tools
   audit_url(url)          render a live URL in headless Chrome and score its computed styles
   list_tells()            the full taxonomy (id, family, weight, why, fix)
   component_specs()       concrete CSS target values measured from 199 real sites
+  korean_specs()          CSS targets for the Korean (hangul) web + KR-vs-global diffs
   harness_prompt()        a ready-to-paste system-prompt section that pre-empts the tells
 
 Run (stdio):  python mcp/server.py
@@ -133,6 +134,22 @@ def component_specs() -> dict:
     path = os.path.join(here, "..", "data", "spec_catalog.json")
     if not os.path.exists(path):
         return {"error": "catalog not built; run scripts/build_spec_catalog.py"}
+    import json
+    return json.load(open(path, encoding="utf-8"))
+
+
+@mcp.tool()
+def korean_specs() -> dict:
+    """Return measured CSS targets for the KOREAN (hangul/CJK) web, from a catalog of
+    48 Korean design-led sites (Toss, Kakao, 당근, 무신사, 29CM, 오늘의집, 배민, 업비트...),
+    plus how they differ from the global set. Key differences: Pretendard is the default
+    body face (not Inter), body text sets smaller (~14px vs 16px), while line-height is
+    about the same (~1.5). Use this when building UI for a Korean audience. Companion to
+    `component_specs`."""
+    here = os.path.dirname(os.path.abspath(__file__))
+    path = os.path.join(here, "..", "data", "korean_catalog.json")
+    if not os.path.exists(path):
+        return {"error": "Korean catalog not built; run scripts/build_korean_catalog.py"}
     import json
     return json.load(open(path, encoding="utf-8"))
 

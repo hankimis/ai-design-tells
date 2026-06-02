@@ -1,0 +1,1021 @@
+{
+  "url": "https://channel.io",
+  "name": "channel.io",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "무료로 시작하기",
+          "bg": "#242428",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "999px",
+          "padding": "9px 14px 9px 14px",
+          "height": 43,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Pretendard",
+          "letter_spacing": "-0.16px",
+          "line_height": "25px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.35s, 0.35s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#242428",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "21px",
+          "padding": "0px 0px 0px 0px",
+          "height": 40,
+          "font_size": "10px",
+          "font_weight": "400",
+          "font_family": "Pretendard",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.2s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "베리시",
+          "bg": "#000000",
+          "bg_alpha": 0.08,
+          "color": "#777777",
+          "border": "none",
+          "radius": "958.52px",
+          "padding": "2px 10px 2px 10px",
+          "height": 24,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "Pretendard",
+          "letter_spacing": "-0.112px",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s, 0.15s",
+          "_n": 6
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 0.2,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "0px 0px 0px 0px",
+          "height": 48,
+          "font_size": "10px",
+          "font_weight": "400",
+          "font_family": "Pretendard",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 2
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "로그인",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "999px",
+          "padding": "6px 12px 6px 12px",
+          "height": 37,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Pretendard",
+          "letter_spacing": "-0.16px",
+          "line_height": "25px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.35s, 0.35s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "라이프스타일",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "999px",
+          "padding": "6px 35px 6px 35px",
+          "height": 52,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Pretendard",
+          "letter_spacing": "-0.16px",
+          "line_height": "25px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "교육",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#716f6d",
+          "border": "none",
+          "radius": "999px",
+          "padding": "6px 35px 6px 35px",
+          "height": 52,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Pretendard",
+          "letter_spacing": "-0.16px",
+          "line_height": "25px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 5
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "44px",
+        "font_size_px": 44,
+        "font_weight": "600",
+        "line_height": "62px",
+        "line_height_ratio": 1.41,
+        "letter_spacing": "-0.88px",
+        "font_family": "Pretendard",
+        "color": "#0a0b0b",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 11,
+        "font_size": "44px",
+        "font_size_px": 44,
+        "font_weight": "600",
+        "line_height": "62px",
+        "line_height_ratio": 1.41,
+        "letter_spacing": "-0.88px",
+        "font_family": "Pretendard",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 8,
+        "font_size": "25px",
+        "font_size_px": 25,
+        "font_weight": "600",
+        "line_height": "30px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "-0.25px",
+        "font_family": "Pretendard",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 197,
+        "font_size": "11.66px",
+        "font_size_px": 11.66,
+        "font_weight": "400",
+        "line_height": "14.991px",
+        "line_height_ratio": 1.29,
+        "letter_spacing": "normal",
+        "font_family": "Source Code Pro",
+        "color": "#000000"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1320,
+          "count": 12
+        },
+        {
+          "value": 700,
+          "count": 3
+        },
+        {
+          "value": 1160,
+          "count": 3
+        },
+        {
+          "value": 600,
+          "count": 1
+        },
+        {
+          "value": 1376,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 1
+        },
+        {
+          "value": 3,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 55
+        },
+        {
+          "value": 6,
+          "count": 36
+        },
+        {
+          "value": 10,
+          "count": 35
+        },
+        {
+          "value": 12,
+          "count": 26
+        },
+        {
+          "value": 6.17,
+          "count": 23
+        },
+        {
+          "value": 3.09,
+          "count": 21
+        },
+        {
+          "value": 1,
+          "count": 16
+        },
+        {
+          "value": 9.26,
+          "count": 15
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 80,
+          "count": 10
+        },
+        {
+          "value": 50,
+          "count": 2
+        },
+        {
+          "value": 29,
+          "count": 1
+        },
+        {
+          "value": 60,
+          "count": 1
+        },
+        {
+          "value": 100,
+          "count": 1
+        },
+        {
+          "value": 87.5,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 957,
+      "grid_blocks": 2
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 6,
+          "count": 182
+        },
+        {
+          "value": 24,
+          "count": 110
+        },
+        {
+          "value": 4,
+          "count": 102
+        },
+        {
+          "value": 7,
+          "count": 84
+        },
+        {
+          "value": 6.17,
+          "count": 70
+        },
+        {
+          "value": 2,
+          "count": 62
+        },
+        {
+          "value": 20,
+          "count": 60
+        },
+        {
+          "value": 10,
+          "count": 55
+        },
+        {
+          "value": 15.44,
+          "count": 52
+        },
+        {
+          "value": 3.09,
+          "count": 48
+        },
+        {
+          "value": 5.66,
+          "count": 44
+        },
+        {
+          "value": 5,
+          "count": 43
+        },
+        {
+          "value": 3.86,
+          "count": 36
+        },
+        {
+          "value": 1,
+          "count": 35
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 4,
+          "count": 11
+        },
+        {
+          "value": 6,
+          "count": 3
+        },
+        {
+          "value": 8,
+          "count": 3
+        },
+        {
+          "value": 100,
+          "count": 3
+        },
+        {
+          "value": 28,
+          "count": 2
+        },
+        {
+          "value": 180,
+          "count": 2
+        },
+        {
+          "value": 10,
+          "count": 1
+        },
+        {
+          "value": 12,
+          "count": 1
+        },
+        {
+          "value": 20,
+          "count": 1
+        },
+        {
+          "value": 65,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": null,
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 49
+        },
+        {
+          "value": "#dddddd",
+          "count": 21
+        },
+        {
+          "value": "#31a552",
+          "count": 14
+        },
+        {
+          "value": "#cfcfd1",
+          "count": 10
+        },
+        {
+          "value": "#fcfcfc",
+          "count": 10
+        },
+        {
+          "value": "#f7f5f2",
+          "count": 8
+        },
+        {
+          "value": "#3a3530",
+          "count": 6
+        },
+        {
+          "value": "#f7f7f8",
+          "count": 5
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 1918
+        },
+        {
+          "value": "#ffffff",
+          "count": 124
+        },
+        {
+          "value": "#438283",
+          "count": 78
+        },
+        {
+          "value": "#8d8e91",
+          "count": 75
+        },
+        {
+          "value": "#8161bd",
+          "count": 50
+        },
+        {
+          "value": "#001080",
+          "count": 37
+        },
+        {
+          "value": "#516eae",
+          "count": 23
+        },
+        {
+          "value": "#5e56f0",
+          "count": 20
+        }
+      ],
+      "borders": [
+        {
+          "value": "#ffffff",
+          "count": 14
+        },
+        {
+          "value": "#dedddd",
+          "count": 4
+        },
+        {
+          "value": "#c5c5c5",
+          "count": 2
+        },
+        {
+          "value": "#e1e1e1",
+          "count": 1
+        },
+        {
+          "value": "#fbfbfb",
+          "count": 1
+        },
+        {
+          "value": "#070931",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#31a552",
+          "count": 2
+        },
+        {
+          "value": "#5e56f0",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "한국 No.1 고객 상담 솔루션, 채널톡 - 채널톡",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "무료로 시작하기",
+          "bg": "#242428",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "999px",
+          "padding": "9px 14px 9px 14px",
+          "height": 43,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Pretendard",
+          "letter_spacing": "-0.16px",
+          "line_height": "25px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.35s, 0.35s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#242428",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "21px",
+          "padding": "0px 0px 0px 0px",
+          "height": 40,
+          "font_size": "10px",
+          "font_weight": "400",
+          "font_family": "Pretendard",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s, 0.2s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "베리시",
+          "bg": "#000000",
+          "bg_alpha": 0.08,
+          "color": "#777777",
+          "border": "none",
+          "radius": "958.52px",
+          "padding": "2px 10px 2px 10px",
+          "height": 24,
+          "font_size": "14px",
+          "font_weight": "500",
+          "font_family": "Pretendard",
+          "letter_spacing": "-0.112px",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s, 0.15s",
+          "_n": 6
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 0.2,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "0px 0px 0px 0px",
+          "height": 48,
+          "font_size": "10px",
+          "font_weight": "400",
+          "font_family": "Pretendard",
+          "letter_spacing": "normal",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.2s",
+          "_n": 2
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "로그인",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "999px",
+          "padding": "6px 12px 6px 12px",
+          "height": 37,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Pretendard",
+          "letter_spacing": "-0.16px",
+          "line_height": "25px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.35s, 0.35s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "라이프스타일",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "999px",
+          "padding": "6px 35px 6px 35px",
+          "height": 52,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Pretendard",
+          "letter_spacing": "-0.16px",
+          "line_height": "25px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "교육",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#716f6d",
+          "border": "none",
+          "radius": "999px",
+          "padding": "6px 35px 6px 35px",
+          "height": 52,
+          "font_size": "16px",
+          "font_weight": "600",
+          "font_family": "Pretendard",
+          "letter_spacing": "-0.16px",
+          "line_height": "25px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s",
+          "_n": 5
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "44px",
+        "font_size_px": 44,
+        "font_weight": "600",
+        "line_height": "62px",
+        "line_height_ratio": 1.41,
+        "letter_spacing": "-0.88px",
+        "font_family": "Pretendard",
+        "color": "#0a0b0b",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 11,
+        "font_size": "44px",
+        "font_size_px": 44,
+        "font_weight": "600",
+        "line_height": "62px",
+        "line_height_ratio": 1.41,
+        "letter_spacing": "-0.88px",
+        "font_family": "Pretendard",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h3": {
+        "count": 8,
+        "font_size": "25px",
+        "font_size_px": 25,
+        "font_weight": "600",
+        "line_height": "30px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "-0.25px",
+        "font_family": "Pretendard",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 197,
+        "font_size": "11.66px",
+        "font_size_px": 11.66,
+        "font_weight": "400",
+        "line_height": "14.991px",
+        "line_height_ratio": 1.29,
+        "letter_spacing": "normal",
+        "font_family": "Source Code Pro",
+        "color": "#000000"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1320,
+          "count": 12
+        },
+        {
+          "value": 700,
+          "count": 3
+        },
+        {
+          "value": 1160,
+          "count": 3
+        },
+        {
+          "value": 600,
+          "count": 1
+        },
+        {
+          "value": 1376,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 1,
+          "count": 1
+        },
+        {
+          "value": 3,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 4,
+          "count": 55
+        },
+        {
+          "value": 6,
+          "count": 36
+        },
+        {
+          "value": 10,
+          "count": 35
+        },
+        {
+          "value": 12,
+          "count": 26
+        },
+        {
+          "value": 6.17,
+          "count": 23
+        },
+        {
+          "value": 3.09,
+          "count": 21
+        },
+        {
+          "value": 1,
+          "count": 16
+        },
+        {
+          "value": 9.26,
+          "count": 15
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 80,
+          "count": 10
+        },
+        {
+          "value": 50,
+          "count": 2
+        },
+        {
+          "value": 29,
+          "count": 1
+        },
+        {
+          "value": 60,
+          "count": 1
+        },
+        {
+          "value": 100,
+          "count": 1
+        },
+        {
+          "value": 87.5,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 957,
+      "grid_blocks": 2
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 6,
+          "count": 182
+        },
+        {
+          "value": 24,
+          "count": 110
+        },
+        {
+          "value": 4,
+          "count": 102
+        },
+        {
+          "value": 7,
+          "count": 84
+        },
+        {
+          "value": 6.17,
+          "count": 70
+        },
+        {
+          "value": 2,
+          "count": 62
+        },
+        {
+          "value": 20,
+          "count": 60
+        },
+        {
+          "value": 10,
+          "count": 55
+        },
+        {
+          "value": 15.44,
+          "count": 52
+        },
+        {
+          "value": 3.09,
+          "count": 48
+        },
+        {
+          "value": 5.66,
+          "count": 44
+        },
+        {
+          "value": 5,
+          "count": 43
+        },
+        {
+          "value": 3.86,
+          "count": 36
+        },
+        {
+          "value": 1,
+          "count": 35
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 4,
+          "count": 11
+        },
+        {
+          "value": 6,
+          "count": 3
+        },
+        {
+          "value": 8,
+          "count": 3
+        },
+        {
+          "value": 100,
+          "count": 3
+        },
+        {
+          "value": 28,
+          "count": 2
+        },
+        {
+          "value": 180,
+          "count": 2
+        },
+        {
+          "value": 10,
+          "count": 1
+        },
+        {
+          "value": 12,
+          "count": 1
+        },
+        {
+          "value": 20,
+          "count": 1
+        },
+        {
+          "value": 65,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": null,
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 49
+        },
+        {
+          "value": "#dddddd",
+          "count": 21
+        },
+        {
+          "value": "#31a552",
+          "count": 14
+        },
+        {
+          "value": "#cfcfd1",
+          "count": 10
+        },
+        {
+          "value": "#fcfcfc",
+          "count": 10
+        },
+        {
+          "value": "#f7f5f2",
+          "count": 8
+        },
+        {
+          "value": "#3a3530",
+          "count": 6
+        },
+        {
+          "value": "#f7f7f8",
+          "count": 5
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 1916
+        },
+        {
+          "value": "#ffffff",
+          "count": 124
+        },
+        {
+          "value": "#438283",
+          "count": 78
+        },
+        {
+          "value": "#8d8e91",
+          "count": 75
+        },
+        {
+          "value": "#8161bd",
+          "count": 50
+        },
+        {
+          "value": "#001080",
+          "count": 37
+        },
+        {
+          "value": "#516eae",
+          "count": 23
+        },
+        {
+          "value": "#5e56f0",
+          "count": 20
+        }
+      ],
+      "borders": [
+        {
+          "value": "#ffffff",
+          "count": 14
+        },
+        {
+          "value": "#dedddd",
+          "count": 4
+        },
+        {
+          "value": "#c5c5c5",
+          "count": 2
+        },
+        {
+          "value": "#e1e1e1",
+          "count": 1
+        },
+        {
+          "value": "#fbfbfb",
+          "count": 1
+        },
+        {
+          "value": "#070931",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#31a552",
+          "count": 2
+        },
+        {
+          "value": "#5e56f0",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

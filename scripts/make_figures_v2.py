@@ -134,6 +134,21 @@ def fig_credits():
           "Stripe uses purple heavily and scores 0: a custom font, optical tracking and a radius hierarchy offset it.")
     save(fig,"fig9_credits.png")
 
+def _is_blank(path):
+    """True if a screenshot is near-empty (failed/cookie-wall render): almost all
+    one near-white color, or no tonal variation."""
+    try:
+        im=Image.open(path).convert("L").resize((80,50))
+        px=list(im.getdata())
+        n=len(px)
+        near_white=sum(1 for v in px if v>=245)/n
+        mean=sum(px)/n
+        var=sum((v-mean)**2 for v in px)/n
+        return near_white>0.92 or var<55   # mostly white, or flat
+    except Exception:
+        return True
+
+
 def fig_gallery():
     # montage of real-site folds (the diversity a single AI default collapses)
     picks=["stripe.com","linear.app","www.toss.im","www.apple.com","vercel.com","www.framer.com",
@@ -141,7 +156,20 @@ def fig_gallery():
            "www.airbnb.com","www.nike.com","www.spotify.com","arc.net","mercury.com","ramp.com",
            "www.raycast.com","resend.com","clerk.com","posthog.com","www.duolingo.com","www.canva.com",
            "railway.app","sentry.io","planetscale.com","www.cloudflare.com"]
-    avail=[p for p in picks if os.path.exists(os.path.join(DATA,"shots",f"{p}.png"))]
+    shots_dir=os.path.join(DATA,"shots")
+    def ok(name):
+        p=os.path.join(shots_dir,f"{name}.png")
+        return os.path.exists(p) and not _is_blank(p)
+    # keep curated picks that actually rendered, then top up from the rest of the corpus
+    avail=[p for p in picks if ok(p)]
+    if len(avail)<28:
+        seen=set(avail)
+        for f in sorted(os.listdir(shots_dir)) if os.path.isdir(shots_dir) else []:
+            name=f[:-4] if f.endswith(".png") else None
+            if name and name not in seen and ok(name):
+                avail.append(name); seen.add(name)
+            if len(avail)>=28: break
+    avail=avail[:28]
     cols=4; rows=(len(avail)+cols-1)//cols
     tw,th=360,225; pad=10; lab=20
     W=cols*tw+(cols+1)*pad; H=rows*(th+lab)+(rows+1)*pad+50
@@ -152,17 +180,17 @@ def fig_gallery():
         for p in (["/System/Library/Fonts/Supplemental/Georgia Bold.ttf"] if b else ["/System/Library/Fonts/Supplemental/Georgia.ttf"]):
             if os.path.exists(p): return ImageFont.truetype(p,sz)
         return ImageFont.load_default()
-    d.text((pad,14),"A montage of 28 human-crafted sites. Each made different choices, that is the point.",font=font(22,True),fill=(22,24,29))
+    d.text((pad,14),f"A montage of {len(avail)} human-crafted sites. Each made different choices, that is the point.",font=font(22,True),fill=(22,24,29))
     for i,name in enumerate(avail):
         r,c=divmod(i,cols)
         x=pad+c*(tw+pad); y=50+pad+r*(th+lab+pad)
         try:
-            im=Image.open(os.path.join(DATA,"shots",f"{name}.png")).convert("RGB").resize((tw,th))
+            im=Image.open(os.path.join(shots_dir,f"{name}.png")).convert("RGB").resize((tw,th))
             canvas.paste(im,(x,y))
         except Exception: pass
         d.rectangle([x,y,x+tw,y+th],outline=(231,228,222),width=1)
         d.text((x+2,y+th+3),name,font=font(13),fill=(91,96,102))
-    canvas.save(os.path.join(FIGS,"fig8_gallery.png"))
+    canvas.save(os.path.join(FIGS,"fig8_gallery.png"),optimize=True)
     print("fig8_gallery.png", f"({len(avail)} sites)")
 
 if __name__=="__main__":

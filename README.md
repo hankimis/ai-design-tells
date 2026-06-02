@@ -29,7 +29,7 @@ harness so any team or coding agent can audit and prevent the look.
 
 ## Contents
 
-- [Quickstart](#quickstart) · [The result](#the-result) · [Validated on 202 real sites](#validated-on-202-real-sites-v2) · [Component spec catalog](#component-spec-catalog-v3) · [The 21 tells](#the-21-tells)
+- [Quickstart](#quickstart) · [The result](#the-result) · [Validated on 202 real sites](#validated-on-202-real-sites-v2) · [Component spec catalog](#component-spec-catalog-v3) · [Korean web catalog](#korean-web-한글-catalog) · [The 21 tells](#the-21-tells)
 - [The harness: CLI · MCP · drop-in prompt](#the-harness)
 - [Figure gallery](#figure-gallery) · [How it works](#how-it-works) · [Honest limits](#honest-limits)
 - [Paper & citation](#paper) · [Repo layout](#repo-layout)
@@ -183,6 +183,34 @@ type scale on a serif display, 8px buttons with every microstate, an owned amber
   <img alt="the sample crossfading between light and dark" src="paper/figs/gif_lightdark.gif" width="82%">
 </p>
 
+## Korean web (한글) catalog
+
+The global catalog is mostly Western. Korean (hangul/CJK) type is set differently, so
+we measured **48 Korean design-led sites** (Toss, Kakao, 당근, 무신사, 29CM, 오늘의집,
+마켓컬리, 배민, 업비트 ...) the same way and compared.
+
+<p align="center">
+  <img alt="Korean web type vs the global set: Pretendard dominance, smaller body size, equal line-height" src="paper/figs/fig12_korean.png" width="100%">
+</p>
+
+| | Korean sites | Global sites |
+|---|---|---|
+| **Default body font** | Pretendard / a hangul sans (**69%** a Korean face, **44%** Pretendard) | Inter / system sans |
+| **Body font-size** | **14px** (clusters 13 to 15) | 16px |
+| **Body line-height** | ~1.5 | ~1.5 |
+| **h1 size** | bimodal (see below) | 64px |
+
+What is actually different, honestly:
+
+- **The font.** Pretendard is the Korean web's Inter: free, well-hinted, everywhere. The type tell translates directly, bare Pretendard with no scale reads machine-default the same way bare Inter does; the owned move is a commissioned face (Toss Product Sans, Bithumb Trading Sans, Gmarket Sans, Wanted Sans).
+- **Body runs smaller**, 14px vs 16px. Hangul carries more ink per glyph, so 14px hangul reads at about the presence of 16px Latin; Korean product culture is denser too.
+- **Line-height is *not* the difference** (both ~1.5). Pretendard already ships generous leading, so the median matches the West. Keep body leading 1.5 to 1.7 and you are inside both.
+- **h1 is bimodal:** design-led product sites (Toss, 당근, 오늘의집) use 56 to 90px heroes like the West; portals and commerce (Naver, Coupang, Gmarket, SSG) are banner-driven with small or absent display headlines. The low median is Korean commerce density, not a different idea of a headline.
+
+Full tables and a per-site appendix in [`reference/KOREAN-SPECS.md`](reference/KOREAN-SPECS.md);
+rebuild with `python src/scrape_detail.py data/site_list_kr.txt` (writes to `data/sites_kr/`
+via `DETAIL_OUT`) `&& python scripts/build_korean_catalog.py`.
+
 ## The 21 tells
 
 Seven families; each tell has a weight, a severity (**tell** = strong, *smell* =
@@ -229,7 +257,7 @@ showing it to you**, get the specific fixes, and iterate. Register in Claude Cod
   "command": "python", "args": ["mcp/server.py"] } } }
 ```
 
-Tools: `score_design(html)`, `score_file(path)`, **`audit_url(url)`** (live site), `list_tells()`, **`component_specs()`** (measured target values), `harness_prompt()`.
+Tools: `score_design(html)`, `score_file(path)`, **`audit_url(url)`** (live site), `list_tells()`, **`component_specs()`** (measured target values), **`korean_specs()`** (Korean web), `harness_prompt()`.
 
 **3 · Drop-in prompt module**, [`harness/AI-DESIGN-TELLS.md`](harness/AI-DESIGN-TELLS.md)
 turns each *detected* tell into a *preventive* instruction plus a pre-ship
@@ -335,7 +363,8 @@ scripts/audit_url.py    audit a deployed URL; analyze_corpus.py learns calibrati
 scripts/build_spec_catalog.py  aggregate sites_detail/ into reference/COMPONENT-SPECS.md
 mcp/server.py       MCP server (score_design / score_file / audit_url / list_tells / component_specs / harness_prompt)
 harness/            AI-DESIGN-TELLS.md, drop-in prompt module (generated, now with measured targets)
-reference/          COMPONENT-SPECS.md, the measured per-component catalog (199 sites)
+reference/          COMPONENT-SPECS.md (199 sites) + KOREAN-SPECS.md (48 Korean sites)
+scripts/build_korean_catalog.py  Korean web catalog + KR-vs-global comparison
 fixtures/           7 sample pages (3 AI-default, 3 designed, 1 built-to-catalog light/dark), viewable templates
 scripts/            run_audit, make_figures, make_gifs, render, gen_harness, build_spec_catalog
 paper/              paper.typ, refs.bib, paper.pdf, figs/

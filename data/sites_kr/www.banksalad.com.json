@@ -1,0 +1,825 @@
+{
+  "url": "https://www.banksalad.com",
+  "name": "www.banksalad.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "금리 캐시백 쿠폰 받기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "8px",
+          "padding": "12px 19px 12px 19px",
+          "height": 50,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Pretendard",
+          "letter_spacing": "-0.5px",
+          "line_height": "22.88px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0.1) 0px 2px 8px 0px",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "뱅크샐러드 사용해보기",
+          "bg": "#13bd7e",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "41px",
+          "padding": "10px 20px 10px 20px",
+          "height": 41,
+          "font_size": "18px",
+          "font_weight": "500",
+          "font_family": "Pretendard",
+          "letter_spacing": "-0.5px",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0.15) 0px 4px 9px 0px",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "서비스 더 알아보기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#13bd7e",
+          "border": "1px solid #13bd7e",
+          "radius": "41px",
+          "padding": "10px 20px 10px 20px",
+          "height": 43,
+          "font_size": "18px",
+          "font_weight": "500",
+          "font_family": "Pretendard",
+          "letter_spacing": "-0.5px",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0.15) 0px 4px 9px 0px",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "내 최저금리 조회하기",
+          "bg": "#877af5",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "41px",
+          "padding": "10px 20px 10px 20px",
+          "height": 41,
+          "font_size": "18px",
+          "font_weight": "500",
+          "font_family": "Pretendard",
+          "letter_spacing": "-0.5px",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0.15) 0px 4px 9px 0px",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "이전 콘텐츠",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": null,
+          "border": "none",
+          "radius": "2px",
+          "padding": "0px 0px 0px 0px",
+          "height": 30,
+          "font_size": "0px",
+          "font_weight": "400",
+          "font_family": "Pretendard",
+          "letter_spacing": "-1px",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0.26) 0px 0px 2px 0px",
+          "transition": "none",
+          "_n": 12
+        },
+        {
+          "role": "ghost",
+          "text": "닫기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": null,
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 16,
+          "font_size": "0px",
+          "font_weight": "400",
+          "font_family": "Pretendard",
+          "letter_spacing": "-1px",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 2,
+        "font_size": "52px",
+        "font_size_px": 52,
+        "font_weight": "500",
+        "line_height": "59.8px",
+        "line_height_ratio": 1.15,
+        "letter_spacing": "0.5px",
+        "font_family": "Pretendard",
+        "color": "#111111",
+        "text_transform": "none",
+        "margin_bottom": "12px"
+      },
+      "h3": {
+        "count": 2,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "500",
+        "line_height": "27.6px",
+        "line_height_ratio": 1.15,
+        "letter_spacing": "0.5px",
+        "font_family": "Pretendard",
+        "color": "#111111",
+        "text_transform": "none",
+        "margin_bottom": "25px"
+      },
+      "body": {
+        "count": 3,
+        "font_size": "22px",
+        "font_size_px": 22,
+        "font_weight": "400",
+        "line_height": "25px",
+        "line_height_ratio": 1.14,
+        "letter_spacing": "-0.5px",
+        "font_family": "Pretendard",
+        "color": "#111111"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 946,
+          "count": 10
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [
+        {
+          "value": 6,
+          "count": 3
+        },
+        {
+          "value": 14,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 130,
+          "count": 3
+        },
+        {
+          "value": 48,
+          "count": 2
+        },
+        {
+          "value": 122,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 80,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 38,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 22,
+          "count": 22
+        },
+        {
+          "value": 20,
+          "count": 20
+        },
+        {
+          "value": 12,
+          "count": 18
+        },
+        {
+          "value": 16,
+          "count": 16
+        },
+        {
+          "value": 10,
+          "count": 10
+        },
+        {
+          "value": 32,
+          "count": 8
+        },
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 122,
+          "count": 4
+        },
+        {
+          "value": 130,
+          "count": 3
+        },
+        {
+          "value": 19,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 72,
+          "count": 2
+        },
+        {
+          "value": 71,
+          "count": 1
+        },
+        {
+          "value": 80,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 19
+        },
+        {
+          "value": 25,
+          "count": 6
+        },
+        {
+          "value": 12,
+          "count": 5
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 32,
+          "count": 2
+        },
+        {
+          "value": 7,
+          "count": 1
+        },
+        {
+          "value": 14,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 42,
+          "count": 1
+        },
+        {
+          "value": 92,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#fbfbfb",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 11
+        },
+        {
+          "value": "#4a88e5",
+          "count": 2
+        },
+        {
+          "value": "#fbfbfb",
+          "count": 1
+        },
+        {
+          "value": "#dcf0fd",
+          "count": 1
+        },
+        {
+          "value": "#eff5ff",
+          "count": 1
+        },
+        {
+          "value": "#eafaf3",
+          "count": 1
+        },
+        {
+          "value": "#13bd7e",
+          "count": 1
+        },
+        {
+          "value": "#cbf8e7",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 176
+        },
+        {
+          "value": "#111111",
+          "count": 21
+        },
+        {
+          "value": "#555b66",
+          "count": 20
+        },
+        {
+          "value": "#ffffff",
+          "count": 12
+        },
+        {
+          "value": "#888e99",
+          "count": 10
+        },
+        {
+          "value": "#0b0c0c",
+          "count": 4
+        },
+        {
+          "value": "#5c818a",
+          "count": 3
+        },
+        {
+          "value": "#09a56f",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#13bd7e",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#4a88e5",
+          "count": 2
+        },
+        {
+          "value": "#13bd7e",
+          "count": 1
+        },
+        {
+          "value": "#877af5",
+          "count": 1
+        },
+        {
+          "value": "#ffbe4c",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "뱅크샐러드 | 금융을 넘어 건강 자산까지",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "금리 캐시백 쿠폰 받기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "8px",
+          "padding": "12px 19px 12px 19px",
+          "height": 50,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Pretendard",
+          "letter_spacing": "-0.5px",
+          "line_height": "22.88px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0.1) 0px 2px 8px 0px",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "뱅크샐러드 사용해보기",
+          "bg": "#13bd7e",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "41px",
+          "padding": "10px 20px 10px 20px",
+          "height": 41,
+          "font_size": "18px",
+          "font_weight": "500",
+          "font_family": "Pretendard",
+          "letter_spacing": "-0.5px",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0.15) 0px 4px 9px 0px",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "서비스 더 알아보기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#13bd7e",
+          "border": "1px solid #13bd7e",
+          "radius": "41px",
+          "padding": "10px 20px 10px 20px",
+          "height": 43,
+          "font_size": "18px",
+          "font_weight": "500",
+          "font_family": "Pretendard",
+          "letter_spacing": "-0.5px",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0.15) 0px 4px 9px 0px",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "내 최저금리 조회하기",
+          "bg": "#877af5",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "41px",
+          "padding": "10px 20px 10px 20px",
+          "height": 41,
+          "font_size": "18px",
+          "font_weight": "500",
+          "font_family": "Pretendard",
+          "letter_spacing": "-0.5px",
+          "line_height": "21px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0.15) 0px 4px 9px 0px",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "이전 콘텐츠",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": null,
+          "border": "none",
+          "radius": "2px",
+          "padding": "0px 0px 0px 0px",
+          "height": 30,
+          "font_size": "0px",
+          "font_weight": "400",
+          "font_family": "Pretendard",
+          "letter_spacing": "-1px",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0.26) 0px 0px 2px 0px",
+          "transition": "none",
+          "_n": 12
+        },
+        {
+          "role": "ghost",
+          "text": "닫기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": null,
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 16,
+          "font_size": "0px",
+          "font_weight": "400",
+          "font_family": "Pretendard",
+          "letter_spacing": "-1px",
+          "line_height": "normal",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 2,
+        "font_size": "52px",
+        "font_size_px": 52,
+        "font_weight": "500",
+        "line_height": "59.8px",
+        "line_height_ratio": 1.15,
+        "letter_spacing": "0.5px",
+        "font_family": "Pretendard",
+        "color": "#111111",
+        "text_transform": "none",
+        "margin_bottom": "12px"
+      },
+      "h3": {
+        "count": 2,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "500",
+        "line_height": "27.6px",
+        "line_height_ratio": 1.15,
+        "letter_spacing": "0.5px",
+        "font_family": "Pretendard",
+        "color": "#111111",
+        "text_transform": "none",
+        "margin_bottom": "25px"
+      },
+      "body": {
+        "count": 3,
+        "font_size": "22px",
+        "font_size_px": 22,
+        "font_weight": "400",
+        "line_height": "25px",
+        "line_height_ratio": 1.14,
+        "letter_spacing": "-0.5px",
+        "font_family": "Pretendard",
+        "color": "#111111"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 946,
+          "count": 10
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [
+        {
+          "value": 6,
+          "count": 3
+        },
+        {
+          "value": 14,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 130,
+          "count": 3
+        },
+        {
+          "value": 48,
+          "count": 2
+        },
+        {
+          "value": 122,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 80,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 38,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 22,
+          "count": 22
+        },
+        {
+          "value": 20,
+          "count": 20
+        },
+        {
+          "value": 12,
+          "count": 18
+        },
+        {
+          "value": 16,
+          "count": 16
+        },
+        {
+          "value": 10,
+          "count": 10
+        },
+        {
+          "value": 32,
+          "count": 8
+        },
+        {
+          "value": 48,
+          "count": 4
+        },
+        {
+          "value": 122,
+          "count": 4
+        },
+        {
+          "value": 130,
+          "count": 3
+        },
+        {
+          "value": 19,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 72,
+          "count": 2
+        },
+        {
+          "value": 71,
+          "count": 1
+        },
+        {
+          "value": 80,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 19
+        },
+        {
+          "value": 25,
+          "count": 6
+        },
+        {
+          "value": 12,
+          "count": 5
+        },
+        {
+          "value": 8,
+          "count": 2
+        },
+        {
+          "value": 32,
+          "count": 2
+        },
+        {
+          "value": 7,
+          "count": 1
+        },
+        {
+          "value": 14,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        },
+        {
+          "value": 42,
+          "count": 1
+        },
+        {
+          "value": 92,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#fbfbfb",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 11
+        },
+        {
+          "value": "#4a88e5",
+          "count": 2
+        },
+        {
+          "value": "#fbfbfb",
+          "count": 1
+        },
+        {
+          "value": "#dcf0fd",
+          "count": 1
+        },
+        {
+          "value": "#eff5ff",
+          "count": 1
+        },
+        {
+          "value": "#eafaf3",
+          "count": 1
+        },
+        {
+          "value": "#13bd7e",
+          "count": 1
+        },
+        {
+          "value": "#cbf8e7",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 176
+        },
+        {
+          "value": "#111111",
+          "count": 21
+        },
+        {
+          "value": "#555b66",
+          "count": 20
+        },
+        {
+          "value": "#ffffff",
+          "count": 12
+        },
+        {
+          "value": "#888e99",
+          "count": 10
+        },
+        {
+          "value": "#0b0c0c",
+          "count": 4
+        },
+        {
+          "value": "#5c818a",
+          "count": 3
+        },
+        {
+          "value": "#09a56f",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#13bd7e",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#4a88e5",
+          "count": 2
+        },
+        {
+          "value": "#13bd7e",
+          "count": 1
+        },
+        {
+          "value": "#877af5",
+          "count": 1
+        },
+        {
+          "value": "#ffbe4c",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

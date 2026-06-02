@@ -132,6 +132,12 @@ inside these unless the brand gives you a reason to leave.
 
 See `reference/COMPONENT-SPECS.md` for the full per-component tables and per-site appendix.
 
+**Building for a Korean (hangul) audience?** Two things change, measured across 48 Korean
+top sites (`reference/KOREAN-SPECS.md`): use Pretendard or a commissioned hangul face (it is
+the Korean Inter, so bare Pretendard with no scale is still the type tell), and set body a
+notch smaller, ~14px not 16px (hangul carries more ink per glyph). Line-height does *not*
+change, keep it ~1.5 to 1.7; Pretendard already ships generous leading.
+
 
 ## What 202 real top-tier sites actually do (use these as targets)
 

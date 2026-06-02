@@ -1,0 +1,6 @@
+{
+  "url": "https://www.spoqa.com",
+  "name": "www.spoqa.com",
+  "ok": false,
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.spoqa.com/\nCall log:\n  - navigating to \"https://www.spoqa.com/\", waiting until \"domcontentloaded\"\n"
+}

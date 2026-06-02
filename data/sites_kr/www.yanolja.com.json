@@ -1,0 +1,789 @@
+{
+  "url": "https://www.yanolja.com",
+  "name": "www.yanolja.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#000000",
+          "bg_alpha": 0.5,
+          "color": "#000000",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "0px 0px 0px 0px",
+          "height": 32,
+          "font_size": "10px",
+          "font_weight": "400",
+          "font_family": "pretendard",
+          "letter_spacing": "normal",
+          "line_height": "15px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "16px",
+          "padding": "0px 0px 0px 0px",
+          "height": 48,
+          "font_size": "14px",
+          "font_weight": "700",
+          "font_family": "pretendard",
+          "letter_spacing": "normal",
+          "line_height": "17px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0.1) 0px 0px 8px 0px",
+          "transition": "none",
+          "_n": 9
+        },
+        {
+          "role": "primary",
+          "text": "자세히보기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#1b1c1f",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "4px 16px 4px 16px",
+          "height": 52,
+          "font_size": "16px",
+          "font_weight": "700",
+          "font_family": "pretendard",
+          "letter_spacing": "normal",
+          "line_height": "19px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 5
+        },
+        {
+          "role": "primary",
+          "text": "패밀리 사이트",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "1px solid #dadbdf",
+          "radius": "5px",
+          "padding": "0px 12px 0px 12px",
+          "height": 32,
+          "font_size": "12px",
+          "font_weight": "400",
+          "font_family": "pretendard",
+          "letter_spacing": "normal",
+          "line_height": "18px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "전체 카테고리",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#1b1c1f",
+          "border": "none",
+          "radius": "16px",
+          "padding": "4px 16px 4px 16px",
+          "height": 52,
+          "font_size": "16px",
+          "font_weight": "700",
+          "font_family": "pretendard",
+          "letter_spacing": "normal",
+          "line_height": "19px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "01/14",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 32,
+          "font_size": "10px",
+          "font_weight": "400",
+          "font_family": "pretendard",
+          "letter_spacing": "normal",
+          "line_height": "15px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "전체보기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#1b1c1f",
+          "border": "none",
+          "radius": "0px",
+          "padding": "4px 0px 4px 0px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "pretendard",
+          "letter_spacing": "normal",
+          "line_height": "19px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 3
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 5,
+        "font_size": "32px",
+        "font_size_px": 32,
+        "font_weight": "700",
+        "line_height": "38px",
+        "line_height_ratio": 1.19,
+        "letter_spacing": "normal",
+        "font_family": "pretendard",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 6,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "pretendard",
+        "color": "#ffffff"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1320,
+          "count": 15
+        },
+        {
+          "value": 800,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 4,
+          "count": 18
+        },
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 5,
+          "count": 1
+        },
+        {
+          "value": 12,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 2,
+          "count": 60
+        },
+        {
+          "value": 4,
+          "count": 49
+        },
+        {
+          "value": 8,
+          "count": 17
+        },
+        {
+          "value": 16,
+          "count": 13
+        },
+        {
+          "value": 20,
+          "count": 13
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 6,
+          "count": 1
+        },
+        {
+          "value": 12,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 412,
+      "grid_blocks": 21
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 40,
+          "count": 76
+        },
+        {
+          "value": 8,
+          "count": 71
+        },
+        {
+          "value": 2,
+          "count": 60
+        },
+        {
+          "value": 16,
+          "count": 58
+        },
+        {
+          "value": 4,
+          "count": 50
+        },
+        {
+          "value": 20,
+          "count": 31
+        },
+        {
+          "value": 48,
+          "count": 20
+        },
+        {
+          "value": 32,
+          "count": 12
+        },
+        {
+          "value": 10,
+          "count": 8
+        },
+        {
+          "value": 12,
+          "count": 7
+        },
+        {
+          "value": 6,
+          "count": 6
+        },
+        {
+          "value": 24,
+          "count": 5
+        },
+        {
+          "value": 26,
+          "count": 5
+        },
+        {
+          "value": 36,
+          "count": 5
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 84
+        },
+        {
+          "value": 4,
+          "count": 70
+        },
+        {
+          "value": 8,
+          "count": 5
+        },
+        {
+          "value": 20,
+          "count": 4
+        },
+        {
+          "value": 40,
+          "count": 1
+        },
+        {
+          "value": 56,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 70
+        },
+        {
+          "value": "#f2f3f7",
+          "count": 69
+        },
+        {
+          "value": "#f7f8fb",
+          "count": 19
+        },
+        {
+          "value": "#000000",
+          "count": 9
+        },
+        {
+          "value": "#4154ff",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#1b1c1f",
+          "count": 1227
+        },
+        {
+          "value": "#000000",
+          "count": 228
+        },
+        {
+          "value": "#ffffff",
+          "count": 87
+        },
+        {
+          "value": "#e5000f",
+          "count": 44
+        },
+        {
+          "value": "#6e6f73",
+          "count": 20
+        },
+        {
+          "value": "#4154ff",
+          "count": 5
+        }
+      ],
+      "borders": [
+        {
+          "value": "#f2f3f7",
+          "count": 10
+        },
+        {
+          "value": "#dadbdf",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "title": "NOL | 전세계 숙소, 항공, 레저, 공연 특가",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#000000",
+          "bg_alpha": 0.5,
+          "color": "#000000",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "0px 0px 0px 0px",
+          "height": 32,
+          "font_size": "10px",
+          "font_weight": "400",
+          "font_family": "pretendard",
+          "letter_spacing": "normal",
+          "line_height": "15px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "none",
+          "radius": "16px",
+          "padding": "0px 0px 0px 0px",
+          "height": 48,
+          "font_size": "14px",
+          "font_weight": "700",
+          "font_family": "pretendard",
+          "letter_spacing": "normal",
+          "line_height": "17px",
+          "text_transform": "none",
+          "shadow": "rgba(0, 0, 0, 0.1) 0px 0px 8px 0px",
+          "transition": "none",
+          "_n": 9
+        },
+        {
+          "role": "primary",
+          "text": "자세히보기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#1b1c1f",
+          "border": "none",
+          "radius": "9999px",
+          "padding": "4px 16px 4px 16px",
+          "height": 52,
+          "font_size": "16px",
+          "font_weight": "700",
+          "font_family": "pretendard",
+          "letter_spacing": "normal",
+          "line_height": "19px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 5
+        },
+        {
+          "role": "primary",
+          "text": "패밀리 사이트",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "1px solid #dadbdf",
+          "radius": "5px",
+          "padding": "0px 12px 0px 12px",
+          "height": 32,
+          "font_size": "12px",
+          "font_weight": "400",
+          "font_family": "pretendard",
+          "letter_spacing": "normal",
+          "line_height": "18px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "전체 카테고리",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#1b1c1f",
+          "border": "none",
+          "radius": "16px",
+          "padding": "4px 16px 4px 16px",
+          "height": 52,
+          "font_size": "16px",
+          "font_weight": "700",
+          "font_family": "pretendard",
+          "letter_spacing": "normal",
+          "line_height": "19px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "01/14",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 32,
+          "font_size": "10px",
+          "font_weight": "400",
+          "font_family": "pretendard",
+          "letter_spacing": "normal",
+          "line_height": "15px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "전체보기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#1b1c1f",
+          "border": "none",
+          "radius": "0px",
+          "padding": "4px 0px 4px 0px",
+          "height": 40,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "pretendard",
+          "letter_spacing": "normal",
+          "line_height": "19px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 3
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 5,
+        "font_size": "32px",
+        "font_size_px": 32,
+        "font_weight": "700",
+        "line_height": "38px",
+        "line_height_ratio": 1.19,
+        "letter_spacing": "normal",
+        "font_family": "pretendard",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 6,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "400",
+        "line_height": "24px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "normal",
+        "font_family": "pretendard",
+        "color": "#ffffff"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1320,
+          "count": 15
+        },
+        {
+          "value": 800,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 4,
+          "count": 18
+        },
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 5,
+          "count": 1
+        },
+        {
+          "value": 12,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 2,
+          "count": 60
+        },
+        {
+          "value": 4,
+          "count": 49
+        },
+        {
+          "value": 8,
+          "count": 17
+        },
+        {
+          "value": 16,
+          "count": 13
+        },
+        {
+          "value": 20,
+          "count": 13
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 6,
+          "count": 1
+        },
+        {
+          "value": 12,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 412,
+      "grid_blocks": 21
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 40,
+          "count": 76
+        },
+        {
+          "value": 8,
+          "count": 71
+        },
+        {
+          "value": 2,
+          "count": 60
+        },
+        {
+          "value": 16,
+          "count": 58
+        },
+        {
+          "value": 4,
+          "count": 50
+        },
+        {
+          "value": 20,
+          "count": 31
+        },
+        {
+          "value": 48,
+          "count": 20
+        },
+        {
+          "value": 32,
+          "count": 12
+        },
+        {
+          "value": 10,
+          "count": 8
+        },
+        {
+          "value": 12,
+          "count": 7
+        },
+        {
+          "value": 6,
+          "count": 6
+        },
+        {
+          "value": 24,
+          "count": 5
+        },
+        {
+          "value": 26,
+          "count": 5
+        },
+        {
+          "value": 36,
+          "count": 5
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 84
+        },
+        {
+          "value": 4,
+          "count": 70
+        },
+        {
+          "value": 8,
+          "count": 5
+        },
+        {
+          "value": 20,
+          "count": 4
+        },
+        {
+          "value": 40,
+          "count": 1
+        },
+        {
+          "value": 56,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 70
+        },
+        {
+          "value": "#f2f3f7",
+          "count": 69
+        },
+        {
+          "value": "#f7f8fb",
+          "count": 19
+        },
+        {
+          "value": "#000000",
+          "count": 9
+        },
+        {
+          "value": "#4154ff",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#1b1c1f",
+          "count": 1227
+        },
+        {
+          "value": "#000000",
+          "count": 228
+        },
+        {
+          "value": "#ffffff",
+          "count": 87
+        },
+        {
+          "value": "#e5000f",
+          "count": 44
+        },
+        {
+          "value": "#6e6f73",
+          "count": 20
+        },
+        {
+          "value": "#4154ff",
+          "count": 5
+        }
+      ],
+      "borders": [
+        {
+          "value": "#f2f3f7",
+          "count": 10
+        },
+        {
+          "value": "#dadbdf",
+          "count": 1
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

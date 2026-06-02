@@ -1,0 +1,951 @@
+{
+  "url": "https://www.cgv.co.kr",
+  "name": "www.cgv.co.kr",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#242424",
+          "bg_alpha": 1,
+          "color": "#121212",
+          "border": "none",
+          "radius": "5px",
+          "padding": "0px 0px 0px 0px",
+          "height": 6,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "pretendard",
+          "letter_spacing": "-0.2px",
+          "line_height": "14px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "닫기",
+          "bg": "#f5f5f5",
+          "bg_alpha": 1,
+          "color": "#707070",
+          "border": "none",
+          "radius": "6px",
+          "padding": "8px 10px 8px 10px",
+          "height": 28,
+          "font_size": "12px",
+          "font_weight": "400",
+          "font_family": "pretendard",
+          "letter_spacing": "-0.2px",
+          "line_height": "12px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "영화",
+          "bg": "#121212",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #121212",
+          "radius": "25px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "15px",
+          "font_weight": "700",
+          "font_family": "pretendard",
+          "letter_spacing": "-0.2px",
+          "line_height": "15px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s, 0.3s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "이벤트/혜택",
+          "bg": "#f4f4f4",
+          "bg_alpha": 1,
+          "color": "#454545",
+          "border": "1px solid #f4f4f4",
+          "radius": "25px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "15px",
+          "font_weight": "400",
+          "font_family": "pretendard",
+          "letter_spacing": "-0.2px",
+          "line_height": "15px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 4
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "자세히보기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "1px solid #ffffff",
+          "radius": "100px",
+          "padding": "0px 12px 0px 12px",
+          "height": 34,
+          "font_size": "12px",
+          "font_weight": "500",
+          "font_family": "pretendard",
+          "letter_spacing": "-0.2px",
+          "line_height": "16.8px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "secondary",
+          "text": "예매하기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#fc5555",
+          "border": "1px solid #fc5555",
+          "radius": "4px",
+          "padding": "8px 8px 8px 8px",
+          "height": 29,
+          "font_size": "11px",
+          "font_weight": "500",
+          "font_family": "pretendard",
+          "letter_spacing": "-0.165px",
+          "line_height": "11px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "AD<군체> 연상호 감독과 함께하는라플위클리 딥다이",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#121212",
+          "border": "none",
+          "radius": "16px",
+          "padding": "0px 0px 0px 0px",
+          "height": 120,
+          "font_size": "10px",
+          "font_weight": "400",
+          "font_family": "pretendard",
+          "letter_spacing": "-0.2px",
+          "line_height": "10px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 7
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "#d9d9d9",
+          "bg_alpha": 1,
+          "color": "#121212",
+          "border": "none",
+          "radius": "50%",
+          "padding": "0px 0px 0px 0px",
+          "height": 6,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "pretendard",
+          "letter_spacing": "-0.2px",
+          "line_height": "14px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 4
+        },
+        {
+          "role": "ghost",
+          "text": "오늘은 그만 보기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#707070",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 20,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "pretendard",
+          "letter_spacing": "-0.2px",
+          "line_height": "19.6px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 11
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "10px",
+        "font_size_px": 10,
+        "font_weight": "400",
+        "line_height": "10px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-0.2px",
+        "font_family": "pretendard",
+        "color": "#121212",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 5,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "700",
+        "line_height": "19.6px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "-0.2px",
+        "font_family": "pretendard",
+        "color": "#121212",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 45,
+        "font_size": "10px",
+        "font_size_px": 10,
+        "font_weight": "400",
+        "line_height": "10px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-0.2px",
+        "font_family": "pretendard",
+        "color": "#121212"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 600,
+          "count": 5
+        },
+        {
+          "value": 1280,
+          "count": 1
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [
+        {
+          "value": 6,
+          "count": 10
+        },
+        {
+          "value": 1,
+          "count": 2
+        },
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 135,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 10,
+          "count": 72
+        },
+        {
+          "value": 9,
+          "count": 71
+        },
+        {
+          "value": 24,
+          "count": 71
+        },
+        {
+          "value": 6,
+          "count": 64
+        },
+        {
+          "value": 8,
+          "count": 61
+        },
+        {
+          "value": 5,
+          "count": 46
+        },
+        {
+          "value": 15,
+          "count": 34
+        },
+        {
+          "value": 16,
+          "count": 34
+        },
+        {
+          "value": 12,
+          "count": 14
+        },
+        {
+          "value": 4,
+          "count": 12
+        },
+        {
+          "value": 2,
+          "count": 9
+        },
+        {
+          "value": 20,
+          "count": 7
+        },
+        {
+          "value": 3,
+          "count": 5
+        },
+        {
+          "value": 18,
+          "count": 3
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 10,
+          "count": 40
+        },
+        {
+          "value": 18,
+          "count": 34
+        },
+        {
+          "value": 3,
+          "count": 33
+        },
+        {
+          "value": 4,
+          "count": 18
+        },
+        {
+          "value": 16,
+          "count": 15
+        },
+        {
+          "value": 6,
+          "count": 7
+        },
+        {
+          "value": 8,
+          "count": 5
+        },
+        {
+          "value": 12,
+          "count": 4
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 14,
+          "count": 1
+        },
+        {
+          "value": 15,
+          "count": 1
+        },
+        {
+          "value": 32,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#121212",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 67
+        },
+        {
+          "value": "#000000",
+          "count": 17
+        },
+        {
+          "value": "#f4f4f4",
+          "count": 12
+        },
+        {
+          "value": "#3e3e3e",
+          "count": 8
+        },
+        {
+          "value": "#d9d9d9",
+          "count": 4
+        },
+        {
+          "value": "#121212",
+          "count": 2
+        },
+        {
+          "value": "#f5f5f5",
+          "count": 2
+        },
+        {
+          "value": "#fc5555",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#121212",
+          "count": 861
+        },
+        {
+          "value": "#707070",
+          "count": 102
+        },
+        {
+          "value": "#fc5555",
+          "count": 15
+        },
+        {
+          "value": "#ffffff",
+          "count": 11
+        },
+        {
+          "value": "#000000",
+          "count": 11
+        },
+        {
+          "value": "#454545",
+          "count": 8
+        },
+        {
+          "value": "#007aff",
+          "count": 5
+        },
+        {
+          "value": "#2d6fef",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#d9d9d9",
+          "count": 41
+        },
+        {
+          "value": "#514b82",
+          "count": 5
+        },
+        {
+          "value": "#f4f4f4",
+          "count": 4
+        },
+        {
+          "value": "#e9e9e9",
+          "count": 3
+        },
+        {
+          "value": "#121212",
+          "count": 2
+        },
+        {
+          "value": "#fc5555",
+          "count": 2
+        }
+      ],
+      "accents": []
+    }
+  },
+  "title": "깊이 빠져 보다, CGV",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#242424",
+          "bg_alpha": 1,
+          "color": "#121212",
+          "border": "none",
+          "radius": "5px",
+          "padding": "0px 0px 0px 0px",
+          "height": 6,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "pretendard",
+          "letter_spacing": "-0.2px",
+          "line_height": "14px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "닫기",
+          "bg": "#f5f5f5",
+          "bg_alpha": 1,
+          "color": "#707070",
+          "border": "none",
+          "radius": "6px",
+          "padding": "8px 10px 8px 10px",
+          "height": 28,
+          "font_size": "12px",
+          "font_weight": "400",
+          "font_family": "pretendard",
+          "letter_spacing": "-0.2px",
+          "line_height": "12px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "영화",
+          "bg": "#121212",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #121212",
+          "radius": "25px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "15px",
+          "font_weight": "700",
+          "font_family": "pretendard",
+          "letter_spacing": "-0.2px",
+          "line_height": "15px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.3s, 0.3s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "이벤트/혜택",
+          "bg": "#f4f4f4",
+          "bg_alpha": 1,
+          "color": "#454545",
+          "border": "1px solid #f4f4f4",
+          "radius": "25px",
+          "padding": "0px 16px 0px 16px",
+          "height": 40,
+          "font_size": "15px",
+          "font_weight": "400",
+          "font_family": "pretendard",
+          "letter_spacing": "-0.2px",
+          "line_height": "15px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 4
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "자세히보기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "1px solid #ffffff",
+          "radius": "100px",
+          "padding": "0px 12px 0px 12px",
+          "height": 34,
+          "font_size": "12px",
+          "font_weight": "500",
+          "font_family": "pretendard",
+          "letter_spacing": "-0.2px",
+          "line_height": "16.8px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "secondary",
+          "text": "예매하기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#fc5555",
+          "border": "1px solid #fc5555",
+          "radius": "4px",
+          "padding": "8px 8px 8px 8px",
+          "height": 29,
+          "font_size": "11px",
+          "font_weight": "500",
+          "font_family": "pretendard",
+          "letter_spacing": "-0.165px",
+          "line_height": "11px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 2
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "AD<군체> 연상호 감독과 함께하는라플위클리 딥다이",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#121212",
+          "border": "none",
+          "radius": "16px",
+          "padding": "0px 0px 0px 0px",
+          "height": 120,
+          "font_size": "10px",
+          "font_weight": "400",
+          "font_family": "pretendard",
+          "letter_spacing": "-0.2px",
+          "line_height": "10px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 7
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "#d9d9d9",
+          "bg_alpha": 1,
+          "color": "#121212",
+          "border": "none",
+          "radius": "50%",
+          "padding": "0px 0px 0px 0px",
+          "height": 6,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "pretendard",
+          "letter_spacing": "-0.2px",
+          "line_height": "14px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 4
+        },
+        {
+          "role": "ghost",
+          "text": "오늘은 그만 보기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#707070",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 20,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "pretendard",
+          "letter_spacing": "-0.2px",
+          "line_height": "19.6px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 11
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "10px",
+        "font_size_px": 10,
+        "font_weight": "400",
+        "line_height": "10px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-0.2px",
+        "font_family": "pretendard",
+        "color": "#121212",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 5,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "700",
+        "line_height": "19.6px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "-0.2px",
+        "font_family": "pretendard",
+        "color": "#121212",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 45,
+        "font_size": "10px",
+        "font_size_px": 10,
+        "font_weight": "400",
+        "line_height": "10px",
+        "line_height_ratio": 1,
+        "letter_spacing": "-0.2px",
+        "font_family": "pretendard",
+        "color": "#121212"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 600,
+          "count": 5
+        },
+        {
+          "value": 1280,
+          "count": 1
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [
+        {
+          "value": 6,
+          "count": 10
+        },
+        {
+          "value": 1,
+          "count": 2
+        },
+        {
+          "value": 3,
+          "count": 1
+        },
+        {
+          "value": 4,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 135,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 10,
+          "count": 72
+        },
+        {
+          "value": 9,
+          "count": 71
+        },
+        {
+          "value": 24,
+          "count": 71
+        },
+        {
+          "value": 6,
+          "count": 64
+        },
+        {
+          "value": 8,
+          "count": 61
+        },
+        {
+          "value": 5,
+          "count": 46
+        },
+        {
+          "value": 15,
+          "count": 34
+        },
+        {
+          "value": 16,
+          "count": 34
+        },
+        {
+          "value": 12,
+          "count": 14
+        },
+        {
+          "value": 4,
+          "count": 12
+        },
+        {
+          "value": 2,
+          "count": 9
+        },
+        {
+          "value": 20,
+          "count": 7
+        },
+        {
+          "value": 3,
+          "count": 5
+        },
+        {
+          "value": 18,
+          "count": 3
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 10,
+          "count": 40
+        },
+        {
+          "value": 18,
+          "count": 34
+        },
+        {
+          "value": 3,
+          "count": 33
+        },
+        {
+          "value": 4,
+          "count": 18
+        },
+        {
+          "value": 16,
+          "count": 15
+        },
+        {
+          "value": 6,
+          "count": 7
+        },
+        {
+          "value": 8,
+          "count": 5
+        },
+        {
+          "value": 12,
+          "count": 4
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 14,
+          "count": 1
+        },
+        {
+          "value": 15,
+          "count": 1
+        },
+        {
+          "value": 32,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#121212",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 67
+        },
+        {
+          "value": "#000000",
+          "count": 17
+        },
+        {
+          "value": "#f4f4f4",
+          "count": 12
+        },
+        {
+          "value": "#3e3e3e",
+          "count": 8
+        },
+        {
+          "value": "#d9d9d9",
+          "count": 4
+        },
+        {
+          "value": "#121212",
+          "count": 2
+        },
+        {
+          "value": "#f5f5f5",
+          "count": 2
+        },
+        {
+          "value": "#fc5555",
+          "count": 2
+        }
+      ],
+      "text": [
+        {
+          "value": "#121212",
+          "count": 861
+        },
+        {
+          "value": "#707070",
+          "count": 102
+        },
+        {
+          "value": "#fc5555",
+          "count": 15
+        },
+        {
+          "value": "#ffffff",
+          "count": 11
+        },
+        {
+          "value": "#000000",
+          "count": 11
+        },
+        {
+          "value": "#454545",
+          "count": 8
+        },
+        {
+          "value": "#007aff",
+          "count": 5
+        },
+        {
+          "value": "#2d6fef",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#d9d9d9",
+          "count": 41
+        },
+        {
+          "value": "#514b82",
+          "count": 5
+        },
+        {
+          "value": "#f4f4f4",
+          "count": 4
+        },
+        {
+          "value": "#e9e9e9",
+          "count": 3
+        },
+        {
+          "value": "#121212",
+          "count": 2
+        },
+        {
+          "value": "#fc5555",
+          "count": 2
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

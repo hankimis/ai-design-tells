@@ -1,0 +1,1604 @@
+{
+  "n_sites": 48,
+  "sites": [
+    "brunch.co.kr",
+    "channel.io",
+    "class101.net",
+    "fastcampus.co.kr",
+    "hyperconnect.com",
+    "line.me",
+    "moloco.com",
+    "ohou.se",
+    "programmers.co.kr",
+    "ridibooks.com",
+    "sendbird.com",
+    "toss.im",
+    "upbit.com",
+    "watcha.com",
+    "www.11st.co.kr",
+    "www.29cm.co.kr",
+    "www.aladin.co.kr",
+    "www.baemin.com",
+    "www.banksalad.com",
+    "www.bithumb.com",
+    "www.cgv.co.kr",
+    "www.coupang.com",
+    "www.daangn.com",
+    "www.gmarket.co.kr",
+    "www.inflearn.com",
+    "www.kakaobank.com",
+    "www.kakaocorp.com",
+    "www.kbstar.com",
+    "www.kurly.com",
+    "www.lguplus.com",
+    "www.lottecinema.co.kr",
+    "www.megabox.co.kr",
+    "www.melon.com",
+    "www.musinsa.com",
+    "www.naver.com",
+    "www.oliveyoung.co.kr",
+    "www.rememberapp.co.kr",
+    "www.shinhancard.com",
+    "www.socar.kr",
+    "www.ssg.com",
+    "www.tossbank.com",
+    "www.tving.com",
+    "www.wanted.co.kr",
+    "www.woowahan.com",
+    "www.yanolja.com",
+    "www.yes24.com",
+    "www.zigbang.com",
+    "zigzag.kr"
+  ],
+  "fonts": {
+    "body_fonts": [
+      [
+        "pretendard",
+        13
+      ],
+      [
+        "pretendard variable",
+        6
+      ],
+      [
+        "-apple-system",
+        3
+      ],
+      [
+        "toss product sans",
+        2
+      ],
+      [
+        "noto sans kr",
+        2
+      ],
+      [
+        "맑은 고딕",
+        2
+      ],
+      [
+        "noto sans demilight",
+        1
+      ],
+      [
+        "source code pro",
+        1
+      ],
+      [
+        "poppins",
+        1
+      ],
+      [
+        "sfpro",
+        1
+      ],
+      [
+        "montserrat uploaded",
+        1
+      ],
+      [
+        "inter",
+        1
+      ]
+    ],
+    "heading_fonts": [
+      [
+        "pretendard",
+        10
+      ],
+      [
+        "pretendard variable",
+        7
+      ],
+      [
+        "-apple-system",
+        4
+      ],
+      [
+        "toss product sans",
+        2
+      ],
+      [
+        "noto sans kr",
+        2
+      ],
+      [
+        "맑은 고딕",
+        2
+      ],
+      [
+        "noto sans demilight",
+        1
+      ],
+      [
+        "poppins",
+        1
+      ],
+      [
+        "sfpro",
+        1
+      ],
+      [
+        "montserrat uploaded",
+        1
+      ],
+      [
+        "inter",
+        1
+      ],
+      [
+        "serrif-medium",
+        1
+      ]
+    ],
+    "korean_face_share_pct": 69,
+    "pretendard_share_pct": 44
+  },
+  "typography": {
+    "h1": {
+      "n": 26,
+      "font_size_px": {
+        "median": 28.0,
+        "common": [
+          [
+            28,
+            3
+          ],
+          [
+            20,
+            2
+          ],
+          [
+            30,
+            2
+          ],
+          [
+            14,
+            2
+          ],
+          [
+            12,
+            2
+          ],
+          [
+            44,
+            1
+          ]
+        ]
+      },
+      "font_weight": {
+        "median": 700.0
+      },
+      "line_height_ratio": {
+        "median": 1.3,
+        "common": [
+          [
+            1.5,
+            8
+          ],
+          [
+            1.2,
+            6
+          ],
+          [
+            1.4,
+            4
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1.3,
+            1
+          ],
+          [
+            1.1,
+            1
+          ]
+        ]
+      },
+      "letter_spacing_px": {
+        "median": -0.5,
+        "negative_pct": 46
+      },
+      "top_families": [
+        [
+          "pretendard",
+          6
+        ],
+        [
+          "pretendard variable",
+          5
+        ],
+        [
+          "noto sans kr",
+          2
+        ],
+        [
+          "noto sans demilight",
+          1
+        ],
+        [
+          "poppins",
+          1
+        ],
+        [
+          "sfpro",
+          1
+        ],
+        [
+          "montserrat uploaded",
+          1
+        ],
+        [
+          "serrif-medium",
+          1
+        ]
+      ]
+    },
+    "h2": {
+      "n": 35,
+      "font_size_px": {
+        "median": 26.0,
+        "common": [
+          [
+            24,
+            6
+          ],
+          [
+            32,
+            4
+          ],
+          [
+            20,
+            3
+          ],
+          [
+            38,
+            2
+          ],
+          [
+            22,
+            2
+          ],
+          [
+            36,
+            2
+          ]
+        ]
+      },
+      "font_weight": {
+        "median": 700
+      },
+      "line_height_ratio": {
+        "median": 1.3,
+        "common": [
+          [
+            1.4,
+            7
+          ],
+          [
+            1.3,
+            7
+          ],
+          [
+            1.2,
+            7
+          ],
+          [
+            1.5,
+            4
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1.1,
+            2
+          ]
+        ]
+      },
+      "letter_spacing_px": {
+        "median": -0.5,
+        "negative_pct": 34
+      },
+      "top_families": [
+        [
+          "pretendard",
+          9
+        ],
+        [
+          "pretendard variable",
+          6
+        ],
+        [
+          "-apple-system",
+          3
+        ],
+        [
+          "toss product sans",
+          2
+        ],
+        [
+          "맑은 고딕",
+          2
+        ],
+        [
+          "poppins",
+          1
+        ],
+        [
+          "lineseed",
+          1
+        ],
+        [
+          "montserrat uploaded",
+          1
+        ]
+      ]
+    },
+    "h3": {
+      "n": 25,
+      "font_size_px": {
+        "median": 24.0,
+        "common": [
+          [
+            40,
+            4
+          ],
+          [
+            26,
+            4
+          ],
+          [
+            20,
+            3
+          ],
+          [
+            16,
+            3
+          ],
+          [
+            18,
+            2
+          ],
+          [
+            22,
+            2
+          ]
+        ]
+      },
+      "font_weight": {
+        "median": 700
+      },
+      "line_height_ratio": {
+        "median": 1.4,
+        "common": [
+          [
+            1.3,
+            6
+          ],
+          [
+            1.4,
+            6
+          ],
+          [
+            1.5,
+            5
+          ],
+          [
+            1.2,
+            4
+          ],
+          [
+            1.1,
+            1
+          ],
+          [
+            1.6,
+            1
+          ]
+        ]
+      },
+      "letter_spacing_px": {
+        "median": -0.5,
+        "negative_pct": 40
+      },
+      "top_families": [
+        [
+          "pretendard",
+          10
+        ],
+        [
+          "pretendard variable",
+          4
+        ],
+        [
+          "nanum myeongjo",
+          1
+        ],
+        [
+          "inter",
+          1
+        ],
+        [
+          "toss product sans",
+          1
+        ],
+        [
+          "noto sans kr",
+          1
+        ],
+        [
+          "bithumb trading sans",
+          1
+        ],
+        [
+          "apple sd gothic neo",
+          1
+        ]
+      ]
+    },
+    "body": {
+      "n": 44,
+      "font_size_px": {
+        "median": 14.3,
+        "common": [
+          [
+            14,
+            9
+          ],
+          [
+            16,
+            8
+          ],
+          [
+            12,
+            7
+          ],
+          [
+            20,
+            5
+          ],
+          [
+            18,
+            3
+          ],
+          [
+            13,
+            3
+          ]
+        ]
+      },
+      "font_weight": {
+        "median": 400.0
+      },
+      "line_height_ratio": {
+        "median": 1.5,
+        "common": [
+          [
+            1.5,
+            18
+          ],
+          [
+            1.4,
+            9
+          ],
+          [
+            1.6,
+            3
+          ],
+          [
+            1.2,
+            3
+          ],
+          [
+            1.3,
+            2
+          ],
+          [
+            1.1,
+            2
+          ]
+        ]
+      },
+      "letter_spacing_px": {
+        "median": -0.3,
+        "negative_pct": 25
+      },
+      "top_families": [
+        [
+          "pretendard",
+          13
+        ],
+        [
+          "pretendard variable",
+          6
+        ],
+        [
+          "toss product sans",
+          2
+        ],
+        [
+          "noto sans kr",
+          2
+        ],
+        [
+          "-apple-system",
+          2
+        ],
+        [
+          "맑은 고딕",
+          2
+        ],
+        [
+          "noto sans demilight",
+          1
+        ],
+        [
+          "source code pro",
+          1
+        ]
+      ]
+    }
+  },
+  "buttons": {
+    "primary": {
+      "n_sites": 41,
+      "radius_px": {
+        "median": 4.0,
+        "range": [
+          0.0,
+          20.0
+        ],
+        "common": [
+          [
+            0,
+            11
+          ],
+          [
+            4,
+            5
+          ],
+          [
+            8,
+            2
+          ],
+          [
+            16,
+            1
+          ],
+          [
+            19,
+            1
+          ],
+          [
+            3,
+            1
+          ]
+        ],
+        "buckets": [
+          [
+            "sharp (0)",
+            11
+          ],
+          [
+            "small (1-6)",
+            9
+          ],
+          [
+            "large (14+)",
+            6
+          ],
+          [
+            "pill",
+            6
+          ],
+          [
+            "medium (8-12)",
+            4
+          ]
+        ],
+        "pill_pct": 15
+      },
+      "padding_x_px": {
+        "median": 0.0,
+        "range": [
+          0.0,
+          18.0
+        ]
+      },
+      "padding_y_px": {
+        "median": 0.0,
+        "range": [
+          0.0,
+          12.0
+        ]
+      },
+      "font_size_px": {
+        "median": 15.0,
+        "common": [
+          [
+            16,
+            14
+          ],
+          [
+            14,
+            9
+          ],
+          [
+            12,
+            3
+          ],
+          [
+            18,
+            3
+          ],
+          [
+            17,
+            3
+          ],
+          [
+            13,
+            3
+          ]
+        ]
+      },
+      "font_weight": {
+        "median": 400,
+        "common": [
+          [
+            400,
+            28
+          ],
+          [
+            600,
+            4
+          ],
+          [
+            500,
+            4
+          ],
+          [
+            700,
+            4
+          ],
+          [
+            100,
+            1
+          ]
+        ]
+      },
+      "with_shadow_pct": 12,
+      "uppercase_pct": 2,
+      "examples": [
+        {
+          "site": "brunch.co.kr",
+          "bg": "#ffffff",
+          "color": "#666666",
+          "radius": "16px",
+          "padding": "0px 0px 0px 0px",
+          "font_size": "12px",
+          "font_weight": "400"
+        },
+        {
+          "site": "channel.io",
+          "bg": "#242428",
+          "color": "#ffffff",
+          "radius": "999px",
+          "padding": "9px 14px 9px 14px",
+          "font_size": "16px",
+          "font_weight": "600"
+        },
+        {
+          "site": "fastcampus.co.kr",
+          "bg": "#000000",
+          "color": "#171b1f",
+          "radius": "19px",
+          "padding": "0px 0px 0px 0px",
+          "font_size": "16px",
+          "font_weight": "400"
+        },
+        {
+          "site": "moloco.com",
+          "bg": "#3381f3",
+          "color": "#ffffff",
+          "radius": "0px",
+          "padding": "12px 16px 12px 16px",
+          "font_size": "16px",
+          "font_weight": "500"
+        },
+        {
+          "site": "ohou.se",
+          "bg": "#00a1ff",
+          "color": "#ffffff",
+          "radius": "4px",
+          "padding": "0px 16px 0px 16px",
+          "font_size": "14px",
+          "font_weight": "400"
+        },
+        {
+          "site": "programmers.co.kr",
+          "bg": "#ffffff",
+          "color": "#000000",
+          "radius": "3.2px",
+          "padding": "1px 1px 1px 1px",
+          "font_size": "12px",
+          "font_weight": "400"
+        },
+        {
+          "site": "ridibooks.com",
+          "bg": "#ffffff",
+          "color": "#141414",
+          "radius": "50%",
+          "padding": "0px 0px 0px 0px",
+          "font_size": "16px",
+          "font_weight": "400"
+        },
+        {
+          "site": "sendbird.com",
+          "bg": "#f2f3f7",
+          "color": "#0d0d0d",
+          "radius": "8px",
+          "padding": "8px 8px 8px 12px",
+          "font_size": "18px",
+          "font_weight": "400"
+        }
+      ]
+    },
+    "secondary": {
+      "n_sites": 15,
+      "radius_px": {
+        "median": 4.0,
+        "range": [
+          0.0,
+          24.0
+        ],
+        "common": [
+          [
+            4,
+            5
+          ],
+          [
+            0,
+            2
+          ],
+          [
+            6,
+            2
+          ],
+          [
+            24,
+            1
+          ],
+          [
+            16,
+            1
+          ],
+          [
+            40,
+            1
+          ]
+        ],
+        "buckets": [
+          [
+            "small (1-6)",
+            7
+          ],
+          [
+            "large (14+)",
+            3
+          ],
+          [
+            "sharp (0)",
+            2
+          ],
+          [
+            "pill",
+            1
+          ],
+          [
+            "medium (8-12)",
+            1
+          ]
+        ],
+        "pill_pct": 7
+      },
+      "padding_x_px": {
+        "median": 8.0,
+        "range": [
+          0.0,
+          14.0
+        ]
+      },
+      "padding_y_px": {
+        "median": 0.0,
+        "range": [
+          0.0,
+          6.0
+        ]
+      },
+      "font_size_px": {
+        "median": 14.0,
+        "common": [
+          [
+            14,
+            4
+          ],
+          [
+            16,
+            3
+          ],
+          [
+            12,
+            2
+          ],
+          [
+            20,
+            2
+          ],
+          [
+            13,
+            2
+          ],
+          [
+            18,
+            1
+          ]
+        ]
+      },
+      "font_weight": {
+        "median": 400,
+        "common": [
+          [
+            400,
+            10
+          ],
+          [
+            500,
+            3
+          ],
+          [
+            100,
+            1
+          ],
+          [
+            600,
+            1
+          ]
+        ]
+      },
+      "with_shadow_pct": 0,
+      "uppercase_pct": 7,
+      "examples": [
+        {
+          "site": "hyperconnect.com",
+          "bg": "transparent",
+          "color": "#858585",
+          "radius": "0px",
+          "padding": "6px 8px 6px 8px",
+          "font_size": "12px",
+          "font_weight": "500"
+        },
+        {
+          "site": "ohou.se",
+          "bg": "transparent",
+          "color": "#2f3438",
+          "radius": "4px",
+          "padding": "0px 8px 0px 8px",
+          "font_size": "14px",
+          "font_weight": "400"
+        },
+        {
+          "site": "programmers.co.kr",
+          "bg": "transparent",
+          "color": "#000000",
+          "radius": "24px",
+          "padding": "0px 0px 0px 0px",
+          "font_size": "16px",
+          "font_weight": "400"
+        },
+        {
+          "site": "www.bithumb.com",
+          "bg": "transparent",
+          "color": "#4f3327",
+          "radius": "4px",
+          "padding": "0px 0px 0px 0px",
+          "font_size": "18px",
+          "font_weight": "500"
+        },
+        {
+          "site": "www.cgv.co.kr",
+          "bg": "transparent",
+          "color": "#ffffff",
+          "radius": "100px",
+          "padding": "0px 12px 0px 12px",
+          "font_size": "12px",
+          "font_weight": "500"
+        },
+        {
+          "site": "www.kurly.com",
+          "bg": "transparent",
+          "color": "#222222",
+          "radius": "4px",
+          "padding": "0px 0px 1px 0px",
+          "font_size": "16px",
+          "font_weight": "400"
+        },
+        {
+          "site": "www.lguplus.com",
+          "bg": "transparent",
+          "color": "#ffffff",
+          "radius": "16px",
+          "padding": "0px 24px 0px 24px",
+          "font_size": "14px",
+          "font_weight": "100"
+        },
+        {
+          "site": "www.lottecinema.co.kr",
+          "bg": "transparent",
+          "color": "#ffffff",
+          "radius": "4px",
+          "padding": "0px 14px 0px 14px",
+          "font_size": "14px",
+          "font_weight": "400"
+        }
+      ]
+    },
+    "ghost": {
+      "n_sites": 44,
+      "radius_px": {
+        "median": 0.0,
+        "range": [
+          0.0,
+          16.0
+        ],
+        "common": [
+          [
+            0,
+            36
+          ],
+          [
+            16,
+            2
+          ],
+          [
+            4,
+            1
+          ],
+          [
+            25,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            32,
+            1
+          ]
+        ],
+        "buckets": [
+          [
+            "sharp (0)",
+            36
+          ],
+          [
+            "large (14+)",
+            5
+          ],
+          [
+            "small (1-6)",
+            2
+          ],
+          [
+            "pill",
+            1
+          ]
+        ],
+        "pill_pct": 2
+      },
+      "padding_x_px": {
+        "median": 0.0,
+        "range": [
+          0.0,
+          12.0
+        ]
+      },
+      "padding_y_px": {
+        "median": 0.0,
+        "range": [
+          0.0,
+          6.0
+        ]
+      },
+      "font_size_px": {
+        "median": 14.0,
+        "common": [
+          [
+            16,
+            16
+          ],
+          [
+            14,
+            11
+          ],
+          [
+            12,
+            6
+          ],
+          [
+            13,
+            4
+          ],
+          [
+            15,
+            4
+          ],
+          [
+            0,
+            2
+          ]
+        ]
+      },
+      "font_weight": {
+        "median": 400.0,
+        "common": [
+          [
+            400,
+            35
+          ],
+          [
+            700,
+            4
+          ],
+          [
+            500,
+            3
+          ],
+          [
+            800,
+            1
+          ],
+          [
+            600,
+            1
+          ]
+        ]
+      },
+      "with_shadow_pct": 2,
+      "uppercase_pct": 0,
+      "examples": [
+        {
+          "site": "brunch.co.kr",
+          "bg": "transparent",
+          "color": "#000000",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "font_size": "14px",
+          "font_weight": "400"
+        },
+        {
+          "site": "channel.io",
+          "bg": "transparent",
+          "color": "#000000",
+          "radius": "999px",
+          "padding": "6px 12px 6px 12px",
+          "font_size": "16px",
+          "font_weight": "400"
+        },
+        {
+          "site": "class101.net",
+          "bg": "transparent",
+          "color": "#000000",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "font_size": "16px",
+          "font_weight": "400"
+        },
+        {
+          "site": "fastcampus.co.kr",
+          "bg": "transparent",
+          "color": "#171b1f",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "font_size": "12px",
+          "font_weight": "400"
+        },
+        {
+          "site": "hyperconnect.com",
+          "bg": "transparent",
+          "color": "#ffffff",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "font_size": "12px",
+          "font_weight": "400"
+        },
+        {
+          "site": "moloco.com",
+          "bg": "transparent",
+          "color": "#222222",
+          "radius": "0px",
+          "padding": "0px 0px 16px 0px",
+          "font_size": "14px",
+          "font_weight": "400"
+        },
+        {
+          "site": "ohou.se",
+          "bg": "transparent",
+          "color": "#ffffff",
+          "radius": "0px",
+          "padding": "12px 12px 12px 12px",
+          "font_size": "0px",
+          "font_weight": "400"
+        },
+        {
+          "site": "programmers.co.kr",
+          "bg": "transparent",
+          "color": "#ffffff",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "font_size": "14px",
+          "font_weight": "400"
+        }
+      ]
+    }
+  },
+  "layout": {
+    "container_max_px": {
+      "median": 1156.0,
+      "common": [
+        [
+          1440,
+          6
+        ],
+        [
+          600,
+          3
+        ],
+        [
+          1200,
+          3
+        ],
+        [
+          1280,
+          3
+        ],
+        [
+          1320,
+          2
+        ],
+        [
+          980,
+          2
+        ]
+      ]
+    },
+    "gap_px": {
+      "common": [
+        [
+          4,
+          30
+        ],
+        [
+          2,
+          20
+        ],
+        [
+          12,
+          19
+        ],
+        [
+          8,
+          18
+        ],
+        [
+          20,
+          16
+        ],
+        [
+          6,
+          16
+        ],
+        [
+          10,
+          13
+        ],
+        [
+          16,
+          13
+        ],
+        [
+          24,
+          8
+        ],
+        [
+          3,
+          5
+        ]
+      ]
+    },
+    "section_padding_top_px": {
+      "median": 60.0,
+      "common": [
+        [
+          80,
+          7
+        ],
+        [
+          40,
+          6
+        ],
+        [
+          50,
+          5
+        ],
+        [
+          160,
+          5
+        ],
+        [
+          60,
+          4
+        ],
+        [
+          100,
+          3
+        ],
+        [
+          70,
+          3
+        ],
+        [
+          48,
+          3
+        ]
+      ]
+    },
+    "grid_columns": {
+      "common": [
+        [
+          3,
+          9
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          12,
+          2
+        ],
+        [
+          1440,
+          1
+        ]
+      ]
+    }
+  },
+  "spacing": {
+    "padding_scale_common": [
+      [
+        20,
+        40
+      ],
+      [
+        10,
+        38
+      ],
+      [
+        12,
+        38
+      ],
+      [
+        16,
+        36
+      ],
+      [
+        6,
+        35
+      ],
+      [
+        8,
+        35
+      ],
+      [
+        4,
+        34
+      ],
+      [
+        2,
+        25
+      ],
+      [
+        24,
+        22
+      ],
+      [
+        7,
+        21
+      ],
+      [
+        14,
+        20
+      ],
+      [
+        5,
+        20
+      ],
+      [
+        40,
+        18
+      ],
+      [
+        32,
+        18
+      ]
+    ],
+    "margin_scale_common": [
+      [
+        8,
+        36
+      ],
+      [
+        12,
+        30
+      ],
+      [
+        20,
+        30
+      ],
+      [
+        16,
+        29
+      ],
+      [
+        4,
+        28
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        6,
+        23
+      ],
+      [
+        40,
+        19
+      ],
+      [
+        2,
+        19
+      ],
+      [
+        24,
+        17
+      ],
+      [
+        30,
+        15
+      ],
+      [
+        5,
+        13
+      ],
+      [
+        18,
+        12
+      ],
+      [
+        60,
+        12
+      ]
+    ],
+    "base_unit_padding": {
+      "of_4_pct": 50,
+      "of_8_pct": 27
+    }
+  },
+  "color": {
+    "n_total": 48,
+    "n_dark_mode": 3,
+    "light": {
+      "page_bg_common": [
+        [
+          "#ffffff",
+          25
+        ],
+        [
+          "#000000",
+          3
+        ],
+        [
+          "#f8f8f8",
+          2
+        ],
+        [
+          "#e9ecf1",
+          1
+        ],
+        [
+          "#f6f6f6",
+          1
+        ],
+        [
+          "#fbfbfb",
+          1
+        ],
+        [
+          "#121212",
+          1
+        ],
+        [
+          "#fafafa",
+          1
+        ]
+      ],
+      "primary_text_common": [
+        [
+          "#000000",
+          15
+        ],
+        [
+          "#333333",
+          6
+        ],
+        [
+          "#ffffff",
+          3
+        ],
+        [
+          "#666666",
+          3
+        ],
+        [
+          "#222222",
+          3
+        ],
+        [
+          "#424242",
+          2
+        ],
+        [
+          "#444444",
+          2
+        ],
+        [
+          "#171b1f",
+          1
+        ]
+      ],
+      "accent_common": [
+        [
+          "#4e608e",
+          1
+        ],
+        [
+          "#31a552",
+          1
+        ],
+        [
+          "#000a73",
+          1
+        ],
+        [
+          "#0b84ff",
+          1
+        ],
+        [
+          "#0078ff",
+          1
+        ],
+        [
+          "#1e9eff",
+          1
+        ],
+        [
+          "#000c1e",
+          1
+        ],
+        [
+          "#0062df",
+          1
+        ],
+        [
+          "#f82f62",
+          1
+        ],
+        [
+          "#ee3c97",
+          1
+        ],
+        [
+          "#4a88e5",
+          1
+        ],
+        [
+          "#ff6600",
+          1
+        ]
+      ]
+    },
+    "dark": {
+      "page_bg_common": [
+        [
+          "#0c0c0c",
+          1
+        ],
+        [
+          "#000000",
+          1
+        ],
+        [
+          "#1a1a1a",
+          1
+        ]
+      ],
+      "primary_text_common": [
+        [
+          "#ffffff",
+          1
+        ],
+        [
+          "#e9eaec",
+          1
+        ],
+        [
+          "#222222",
+          1
+        ]
+      ],
+      "surface_common": [
+        [
+          "#171717",
+          1
+        ],
+        [
+          "#000000",
+          1
+        ],
+        [
+          "#ffffff",
+          1
+        ]
+      ]
+    }
+  }
+}

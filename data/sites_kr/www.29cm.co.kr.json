@@ -1,0 +1,597 @@
+{
+  "url": "https://www.29cm.co.kr",
+  "name": "www.29cm.co.kr",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "더보기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "1px solid #c4c4c4",
+          "radius": "4px",
+          "padding": "16px 16px 16px 20px",
+          "height": 52,
+          "font_size": "14px",
+          "font_weight": "700",
+          "font_family": "Pretendard Variable",
+          "letter_spacing": "normal",
+          "line_height": "19.6px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 44,
+          "font_size": "16px",
+          "font_weight": "800",
+          "font_family": "Pretendard Variable",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "이구위크무쿠앤에보니[29EDITION]Near Do",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 80,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Pretendard Variable",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 12
+        },
+        {
+          "role": "ghost",
+          "text": "8",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#5d5d5d",
+          "border": "none",
+          "radius": "4px",
+          "padding": "0px 0px 0px 0px",
+          "height": 52,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Pretendard Variable",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 12
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 5,
+        "font_size": "13px",
+        "font_size_px": 13,
+        "font_weight": "700",
+        "line_height": "18.2px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "normal",
+        "font_family": "Pretendard Variable",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 68,
+        "font_size": "12px",
+        "font_size_px": 12,
+        "font_weight": "400",
+        "line_height": "16.32px",
+        "line_height_ratio": 1.36,
+        "letter_spacing": "normal",
+        "font_family": "Pretendard Variable",
+        "color": "#000000"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1000,
+          "count": 1
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 35
+        },
+        {
+          "value": 2,
+          "count": 25
+        },
+        {
+          "value": 4,
+          "count": 17
+        },
+        {
+          "value": 12,
+          "count": 16
+        },
+        {
+          "value": 10,
+          "count": 15
+        },
+        {
+          "value": 3,
+          "count": 12
+        },
+        {
+          "value": 14,
+          "count": 4
+        },
+        {
+          "value": 20,
+          "count": 3
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 40,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 170,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 6,
+          "count": 98
+        },
+        {
+          "value": 2,
+          "count": 82
+        },
+        {
+          "value": 10,
+          "count": 12
+        },
+        {
+          "value": 24,
+          "count": 8
+        },
+        {
+          "value": 32,
+          "count": 8
+        },
+        {
+          "value": 4,
+          "count": 6
+        },
+        {
+          "value": 48,
+          "count": 5
+        },
+        {
+          "value": 8,
+          "count": 3
+        },
+        {
+          "value": 16,
+          "count": 3
+        },
+        {
+          "value": 20,
+          "count": 3
+        },
+        {
+          "value": 5,
+          "count": 2
+        },
+        {
+          "value": 7,
+          "count": 2
+        },
+        {
+          "value": 14,
+          "count": 2
+        },
+        {
+          "value": 30,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 14,
+          "count": 24
+        }
+      ]
+    },
+    "color": {
+      "page_bg": null,
+      "backgrounds": [
+        {
+          "value": "#000000",
+          "count": 18
+        },
+        {
+          "value": "#f4f4f4",
+          "count": 7
+        },
+        {
+          "value": "#ffffff",
+          "count": 3
+        },
+        {
+          "value": "#e4e4e4",
+          "count": 1
+        },
+        {
+          "value": "#a0a0a0",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 577
+        },
+        {
+          "value": "#5d5d5d",
+          "count": 77
+        },
+        {
+          "value": "#474747",
+          "count": 28
+        },
+        {
+          "value": "#ffffff",
+          "count": 21
+        },
+        {
+          "value": "#ff4800",
+          "count": 11
+        },
+        {
+          "value": "#c4c4c4",
+          "count": 4
+        },
+        {
+          "value": "#a0a0a0",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#c4c4c4",
+          "count": 13
+        }
+      ],
+      "accents": []
+    }
+  },
+  "title": "감도 깊은 취향 셀렉트샵 29CM",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "더보기",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000000",
+          "border": "1px solid #c4c4c4",
+          "radius": "4px",
+          "padding": "16px 16px 16px 20px",
+          "height": 52,
+          "font_size": "14px",
+          "font_weight": "700",
+          "font_family": "Pretendard Variable",
+          "letter_spacing": "normal",
+          "line_height": "19.6px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 44,
+          "font_size": "16px",
+          "font_weight": "800",
+          "font_family": "Pretendard Variable",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "이구위크무쿠앤에보니[29EDITION]Near Do",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#000000",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 80,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Pretendard Variable",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 12
+        },
+        {
+          "role": "ghost",
+          "text": "8",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#5d5d5d",
+          "border": "none",
+          "radius": "4px",
+          "padding": "0px 0px 0px 0px",
+          "height": 52,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Pretendard Variable",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 12
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 5,
+        "font_size": "13px",
+        "font_size_px": 13,
+        "font_weight": "700",
+        "line_height": "18.2px",
+        "line_height_ratio": 1.4,
+        "letter_spacing": "normal",
+        "font_family": "Pretendard Variable",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 68,
+        "font_size": "12px",
+        "font_size_px": 12,
+        "font_weight": "400",
+        "line_height": "16.32px",
+        "line_height_ratio": 1.36,
+        "letter_spacing": "normal",
+        "font_family": "Pretendard Variable",
+        "color": "#000000"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1000,
+          "count": 1
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 35
+        },
+        {
+          "value": 2,
+          "count": 25
+        },
+        {
+          "value": 4,
+          "count": 17
+        },
+        {
+          "value": 12,
+          "count": 16
+        },
+        {
+          "value": 10,
+          "count": 15
+        },
+        {
+          "value": 3,
+          "count": 12
+        },
+        {
+          "value": 14,
+          "count": 4
+        },
+        {
+          "value": 20,
+          "count": 3
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 40,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 170,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 6,
+          "count": 98
+        },
+        {
+          "value": 2,
+          "count": 82
+        },
+        {
+          "value": 10,
+          "count": 12
+        },
+        {
+          "value": 24,
+          "count": 8
+        },
+        {
+          "value": 32,
+          "count": 8
+        },
+        {
+          "value": 4,
+          "count": 6
+        },
+        {
+          "value": 48,
+          "count": 5
+        },
+        {
+          "value": 8,
+          "count": 3
+        },
+        {
+          "value": 16,
+          "count": 3
+        },
+        {
+          "value": 20,
+          "count": 3
+        },
+        {
+          "value": 5,
+          "count": 2
+        },
+        {
+          "value": 7,
+          "count": 2
+        },
+        {
+          "value": 14,
+          "count": 2
+        },
+        {
+          "value": 30,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 14,
+          "count": 24
+        }
+      ]
+    },
+    "color": {
+      "page_bg": null,
+      "backgrounds": [
+        {
+          "value": "#000000",
+          "count": 18
+        },
+        {
+          "value": "#f4f4f4",
+          "count": 7
+        },
+        {
+          "value": "#ffffff",
+          "count": 3
+        },
+        {
+          "value": "#e4e4e4",
+          "count": 1
+        },
+        {
+          "value": "#a0a0a0",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 577
+        },
+        {
+          "value": "#5d5d5d",
+          "count": 77
+        },
+        {
+          "value": "#474747",
+          "count": 28
+        },
+        {
+          "value": "#ffffff",
+          "count": 21
+        },
+        {
+          "value": "#ff4800",
+          "count": 11
+        },
+        {
+          "value": "#c4c4c4",
+          "count": 4
+        },
+        {
+          "value": "#a0a0a0",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#c4c4c4",
+          "count": 13
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

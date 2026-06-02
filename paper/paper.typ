@@ -575,6 +575,33 @@ lighter, off-white text). The page scores a Tell Score of 0 in both palettes
 These numbers feed back into the harness as concrete targets, so the prompt module
 tells a builder not only what to avoid but what range to aim inside.
 
+== A Korean-web companion, and what actually differs
+
+The catalog above is mostly Western. Hangul is set differently from Latin, so we ran
+the same extraction over #strong[48 Korean design-led sites] (Toss, Kakao, 당근, 무신사,
+29CM, 오늘의집, 배민, 업비트, and more) and compared (`reference/KOREAN-SPECS.md`,
+@fig-korean). The honest result separates a real difference from a folk one. The real
+differences are two. First, the default face: Pretendard is the Korean web's Inter, on
+44% of these sites as the body face and a hangul sans on 69%, so the type tell translates
+directly, bare Pretendard with no scale reads as machine-default exactly as bare Inter
+does. Second, body size: Korean body text sets smaller, a 14#`px` median against 16#`px`
+globally, because hangul carries more ink per glyph and Korean product culture is denser.
+The folk difference is line-height: hangul is often said to need much more leading, but
+the measured median is #math.tilde 1.5 in both corpora, because Pretendard already ships
+generous leading. One caveat is honest to flag: the Korean h1 median is bimodal, design-led
+product sites use 56 to 90#`px` heroes like the West while portals and commerce are
+banner-driven with small or absent display headlines, so the low aggregate is a density
+culture, not a different notion of a headline.
+
+#figure(
+  image("figs/fig12_korean.png", width: 100%),
+  caption: [Korean web type vs the global set across 48 Korean sites. The differences are
+  the font (Pretendard dominance) and a smaller body size; line-height is nearly identical.],
+) <fig-korean>
+
+The taxonomy itself is not language-bound, the same tells apply, but a builder targeting
+a Korean audience should read the catalog's body-size and font rows through this companion.
+
 = The harness
 
 The taxonomy ships as a usable tool in three forms, all generated from

@@ -1,0 +1,701 @@
+{
+  "url": "https://www.tossbank.com",
+  "name": "www.tossbank.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "자세히 보기",
+          "bg": "#fdfdfe",
+          "bg_alpha": 0.89,
+          "color": "#212529",
+          "border": "none",
+          "radius": "100px",
+          "padding": "18px 32px 18px 32px",
+          "height": 63,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Toss Product Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#dedeff",
+          "bg_alpha": 0.19,
+          "color": "#212529",
+          "border": "none",
+          "radius": "50%",
+          "padding": "10px 10px 10px 10px",
+          "height": 64,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Toss Product Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 2
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "시작하기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#d1d6db",
+          "border": "1px solid #e5e8eb",
+          "radius": "40px",
+          "padding": "4px 10px 4px 10px",
+          "height": 28,
+          "font_size": "11px",
+          "font_weight": "600",
+          "font_family": "Toss Product Sans",
+          "letter_spacing": "normal",
+          "line_height": "17.6px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "은행소개",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#fdfdfe",
+          "border": "none",
+          "radius": "0px",
+          "padding": "12px 0px 12px 0px",
+          "height": 47,
+          "font_size": "15px",
+          "font_weight": "500",
+          "font_family": "Toss Product Sans",
+          "letter_spacing": "normal",
+          "line_height": "22.5px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 9
+        },
+        {
+          "role": "ghost",
+          "text": "일상",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#b0b8c1",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 19,
+          "font_size": "12px",
+          "font_weight": "500",
+          "font_family": "Toss Product Sans",
+          "letter_spacing": "normal",
+          "line_height": "19.2px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 24
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 1,
+        "font_size": "48px",
+        "font_size_px": 48,
+        "font_weight": "700",
+        "line_height": "62.4px",
+        "line_height_ratio": 1.3,
+        "letter_spacing": "normal",
+        "font_family": "Toss Product Sans",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "20px"
+      },
+      "h4": {
+        "count": 1,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "700",
+        "line_height": "38.4px",
+        "line_height_ratio": 1.6,
+        "letter_spacing": "normal",
+        "font_family": "Toss Product Sans",
+        "color": "#d1d6db",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h6": {
+        "count": 2,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "500",
+        "line_height": "32px",
+        "line_height_ratio": 1.6,
+        "letter_spacing": "normal",
+        "font_family": "Toss Product Sans",
+        "color": "#e5e8eb",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 49,
+        "font_size": "12px",
+        "font_size_px": 12,
+        "font_weight": "500",
+        "line_height": "19.2px",
+        "line_height_ratio": 1.6,
+        "letter_spacing": "normal",
+        "font_family": "Toss Product Sans",
+        "color": "#8b95a1"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 560,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 3,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 24
+        },
+        {
+          "value": 2,
+          "count": 2
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        },
+        {
+          "value": 10,
+          "count": 1
+        },
+        {
+          "value": 12,
+          "count": 1
+        },
+        {
+          "value": 40,
+          "count": 1
+        },
+        {
+          "value": 80,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 87,
+      "grid_blocks": 2
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 12,
+          "count": 42
+        },
+        {
+          "value": 8,
+          "count": 30
+        },
+        {
+          "value": 32,
+          "count": 26
+        },
+        {
+          "value": 20,
+          "count": 24
+        },
+        {
+          "value": 10,
+          "count": 10
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 18,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 26
+        },
+        {
+          "value": 20,
+          "count": 5
+        },
+        {
+          "value": 6,
+          "count": 2
+        },
+        {
+          "value": 14,
+          "count": 2
+        },
+        {
+          "value": 60,
+          "count": 1
+        },
+        {
+          "value": 96,
+          "count": 1
+        },
+        {
+          "value": 180,
+          "count": 1
+        },
+        {
+          "value": 200,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#101013",
+      "backgrounds": [
+        {
+          "value": "#101013",
+          "count": 2
+        },
+        {
+          "value": "#fdfdfe",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#007bff",
+          "count": 114
+        },
+        {
+          "value": "#212529",
+          "count": 67
+        },
+        {
+          "value": "#b0b8c1",
+          "count": 49
+        },
+        {
+          "value": "#6b7684",
+          "count": 40
+        },
+        {
+          "value": "#8b95a1",
+          "count": 37
+        },
+        {
+          "value": "#e5e8eb",
+          "count": 25
+        },
+        {
+          "value": "#d1d6db",
+          "count": 22
+        },
+        {
+          "value": "#fdfdfe",
+          "count": 9
+        }
+      ],
+      "borders": [
+        {
+          "value": "#e5e8eb",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#fdfdfe",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "토스뱅크",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "자세히 보기",
+          "bg": "#fdfdfe",
+          "bg_alpha": 0.89,
+          "color": "#212529",
+          "border": "none",
+          "radius": "100px",
+          "padding": "18px 32px 18px 32px",
+          "height": 63,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Toss Product Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#dedeff",
+          "bg_alpha": 0.19,
+          "color": "#212529",
+          "border": "none",
+          "radius": "50%",
+          "padding": "10px 10px 10px 10px",
+          "height": 64,
+          "font_size": "16px",
+          "font_weight": "400",
+          "font_family": "Toss Product Sans",
+          "letter_spacing": "normal",
+          "line_height": "24px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "0.15s",
+          "_n": 2
+        }
+      ],
+      "secondary": [
+        {
+          "role": "secondary",
+          "text": "시작하기",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#d1d6db",
+          "border": "1px solid #e5e8eb",
+          "radius": "40px",
+          "padding": "4px 10px 4px 10px",
+          "height": 28,
+          "font_size": "11px",
+          "font_weight": "600",
+          "font_family": "Toss Product Sans",
+          "letter_spacing": "normal",
+          "line_height": "17.6px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "은행소개",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#fdfdfe",
+          "border": "none",
+          "radius": "0px",
+          "padding": "12px 0px 12px 0px",
+          "height": 47,
+          "font_size": "15px",
+          "font_weight": "500",
+          "font_family": "Toss Product Sans",
+          "letter_spacing": "normal",
+          "line_height": "22.5px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 9
+        },
+        {
+          "role": "ghost",
+          "text": "일상",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#b0b8c1",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 19,
+          "font_size": "12px",
+          "font_weight": "500",
+          "font_family": "Toss Product Sans",
+          "letter_spacing": "normal",
+          "line_height": "19.2px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 24
+        }
+      ]
+    },
+    "typography": {
+      "h2": {
+        "count": 1,
+        "font_size": "48px",
+        "font_size_px": 48,
+        "font_weight": "700",
+        "line_height": "62.4px",
+        "line_height_ratio": 1.3,
+        "letter_spacing": "normal",
+        "font_family": "Toss Product Sans",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "20px"
+      },
+      "h4": {
+        "count": 1,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "700",
+        "line_height": "38.4px",
+        "line_height_ratio": 1.6,
+        "letter_spacing": "normal",
+        "font_family": "Toss Product Sans",
+        "color": "#d1d6db",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h6": {
+        "count": 2,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "500",
+        "line_height": "32px",
+        "line_height_ratio": 1.6,
+        "letter_spacing": "normal",
+        "font_family": "Toss Product Sans",
+        "color": "#e5e8eb",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 49,
+        "font_size": "12px",
+        "font_size_px": 12,
+        "font_weight": "500",
+        "line_height": "19.2px",
+        "line_height_ratio": 1.6,
+        "letter_spacing": "normal",
+        "font_family": "Toss Product Sans",
+        "color": "#8b95a1"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 560,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 1
+        },
+        {
+          "value": 3,
+          "count": 1
+        }
+      ],
+      "gaps": [
+        {
+          "value": 8,
+          "count": 24
+        },
+        {
+          "value": 2,
+          "count": 2
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        },
+        {
+          "value": 10,
+          "count": 1
+        },
+        {
+          "value": 12,
+          "count": 1
+        },
+        {
+          "value": 40,
+          "count": 1
+        },
+        {
+          "value": 80,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [],
+      "flex_blocks": 87,
+      "grid_blocks": 2
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 12,
+          "count": 42
+        },
+        {
+          "value": 8,
+          "count": 30
+        },
+        {
+          "value": 32,
+          "count": 26
+        },
+        {
+          "value": 20,
+          "count": 24
+        },
+        {
+          "value": 10,
+          "count": 10
+        },
+        {
+          "value": 4,
+          "count": 2
+        },
+        {
+          "value": 18,
+          "count": 2
+        },
+        {
+          "value": 24,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 26
+        },
+        {
+          "value": 20,
+          "count": 5
+        },
+        {
+          "value": 6,
+          "count": 2
+        },
+        {
+          "value": 14,
+          "count": 2
+        },
+        {
+          "value": 60,
+          "count": 1
+        },
+        {
+          "value": 96,
+          "count": 1
+        },
+        {
+          "value": 180,
+          "count": 1
+        },
+        {
+          "value": 200,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#101013",
+      "backgrounds": [
+        {
+          "value": "#101013",
+          "count": 2
+        },
+        {
+          "value": "#fdfdfe",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#007bff",
+          "count": 117
+        },
+        {
+          "value": "#212529",
+          "count": 67
+        },
+        {
+          "value": "#b0b8c1",
+          "count": 49
+        },
+        {
+          "value": "#6b7684",
+          "count": 40
+        },
+        {
+          "value": "#8b95a1",
+          "count": 37
+        },
+        {
+          "value": "#e5e8eb",
+          "count": 25
+        },
+        {
+          "value": "#d1d6db",
+          "count": 22
+        },
+        {
+          "value": "#fdfdfe",
+          "count": 9
+        }
+      ],
+      "borders": [
+        {
+          "value": "#e5e8eb",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#fdfdfe",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

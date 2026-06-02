@@ -277,7 +277,9 @@ if __name__ == "__main__":
         urls = args
     else:
         urls = DETAIL_CORPUS
-    out = os.path.join(root, "data", "sites_detail")
+    out = os.environ.get("DETAIL_OUT") or os.path.join(root, "data", "sites_detail")
+    if not os.path.isabs(out):
+        out = os.path.join(root, out)
     t0 = time.time()
     res = scrape_detail(urls, out)
     ok = sum(1 for r in res.values() if r.get("ok"))

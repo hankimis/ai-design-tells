@@ -1,0 +1,410 @@
+{
+  "url": "https://line.me",
+  "name": "line.me",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "700",
+        "line_height": "normal",
+        "line_height_ratio": null,
+        "letter_spacing": "normal",
+        "font_family": "SFPro",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 3,
+        "font_size": "70px",
+        "font_size_px": 70,
+        "font_weight": "700",
+        "line_height": "normal",
+        "line_height_ratio": null,
+        "letter_spacing": "normal",
+        "font_family": "LINESeed",
+        "color": "#1e1e1e",
+        "text_transform": "none",
+        "margin_bottom": "20px"
+      },
+      "body": {
+        "count": 4,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "400",
+        "line_height": "32px",
+        "line_height_ratio": 1.6,
+        "letter_spacing": "normal",
+        "font_family": "SFPro",
+        "color": "#616161"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1200,
+          "count": 2
+        },
+        {
+          "value": 1440,
+          "count": 1
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [],
+      "section_padding_top": [
+        {
+          "value": 180,
+          "count": 2
+        }
+      ],
+      "flex_blocks": 1,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 7,
+          "count": 6
+        },
+        {
+          "value": 4,
+          "count": 3
+        },
+        {
+          "value": 180,
+          "count": 3
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 30,
+          "count": 2
+        },
+        {
+          "value": 809.27,
+          "count": 2
+        },
+        {
+          "value": 41,
+          "count": 1
+        },
+        {
+          "value": 160,
+          "count": 1
+        },
+        {
+          "value": 200,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 20,
+          "count": 3
+        },
+        {
+          "value": 12,
+          "count": 2
+        },
+        {
+          "value": 8,
+          "count": 1
+        },
+        {
+          "value": 30,
+          "count": 1
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 36,
+          "count": 1
+        },
+        {
+          "value": 60,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": null,
+      "backgrounds": [
+        {
+          "value": "#f7f8f9",
+          "count": 3
+        },
+        {
+          "value": "#ffffff",
+          "count": 1
+        },
+        {
+          "value": "#1e1e1e",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 49
+        },
+        {
+          "value": "#1e1e1e",
+          "count": 44
+        },
+        {
+          "value": "#ffffff",
+          "count": 13
+        },
+        {
+          "value": "#0000ee",
+          "count": 12
+        },
+        {
+          "value": "#616161",
+          "count": 3
+        }
+      ],
+      "borders": [
+        {
+          "value": "#ffffff",
+          "count": 3
+        }
+      ],
+      "accents": []
+    }
+  },
+  "title": "LINE｜라인은 언제나 사용자와 함께 합니다.",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {
+      "h1": {
+        "count": 1,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "700",
+        "line_height": "normal",
+        "line_height_ratio": null,
+        "letter_spacing": "normal",
+        "font_family": "SFPro",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h2": {
+        "count": 3,
+        "font_size": "70px",
+        "font_size_px": 70,
+        "font_weight": "700",
+        "line_height": "normal",
+        "line_height_ratio": null,
+        "letter_spacing": "normal",
+        "font_family": "LINESeed",
+        "color": "#1e1e1e",
+        "text_transform": "none",
+        "margin_bottom": "20px"
+      },
+      "h3": {
+        "count": 1,
+        "font_size": "24px",
+        "font_size_px": 24,
+        "font_weight": "700",
+        "line_height": "normal",
+        "line_height_ratio": null,
+        "letter_spacing": "normal",
+        "font_family": "SFPro",
+        "color": "#000000",
+        "text_transform": "none",
+        "margin_bottom": "12px"
+      },
+      "body": {
+        "count": 4,
+        "font_size": "20px",
+        "font_size_px": 20,
+        "font_weight": "400",
+        "line_height": "32px",
+        "line_height_ratio": 1.6,
+        "letter_spacing": "normal",
+        "font_family": "SFPro",
+        "color": "#616161"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1200,
+          "count": 2
+        },
+        {
+          "value": 1440,
+          "count": 1
+        }
+      ],
+      "grid_columns": [],
+      "gaps": [],
+      "section_padding_top": [
+        {
+          "value": 180,
+          "count": 2
+        }
+      ],
+      "flex_blocks": 1,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 7,
+          "count": 6
+        },
+        {
+          "value": 4,
+          "count": 3
+        },
+        {
+          "value": 180,
+          "count": 3
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 30,
+          "count": 2
+        },
+        {
+          "value": 809.27,
+          "count": 2
+        },
+        {
+          "value": 41,
+          "count": 1
+        },
+        {
+          "value": 160,
+          "count": 1
+        },
+        {
+          "value": 200,
+          "count": 1
+        },
+        {
+          "value": 270,
+          "count": 1
+        },
+        {
+          "value": 319.98,
+          "count": 1
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 12,
+          "count": 3
+        },
+        {
+          "value": 20,
+          "count": 3
+        },
+        {
+          "value": 36,
+          "count": 2
+        },
+        {
+          "value": 8,
+          "count": 1
+        },
+        {
+          "value": 30,
+          "count": 1
+        },
+        {
+          "value": 32,
+          "count": 1
+        },
+        {
+          "value": 60,
+          "count": 1
+        },
+        {
+          "value": 70,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": null,
+      "backgrounds": [
+        {
+          "value": "#f7f8f9",
+          "count": 4
+        },
+        {
+          "value": "#ffffff",
+          "count": 1
+        },
+        {
+          "value": "#1e1e1e",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#000000",
+          "count": 53
+        },
+        {
+          "value": "#1e1e1e",
+          "count": 44
+        },
+        {
+          "value": "#0000ee",
+          "count": 16
+        },
+        {
+          "value": "#ffffff",
+          "count": 14
+        },
+        {
+          "value": "#616161",
+          "count": 7
+        }
+      ],
+      "borders": [
+        {
+          "value": "#ffffff",
+          "count": 3
+        }
+      ],
+      "accents": []
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

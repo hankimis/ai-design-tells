@@ -1,0 +1,603 @@
+{
+  "url": "https://upbit.com",
+  "name": "upbit.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {
+      "h2": {
+        "count": 1,
+        "font_size": "36px",
+        "font_size_px": 36,
+        "font_weight": "700",
+        "line_height": "54px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Roboto",
+        "color": "#1a2434",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h6": {
+        "count": 8,
+        "font_size": "32px",
+        "font_size_px": 32,
+        "font_weight": "700",
+        "line_height": "48px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Roboto",
+        "color": "#1a2434",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 8,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "400",
+        "line_height": "21px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Roboto",
+        "color": "#565d6a"
+      }
+    },
+    "layout": {
+      "containers": [],
+      "grid_columns": [],
+      "gaps": [
+        {
+          "value": 2,
+          "count": 25
+        },
+        {
+          "value": 4,
+          "count": 19
+        },
+        {
+          "value": 8,
+          "count": 17
+        },
+        {
+          "value": 10,
+          "count": 10
+        },
+        {
+          "value": 12,
+          "count": 8
+        },
+        {
+          "value": 20,
+          "count": 3
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 6,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 80,
+          "count": 2
+        },
+        {
+          "value": 56,
+          "count": 1
+        },
+        {
+          "value": 60,
+          "count": 1
+        },
+        {
+          "value": 64,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 138,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 4,
+          "count": 48
+        },
+        {
+          "value": 8,
+          "count": 22
+        },
+        {
+          "value": 2,
+          "count": 9
+        },
+        {
+          "value": 9,
+          "count": 6
+        },
+        {
+          "value": 12,
+          "count": 6
+        },
+        {
+          "value": 20,
+          "count": 6
+        },
+        {
+          "value": 6,
+          "count": 4
+        },
+        {
+          "value": 10,
+          "count": 4
+        },
+        {
+          "value": 8.5,
+          "count": 4
+        },
+        {
+          "value": 3,
+          "count": 2
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 18,
+          "count": 2
+        },
+        {
+          "value": 56,
+          "count": 2
+        },
+        {
+          "value": 64,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 8
+        },
+        {
+          "value": 20,
+          "count": 4
+        },
+        {
+          "value": 12,
+          "count": 3
+        },
+        {
+          "value": 30,
+          "count": 2
+        },
+        {
+          "value": 36,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        },
+        {
+          "value": 6,
+          "count": 1
+        },
+        {
+          "value": 8,
+          "count": 1
+        },
+        {
+          "value": 92,
+          "count": 1
+        },
+        {
+          "value": 154,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#e9ecf1",
+      "backgrounds": [
+        {
+          "value": "#bec1c6",
+          "count": 6
+        },
+        {
+          "value": "#ffffff",
+          "count": 5
+        },
+        {
+          "value": "#0062df",
+          "count": 3
+        },
+        {
+          "value": "#fcfcfd",
+          "count": 2
+        },
+        {
+          "value": "#dd3c44",
+          "count": 2
+        },
+        {
+          "value": "#f2f5fa",
+          "count": 2
+        },
+        {
+          "value": "#e9ecf1",
+          "count": 1
+        },
+        {
+          "value": "#edeef1",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#333333",
+          "count": 245
+        },
+        {
+          "value": "#ffffff",
+          "count": 102
+        },
+        {
+          "value": "#bec1c6",
+          "count": 101
+        },
+        {
+          "value": "#1a2434",
+          "count": 100
+        },
+        {
+          "value": "#565d6a",
+          "count": 55
+        },
+        {
+          "value": "#8e929b",
+          "count": 49
+        },
+        {
+          "value": "#1375ec",
+          "count": 7
+        },
+        {
+          "value": "#003597",
+          "count": 6
+        }
+      ],
+      "borders": [
+        {
+          "value": "#edeef1",
+          "count": 3
+        },
+        {
+          "value": "#d6d8db",
+          "count": 2
+        }
+      ],
+      "accents": [
+        {
+          "value": "#0062df",
+          "count": 3
+        },
+        {
+          "value": "#003597",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "업비트(Upbit) | 가장 신뢰받는 디지털 자산 거래소",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [],
+      "secondary": [],
+      "ghost": []
+    },
+    "typography": {
+      "h2": {
+        "count": 1,
+        "font_size": "36px",
+        "font_size_px": 36,
+        "font_weight": "700",
+        "line_height": "54px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Roboto",
+        "color": "#1a2434",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "h6": {
+        "count": 8,
+        "font_size": "32px",
+        "font_size_px": 32,
+        "font_weight": "700",
+        "line_height": "48px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Roboto",
+        "color": "#1a2434",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 8,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "400",
+        "line_height": "21px",
+        "line_height_ratio": 1.5,
+        "letter_spacing": "normal",
+        "font_family": "Roboto",
+        "color": "#565d6a"
+      }
+    },
+    "layout": {
+      "containers": [],
+      "grid_columns": [],
+      "gaps": [
+        {
+          "value": 2,
+          "count": 25
+        },
+        {
+          "value": 4,
+          "count": 19
+        },
+        {
+          "value": 8,
+          "count": 17
+        },
+        {
+          "value": 10,
+          "count": 10
+        },
+        {
+          "value": 12,
+          "count": 8
+        },
+        {
+          "value": 20,
+          "count": 3
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 6,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 80,
+          "count": 2
+        },
+        {
+          "value": 56,
+          "count": 1
+        },
+        {
+          "value": 60,
+          "count": 1
+        },
+        {
+          "value": 64,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 138,
+      "grid_blocks": 0
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 4,
+          "count": 48
+        },
+        {
+          "value": 8,
+          "count": 22
+        },
+        {
+          "value": 2,
+          "count": 9
+        },
+        {
+          "value": 9,
+          "count": 6
+        },
+        {
+          "value": 12,
+          "count": 6
+        },
+        {
+          "value": 20,
+          "count": 6
+        },
+        {
+          "value": 6,
+          "count": 4
+        },
+        {
+          "value": 10,
+          "count": 4
+        },
+        {
+          "value": 8.5,
+          "count": 4
+        },
+        {
+          "value": 3,
+          "count": 2
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 18,
+          "count": 2
+        },
+        {
+          "value": 56,
+          "count": 2
+        },
+        {
+          "value": 64,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 16,
+          "count": 8
+        },
+        {
+          "value": 20,
+          "count": 4
+        },
+        {
+          "value": 12,
+          "count": 3
+        },
+        {
+          "value": 30,
+          "count": 2
+        },
+        {
+          "value": 36,
+          "count": 2
+        },
+        {
+          "value": 4,
+          "count": 1
+        },
+        {
+          "value": 6,
+          "count": 1
+        },
+        {
+          "value": 8,
+          "count": 1
+        },
+        {
+          "value": 92,
+          "count": 1
+        },
+        {
+          "value": 154,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#e9ecf1",
+      "backgrounds": [
+        {
+          "value": "#bec1c6",
+          "count": 6
+        },
+        {
+          "value": "#ffffff",
+          "count": 5
+        },
+        {
+          "value": "#0062df",
+          "count": 3
+        },
+        {
+          "value": "#fcfcfd",
+          "count": 2
+        },
+        {
+          "value": "#dd3c44",
+          "count": 2
+        },
+        {
+          "value": "#f2f5fa",
+          "count": 2
+        },
+        {
+          "value": "#e9ecf1",
+          "count": 1
+        },
+        {
+          "value": "#edeef1",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#333333",
+          "count": 250
+        },
+        {
+          "value": "#ffffff",
+          "count": 102
+        },
+        {
+          "value": "#bec1c6",
+          "count": 101
+        },
+        {
+          "value": "#1a2434",
+          "count": 100
+        },
+        {
+          "value": "#565d6a",
+          "count": 55
+        },
+        {
+          "value": "#8e929b",
+          "count": 49
+        },
+        {
+          "value": "#1375ec",
+          "count": 7
+        },
+        {
+          "value": "#003597",
+          "count": 6
+        }
+      ],
+      "borders": [
+        {
+          "value": "#edeef1",
+          "count": 3
+        },
+        {
+          "value": "#d6d8db",
+          "count": 2
+        }
+      ],
+      "accents": [
+        {
+          "value": "#0062df",
+          "count": 3
+        },
+        {
+          "value": "#003597",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}

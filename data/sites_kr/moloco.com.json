@@ -1,0 +1,965 @@
+{
+  "url": "https://moloco.com",
+  "name": "moloco.com",
+  "light": {
+    "scheme": "light",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "문의하기",
+          "bg": "#3381f3",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #3381f3",
+          "radius": "0px",
+          "padding": "12px 16px 12px 16px",
+          "height": 46,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Montserrat Uploaded",
+          "letter_spacing": "1.8px",
+          "line_height": "20px",
+          "text_transform": "uppercase",
+          "shadow": "rgba(51, 51, 51, 0.1) 6px 6px 16px 0px",
+          "transition": "0.4s, 0.4s, 0.4s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "지금 시작해보세요",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000a73",
+          "border": "none",
+          "radius": "0px",
+          "padding": "12px 16px 12px 16px",
+          "height": 44,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Montserrat Uploaded",
+          "letter_spacing": "1.8px",
+          "line_height": "20px",
+          "text_transform": "uppercase",
+          "shadow": "rgba(51, 51, 51, 0.1) 6px 6px 16px 0px",
+          "transition": "0.4s, 0.4s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "성장 전략 확인하기",
+          "bg": "#000a73",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "12px 20px 12px 20px",
+          "height": 44,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Montserrat Uploaded",
+          "letter_spacing": "1.8px",
+          "line_height": "20px",
+          "text_transform": "uppercase",
+          "shadow": "rgba(51, 51, 51, 0.1) 6px 6px 16px 0px",
+          "transition": "0.4s, 0.4s",
+          "_n": 4
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#222222",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "100%",
+          "padding": "0px 0px 0px 0px",
+          "height": 14,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Montserrat Uploaded",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "rgba(51, 51, 51, 0.4) 0px 0px 3px 0px",
+          "transition": "0.1s, 0.1s",
+          "_n": 3
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "솔루션",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#222222",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 16px 0px",
+          "height": 68,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Montserrat Uploaded",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 4
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 409,
+          "font_size": "40px",
+          "font_weight": "400",
+          "font_family": "Montserrat Uploaded",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#555555",
+          "border": "none",
+          "radius": "2px",
+          "padding": "0px 0px 0px 0px",
+          "height": 44,
+          "font_size": "14.4px",
+          "font_weight": "400",
+          "font_family": "Montserrat Uploaded",
+          "letter_spacing": "0.144px",
+          "line_height": "38px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 2,
+        "font_size": "64px",
+        "font_size_px": 64,
+        "font_weight": "600",
+        "line_height": "76.8px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "-1px",
+        "font_family": "Montserrat Uploaded",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "28px"
+      },
+      "h2": {
+        "count": 2,
+        "font_size": "38.4px",
+        "font_size_px": 38.4,
+        "font_weight": "600",
+        "line_height": "46.08px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "-1px",
+        "font_family": "Montserrat Uploaded",
+        "color": "#000a73",
+        "text_transform": "none",
+        "margin_bottom": "40px"
+      },
+      "h5": {
+        "count": 3,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "500",
+        "line_height": "21.6px",
+        "line_height_ratio": 1.35,
+        "letter_spacing": "normal",
+        "font_family": "Montserrat Uploaded",
+        "color": "#000a73",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 6,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "400",
+        "line_height": "18.9px",
+        "line_height_ratio": 1.35,
+        "letter_spacing": "1px",
+        "font_family": "Montserrat Uploaded",
+        "color": "#000a73"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1150,
+          "count": 9
+        },
+        {
+          "value": 693.68,
+          "count": 6
+        },
+        {
+          "value": 1440,
+          "count": 3
+        },
+        {
+          "value": 1280,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 3
+        },
+        {
+          "value": 3,
+          "count": 2
+        },
+        {
+          "value": 9,
+          "count": 2
+        }
+      ],
+      "gaps": [
+        {
+          "value": 60,
+          "count": 4
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 15,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 48,
+          "count": 3
+        },
+        {
+          "value": 70,
+          "count": 3
+        },
+        {
+          "value": 60,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 69,
+      "grid_blocks": 7
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 20,
+          "count": 21
+        },
+        {
+          "value": 12,
+          "count": 20
+        },
+        {
+          "value": 16,
+          "count": 12
+        },
+        {
+          "value": 70,
+          "count": 12
+        },
+        {
+          "value": 10,
+          "count": 11
+        },
+        {
+          "value": 24,
+          "count": 8
+        },
+        {
+          "value": 30,
+          "count": 8
+        },
+        {
+          "value": 9,
+          "count": 6
+        },
+        {
+          "value": 14,
+          "count": 6
+        },
+        {
+          "value": 48,
+          "count": 6
+        },
+        {
+          "value": 72,
+          "count": 6
+        },
+        {
+          "value": 64.8,
+          "count": 4
+        },
+        {
+          "value": 60,
+          "count": 3
+        },
+        {
+          "value": 57.5,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 27
+        },
+        {
+          "value": 16,
+          "count": 14
+        },
+        {
+          "value": 10,
+          "count": 5
+        },
+        {
+          "value": 40,
+          "count": 5
+        },
+        {
+          "value": 7,
+          "count": 3
+        },
+        {
+          "value": 36,
+          "count": 3
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 48,
+          "count": 2
+        },
+        {
+          "value": 13.01,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 1
+        },
+        {
+          "value": 28,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 9
+        },
+        {
+          "value": "#000a73",
+          "count": 7
+        },
+        {
+          "value": "#0280fb",
+          "count": 3
+        },
+        {
+          "value": "#3381f3",
+          "count": 2
+        },
+        {
+          "value": "#ecedee",
+          "count": 1
+        },
+        {
+          "value": "#222222",
+          "count": 1
+        },
+        {
+          "value": "#425b76",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#333333",
+          "count": 136
+        },
+        {
+          "value": "#000a73",
+          "count": 77
+        },
+        {
+          "value": "#ffffff",
+          "count": 27
+        },
+        {
+          "value": "#222222",
+          "count": 5
+        },
+        {
+          "value": "#b761f2",
+          "count": 2
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        },
+        {
+          "value": "#696969",
+          "count": 1
+        },
+        {
+          "value": "#425b76",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#3381f3",
+          "count": 2
+        },
+        {
+          "value": "#b761f2",
+          "count": 2
+        },
+        {
+          "value": "#425b76",
+          "count": 2
+        },
+        {
+          "value": "#ffffff",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#000a73",
+          "count": 4
+        },
+        {
+          "value": "#3381f3",
+          "count": 2
+        },
+        {
+          "value": "#425b76",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "title": "Moloco | AI 광고로 비즈니스 성장과 수익을 극대화하세요",
+  "dark": {
+    "scheme": "dark",
+    "buttons": {
+      "primary": [
+        {
+          "role": "primary",
+          "text": "문의하기",
+          "bg": "#3381f3",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "1px solid #3381f3",
+          "radius": "0px",
+          "padding": "12px 16px 12px 16px",
+          "height": 46,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Montserrat Uploaded",
+          "letter_spacing": "1.8px",
+          "line_height": "20px",
+          "text_transform": "uppercase",
+          "shadow": "rgba(51, 51, 51, 0.1) 6px 6px 16px 0px",
+          "transition": "0.4s, 0.4s, 0.4s",
+          "_n": 2
+        },
+        {
+          "role": "primary",
+          "text": "지금 시작해보세요",
+          "bg": "#ffffff",
+          "bg_alpha": 1,
+          "color": "#000a73",
+          "border": "none",
+          "radius": "0px",
+          "padding": "12px 16px 12px 16px",
+          "height": 44,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Montserrat Uploaded",
+          "letter_spacing": "1.8px",
+          "line_height": "20px",
+          "text_transform": "uppercase",
+          "shadow": "rgba(51, 51, 51, 0.1) 6px 6px 16px 0px",
+          "transition": "0.4s, 0.4s",
+          "_n": 1
+        },
+        {
+          "role": "primary",
+          "text": "성장 전략 확인하기",
+          "bg": "#000a73",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "12px 20px 12px 20px",
+          "height": 44,
+          "font_size": "16px",
+          "font_weight": "500",
+          "font_family": "Montserrat Uploaded",
+          "letter_spacing": "1.8px",
+          "line_height": "20px",
+          "text_transform": "uppercase",
+          "shadow": "rgba(51, 51, 51, 0.1) 6px 6px 16px 0px",
+          "transition": "0.4s, 0.4s",
+          "_n": 4
+        },
+        {
+          "role": "primary",
+          "text": "",
+          "bg": "#222222",
+          "bg_alpha": 1,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "100%",
+          "padding": "0px 0px 0px 0px",
+          "height": 14,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Montserrat Uploaded",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "rgba(51, 51, 51, 0.4) 0px 0px 3px 0px",
+          "transition": "0.1s, 0.1s",
+          "_n": 3
+        }
+      ],
+      "secondary": [],
+      "ghost": [
+        {
+          "role": "ghost",
+          "text": "솔루션",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#222222",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 16px 0px",
+          "height": 68,
+          "font_size": "14px",
+          "font_weight": "400",
+          "font_family": "Montserrat Uploaded",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 4
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#ffffff",
+          "border": "none",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "height": 409,
+          "font_size": "40px",
+          "font_weight": "400",
+          "font_family": "Montserrat Uploaded",
+          "letter_spacing": "normal",
+          "line_height": "20px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        },
+        {
+          "role": "ghost",
+          "text": "",
+          "bg": "transparent",
+          "bg_alpha": 0,
+          "color": "#555555",
+          "border": "none",
+          "radius": "2px",
+          "padding": "0px 0px 0px 0px",
+          "height": 44,
+          "font_size": "14.4px",
+          "font_weight": "400",
+          "font_family": "Montserrat Uploaded",
+          "letter_spacing": "0.144px",
+          "line_height": "38px",
+          "text_transform": "none",
+          "shadow": "none",
+          "transition": "none",
+          "_n": 1
+        }
+      ]
+    },
+    "typography": {
+      "h1": {
+        "count": 2,
+        "font_size": "64px",
+        "font_size_px": 64,
+        "font_weight": "600",
+        "line_height": "76.8px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "-1px",
+        "font_family": "Montserrat Uploaded",
+        "color": "#ffffff",
+        "text_transform": "none",
+        "margin_bottom": "28px"
+      },
+      "h2": {
+        "count": 2,
+        "font_size": "38.4px",
+        "font_size_px": 38.4,
+        "font_weight": "600",
+        "line_height": "46.08px",
+        "line_height_ratio": 1.2,
+        "letter_spacing": "-1px",
+        "font_family": "Montserrat Uploaded",
+        "color": "#000a73",
+        "text_transform": "none",
+        "margin_bottom": "40px"
+      },
+      "h5": {
+        "count": 3,
+        "font_size": "16px",
+        "font_size_px": 16,
+        "font_weight": "500",
+        "line_height": "21.6px",
+        "line_height_ratio": 1.35,
+        "letter_spacing": "normal",
+        "font_family": "Montserrat Uploaded",
+        "color": "#000a73",
+        "text_transform": "none",
+        "margin_bottom": "0px"
+      },
+      "body": {
+        "count": 6,
+        "font_size": "14px",
+        "font_size_px": 14,
+        "font_weight": "400",
+        "line_height": "18.9px",
+        "line_height_ratio": 1.35,
+        "letter_spacing": "1px",
+        "font_family": "Montserrat Uploaded",
+        "color": "#000a73"
+      }
+    },
+    "layout": {
+      "containers": [
+        {
+          "value": 1150,
+          "count": 9
+        },
+        {
+          "value": 693.68,
+          "count": 6
+        },
+        {
+          "value": 1440,
+          "count": 3
+        },
+        {
+          "value": 1280,
+          "count": 1
+        }
+      ],
+      "grid_columns": [
+        {
+          "value": 2,
+          "count": 3
+        },
+        {
+          "value": 3,
+          "count": 2
+        },
+        {
+          "value": 9,
+          "count": 2
+        }
+      ],
+      "gaps": [
+        {
+          "value": 60,
+          "count": 4
+        },
+        {
+          "value": 16,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 2
+        },
+        {
+          "value": 15,
+          "count": 1
+        },
+        {
+          "value": 24,
+          "count": 1
+        }
+      ],
+      "section_padding_top": [
+        {
+          "value": 48,
+          "count": 3
+        },
+        {
+          "value": 70,
+          "count": 3
+        },
+        {
+          "value": 60,
+          "count": 1
+        }
+      ],
+      "flex_blocks": 69,
+      "grid_blocks": 7
+    },
+    "spacing": {
+      "padding_scale": [
+        {
+          "value": 20,
+          "count": 21
+        },
+        {
+          "value": 12,
+          "count": 20
+        },
+        {
+          "value": 16,
+          "count": 12
+        },
+        {
+          "value": 70,
+          "count": 12
+        },
+        {
+          "value": 10,
+          "count": 11
+        },
+        {
+          "value": 24,
+          "count": 8
+        },
+        {
+          "value": 30,
+          "count": 8
+        },
+        {
+          "value": 9,
+          "count": 6
+        },
+        {
+          "value": 14,
+          "count": 6
+        },
+        {
+          "value": 48,
+          "count": 6
+        },
+        {
+          "value": 72,
+          "count": 6
+        },
+        {
+          "value": 64.8,
+          "count": 4
+        },
+        {
+          "value": 60,
+          "count": 3
+        },
+        {
+          "value": 57.5,
+          "count": 2
+        }
+      ],
+      "margin_scale": [
+        {
+          "value": 8,
+          "count": 27
+        },
+        {
+          "value": 16,
+          "count": 14
+        },
+        {
+          "value": 10,
+          "count": 5
+        },
+        {
+          "value": 40,
+          "count": 5
+        },
+        {
+          "value": 7,
+          "count": 3
+        },
+        {
+          "value": 36,
+          "count": 3
+        },
+        {
+          "value": 24,
+          "count": 2
+        },
+        {
+          "value": 48,
+          "count": 2
+        },
+        {
+          "value": 13.01,
+          "count": 2
+        },
+        {
+          "value": 20,
+          "count": 1
+        },
+        {
+          "value": 28,
+          "count": 1
+        }
+      ]
+    },
+    "color": {
+      "page_bg": "#ffffff",
+      "backgrounds": [
+        {
+          "value": "#ffffff",
+          "count": 9
+        },
+        {
+          "value": "#000a73",
+          "count": 7
+        },
+        {
+          "value": "#0280fb",
+          "count": 3
+        },
+        {
+          "value": "#3381f3",
+          "count": 2
+        },
+        {
+          "value": "#ecedee",
+          "count": 1
+        },
+        {
+          "value": "#222222",
+          "count": 1
+        },
+        {
+          "value": "#425b76",
+          "count": 1
+        }
+      ],
+      "text": [
+        {
+          "value": "#333333",
+          "count": 136
+        },
+        {
+          "value": "#000a73",
+          "count": 77
+        },
+        {
+          "value": "#ffffff",
+          "count": 27
+        },
+        {
+          "value": "#222222",
+          "count": 5
+        },
+        {
+          "value": "#b761f2",
+          "count": 2
+        },
+        {
+          "value": "#000000",
+          "count": 1
+        },
+        {
+          "value": "#696969",
+          "count": 1
+        },
+        {
+          "value": "#425b76",
+          "count": 1
+        }
+      ],
+      "borders": [
+        {
+          "value": "#3381f3",
+          "count": 2
+        },
+        {
+          "value": "#b761f2",
+          "count": 2
+        },
+        {
+          "value": "#425b76",
+          "count": 2
+        },
+        {
+          "value": "#ffffff",
+          "count": 1
+        }
+      ],
+      "accents": [
+        {
+          "value": "#000a73",
+          "count": 4
+        },
+        {
+          "value": "#3381f3",
+          "count": 2
+        },
+        {
+          "value": "#425b76",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "has_dark_mode": false,
+  "ok": true
+}
