@@ -31,7 +31,7 @@ harness so any team or coding agent can audit and prevent the look.
 
 ## Contents
 
-- [Install](#install) · [Quickstart](#quickstart) · [The result](#the-result) · [Validated on 202 real sites](#validated-on-202-real-sites-v2) · [Component spec catalog](#component-spec-catalog-v3) · [Korean web catalog](#korean-web-한글-catalog) · [Field evidence](#field-evidence-two-production-manifestos-v4) · [The 27 tells](#the-27-tells)
+- [Install](#install) · [**Use it as MCP**](#use-it-in-your-coding-agent-mcp) · [Quickstart](#quickstart) · [The result](#the-result) · [Validated on 202 real sites](#validated-on-202-real-sites-v2) · [Component spec catalog](#component-spec-catalog-v3) · [Korean web catalog](#korean-web-한글-catalog) · [Field evidence](#field-evidence-two-production-manifestos-v4) · [The 27 tells](#the-27-tells)
 - [The harness: CLI · MCP · drop-in prompt](#the-harness)
 - [Figure gallery](#figure-gallery) · [How it works](#how-it-works) · [Honest limits](#honest-limits)
 - [Paper & citation](#paper) · [Repo layout](#repo-layout)
@@ -47,6 +47,42 @@ pip install "ai-design-tells[live]"      # + audit_url, renders a live page (Pla
 It is on PyPI: [`ai-design-tells`](https://pypi.org/project/ai-design-tells/). `pip install`
 gives you two commands, `ai-design-tells` (the CLI) and `ai-design-tells-mcp` (the MCP server).
 No network at all? The detector core is pure standard library, so you can also just clone and run.
+
+## Use it in your coding agent (MCP)
+
+**So your agent audits the UI it just wrote, before showing it to you, and gets the exact fixes.**
+Zero clone, zero install. Drop this into your MCP client and you are done:
+
+```jsonc
+// Claude Code: .mcp.json   ·   Cursor: ~/.cursor/mcp.json   ·   Claude Desktop: config
+{
+  "mcpServers": {
+    "ai-design-tells": {
+      "command": "uvx",
+      "args": ["--from", "ai-design-tells[mcp]", "ai-design-tells-mcp"]
+    }
+  }
+}
+```
+
+`uvx` fetches it from PyPI and runs it on demand (needs [uv](https://docs.astral.sh/uv/); or
+`pip install "ai-design-tells[mcp]"` and use the command `ai-design-tells-mcp`). Then just ask:
+
+> *"Score this page for AI design tells and fix the ones that fired."*
+
+**Tools the agent gets:**
+
+| tool | what it does |
+|---|---|
+| `score_design(html)` | score an HTML/JSX string; returns Tell Score, grade, every fired tell (nickname + evidence + fix) |
+| `score_file(path)` | same, for a local `.html` file |
+| `audit_url(url)` | score a **live deployed site** (needs the `[live]` extra: Playwright) |
+| `list_tells()` | the full taxonomy (27 tells, nicknames, weights, why, fix) |
+| `component_specs()` | measured CSS targets from 199 real sites (button, type, spacing, light + dark color) |
+| `korean_specs()` | CSS targets for the Korean (hangul) web |
+| `harness_prompt()` | a ready-to-paste prompt that pre-empts the tells at generation time |
+
+The loop is **generate → `score_design` → fix → re-score**, driven by the agent with no human in the middle for the mechanical part.
 
 ## Quickstart
 
@@ -302,24 +338,13 @@ never drift from measurement.
 `pip install ai-design-tells`). Scores, prints fixes, exit-code gates CI.
 
 **2 · MCP server**, so a coding agent can **audit the UI it just wrote before
-showing it to you**, get the specific fixes, and iterate. The easiest way to use
-it is **zero-clone via `uvx`**, no repo, no install step:
+showing it to you**, get the specific fixes, and iterate. The one-line `uvx`
+registration and the full tool table are up top in [Use it as an MCP](#use-it-in-your-coding-agent-mcp).
+Cloned the repo instead of installing? `{ "command": "python", "args": ["mcp/server.py"] }` still works.
 
-```jsonc
-// .mcp.json  (Claude Code / Cursor / any MCP client)
-{ "mcpServers": { "ai-design-tells": {
-  "command": "uvx",
-  "args": ["--from", "ai-design-tells[mcp]", "ai-design-tells-mcp"] } } }
-```
-
-Or `pip install "ai-design-tells[mcp]"` and point the command at `ai-design-tells-mcp`.
-Cloned the repo instead? `{ "command": "python", "args": ["mcp/server.py"] }` still works.
-
-Tools: `score_design(html)`, `score_file(path)`, **`audit_url(url)`** (live site), `list_tells()`, **`component_specs()`** (measured target values), **`korean_specs()`** (Korean web), `harness_prompt()`. Each fired tell comes back with its **nickname** (The Sparkle Tax, ...), evidence, and fix.
-
-> Publishing the package: tag a release (`git tag v0.4.0 && git push origin v0.4.0`)
-> and `.github/workflows/publish.yml` builds and uploads to PyPI via Trusted
-> Publishing. Until the first publish lands, use the cloned-repo command above.
+> Releasing a new version: bump `__version__` in `ai_design_tells/__init__.py`, then
+> `git tag vX.Y.Z && git push origin vX.Y.Z`. `.github/workflows/publish.yml` builds
+> and uploads to PyPI. (`ai-design-tells` is already live: pypi.org/project/ai-design-tells.)
 
 **3 · Drop-in prompt module**, [`harness/AI-DESIGN-TELLS.md`](harness/AI-DESIGN-TELLS.md)
 turns each *detected* tell into a *preventive* instruction plus a pre-ship
