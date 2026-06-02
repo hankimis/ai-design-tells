@@ -31,12 +31,38 @@ harness so any team or coding agent can audit and prevent the look.
 
 ## Contents
 
-- [Install](#install) · [**Use it as MCP**](#use-it-in-your-coding-agent-mcp) · [Quickstart](#quickstart) · [The result](#the-result) · [Validated on 202 real sites](#validated-on-202-real-sites-v2) · [Component spec catalog](#component-spec-catalog-v3) · [Korean web catalog](#korean-web-한글-catalog) · [Field evidence](#field-evidence-two-production-manifestos-v4) · [The 27 tells](#the-27-tells)
+- [Installation](#installation) · [**Use it as an MCP / Claude Code plugin**](#what-your-agent-gets-mcp-tools) · [Quickstart](#quickstart) · [The result](#the-result) · [Validated on 202 real sites](#validated-on-202-real-sites-v2) · [Component spec catalog](#component-spec-catalog-v3) · [Korean web catalog](#korean-web-한글-catalog) · [Field evidence](#field-evidence-two-production-manifestos-v4) · [The 27 tells](#the-27-tells)
 - [The harness: CLI · MCP · drop-in prompt](#the-harness)
 - [Figure gallery](#figure-gallery) · [How it works](#how-it-works) · [Honest limits](#honest-limits)
 - [Paper & citation](#paper) · [Repo layout](#repo-layout)
 
-## Install
+## Installation
+
+Pick one. All of them give your agent (or your terminal) the same Tell Score detector.
+
+### Option 1 · Claude Code plugin (recommended)
+
+One command registers the MCP server, no JSON to edit:
+
+```bash
+/plugin marketplace add hankimis/ai-design-tells
+/plugin install ai-design-tells@iov-labs
+```
+
+Now your agent **audits the UI it just wrote before showing it to you** and gets the exact fixes.
+(Needs [uv](https://docs.astral.sh/uv/) on your PATH; the server runs via `uvx`.)
+
+### Option 2 · MCP in any client (uvx)
+
+Drop this into your MCP config (Claude Code `.mcp.json`, Cursor `~/.cursor/mcp.json`, Claude Desktop):
+
+```jsonc
+{ "mcpServers": { "ai-design-tells": {
+  "command": "uvx",
+  "args": ["--from", "ai-design-tells[mcp]", "ai-design-tells-mcp"] } } }
+```
+
+### Option 3 · pip (CLI + MCP)
 
 ```bash
 pip install ai-design-tells              # the detector + the `ai-design-tells` CLI (pure stdlib)
@@ -44,33 +70,23 @@ pip install "ai-design-tells[mcp]"       # + the MCP server  (ai-design-tells-mc
 pip install "ai-design-tells[live]"      # + audit_url, renders a live page (Playwright)
 ```
 
-It is on PyPI: [`ai-design-tells`](https://pypi.org/project/ai-design-tells/). `pip install`
-gives you two commands, `ai-design-tells` (the CLI) and `ai-design-tells-mcp` (the MCP server).
-No network at all? The detector core is pure standard library, so you can also just clone and run.
+### Option 4 · Clone and run (zero install)
 
-## Use it in your coding agent (MCP)
+The detector core is pure Python standard library, so no install is needed at all:
 
-**So your agent audits the UI it just wrote, before showing it to you, and gets the exact fixes.**
-Zero clone, zero install. Drop this into your MCP client and you are done:
-
-```jsonc
-// Claude Code: .mcp.json   ·   Cursor: ~/.cursor/mcp.json   ·   Claude Desktop: config
-{
-  "mcpServers": {
-    "ai-design-tells": {
-      "command": "uvx",
-      "args": ["--from", "ai-design-tells[mcp]", "ai-design-tells-mcp"]
-    }
-  }
-}
+```bash
+git clone https://github.com/hankimis/ai-design-tells && cd ai-design-tells
+python src/cli.py fixtures/ai-default.html
 ```
 
-`uvx` fetches it from PyPI and runs it on demand (needs [uv](https://docs.astral.sh/uv/); or
-`pip install "ai-design-tells[mcp]"` and use the command `ai-design-tells-mcp`). Then just ask:
+On PyPI: [`ai-design-tells`](https://pypi.org/project/ai-design-tells/) · `pip install` gives two
+commands, `ai-design-tells` (CLI) and `ai-design-tells-mcp` (MCP server).
+
+## What your agent gets (MCP tools)
+
+Once registered (Option 1 or 2), just ask:
 
 > *"Score this page for AI design tells and fix the ones that fired."*
-
-**Tools the agent gets:**
 
 | tool | what it does |
 |---|---|
@@ -338,8 +354,9 @@ never drift from measurement.
 `pip install ai-design-tells`). Scores, prints fixes, exit-code gates CI.
 
 **2 · MCP server**, so a coding agent can **audit the UI it just wrote before
-showing it to you**, get the specific fixes, and iterate. The one-line `uvx`
-registration and the full tool table are up top in [Use it as an MCP](#use-it-in-your-coding-agent-mcp).
+showing it to you**, get the specific fixes, and iterate. The plugin/`uvx`
+registration and the full tool table are up top in [Installation](#installation)
+and [What your agent gets](#what-your-agent-gets-mcp-tools).
 Cloned the repo instead of installing? `{ "command": "python", "args": ["mcp/server.py"] }` still works.
 
 > Releasing a new version: bump `__version__` in `ai_design_tells/__init__.py`, then
@@ -458,7 +475,8 @@ src/scrape_detail.py    deep per-component CSS extraction, light + dark (v3 spec
 scripts/audit_url.py    audit a deployed URL; analyze_corpus.py learns calibration from data/
 scripts/build_spec_catalog.py  aggregate sites_detail/ into reference/COMPONENT-SPECS.md
 scripts/sync_package_assets.py  refresh the wheel's bundled data before a release
-pyproject.toml      packaging (setuptools); .github/workflows/publish.yml = PyPI trusted publishing on tag
+pyproject.toml      packaging (setuptools); .github/workflows/publish.yml = PyPI publish on tag
+.claude-plugin/     Claude Code plugin + marketplace manifests; .mcp.json registers the MCP server (uvx)
 harness/            AI-DESIGN-TELLS.md, drop-in prompt module (generated, now with measured targets)
 reference/          COMPONENT-SPECS.md (199 sites) + KOREAN-SPECS.md (48 Korean sites)
 scripts/build_korean_catalog.py  Korean web catalog + KR-vs-global comparison

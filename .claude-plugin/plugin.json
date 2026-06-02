@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ai-design-tells",
+  "displayName": "AI Design Tells",
+  "version": "0.4.0",
+  "description": "Detect and fix the AI-generated design look: the Tell Score, 27 tells, a CLI and an MCP server so an agent can audit the UI it just wrote.",
+  "author": {
+    "name": "Han Kim, IOV Labs",
+    "email": "hankim@iovstudio.kr",
+    "url": "https://github.com/hankimis"
+  },
+  "homepage": "https://labs.iovstudio.kr",
+  "repository": "https://github.com/hankimis/ai-design-tells",
+  "license": "MIT",
+  "keywords": ["ai-design", "design", "tells", "tell-score", "mcp", "ui", "css", "linter"],
+  "mcpServers": "./.mcp.json"
+}

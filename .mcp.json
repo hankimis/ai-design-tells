@@ -1,8 +1,8 @@
 {
   "mcpServers": {
     "ai-design-tells": {
-      "command": "python",
-      "args": ["mcp/server.py"]
+      "command": "uvx",
+      "args": ["--from", "ai-design-tells[mcp]", "ai-design-tells-mcp"]
     }
   }
 }
