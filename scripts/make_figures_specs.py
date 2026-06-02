@@ -90,7 +90,40 @@ def _swatches(ax, pairs, title, text_on_dark=False):
                 color=tcol, weight="bold")
 
 
+def fig_sample():
+    """Side-by-side light/dark of the built-to-catalog sample (fixtures/catalog-sample.html)."""
+    from PIL import Image, ImageDraw, ImageFont
+    L = Image.open(os.path.join(FIGS, "sample_light.png")).convert("RGB")
+    D = Image.open(os.path.join(FIGS, "sample_dark.png")).convert("RGB")
+    h = 760
+    fit = lambda im: im.resize((int(im.width * h / im.height), h))
+    L, D = fit(L), fit(D)
+    pad, gap, top = 26, 26, 92
+    W = pad * 2 + gap + L.width + D.width
+    H = top + h + pad
+    canvas = Image.new("RGB", (W, H), (251, 250, 248))
+    canvas.paste(L, (pad, top)); canvas.paste(D, (pad + L.width + gap, top))
+    d = ImageDraw.Draw(canvas)
+
+    def font(sz, bold=False):
+        for p in (["/System/Library/Fonts/Supplemental/Georgia Bold.ttf"] if bold else
+                  ["/System/Library/Fonts/Supplemental/Georgia.ttf"]):
+            if os.path.exists(p):
+                return ImageFont.truetype(p, sz)
+        return ImageFont.load_default()
+
+    d.text((pad, 26), "Built to the catalog, light", font=font(28, True), fill=(26, 28, 30))
+    d.text((pad, 58), "Tell Score 0  ·  1200px grid, 64/48/32px type, 8px buttons", font=font(17), fill=(91, 96, 102))
+    d.text((pad + L.width + gap, 26), "Same page, dark", font=font(28, True), fill=(184, 70, 15))
+    d.text((pad + L.width + gap, 58), "tinted near-black #0e1014, surfaces a step lighter, off-white text",
+           font=font(17), fill=(91, 96, 102))
+    out = os.path.join(FIGS, "fig11_sample.png")
+    canvas.save(out)
+    print("wrote", out)
+
+
 def main():
+    fig_sample()
     fig, axes = plt.subplots(2, 2, figsize=(11, 8))
     fig.patch.set_facecolor(BG)
     for ax in axes.flat:

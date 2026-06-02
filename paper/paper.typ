@@ -557,6 +557,21 @@ rather than a hairline border away, and text is an off-white rather than pure
   (tinted near-blacks, not pure black), and the spread of accent hues.],
 ) <fig-specsheet>
 
+To show the targets are not just descriptive but buildable, we assembled one landing
+page directly from the catalog medians, `fixtures/catalog-sample.html`: a 1200#`px`
+container, a 64\/48\/32#`px` type scale on a serif display, 8#`px` buttons with a full
+set of microstates, an owned amber accent rather than the default indigo, and a dark
+mode that follows the measured grammar (a tinted #`#0e1014` near-black, surfaces a step
+lighter, off-white text). The page scores a Tell Score of 0 in both palettes
+(@fig-sample). The same file is the v3 entry in the template gallery.
+
+#figure(
+  image("figs/fig11_sample.png", width: 100%),
+  caption: [A landing page built straight from the catalog medians, shown in light and
+  dark from a single self-contained file. It scores 0. The dark palette is the measured
+  grammar, a tinted near-black with surfaces a step lighter, not an invert to pure black.],
+) <fig-sample>
+
 These numbers feed back into the harness as concrete targets, so the prompt module
 tells a builder not only what to avoid but what range to aim inside.
 

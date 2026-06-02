@@ -1,0 +1,328 @@
+<!doctype html>
+<!--
+  FIXTURE: catalog-sample.html  ·  a landing page built DIRECTLY to the measured
+  values in reference/COMPONENT-SPECS.md (the v3 catalog of 199 real top-tier sites),
+  in both light and dark. Every number here is a catalog median or a documented
+  in-range choice, not a guess:
+    button     radius 8px (catalog median), padding ~11/18px, label 15px, weight 500, no heavy shadow
+    type       64 / 48 / 32 / 20 / 16px scale; headings line-height ~1.08 with negative tracking; body 1.6
+    layout     1200px content container (catalog median); left-aligned hero, not centered
+    spacing    a real 4/8px rhythm (8/16/24/32/48/64/96), held loosely
+    radius      a hierarchy: control 8px, input 10px, card 16px, pill 999px
+    color      page bg #fff / near-black ink (not pure #000 on pure #fff); one owned accent, not indigo
+    dark        a TINTED near-black page (#0e1014), surfaces a step LIGHTER (#181b22), off-white text
+    craft      designed hover/focus/active microstates, a visible focus ring, hairlines, eased motion
+  Toggle the theme with the button top-right, or set the OS to dark; the page also
+  honors prefers-color-scheme. Target Tell Score: 0.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Harbor · ship on Friday, sleep on Saturday</title>
+<style>
+  :root{
+    color-scheme:light dark;
+    /* ---- light palette (semantic tokens) ---- */
+    --bg:#ffffff;
+    --bg-sunken:#f6f6f4;
+    --surface:#ffffff;
+    --surface-raised:#ffffff;
+    --ink:#1a1c1e;            /* near-black, not #000 */
+    --ink-soft:#56595e;
+    --ink-faint:#8b8f95;
+    --accent:#b8460f;         /* burnt amber, an owned brand color, not the default indigo */
+    --accent-press:#943808;
+    --accent-tint:#fbf1ea;
+    --on-accent:#ffffff;
+    --line:rgba(26,28,30,.10);
+    --line-strong:rgba(26,28,30,.16);
+    --panel:#171a1d;          /* a dark feature panel that lives inside the light page */
+    --panel-ink:#f4f4f2;
+    --shadow-sm:0 1px 2px rgba(26,28,30,.06);
+    --shadow-card:0 1px 2px rgba(26,28,30,.05), 0 12px 28px -18px rgba(26,28,30,.30);
+    --shadow-lift:0 1px 2px rgba(26,28,30,.05), 0 28px 56px -30px rgba(26,28,30,.45);
+    /* ---- type ---- */
+    --display:"Charter","Iowan Old Style","Palatino",Georgia,serif;
+    --sans:"Inter var","Inter","Helvetica Neue",Arial,system-ui,sans-serif;
+    /* catalog type scale, in px so it reads as a deliberate scale */
+    --t-eyebrow:13px; --t-small:14px; --t-body:16px; --t-lead:20px;
+    --t-h3:32px; --t-h2:48px; --t-h1:64px;
+    /* radius hierarchy (NOT one value) */
+    --r-control:8px; --r-input:10px; --r-card:16px; --r-pill:999px;
+    --ease:cubic-bezier(.22,.7,.2,1);
+  }
+  /* dark via the OS preference: a tinted near-black, surfaces a step lighter, off-white text */
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#0e1014; --bg-sunken:#0b0d10; --surface:#15181d; --surface-raised:#191c22;
+      --ink:#e7e8ea; --ink-soft:#a3a7ad; --ink-faint:#6f747b;
+      --accent:#f2855a; --accent-press:#e06a3c; --accent-tint:#241712; --on-accent:#1a1208;
+      --line:rgba(255,255,255,.10); --line-strong:rgba(255,255,255,.16);
+      --panel:#191c22; --panel-ink:#e7e8ea;
+      --shadow-card:0 1px 2px rgba(0,0,0,.4), 0 12px 28px -18px rgba(0,0,0,.6);
+      --shadow-lift:0 1px 2px rgba(0,0,0,.4), 0 28px 56px -30px rgba(0,0,0,.7);
+    }
+  }
+  /* explicit toggle overrides the media query in both directions */
+  :root[data-theme="dark"]{
+    --bg:#0e1014; --bg-sunken:#0b0d10; --surface:#15181d; --surface-raised:#191c22;
+    --ink:#e7e8ea; --ink-soft:#a3a7ad; --ink-faint:#6f747b;
+    --accent:#f2855a; --accent-press:#e06a3c; --accent-tint:#241712; --on-accent:#1a1208;
+    --line:rgba(255,255,255,.10); --line-strong:rgba(255,255,255,.16);
+    --panel:#191c22; --panel-ink:#e7e8ea;
+    --shadow-card:0 1px 2px rgba(0,0,0,.4), 0 12px 28px -18px rgba(0,0,0,.6);
+    --shadow-lift:0 1px 2px rgba(0,0,0,.4), 0 28px 56px -30px rgba(0,0,0,.7);
+  }
+
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+  body{font-family:var(--sans);font-size:var(--t-body);line-height:1.6;color:var(--ink);
+    background:var(--bg);transition:background-color .3s var(--ease),color .3s var(--ease)}
+  .wrap{max-width:1200px;margin:0 auto;padding:0 32px}
+  h1,h2,h3{font-family:var(--display);font-weight:600;letter-spacing:-0.021em;line-height:1.08}
+  a{color:inherit;text-decoration:none}
+  svg{display:block}
+
+  /* ---- buttons: catalog radius 8px, no loud shadow, every microstate ---- */
+  .btn{display:inline-flex;align-items:center;gap:8px;font-family:var(--sans);font-weight:500;
+    font-size:15px;line-height:1;padding:11px 18px;border-radius:var(--r-control);
+    border:1px solid transparent;cursor:pointer;white-space:nowrap;
+    transition:transform .12s var(--ease),background-color .16s var(--ease),border-color .16s var(--ease)}
+  .btn-primary{background:var(--accent);color:var(--on-accent)}
+  .btn-primary:hover{background:var(--accent-press);transform:translateY(-1px)}
+  .btn-primary:active{transform:translateY(0)}
+  .btn-primary:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+  .btn-ghost{background:transparent;color:var(--ink);border-color:var(--line-strong)}
+  .btn-ghost:hover{background:color-mix(in srgb,var(--ink) 6%,transparent);border-color:var(--ink-faint)}
+  .btn-ghost:active{transform:translateY(1px)}
+  .btn-ghost:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+  .link{color:var(--accent);font-weight:500;border-bottom:1px solid transparent;transition:border-color .15s var(--ease)}
+  .link:hover{border-bottom-color:var(--accent)}
+  .link:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:2px}
+
+  /* ---- top bar ---- */
+  .nav{position:sticky;top:0;z-index:10;background:color-mix(in srgb,var(--bg) 86%,transparent);
+    backdrop-filter:saturate(1.4) blur(10px);border-bottom:1px solid var(--line)}
+  .nav .wrap{display:flex;align-items:center;justify-content:space-between;height:64px}
+  .brand{display:flex;align-items:center;gap:10px;font-family:var(--display);font-size:19px;font-weight:600;letter-spacing:-.01em}
+  .brand .mark{width:24px;height:24px;border-radius:7px;background:var(--accent);display:grid;place-items:center;color:var(--on-accent)}
+  .brand .mark svg{width:14px;height:14px}
+  .nav-links{display:flex;align-items:center;gap:28px;font-size:var(--t-small);color:var(--ink-soft)}
+  .nav-links a{transition:color .15s var(--ease)}
+  .nav-links a:hover{color:var(--ink)}
+  .nav-right{display:flex;align-items:center;gap:14px}
+  .toggle{width:34px;height:34px;border-radius:var(--r-control);border:1px solid var(--line-strong);
+    background:var(--surface);color:var(--ink-soft);cursor:pointer;display:grid;place-items:center;
+    transition:color .15s var(--ease),border-color .15s var(--ease),background-color .15s var(--ease)}
+  .toggle:hover{color:var(--ink);border-color:var(--ink-faint)}
+  .toggle:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+  .toggle svg{width:16px;height:16px}
+  .sun{display:none} .moon{display:block}
+  :root[data-theme="dark"] .sun{display:block} :root[data-theme="dark"] .moon{display:none}
+
+  /* ---- hero: left-aligned editorial, not a centered template ---- */
+  .hero{padding:96px 0 64px}
+  .eyebrow{display:inline-flex;align-items:center;gap:8px;font-size:var(--t-eyebrow);font-weight:600;
+    letter-spacing:.06em;text-transform:uppercase;color:var(--accent);
+    background:var(--accent-tint);padding:6px 12px;border-radius:var(--r-pill)}
+  .hero h1{font-size:var(--t-h1);max-width:16ch;margin:22px 0 20px}
+  .hero p.lead{font-size:var(--t-lead);color:var(--ink-soft);max-width:48ch;margin-bottom:28px;line-height:1.5}
+  .hero .row{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+  .hero .note{margin-top:18px;font-size:var(--t-small);color:var(--ink-faint)}
+
+  /* ---- proof strip ---- */
+  .proof{padding:24px 0 8px;border-top:1px solid var(--line)}
+  .proof .wrap{display:flex;align-items:center;gap:40px;flex-wrap:wrap;color:var(--ink-faint);font-size:var(--t-small)}
+  .proof b{color:var(--ink);font-family:var(--display);font-size:28px;font-weight:600;letter-spacing:-.01em;margin-right:8px}
+  .proof .stat{display:flex;align-items:baseline}
+
+  /* ---- capabilities: an asymmetric bento, not a 3-up template; real glyphs, no emoji ---- */
+  .caps{padding:80px 0}
+  .caps .head{max-width:34ch;margin-bottom:48px}
+  .caps .head h2{font-size:var(--t-h2)}
+  .caps .head p{color:var(--ink-soft);font-size:var(--t-lead);margin-top:14px;line-height:1.5}
+  .bento{display:grid;grid-template-columns:1.12fr 1fr;grid-auto-rows:1fr;gap:24px}
+  .cap{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-card);
+    padding:28px;box-shadow:var(--shadow-card);transition:transform .18s var(--ease),box-shadow .18s var(--ease)}
+  .cap:hover{transform:translateY(-3px);box-shadow:var(--shadow-lift)}
+  .cap-lead{grid-row:span 2;display:flex;flex-direction:column;justify-content:space-between;
+    background:var(--bg-sunken);padding:32px}
+  .cap-lead .big{font-family:var(--display);font-size:52px;letter-spacing:-.02em;line-height:1;color:var(--accent);margin-top:24px}
+  .glyph{width:40px;height:40px;border-radius:var(--r-control);background:var(--accent-tint);
+    color:var(--accent);display:grid;place-items:center;margin-bottom:18px}
+  .glyph svg{width:20px;height:20px}
+  .cap h3{font-size:24px;letter-spacing:-.015em;margin-bottom:8px}
+  .cap p{color:var(--ink-soft);font-size:15px;line-height:1.6}
+
+  /* ---- dark product panel (lives in the page in both themes) ---- */
+  .panel-sec{padding:48px 0 80px}
+  .panel{background:var(--panel);color:var(--panel-ink);border-radius:20px;padding:48px;
+    display:grid;grid-template-columns:1.1fr 1fr;gap:40px;align-items:center;box-shadow:var(--shadow-lift)}
+  .panel h2{font-size:var(--t-h3);color:var(--panel-ink);max-width:18ch}
+  .panel p{color:color-mix(in srgb,var(--panel-ink) 64%,transparent);margin-top:12px;max-width:42ch;font-size:15px}
+  .panel .row{margin-top:22px;display:flex;gap:12px}
+  .panel .btn-ghost{color:var(--panel-ink);border-color:rgba(255,255,255,.22)}
+  .panel .btn-ghost:hover{background:rgba(255,255,255,.08)}
+  .term{background:#0b0d10;border-radius:12px;border:1px solid rgba(255,255,255,.08);overflow:hidden;font-size:13px}
+  .term .bar{display:flex;gap:6px;padding:12px 14px;border-bottom:1px solid rgba(255,255,255,.07)}
+  .term .bar i{width:11px;height:11px;border-radius:var(--r-pill);background:rgba(255,255,255,.18);display:block}
+  .term pre{margin:0;padding:16px 18px;font-family:"SF Mono",ui-monospace,Menlo,monospace;color:#cdd2d8;line-height:1.7}
+  .term .g{color:#f2855a} .term .d{color:#6f747b} .term .ok{color:#5fd0a0}
+
+  /* ---- CTA ---- */
+  .cta{padding:8px 0 88px}
+  .cta-inner{border:1px solid var(--line-strong);border-radius:20px;padding:56px 48px;text-align:left;
+    background:var(--bg-sunken)}
+  .cta-inner h2{font-size:var(--t-h2);max-width:18ch}
+  .cta-inner p{color:var(--ink-soft);font-size:var(--t-lead);margin:14px 0 28px;max-width:46ch;line-height:1.5}
+
+  footer{border-top:1px solid var(--line);padding:40px 0 64px;color:var(--ink-faint);font-size:var(--t-small)}
+  footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+  footer a{transition:color .15s var(--ease)}
+  footer a:hover{color:var(--ink)}
+
+  @media (max-width:880px){
+    :root{--t-h1:44px;--t-h2:34px}
+    .grid,.panel{grid-template-columns:1fr}
+  }
+</style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="wrap">
+      <div class="brand">
+        <span class="mark"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M4 13l8-9 8 9M7 11v8h10v-8"/></svg></span>
+        Harbor
+      </div>
+      <div class="nav-links">
+        <a href="#">Product</a>
+        <a href="#">Pricing</a>
+        <a href="#">Changelog</a>
+        <a href="#">Docs</a>
+      </div>
+      <div class="nav-right">
+        <button class="toggle" id="themeToggle" aria-label="Toggle color theme">
+          <svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+          <svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4 12H2M22 12h-2M5 5l1.5 1.5M17.5 17.5L19 19M19 5l-1.5 1.5M6.5 17.5L5 19"/></svg>
+        </button>
+        <a class="btn btn-primary" href="#">Start deploying</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <header class="hero">
+    <div class="wrap">
+      <span class="eyebrow">Now with instant rollbacks</span>
+      <h1>Ship on Friday. Sleep on Saturday.</h1>
+      <p class="lead">Harbor deploys from your pull request, runs the checks you already wrote, and rolls back in one click when a release misbehaves. No pipeline to babysit.</p>
+      <div class="row">
+        <a class="btn btn-primary" href="#">Start deploying</a>
+        <a class="btn btn-ghost" href="#">Read the 4-minute setup</a>
+      </div>
+      <div class="note">Free for solo projects. Connects to GitHub, GitLab, and Bitbucket.</div>
+    </div>
+  </header>
+
+  <!-- PROOF -->
+  <section class="proof">
+    <div class="wrap">
+      <div class="stat"><b>11s</b> median deploy</div>
+      <div class="stat"><b>99.99%</b> control-plane uptime</div>
+      <div class="stat"><b>0</b> YAML files to write</div>
+      <div class="stat"><b>40k+</b> teams shipping</div>
+    </div>
+  </section>
+
+  <!-- CAPABILITIES (asymmetric bento, deliberately not the hero -> 3 equal cards template) -->
+  <section class="caps">
+    <div class="wrap">
+      <div class="head">
+        <h2>The boring parts, handled.</h2>
+        <p>The work that used to take a platform team. Harbor does it on the first deploy, without a config file.</p>
+      </div>
+      <div class="bento">
+        <div class="cap cap-lead">
+          <div>
+            <div class="glyph"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2 4 14h7l-1 8 9-12h-7z"/></svg></div>
+            <h3>Deploys in 11 seconds</h3>
+            <p>Builds are cached per file, not per commit, so a one-line change ships in the time it takes to read this sentence. No queue, no cold start.</p>
+          </div>
+          <div class="big">11s</div>
+        </div>
+        <div class="cap">
+          <div class="glyph"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12a9 9 0 1 0 9-9M3 12V6m0 6h6"/></svg></div>
+          <h3>One-click rollback</h3>
+          <p>Every deploy is immutable and addressable. If a release breaks, the previous one is one click and three seconds away.</p>
+        </div>
+        <div class="cap">
+          <div class="glyph"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3l7 3v5c0 4.4-3 8-7 10-4-2-7-5.6-7-10V6z"/></svg></div>
+          <h3>Secrets that stay secret</h3>
+          <p>Per-environment secrets, encrypted at rest, never printed in a log. SOC 2 Type II on every plan, including the free one.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- DARK PANEL -->
+  <section class="panel-sec">
+    <div class="wrap">
+      <div class="panel">
+        <div>
+          <h2>Your deploy is one command, or no command.</h2>
+          <p>Push to a branch and Harbor opens a preview. Merge and it promotes to production. The CLI is there when you want it, never when you don't.</p>
+          <div class="row">
+            <a class="btn btn-primary" href="#">Start deploying</a>
+            <a class="btn btn-ghost" href="#">Browse the CLI</a>
+          </div>
+        </div>
+        <div class="term">
+          <div class="bar"><i></i><i></i><i></i></div>
+          <pre><span class="d"># from your project root</span>
+<span class="g">$</span> harbor up
+  <span class="d">building</span>   cached 38/41 files
+  <span class="d">uploading</span>  2.1 MB
+  <span class="ok">ready</span>      https://harbor.app/r/8c1f <span class="d">(11s)</span>
+<span class="g">$</span> harbor rollback
+  <span class="ok">restored</span>   release 8c1e <span class="d">(3s)</span></pre>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="cta">
+    <div class="wrap">
+      <div class="cta-inner">
+        <h2>Move your next release onto Harbor.</h2>
+        <p>Connect a repo and your first deploy goes out before your coffee is cold. Keep your existing checks; we run them.</p>
+        <a class="btn btn-primary" href="#">Connect a repository</a>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="wrap">
+      <span>© 2026 Harbor · made in Seoul.</span>
+      <span>Status · Changelog · <a class="link" href="#">Read the engineering blog</a></span>
+    </div>
+  </footer>
+
+  <script>
+    // theme toggle: flips data-theme, which overrides prefers-color-scheme
+    (function(){
+      var root=document.documentElement, btn=document.getElementById('themeToggle');
+      btn.addEventListener('click',function(){
+        var dark=root.getAttribute('data-theme')==='dark'
+                 || (root.getAttribute('data-theme')!=='light'
+                     && matchMedia('(prefers-color-scheme: dark)').matches);
+        root.setAttribute('data-theme', dark ? 'light' : 'dark');
+      });
+    })();
+  </script>
+
+</body>
+</html>

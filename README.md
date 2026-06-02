@@ -45,6 +45,7 @@ cd ai-design-tells
 # score one page
 python src/cli.py fixtures/ai-default.html            # 76  (F)
 python src/cli.py fixtures/refined.html               # 0   (A)
+python src/cli.py fixtures/catalog-sample.html        # 0   (A)  built to the v3 catalog, light + dark
 
 # score a whole corpus as a leaderboard
 python src/cli.py fixtures/*.html --quiet
@@ -165,6 +166,22 @@ A few measured norms (full tables in [`reference/COMPONENT-SPECS.md`](reference/
 
 Rebuild the catalog with
 `python src/scrape_detail.py data/site_list_big.txt && python scripts/build_spec_catalog.py`.
+
+### A sample built straight from the numbers
+
+To prove the targets are buildable, [`fixtures/catalog-sample.html`](fixtures/catalog-sample.html)
+is a landing page assembled from the catalog medians: a 1200px container, a 64/48/32px
+type scale on a serif display, 8px buttons with every microstate, an owned amber accent
+(not indigo), and a dark mode that follows the measured grammar. It scores **Tell Score 0**.
+
+<p align="center">
+  <img alt="the built-to-catalog sample in light and dark" src="paper/figs/fig11_sample.png" width="100%">
+</p>
+<p align="center"><sub>One self-contained file, both palettes. Dark is a <b>tinted</b> near-black (<code>#0e1014</code>) with surfaces a step lighter and off-white text, the grammar the catalog measured, not an invert to pure black.</sub></p>
+
+<p align="center">
+  <img alt="the sample crossfading between light and dark" src="paper/figs/gif_lightdark.gif" width="82%">
+</p>
 
 ## The 21 tells
 
@@ -319,7 +336,7 @@ scripts/build_spec_catalog.py  aggregate sites_detail/ into reference/COMPONENT-
 mcp/server.py       MCP server (score_design / score_file / audit_url / list_tells / component_specs / harness_prompt)
 harness/            AI-DESIGN-TELLS.md, drop-in prompt module (generated, now with measured targets)
 reference/          COMPONENT-SPECS.md, the measured per-component catalog (199 sites)
-fixtures/           the 6 corpus pages (3 AI-default, 3 designed), viewable templates
+fixtures/           7 sample pages (3 AI-default, 3 designed, 1 built-to-catalog light/dark), viewable templates
 scripts/            run_audit, make_figures, make_gifs, render, gen_harness, build_spec_catalog
 paper/              paper.typ, refs.bib, paper.pdf, figs/
 data/               site corpora: per-site signals, sites_detail/, spec_catalog.json, calibration.json
