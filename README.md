@@ -451,7 +451,7 @@ typst  compile paper/paper.typ paper/paper.pdf
 ## Paper
 
 **The Tells: A Measurable Taxonomy of the AI-Generated Design Look, and a Harness to
-Escape It.** Han Kim, IOV Labs, 2026. → [`paper/paper.pdf`](paper/paper.pdf) (15pp).
+Escape It.** Han Kim, IOV Labs, 2026. → [`paper/paper.pdf`](paper/paper.pdf) (19pp).
 Technical (taxonomy, detector, metric, confound control) and philosophical (what
 "looking human" detects, taste as compressed choice, the map-vs-territory limit, the
 second-order convergence risk).
