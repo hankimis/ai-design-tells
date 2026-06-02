@@ -21,6 +21,7 @@ Families
   E SURFACE      depth defaults (generic diffuse shadow, glass overuse, no hairline/focus)
   F MOTION       motion defaults (fade-everything, missing microstates, uneased)
   G COPY         language defaults (vague aspirational headline, generic CTA, hedging)
+  H AI-SELF-REF  the UI announces itself as AI (sparkle icon, "AI" label, preview-insert)
 
 Each tell exposes a `detect(doc)` predicate returning (fired: bool, evidence: list[str]).
 `doc` is a parsed Document (see scorer.py): it exposes .html, .css_text, .styles
@@ -57,6 +58,7 @@ FAMILIES = {
     "E": ("Surface", "Depth & state defaults"),
     "F": ("Motion", "Motion defaults"),
     "G": ("Copy", "Language defaults"),
+    "H": ("AI self-reference", "The UI announces itself as AI"),
 }
 
 
@@ -127,6 +129,16 @@ def _a3(doc):
     return fired, ev
 
 
+def _a4(doc):
+    # Field-derived (two production manifestos): a row of status/badge pills each in
+    # a different bright hue. Fires only when >=3 distinct chromatic families sit on
+    # pill/badge elements in one view; one or two color families is normal.
+    fams = sorted(set(doc.pill_color_families()))
+    fired = len(fams) >= 3
+    ev = [f"{len(fams)} accent colors on pill/badges in one view: {', '.join(fams[:6])}"] if fired else []
+    return fired, ev
+
+
 # --------------------------------------------------------------------------
 # B, TYPE
 # --------------------------------------------------------------------------
@@ -160,6 +172,17 @@ def _b3(doc):
     tracked = doc.has_negative_tracking_on_large()
     fired = big and not tracked
     ev = ["large headings with default letter-spacing (no optical tracking)"] if fired else []
+    return fired, ev
+
+
+def _b4(doc):
+    # Field-derived: both production manifestos ban sub-12px labels outright (one
+    # patched ~600 instances to a 12px floor). Below ~12px, hangul and dense Latin
+    # both lose legibility. Fires on >=3 sub-floor sizes (a scattered habit, not one
+    # deliberate caption).
+    n = doc.sub_legible_font_count()
+    fired = n >= 3
+    ev = [f"{n} text size(s) below the ~12px legibility floor"] if fired else []
     return fired, ev
 
 
@@ -240,6 +263,16 @@ def _e3(doc):
     return fired, ev
 
 
+def _e4(doc):
+    # Field-derived (the "double box"): a bordered, rounded card wrapped directly
+    # inside another bordered, rounded card. Adds visual weight and blurs hierarchy;
+    # a generated-layout reflex. The fix is one outer card + a divide-y flat list.
+    n = doc.nested_card_count()
+    fired = n >= 1
+    ev = [f"{n} card(s) nested directly inside another framed card (double-box chrome)"] if fired else []
+    return fired, ev
+
+
 # --------------------------------------------------------------------------
 # F, MOTION
 # --------------------------------------------------------------------------
@@ -291,6 +324,30 @@ def _g3(doc):
 
 
 # --------------------------------------------------------------------------
+# H, AI SELF-REFERENCE  (the UI announces itself as AI)
+# Field-derived from two production codebases whose owners wrote explicit
+# "avoid the AI look" manifestos; both ranked these the loudest tells.
+# --------------------------------------------------------------------------
+
+def _h1(doc):
+    icons = doc.ai_signifier_icons()
+    ev = [f"AI-cliche icon(s): {', '.join(icons[:6])}"] if icons else []
+    return bool(icons), ev
+
+
+def _h2(doc):
+    labels = doc.ai_self_labels()
+    ev = [f"UI labels the feature as AI / names the model: "
+          f"{', '.join(repr(l) for l in labels[:4])}"] if labels else []
+    return bool(labels), ev
+
+
+def _h3(doc):
+    fired, ev = doc.preview_insert_flow()
+    return fired, ev
+
+
+# --------------------------------------------------------------------------
 # Registry
 # --------------------------------------------------------------------------
 
@@ -307,6 +364,10 @@ TELLS: List[Tell] = [
          "scattering *-500/*-600 utilities with no --color-* tokens means color carries no system or meaning",
          "define semantic CSS custom properties (--color-action, --color-danger) before reaching for raw values",
          ["mantlr_premium", "studio925_slop"], _a3, severity="smell"),
+    Tell("A4", "A", "Multi-color pill-badge inflation", 4.0,
+         "a row of status/badge pills each in a different bright hue (amber + blue + red + green) is a generated-dashboard reflex; when everything is colored, color stops meaning anything",
+         "limit status colors to one or two families; lean on weight and a single dot, and reserve a bright pill for one genuine alert",
+         ["field_manifestos", "refactoring_ui"], _a4, severity="smell"),
 
     Tell("B1", "B", "Inter/Roboto/system default font", 9.0,
          "Inter and the system stack are the highest-frequency fonts in scraped templates; choosing them by default is the loudest type tell",
@@ -320,6 +381,10 @@ TELLS: List[Tell] = [
          "premium display type carries negative letter-spacing; leaving it at the browser default reads as untouched",
          "apply negative tracking to large headings (Linear uses -0.22px display / -0.11px body)",
          ["linear_redesign", "mantlr_premium"], _b3, severity="smell"),
+    Tell("B4", "B", "Sub-legible micro-type", 3.0,
+         "scattering 9-11px labels under a big headline is a default a model reaches for to fit text; below ~12px both hangul and dense Latin lose legibility",
+         "set a 12px floor for any real label (13-14px body); build hierarchy with weight and color, not by shrinking past readability",
+         ["field_manifestos", "refactoring_ui"], _b4, severity="smell"),
 
     Tell("C1", "C", "Hero + three-feature-card template", 8.0,
          "the hero, then a three-up icon-card grid, then a CTA is the canonical SaaS-template layout AI reproduces from tutorials",
@@ -359,6 +424,10 @@ TELLS: List[Tell] = [
          "missing 1px low-alpha separators and missing :focus-visible styles reveal that microstates and accessibility were never designed",
          "add designed hairlines (0.5-1px low alpha) and a visible high-contrast focus ring",
          ["mantlr_premium", "nielsen_heuristics"], _e3),
+    Tell("E4", "E", "Nested card-in-card chrome", 4.0,
+         "wrapping a bordered, rounded card inside another bordered, rounded card (the 'double box') is a generated-layout habit that adds weight and blurs the hierarchy of what contains what",
+         "use one outer card with a divide-y flat list inside; separate sections with a hairline, not a second framed surface",
+         ["field_manifestos", "refactoring_ui"], _e4),
 
     Tell("F1", "F", "One fade applied to everything", 4.0,
          "the same entrance fade/slide on every element is the default AI motion gesture",
@@ -385,6 +454,19 @@ TELLS: List[Tell] = [
          "shipped lorem ipsum or template placeholder copy means the content was never written",
          "write the real words; copy is UX, not filler (Toss treats text as a foundational design element)",
          ["toss_writing"], _g3),
+
+    Tell("H1", "H", "AI-cliche iconography", 5.0,
+         "the Sparkles / Wand / Bot / Brain / Cpu icon set is the reflexive marker models attach to any 'AI' feature; it signals a capability bolted on by a model rather than designed into the product",
+         "use a function-true icon (a chart, a folder, an activity line) or the product's own brand mark at AI entry points; never a sparkle",
+         ["field_manifestos", "studio925_slop"], _h1),
+    Tell("H2", "H", "Labels the feature 'AI' / names the model", 5.0,
+         "'AI-powered', 'AI analysis', or an exposed model/vendor name (GPT-4, Claude, OpenAI) in the UI is marketing-of-the-machine; users care about the outcome, not the engine, and the label reads as generated chrome",
+         "name the function by what it does ('auto-sort', 'draft'); reveal the model only in settings, never as the primary label",
+         ["field_manifestos", "toss_writing"], _h2),
+    Tell("H3", "H", "Generate -> preview -> insert two-step", 3.0,
+         "the ChatGPT/Notion-style 'generate, show a preview card, then Insert/Apply' flow is the default assistant-panel pattern models reproduce; it reads as a bolted-on AI panel rather than a native action",
+         "apply the result straight into the content and let the user undo (Cmd-Z); skip the preview-then-insert ceremony",
+         ["field_manifestos", "nielsen_heuristics"], _h3, severity="smell"),
 ]
 
 

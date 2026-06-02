@@ -169,6 +169,31 @@ _EMOJI_RE = re.compile(
     "[\U0001F300-\U0001FAFF\U00002600-\U000027BF\U0001F000-\U0001F0FF←-⇿⬀-⯿]"
 )
 
+# H1: AI-cliche icons. JSX component tokens keep their case in the raw HTML, so we
+# match them case-sensitively to avoid catching the word "brain"/"bot" in prose.
+_AI_ICON_JSX_RE = re.compile(r"<\s*(Sparkles|Wand2|Wand|BrainCircuit|Brain|Bot|Cpu|Stars|MagicWand)\b")
+_AI_ICON_CLASS_RE = re.compile(r"^(?:lucide-)?(sparkles|wand2?|magic-?wand|robot|brain|braincircuit|cpu|bot)$")
+_AI_ICON_EMOJI = set("✨🪄🤖🧠")
+
+# H2: the UI naming itself "AI" or exposing the model/vendor. Specific phrasings
+# (not every bare "AI") plus model/vendor names. Korean cliches included.
+_AI_LABEL_RE = re.compile(
+    r"ai[\s\-]?(?:powered|driven|assistant|magic|analysis|분석|추천|자동|도움|기반|어시스트)"
+    r"|powered by ai|ask ai|\bai로\b|\bai가\b|\bai\s*초안\b"
+    r"|\b(?:gpt-?4o?|gpt-?3\.?5?|chatgpt|claude|anthropic|openai|gemini|copilot|\bllm\b)\b",
+    re.I,
+)
+
+# H3: the generate -> preview -> insert/apply ceremony.
+_INSERT_KEYS = ("insert", "apply", "use this", "use suggestion", "삽입", "적용", "넣기")
+_REGEN_KEYS = ("regenerate", "try again", "재생성", "다시 생성", "다시 만들")
+
+_CHROMATIC_FAMILIES = {
+    "indigo", "violet", "purple", "fuchsia", "blue", "sky", "cyan", "teal",
+    "emerald", "green", "lime", "yellow", "amber", "orange", "red", "rose", "pink",
+}
+_SURFACE_BG_RE = re.compile(r"^bg-(white|surface|bg|gray|zinc|neutral|slate|stone|\[)")
+
 
 class Document:
     def __init__(self, html: str):
@@ -506,6 +531,119 @@ class Document:
 
     def has_placeholder_copy(self) -> bool:
         return "lorem ipsum" in self._visible_text() or "dolor sit amet" in self._visible_text()
+
+    # ---- A4: pill-badge color inflation ----
+    def pill_color_families(self) -> List[str]:
+        fams = []
+        for n in self.nodes:
+            is_pill = ("rounded-full" in n.classes or
+                       "border-radius:9999" in n.style.replace(" ", "").lower())
+            if not is_pill:
+                continue
+            if len(n.text.strip()) > 28:   # pills carry short labels, not paragraphs
+                continue
+            for c in n.classes:
+                m = re.match(r"(?:bg|text|border|ring)-([a-z]+)-\d{2,3}$", c)
+                if m and m.group(1) in _CHROMATIC_FAMILIES:
+                    fams.append(m.group(1))
+            for hx in re.findall(r"#[0-9a-fA-F]{3,6}\b", n.style):
+                h = _hex_to_hue(_mk_color(hx).normalized)
+                if h >= 0:
+                    fams.append(f"hue{int(h//30)*30}")   # bucket inline colors by hue
+        return fams
+
+    # ---- B4: sub-legible micro-type ----
+    def sub_legible_font_count(self) -> int:
+        cnt = 0
+        for v in self._values("font-size"):
+            v = v.strip()
+            m = re.match(r"([\d.]+)px$", v)
+            if m and float(m.group(1)) < 12:
+                cnt += 1
+            m = re.match(r"([\d.]+)rem$", v)
+            if m and float(m.group(1)) * 16 < 12:
+                cnt += 1
+        for c in self.all_classes:
+            m = re.match(r"text-\[(\d+(?:\.\d+)?)px\]$", c)
+            if m and float(m.group(1)) < 12:
+                cnt += 1
+            m = re.match(r"text-\[(\d+(?:\.\d+)?)rem\]$", c)
+            if m and float(m.group(1)) * 16 < 12:
+                cnt += 1
+            if c in ("text-xxs", "text-2xs", "text-3xs"):
+                cnt += 1
+        return cnt
+
+    # ---- E4: nested card-in-card chrome ----
+    def _is_card_node(self, n: Node) -> bool:
+        if n.tag not in ("div", "section", "article", "li", "aside", "form", "ul"):
+            return False
+        if "card" in n.classes:
+            return True
+        sl = n.style.lower()
+        has_round = (any(c == "rounded" or c.startswith("rounded-") for c in n.classes)
+                     or "border-radius" in sl)
+        framed = (any(c.startswith("border") and c not in ("border-0", "border-none") for c in n.classes)
+                  or any(_SURFACE_BG_RE.match(c) for c in n.classes)
+                  or any(c.startswith("shadow") for c in n.classes)
+                  or "border" in sl or "background" in sl or "box-shadow" in sl)
+        return has_round and framed
+
+    def nested_card_count(self) -> int:
+        stack: List[Tuple[int, bool]] = []
+        count = 0
+        for n in self.nodes:
+            while stack and stack[-1][0] >= n.depth:
+                stack.pop()
+            is_card = self._is_card_node(n)
+            if is_card and any(c for (_, c) in stack):
+                count += 1
+            stack.append((n.depth, is_card))
+        return count
+
+    # ---- H: AI self-reference ----
+    def ai_signifier_icons(self) -> List[str]:
+        found = []
+        for m in _AI_ICON_JSX_RE.findall(self.html):
+            found.append(m)
+        for c in self.all_classes:
+            if _AI_ICON_CLASS_RE.match(c.lower()):
+                found.append(c)
+        for ch in self.html:
+            if ch in _AI_ICON_EMOJI:
+                found.append(ch)
+        seen, out = set(), []
+        for x in found:
+            if x not in seen:
+                seen.add(x)
+                out.append(x)
+        return out
+
+    def ai_self_labels(self) -> List[str]:
+        hits = []
+        for m in _AI_LABEL_RE.finditer(self._visible_text()):
+            hits.append(m.group(0).strip())
+        for b in self.button_texts():
+            bl = b.strip().lower()
+            if bl == "ai" or bl.startswith("ai ") or bl.startswith("ai-"):
+                hits.append(b.strip())
+        seen, out = set(), []
+        for x in hits:
+            k = x.lower()
+            if k not in seen:
+                seen.add(k)
+                out.append(x)
+        return out
+
+    def preview_insert_flow(self) -> Tuple[bool, List[str]]:
+        btns = [b.strip().lower() for b in self.button_texts()]
+        has_insert = any(any(k in b for k in _INSERT_KEYS) for b in btns)
+        has_regen = any(any(k in b for k in _REGEN_KEYS) for b in btns)
+        ai_ctx = bool(self.ai_signifier_icons() or self.ai_self_labels())
+        fired = has_insert and (has_regen or ai_ctx)
+        ev = ["generate->preview->insert flow (an Insert/Apply action paired with "
+              "regenerate or an AI marker)"] if fired else []
+        return fired, ev
 
 
 # --------------------------------------------------------------------------

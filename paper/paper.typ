@@ -24,7 +24,7 @@
 #align(center)[#block(width: 92%, inset: 9pt, stroke: 0.5pt + luma(170), radius: 4pt)[
   #set text(9.5pt)
   #set par(justify: true)
-  *Abstract.* Interfaces produced by generative models are instantly recognizable: an indigo-to-violet gradient, Inter on white, a hero followed by three emoji feature cards, one border-radius, one soft shadow, a headline that says _build the future of work_. Practitioners spend large amounts of time and tokens trying to make AI output _not look like AI_, yet the target is treated as ineffable taste. We argue the opposite: the "AI look" is a *finite, enumerable set of statistical defaults*, and is therefore measurable. We contribute (i) a taxonomy of *21 design tells* across seven families (color, type, layout, spacing, surface, motion, copy), each grounded in the documented mechanism of model convergence and in the published craft of human-crafted interfaces; (ii) a dependency-free static detector that resolves both raw CSS and utility classes and reports a *Tell Score* in $[0,100]$ (lower is better); and (iii) a harness, a CLI, an MCP server, and a drop-in prompt module, so any team or agent can audit and prevent the look. In a confound-controlled refactor that holds a page's content and structure fixed and changes only the tell-bearing properties, the Tell Score of a canonical AI landing page falls from *76 (grade F)* to *0 (grade A)*; across a six-page corpus the detector separates AI-default from designed pages with no overlap (nearest pair 49.5 points apart). To check the detector is a discriminator and not a machine that calls everything AI, we render *202 real top-tier sites* (Stripe, Linear, Toss, Apple, Vercel, Figma, and 196 more) in a headless browser, read their computed styles, and *learn* the empirical distribution of human-crafted design. Recalibrated on that data, with a craft-credit model in which compensating craft (a custom face, optical tracking, a radius hierarchy) offsets cosmetic defaults, the detector scores the 202 real sites at a *median of 0* (93% grade A) while the AI-default pages still score 35 to 59, and it now audits *live URLs*, not only self-contained files. The data overturns two naive rules: a brand purple is not a tell (Stripe uses it heavily and scores 0), and Inter is not a tell (Linear ships it with a real type system). We close with the epistemics: a discriminator of machine-default is not a judge of beauty, taste is the compression of lived choices that a median cannot hold, and if everyone optimizes the same score we risk a second-order convergence, the same homogenization our companion study finds in iterated creation. Code, data, figures and harness are open.
+  *Abstract.* Interfaces produced by generative models are instantly recognizable: an indigo-to-violet gradient, Inter on white, a hero followed by three emoji feature cards, one border-radius, one soft shadow, a headline that says _build the future of work_. Practitioners spend large amounts of time and tokens trying to make AI output _not look like AI_, yet the target is treated as ineffable taste. We argue the opposite: the "AI look" is a *finite, enumerable set of statistical defaults*, and is therefore measurable. We contribute (i) a taxonomy of *27 design tells* across eight families (color, type, layout, spacing, surface, motion, copy, and AI self-reference), each grounded in the documented mechanism of model convergence and in the published craft of human-crafted interfaces; (ii) a dependency-free static detector that resolves both raw CSS and utility classes and reports a *Tell Score* in $[0,100]$ (lower is better); and (iii) a harness, a CLI, an MCP server, and a drop-in prompt module, so any team or agent can audit and prevent the look. In a confound-controlled refactor that holds a page's content and structure fixed and changes only the tell-bearing properties, the Tell Score of a canonical AI landing page falls from *77 (grade F)* to *0 (grade A)*; across a six-page corpus the detector separates AI-default from designed pages with no overlap (nearest pair 47 points apart). To check the detector is a discriminator and not a machine that calls everything AI, we render *202 real top-tier sites* (Stripe, Linear, Toss, Apple, Vercel, Figma, and 196 more) in a headless browser, read their computed styles, and *learn* the empirical distribution of human-crafted design. Recalibrated on that data, with a craft-credit model in which compensating craft (a custom face, optical tracking, a radius hierarchy) offsets cosmetic defaults, the detector scores the 202 real sites at a *median of 0* (93% grade A) while the AI-default pages still score 35 to 59, and it now audits *live URLs*, not only self-contained files. The data overturns two naive rules: a brand purple is not a tell (Stripe uses it heavily and scores 0), and Inter is not a tell (Linear ships it with a real type system). A field check closes the loop: two production codebases whose maintainers wrote their own _avoid-the-AI-look_ design manifestos independently name the same tells and six more, which we fold in as a new family (AI self-reference) and three additions, taking the taxonomy to 27 tells. We close with the epistemics: a discriminator of machine-default is not a judge of beauty, taste is the compression of lived choices that a median cannot hold, and if everyone optimizes the same score we risk a second-order convergence, the same homogenization our companion study finds in iterated creation. Code, data, figures and harness are open.
 ]]
 
 = Introduction
@@ -61,7 +61,7 @@ a measurement instrument needs.
 We make three contributions.
 
 #block(inset: (left: 10pt))[
-  *1. A taxonomy of tells.* Seven families and 21 individual tells (§4), each
+  *1. A taxonomy of tells.* Eight families and 27 individual tells (§4), each
   defined operationally (what to detect), justified mechanistically (why a model
   defaults to it), and paired with the fix a designer would make. The taxonomy
   triangulates three literatures: the discourse on why AI converges
@@ -83,15 +83,15 @@ We make three contributions.
 Our central empirical result is deliberately confound-controlled. We take one
 canonical AI landing page and refactor it so that *only the tell-bearing
 properties change*, same product, same sections, same information, and measure
-the Tell Score before and after. It falls from 76 (grade F, "textbook AI slop")
-to 0 (grade A, "reads as human-crafted"), a 76-point move attributable to design
+the Tell Score before and after. It falls from 77 (grade F, "textbook AI slop")
+to 0 (grade A, "reads as human-crafted"), a 77-point move attributable to design
 choices alone (@fig-money). The two rendered pages are shown in @fig-templates.
 
 #figure(
   image("figs/fig1_moneyshot.png", width: 86%),
   caption: [The headline result. One page; only the tell-bearing choices (font,
   color, layout, spacing, surface, motion, copy) change. Content and DOM structure
-  are held fixed. The Tell Score falls 76 points.],
+  are held fixed. The Tell Score falls 77 points.],
 ) <fig-money>
 
 = The look is a distribution, not a style
@@ -169,7 +169,7 @@ A *tell* is a measurable signal that an interface was produced by a model
 defaulting to its distribution rather than by a person making a choice. Each tell
 carries a weight (its contribution to the maximum score), a severity, *tell*
 (strong) or *smell* (weak, context-dependent), a mechanistic rationale, and a
-fix. There are 21 tells in seven families; the maximum attainable weight is 109.
+fix. There are 27 tells in eight families; the maximum attainable weight is 133.
 @tab-taxonomy lists them; the full text with citations lives in `src/taxonomy.py`,
 the single source of truth from which the detector, this paper, and the harness
 are generated.
@@ -184,9 +184,11 @@ are generated.
     [A1], [Indigo/violet default palette], [9], [tell],
     [A2], [Blue→purple hero gradient], [7], [tell],
     [A3], [Default-ramp utilities, no semantic tokens], [4], [smell],
+    [A4], [Multi-color pill-badge inflation], [4], [smell],
     [B1], [Inter/Roboto/system default font], [9], [tell],
     [B2], [No type scale discipline], [5], [tell],
     [B3], [No optical tracking on display type], [3], [smell],
+    [B4], [Sub-legible micro-type], [3], [smell],
     [C1], [Hero + three-feature-card template], [8], [tell],
     [C2], [Center-everything composition], [5], [tell],
     [C3], [One border-radius everywhere], [4], [tell],
@@ -196,15 +198,20 @@ are generated.
     [E1], [Generic diffuse shadow], [5], [tell],
     [E2], [Glassmorphism overuse], [4], [smell],
     [E3], [No hairlines / no focus-visible], [6], [tell],
+    [E4], [Nested card-in-card chrome], [4], [tell],
     [F1], [One fade applied to everything], [4], [smell],
     [F2], [Missing interactive microstates], [7], [tell],
     [F3], [Uneased transitions], [3], [smell],
     [G1], [Vague aspirational headline], [6], [tell],
     [G2], [Only generic CTAs], [4], [smell],
     [G3], [Placeholder / lorem ipsum copy], [5], [tell],
+    [H1], [AI-cliché iconography], [5], [tell],
+    [H2], [Labels the feature "AI" / names the model], [5], [tell],
+    [H3], [Generate → preview → insert two-step], [3], [smell],
   ),
-  caption: [The 21 tells across seven families (A color, B type, C layout, D
-  spacing, E surface, F motion, G copy). Weights sum to 109.],
+  caption: [The 27 tells across eight families (A color, B type, C layout, D
+  spacing, E surface, F motion, G copy, H AI self-reference). A4/B4/E4 and all of
+  family H are field-derived (§9). Weights sum to 133.],
 ) <tab-taxonomy>
 
 *A, Color (chromatic conformity).* The loudest family. A1 fires on any
@@ -304,7 +311,7 @@ same logic by which a length-matched control isolates verbosity.
 
 #figure(
   image("figs/fig_templates.png", width: 100%),
-  caption: [The two rendered pages. Left, the AI default (Tell Score 76, grade F):
+  caption: [The two rendered pages. Left, the AI default (Tell Score 77, grade F):
   indigo→violet gradient, Inter, centered, three emoji cards, one radius, one
   shadow, _build the future of work_, _Get Started_. Right, the refactor (Tell
   Score 0, grade A): a serif display with negative tracking, a brand ink plus one
@@ -350,11 +357,13 @@ the absence of the decision; the fix supplies it.
 
 == The headline move, decomposed
 
-The Tell Score falls from 76 to 0 (@fig-money). @fig-waterfall decomposes the
-move tell by tell, in order of impact: removing the indigo palette (−8), the
-Inter default (−8), the hero-and-three-cards template (−7), the blue→purple
-gradient (−6), and the missing microstates (−6) account for most of the
-reduction, with the remaining tells and smells closing the gap to zero. The
+The Tell Score falls from 77 to 0 (@fig-money). @fig-waterfall decomposes the
+move tell by tell, in order of impact: removing the indigo palette and the Inter
+default (−7 each), the hero-and-three-cards template (−6), the blue→purple
+gradient and the missing microstates (−5 each), and the AI-assistant reflex (the
+sparkle icon, the "AI-powered" label, the card-in-card, the multi-color pills)
+account for most of the reduction, with the remaining tells and smells closing
+the gap to zero. The
 decomposition is itself a prioritization: a team with limited time should fix
 color, type, layout, and microstates first.
 
@@ -371,8 +380,8 @@ To check the score is not an artifact of one page, we score a six-page corpus:
 three AI-default pages (the landing page; a pricing page; an app dashboard) and
 three designed pages (the refactor; a dark changelog; a pricing page in a
 different brand). @fig-distribution shows the result: the AI-default pages cluster
-at a mean of 60 (range 50–76) and the designed pages at 0, with no overlap; the
-nearest cross-family pair is 49.5 points apart. @fig-families shows _where_ the
+at a mean of 60 (range 47–77) and the designed pages at 0, with no overlap; the
+nearest cross-family pair is 47 points apart. @fig-families shows _where_ the
 separation lives, color, type, layout, surface and motion separate hardest,
 which matches the human experience of "what gives it away." @fig-heatmap shows the
 per-tell firing matrix: the designed pages are nearly empty columns.
@@ -602,6 +611,79 @@ culture, not a different notion of a headline.
 The taxonomy itself is not language-bound, the same tells apply, but a builder targeting
 a Korean audience should read the catalog's body-size and font rows through this companion.
 
+= Field evidence: two production design manifestos
+
+Sections 4 through 8 built the taxonomy from public craft writing and from the
+statistics of 202 scraped sites. The sharpest test of whether the taxonomy names
+the _right_ things came from the opposite direction: two production codebases whose
+maintainers, independently of this work, had already written their own internal
+design manifestos titled, in effect, "avoid the AI look." Both are private
+commercial products, so we treat them as anonymized field evidence: _Manifesto A_,
+a dark-mode media tool built on a Toss-style minimalism with a single owned accent,
+and _Manifesto B_, a productivity assistant on Pretendard with a strictly neutral
+hierarchy. Each manifesto is a versioned document in its repository, paired with a
+remediation log that counts instances: one team patched roughly 600 sub-12#`px`
+labels up to a 12#`px` floor; the other enumerated every `Sparkles` and `Wand2`
+icon slated for removal.
+
+Two findings matter. First, _convergent validity_: both manifestos independently
+name tells the detector already had, the indigo default and the blue-to-purple
+gradient (banned as "AI 풍 그라데이션"), emoji-as-iconography, the generic font
+(both commit to a distinctive or commissioned face), and vague system-voice copy.
+Practitioners who never saw this taxonomy, writing only to stop their own products
+from looking generated, arrived at the same list. That is the strongest evidence we
+have that the families are real and not an artifact of our framing.
+
+Second, _the field saw further_. Both manifestos lead with a register the v1 to v3
+taxonomy did not cover at all: the interface announcing itself as AI. We add it as
+a new family, *H, AI self-reference*, with three tells, and three more in existing
+families (@fig-field):
+
+#block(inset: (left: 10pt))[
+  *H1, AI-cliché iconography.* The `Sparkles` / `Wand` / `Bot` / `Brain` / `Cpu`
+  icon set bolted onto any "AI" feature. _Manifesto B ranks it the single loudest
+  tell._ The fix is a function-true icon or the product's own brand mark.
+
+  *H2, labels the feature "AI" or names the model.* "AI-powered", "AI 분석", or an
+  exposed `GPT-4` / `Claude` / `OpenAI` in the interface. Users care about the
+  outcome, not the engine; name the function by what it does and reveal the model
+  only in settings.
+
+  *H3, generate then preview then insert.* The assistant-panel ceremony (produce a
+  result, show a preview card, ask the user to "Insert"). Apply the result into the
+  content directly and let the user undo. _(smell; the weakest of the three.)_
+
+  *A4, multi-color pill-badge inflation.* A row of status pills each in a different
+  bright hue. When everything is colored, color stops carrying meaning.
+
+  *B4, sub-legible micro-type.* Scattered 9 to 11#`px` labels. Below #math.tilde
+  12#`px` both hangul and dense Latin lose legibility; build hierarchy with weight,
+  not by shrinking.
+
+  *E4, nested card-in-card chrome.* The "double box", a bordered rounded card
+  wrapped directly inside another. Use one outer card with a flat divided list.
+]
+
+#figure(
+  image("figs/fig13_field.png", width: 92%),
+  caption: [The six field-derived tells, their weights, and which manifesto named
+  each. The new family H (clay) is the AI-self-reference register; A4/B4/E4 (teal)
+  are additions to existing families. Manifesto B, the assistant, enumerates the
+  self-reference family in the most detail; both name the color and type-floor tells.],
+) <fig-field>
+
+These six raise the taxonomy to 27 tells and the maximum weight to 133. They are
+detected by the *file/code detector* (`score_design`, run on the markup an agent
+just wrote), where icon imports, label text, and nesting are visible; they are not
+yet wired into the live computed-style audit, which sees rendered CSS but not
+component names. We state that as a boundary, not a result. Two honest caveats on
+the evidence itself: the two codebases are a convenience sample (products the
+authors had access to), not a random draw, so they establish that practitioners
+converge on these tells, not how common the manifestos are; and both are Korean
+products, which is why the self-reference tells carry Korean phrasings alongside
+the English. The mechanism, a model marking its own output as AI, is not
+language-specific, and the detector matches both.
+
 = The harness
 
 The taxonomy ships as a usable tool in three forms, all generated from
@@ -714,9 +796,9 @@ distribution, not toward a new shared one.
 = Conclusion
 
 The AI look is not taste and not mystery; it is a finite set of statistical
-defaults, and finiteness makes it measurable. We enumerated 21 tells, weighted
+defaults, and finiteness makes it measurable. We enumerated 27 tells, weighted
 them, and built a transparent detector that scores any page in $[0,100]$. Holding
-content fixed and changing only the tells, a canonical AI page moves from 76 to 0;
+content fixed and changing only the tells, a canonical AI page moves from 77 to 0;
 across a corpus the detector separates machine-default from designed with no
 overlap. The same taxonomy ships as a CLI, an MCP server, and a drop-in prompt, so
 the judgment "this looks like AI" becomes an auditable, fixable, preventable

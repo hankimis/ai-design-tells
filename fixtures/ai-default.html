@@ -4,7 +4,10 @@
   A representative generative-model default: indigo->purple gradient, Inter,
   hero + three emoji feature cards + CTA, everything centered, one radius,
   one diffuse shadow everywhere, no focus/hover states, vague headline,
-  only "Get Started"/"Learn More". Tailwind-style class names carry the tells;
+  only "Get Started"/"Learn More", plus the AI-assistant reflex (a sparkle icon,
+  an "AI-powered / GPT-4" label, a card nested in a card, a row of multi-color
+  status pills, 10-11px micro-labels, and a generate->preview->insert flow).
+  Tailwind-style class names carry the tells;
   a frozen subset of those utilities is inlined so the page renders offline.
   The refined.html fixture keeps the SAME product and copy meaning, changing
   only the tell-bearing design choices (confound control).
@@ -50,6 +53,15 @@
   .btn-secondary{background:#fff;color:#4f46e5;border:1px solid #e5e7eb}
   .animate-fade-in{animation:fadeIn .6s ease both}
   @keyframes fadeIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  /* AI-assistant widget utilities (the generated-app reflex) */
+  .text-2xl{font-size:1.5rem}.max-w-xl{max-width:36rem}.text-left{text-align:left}
+  .rounded-full{border-radius:9999px}
+  .pill{display:inline-block;padding:.25rem .6rem;font-weight:600;margin-right:.4rem}
+  .badge-row{display:flex;gap:.4rem;margin-bottom:1rem}
+  .bg-amber-100{background:#fef3c7}.text-amber-700{color:#b45309}
+  .bg-blue-100{background:#dbeafe}.text-blue-700{color:#1d4ed8}
+  .bg-red-100{background:#fee2e2}.text-red-700{color:#b91c1c}
+  .bg-green-100{background:#dcfce7}.text-green-700{color:#15803d}
   section{padding-top:6rem;padding-bottom:6rem}
 </style>
 </head>
@@ -84,6 +96,29 @@
         <div class="text-5xl mb-4">✨</div>
         <h3 class="text-xl font-semibold mb-3">Seamless Magic</h3>
         <p class="text-gray-500">Effortlessly integrate everything in one beautiful, intuitive platform.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- AI ASSISTANT WIDGET: sparkle icon, "AI"/model labels, nested card, multi-color pills, micro-type, preview->insert -->
+  <section class="py-24 px-6 text-center">
+    <h2 class="text-5xl font-bold mb-4">Meet your AI assistant</h2>
+    <p class="text-lg text-gray-600 mb-6 max-w-2xl mx-auto">AI-powered insights, powered by GPT-4, to supercharge your workflow.</p>
+    <div class="card p-6 rounded-lg shadow-lg bg-white max-w-xl mx-auto text-left">
+      <div class="badge-row">
+        <span class="pill rounded-full bg-amber-100 text-amber-700" style="font-size:10px">⚡ Beta</span>
+        <span class="pill rounded-full bg-blue-100 text-blue-700" style="font-size:11px">AI</span>
+        <span class="pill rounded-full bg-red-100 text-red-700" style="font-size:11px">Live</span>
+        <span class="pill rounded-full bg-green-100 text-green-700" style="font-size:10px">Pro</span>
+      </div>
+      <div class="card p-4 rounded-lg border bg-white">
+        <div class="text-2xl mb-3">✨</div>
+        <h3 class="text-xl font-semibold mb-3">AI Analysis</h3>
+        <p class="text-gray-500">Let AI draft a summary of your sprint. Review the preview below, then insert it into your doc.</p>
+      </div>
+      <div class="flex gap-4 mt-8">
+        <a class="btn btn-primary">Insert</a>
+        <a class="btn btn-secondary">Regenerate</a>
       </div>
     </div>
   </section>

@@ -15,6 +15,12 @@
    background-image:linear-gradient(to right,#6366f1,#9333ea);color:#fff;margin-top:1rem;cursor:pointer}
  .hero{background-image:linear-gradient(to bottom right,#6366f1,#9333ea);color:#fff}
  .animate-fade-in{animation:f .6s ease both}@keyframes f{from{opacity:0}to{opacity:1}}
+ .rounded-full{border-radius:9999px}
+ .pill{display:inline-block;padding:.15rem .55rem;font-weight:600;font-size:11px}
+ .bg-amber-100{background:#fef3c7}.text-amber-700{color:#b45309}
+ .bg-blue-100{background:#dbeafe}.text-blue-700{color:#1d4ed8}
+ .bg-green-100{background:#dcfce7}.text-green-700{color:#15803d}
+ .fine{font-size:10px;color:#9ca3af;margin-top:.5rem}
 </style></head><body>
  <section class="hero">
    <h1 class="text-5xl font-bold mb-6 animate-fade-in">Pricing that scales with you</h1>
@@ -24,9 +30,9 @@
    <h2 class="text-5xl font-bold mb-4">Choose your plan</h2>
    <p class="text-base text-gray-500 mb-6">Seamlessly upgrade anytime. Empower your workflow.</p>
    <div class="grid-cols-3">
-     <div class="card animate-fade-in"><div class="text-2xl mb-3">🚀</div><h3 class="text-2xl font-bold mb-3">Starter</h3><p class="text-gray-500">Everything you need to get going.</p><span class="btn">Get Started</span></div>
-     <div class="card animate-fade-in"><div class="text-2xl mb-3">⭐</div><h3 class="text-2xl font-bold mb-3">Pro</h3><p class="text-gray-500">Powerful features for growing teams.</p><span class="btn">Get Started</span></div>
-     <div class="card animate-fade-in"><div class="text-2xl mb-3">🏢</div><h3 class="text-2xl font-bold mb-3">Enterprise</h3><p class="text-gray-500">Next-generation scale and security.</p><span class="btn">Learn More</span></div>
+     <div class="card animate-fade-in"><span class="pill rounded-full bg-blue-100 text-blue-700">New</span><div class="text-2xl mb-3">🚀</div><h3 class="text-2xl font-bold mb-3">Starter</h3><p class="text-gray-500">Everything you need to get going.</p><span class="btn">Get Started</span><p class="fine">Billed annually. Taxes may apply.</p></div>
+     <div class="card animate-fade-in"><span class="pill rounded-full bg-amber-100 text-amber-700">Most Popular</span><div class="text-2xl mb-3">⭐</div><h3 class="text-2xl font-bold mb-3">Pro</h3><p class="text-gray-500">Powerful features for growing teams.</p><span class="btn">Get Started</span><p class="fine">Billed annually. Taxes may apply.</p></div>
+     <div class="card animate-fade-in"><span class="pill rounded-full bg-green-100 text-green-700">Best Value</span><div class="text-2xl mb-3">🏢</div><h3 class="text-2xl font-bold mb-3">Enterprise</h3><p class="text-gray-500">Next-generation scale and security.</p><span class="btn">Learn More</span><p class="fine">Billed annually. Taxes may apply.</p></div>
    </div>
  </section>
 </body></html>

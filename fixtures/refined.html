@@ -94,6 +94,11 @@
 
   footer{padding:2.5rem 0 4rem;border-top:1px solid var(--color-line);color:var(--color-ink-faint);font-size:var(--t-1)}
   footer .wrap{display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap}
+
+  /* ---- draft helper: the same assistant feature, designed (one card, no sparkle/AI label) ---- */
+  .draft .row{display:flex;gap:.9rem;align-items:center;margin-top:1rem}
+  .status{font-size:var(--t-1);color:var(--color-ink-soft);border:1px solid var(--color-line-strong);
+    border-radius:999px;padding:.2rem .7rem}
 </style>
 </head>
 <body>
@@ -136,6 +141,26 @@
           <div>
             <h3>Reads your Git history</h3>
             <p>Branches, PRs and deploys land on the card on their own. The board reflects what shipped because it's watching the same commits you are.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- DRAFT HELPER (same feature as ai-default's AI assistant: a sprint-summary draft, designed) -->
+  <section class="caps draft">
+    <div class="wrap caps-grid">
+      <h2>A draft to start from</h2>
+      <div>
+        <div class="cap">
+          <div class="glyph"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h11l5 5v11H4z"/><path d="M14 4v5h5"/></svg></div>
+          <div>
+            <h3>Summaries write their first pass</h3>
+            <p>Ask for a sprint summary and it lands straight in the doc, ready to edit. Don't like the result? Press Cmd-Z. There's no preview to approve and no panel to dismiss, it behaves like every other edit.</p>
+            <div class="row">
+              <a class="btn btn-primary" href="#">Draft a summary</a>
+              <span class="status">In review</span>
+            </div>
           </div>
         </div>
       </div>

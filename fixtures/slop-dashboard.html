@@ -13,6 +13,12 @@
  .stat{font-size:3rem;font-weight:700;color:#6366f1}
  h1{font-size:1.5rem;font-weight:700;margin-bottom:.5rem}.text-gray-500{color:#6b7280}
  .btn{display:inline-block;margin-top:1rem;padding:.5rem 1rem;border-radius:.5rem;background:#6366f1;color:#fff;cursor:pointer}
+ .rounded-full{border-radius:9999px}
+ .pill{display:inline-block;padding:.2rem .55rem;font-weight:600;font-size:10px;margin-right:.35rem}
+ .bg-amber-100{background:#fef3c7}.text-amber-700{color:#b45309}
+ .bg-blue-100{background:#dbeafe}.text-blue-700{color:#1d4ed8}
+ .bg-red-100{background:#fee2e2}.text-red-700{color:#b91c1c}
+ .bg-green-100{background:#dcfce7}.text-green-700{color:#15803d}
 </style></head><body>
  <nav class="sidebar"><div style="font-size:1.5rem;font-weight:700;margin-bottom:2rem">🚀 TaskFlow</div>
    <a>📊 Dashboard</a><a>📁 Projects</a><a>👥 Team</a><a>⚙️ Settings</a></nav>
@@ -22,6 +28,19 @@
      <div class="card"><div class="stat">1.2k</div><p class="text-gray-500">Total Users</p></div>
      <div class="card"><div class="stat">89%</div><p class="text-gray-500">Engagement</p></div>
      <div class="card"><div class="stat">42</div><p class="text-gray-500">Active Projects</p></div>
+   </div>
+   <div class="card" style="margin-top:1.5rem;text-align:left">
+     <div style="margin-bottom:.75rem">
+       <span class="pill rounded-full bg-amber-100 text-amber-700">⚠ At risk</span>
+       <span class="pill rounded-full bg-blue-100 text-blue-700">In progress</span>
+       <span class="pill rounded-full bg-green-100 text-green-700">Done</span>
+       <span class="pill rounded-full bg-red-100 text-red-700">Blocked</span>
+     </div>
+     <div class="card" style="border:1px solid #e5e7eb">
+       <div style="font-size:1.5rem">✨</div>
+       <h1 style="font-size:1rem">AI Insights</h1>
+       <p class="text-gray-500" style="font-size:11px">AI-powered analysis, powered by GPT-4, to optimize your workflow.</p>
+     </div>
    </div>
    <span class="btn">Get Started</span>
  </main>

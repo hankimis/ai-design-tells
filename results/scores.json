@@ -1,5 +1,5 @@
 {
-  "max_weight": 109.0,
+  "max_weight": 133.0,
   "families": {
     "A": "Color",
     "B": "Type",
@@ -7,7 +7,8 @@
     "D": "Spacing",
     "E": "Surface",
     "F": "Motion",
-    "G": "Copy"
+    "G": "Copy",
+    "H": "AI self-reference"
   },
   "tells": [
     {
@@ -32,6 +33,13 @@
       "severity": "smell"
     },
     {
+      "id": "A4",
+      "family": "A",
+      "name": "Multi-color pill-badge inflation",
+      "weight": 4.0,
+      "severity": "smell"
+    },
+    {
       "id": "B1",
       "family": "B",
       "name": "Inter/Roboto/system default font",
@@ -49,6 +57,13 @@
       "id": "B3",
       "family": "B",
       "name": "No optical tracking on display type",
+      "weight": 3.0,
+      "severity": "smell"
+    },
+    {
+      "id": "B4",
+      "family": "B",
+      "name": "Sub-legible micro-type",
       "weight": 3.0,
       "severity": "smell"
     },
@@ -116,6 +131,13 @@
       "severity": "tell"
     },
     {
+      "id": "E4",
+      "family": "E",
+      "name": "Nested card-in-card chrome",
+      "weight": 4.0,
+      "severity": "tell"
+    },
+    {
       "id": "F1",
       "family": "F",
       "name": "One fade applied to everything",
@@ -156,30 +178,54 @@
       "name": "Placeholder / lorem ipsum copy",
       "weight": 5.0,
       "severity": "tell"
+    },
+    {
+      "id": "H1",
+      "family": "H",
+      "name": "AI-cliche iconography",
+      "weight": 5.0,
+      "severity": "tell"
+    },
+    {
+      "id": "H2",
+      "family": "H",
+      "name": "Labels the feature 'AI' / names the model",
+      "weight": 5.0,
+      "severity": "tell"
+    },
+    {
+      "id": "H3",
+      "family": "H",
+      "name": "Generate -> preview -> insert two-step",
+      "weight": 3.0,
+      "severity": "smell"
     }
   ],
   "pages": {
     "ai-default": {
       "label": "AI-default",
       "path": "fixtures/ai-default.html",
-      "score": 76.15,
+      "score": 77.44,
       "grade": "F, textbook AI slop",
       "family_scores": {
         "A": 100.0,
-        "B": 70.59,
+        "B": 75.0,
         "C": 80.0,
         "D": 37.5,
-        "E": 73.33,
+        "E": 78.95,
         "F": 78.57,
-        "G": 66.67
+        "G": 40.0,
+        "H": 100.0
       },
       "fired": {
         "A1": true,
         "A2": true,
         "A3": true,
+        "A4": true,
         "B1": true,
         "B2": false,
         "B3": true,
+        "B4": true,
         "C1": true,
         "C2": true,
         "C3": false,
@@ -189,35 +235,42 @@
         "E1": true,
         "E2": false,
         "E3": true,
+        "E4": true,
         "F1": true,
         "F2": true,
         "F3": false,
         "G1": true,
-        "G2": true,
-        "G3": false
+        "G2": false,
+        "G3": false,
+        "H1": true,
+        "H2": true,
+        "H3": true
       }
     },
     "slop-pricing": {
       "label": "AI-default",
       "path": "fixtures/slop-pricing.html",
-      "score": 54.13,
+      "score": 47.37,
       "grade": "D, strong AI-default signature",
       "family_scores": {
         "A": 100.0,
-        "B": 70.59,
+        "B": 60.0,
         "C": 55.0,
         "D": 0.0,
-        "E": 40.0,
+        "E": 31.58,
         "F": 28.57,
-        "G": 40.0
+        "G": 40.0,
+        "H": 0.0
       },
       "fired": {
         "A1": true,
         "A2": true,
         "A3": true,
+        "A4": true,
         "B1": true,
         "B2": false,
         "B3": true,
+        "B4": false,
         "C1": true,
         "C2": false,
         "C3": false,
@@ -227,35 +280,42 @@
         "E1": false,
         "E2": false,
         "E3": true,
+        "E4": false,
         "F1": true,
         "F2": false,
         "F3": false,
         "G1": true,
         "G2": false,
-        "G3": false
+        "G3": false,
+        "H1": false,
+        "H2": false,
+        "H3": false
       }
     },
     "slop-dashboard": {
       "label": "AI-default",
       "path": "fixtures/slop-dashboard.html",
-      "score": 49.54,
+      "score": 54.14,
       "grade": "D, strong AI-default signature",
       "family_scores": {
         "A": 100.0,
-        "B": 70.59,
+        "B": 60.0,
         "C": 15.0,
         "D": 0.0,
-        "E": 40.0,
+        "E": 52.63,
         "F": 50.0,
-        "G": 40.0
+        "G": 40.0,
+        "H": 76.92
       },
       "fired": {
         "A1": true,
         "A2": true,
         "A3": true,
+        "A4": true,
         "B1": true,
         "B2": false,
         "B3": true,
+        "B4": false,
         "C1": false,
         "C2": false,
         "C3": false,
@@ -265,12 +325,16 @@
         "E1": false,
         "E2": false,
         "E3": true,
+        "E4": true,
         "F1": false,
         "F2": true,
         "F3": false,
         "G1": true,
         "G2": false,
-        "G3": false
+        "G3": false,
+        "H1": true,
+        "H2": true,
+        "H3": false
       }
     },
     "refined": {
@@ -285,15 +349,18 @@
         "D": 0.0,
         "E": 0.0,
         "F": 0.0,
-        "G": 0.0
+        "G": 0.0,
+        "H": 0.0
       },
       "fired": {
         "A1": false,
         "A2": false,
         "A3": false,
+        "A4": false,
         "B1": false,
         "B2": false,
         "B3": false,
+        "B4": false,
         "C1": false,
         "C2": false,
         "C3": false,
@@ -303,12 +370,16 @@
         "E1": false,
         "E2": false,
         "E3": false,
+        "E4": false,
         "F1": false,
         "F2": false,
         "F3": false,
         "G1": false,
         "G2": false,
-        "G3": false
+        "G3": false,
+        "H1": false,
+        "H2": false,
+        "H3": false
       }
     },
     "designed-docs": {
@@ -323,15 +394,18 @@
         "D": 0.0,
         "E": 0.0,
         "F": 0.0,
-        "G": 0.0
+        "G": 0.0,
+        "H": 0.0
       },
       "fired": {
         "A1": false,
         "A2": false,
         "A3": false,
+        "A4": false,
         "B1": false,
         "B2": false,
         "B3": false,
+        "B4": false,
         "C1": false,
         "C2": false,
         "C3": false,
@@ -341,12 +415,16 @@
         "E1": false,
         "E2": false,
         "E3": false,
+        "E4": false,
         "F1": false,
         "F2": false,
         "F3": false,
         "G1": false,
         "G2": false,
-        "G3": false
+        "G3": false,
+        "H1": false,
+        "H2": false,
+        "H3": false
       }
     },
     "designed-pricing": {
@@ -361,15 +439,18 @@
         "D": 0.0,
         "E": 0.0,
         "F": 0.0,
-        "G": 0.0
+        "G": 0.0,
+        "H": 0.0
       },
       "fired": {
         "A1": false,
         "A2": false,
         "A3": false,
+        "A4": false,
         "B1": false,
         "B2": false,
         "B3": false,
+        "B4": false,
         "C1": false,
         "C2": false,
         "C3": false,
@@ -379,12 +460,16 @@
         "E1": false,
         "E2": false,
         "E3": false,
+        "E4": false,
         "F1": false,
         "F2": false,
         "F3": false,
         "G1": false,
         "G2": false,
-        "G3": false
+        "G3": false,
+        "H1": false,
+        "H2": false,
+        "H3": false
       }
     }
   }

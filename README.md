@@ -3,16 +3,16 @@
 
 <p align="center">
   <img alt="license MIT" src="https://img.shields.io/badge/license-MIT-16181d">
-  <img alt="tells" src="https://img.shields.io/badge/tells-21%20across%207%20families-6d5cf6">
+  <img alt="tells" src="https://img.shields.io/badge/tells-27%20across%208%20families-6d5cf6">
   <img alt="metric" src="https://img.shields.io/badge/Tell%20Score-0–100%20(lower%20is%20better)-0f6f63">
   <img alt="validated" src="https://img.shields.io/badge/validated%20on-202%20real%20sites-0f6f63">
-  <img alt="paper" src="https://img.shields.io/badge/paper-15pp%20PDF-9a3b1f">
+  <img alt="paper" src="https://img.shields.io/badge/paper-19pp%20PDF-9a3b1f">
 </p>
 
 <p align="center">
-  <img alt="Same page, the tells removed: Tell Score 76 to 0" src="paper/figs/gif_reveal.gif" width="80%">
+  <img alt="Same page, the tells removed: Tell Score 77 to 0" src="paper/figs/gif_reveal.gif" width="80%">
 </p>
-<p align="center"><sub>The same landing page. <b>Only the tell-bearing choices change</b>, font, color, layout, motion, copy. Content and structure are held fixed. The Tell Score falls from <b>76 (F, textbook AI slop)</b> to <b>0 (A, reads as human-crafted)</b>.</sub></p>
+<p align="center"><sub>The same landing page. <b>Only the tell-bearing choices change</b>, font, color, layout, motion, copy. Content and structure are held fixed. The Tell Score falls from <b>77 (F, textbook AI slop)</b> to <b>0 (A, reads as human-crafted)</b>.</sub></p>
 
 ---
 
@@ -23,13 +23,13 @@ real time and tokens trying to make AI output **not look like AI**, and treat th
 target as ineffable taste.
 
 It isn't. **The AI look is a finite, enumerable set of statistical defaults**, so
-it can be written down, weighted, and measured. This repo is the taxonomy (21
+it can be written down, weighted, and measured. This repo is the taxonomy (27
 tells), a transparent detector (the **Tell Score**, 0–100, lower is better), and a
 harness so any team or coding agent can audit and prevent the look.
 
 ## Contents
 
-- [Quickstart](#quickstart) · [The result](#the-result) · [Validated on 202 real sites](#validated-on-202-real-sites-v2) · [Component spec catalog](#component-spec-catalog-v3) · [Korean web catalog](#korean-web-한글-catalog) · [The 21 tells](#the-21-tells)
+- [Quickstart](#quickstart) · [The result](#the-result) · [Validated on 202 real sites](#validated-on-202-real-sites-v2) · [Component spec catalog](#component-spec-catalog-v3) · [Korean web catalog](#korean-web-한글-catalog) · [Field evidence](#field-evidence-two-production-manifestos-v4) · [The 27 tells](#the-27-tells)
 - [The harness: CLI · MCP · drop-in prompt](#the-harness)
 - [Figure gallery](#figure-gallery) · [How it works](#how-it-works) · [Honest limits](#honest-limits)
 - [Paper & citation](#paper) · [Repo layout](#repo-layout)
@@ -43,7 +43,7 @@ git clone https://github.com/hankimis/ai-design-tells
 cd ai-design-tells
 
 # score one page
-python src/cli.py fixtures/ai-default.html            # 76  (F)
+python src/cli.py fixtures/ai-default.html            # 77  (F)
 python src/cli.py fixtures/refined.html               # 0   (A)
 python src/cli.py fixtures/catalog-sample.html        # 0   (A)  built to the v3 catalog, light + dark
 
@@ -82,18 +82,18 @@ information. Any score change is design, not content.
 <p align="center">
   <img alt="before and after templates side by side" src="paper/figs/fig_templates.png" width="100%">
 </p>
-<p align="center"><sub><b>Left:</b> the AI default (76, F), gradient, Inter, centered, emoji cards, one radius, one shadow, vague headline. <b>Right:</b> the refactor (0, A), a serif display with negative tracking, a brand ink + one accent as tokens, an editorial grid, hairline rows, designed microstates, a specific voice.</sub></p>
+<p align="center"><sub><b>Left:</b> the AI default (77, F), gradient, Inter, centered, emoji cards, one radius, one shadow, vague headline, plus the AI-assistant reflex (sparkle icon, an "AI-powered" label, a card-in-card, multi-color pills, micro-type). <b>Right:</b> the refactor (0, A), a serif display with negative tracking, a brand ink + one accent as tokens, an editorial grid, hairline rows, designed microstates, a specific voice.</sub></p>
 
 | corpus page | family | Tell Score | grade |
 |---|---|---:|---|
-| `ai-default` (landing) | AI-default | **76** | F, textbook AI slop |
-| `slop-pricing` | AI-default | **54** | D, strong AI-default signature |
-| `slop-dashboard` | AI-default | **50** | D |
+| `ai-default` (landing) | AI-default | **77** | F, textbook AI slop |
+| `slop-dashboard` | AI-default | **54** | D, strong AI-default signature |
+| `slop-pricing` | AI-default | **47** | D |
 | `refined` (the refactor) | Designed | **0** | A, reads as human-crafted |
 | `designed-docs` (changelog) | Designed | **0** | A |
 | `designed-pricing` | Designed | **0** | A |
 
-Across the corpus the two families separate with **no overlap** (nearest pair 49.5
+Across the corpus the two families separate with **no overlap** (nearest pair 47
 points apart). Every fix pays down the score, in order of impact:
 
 <p align="center">
@@ -211,9 +211,40 @@ Full tables and a per-site appendix in [`reference/KOREAN-SPECS.md`](reference/K
 rebuild with `python src/scrape_detail.py data/site_list_kr.txt` (writes to `data/sites_kr/`
 via `DETAIL_OUT`) `&& python scripts/build_korean_catalog.py`.
 
-## The 21 tells
+## Field evidence: two production manifestos (v4)
 
-Seven families; each tell has a weight, a severity (**tell** = strong, *smell* =
+The taxonomy so far was built from public craft writing and 202 scraped sites. The
+sharpest confirmation came from the other direction: **two production codebases
+whose maintainers had already written their own "avoid the AI look" design
+manifestos**, and logged the cleanup with per-instance counts (one patched ~600
+sub-12px labels to a 12px floor; another listed every `Sparkles` icon to remove).
+Both are private commercial products, so they appear here anonymized: *Manifesto A*
+(a dark-mode media tool, Toss-minimalism, one owned accent) and *Manifesto B* (a
+productivity assistant, Pretendard, neutral hierarchy).
+
+They independently named the tells the detector already had (the indigo default,
+the blue→purple gradient, emoji-as-icon, generic fonts, vague copy). They also
+named **six the v1–v3 taxonomy missed**, now added as **family H (AI
+self-reference)** plus three more in existing families:
+
+<p align="center">
+  <img alt="six field-named tells the taxonomy missed, and which manifesto named each" src="paper/figs/fig13_field.png" width="92%">
+</p>
+
+- **H1 AI-cliché iconography**, the `Sparkles` / `Wand` / `Bot` / `Brain` / `Cpu` icon set bolted onto any "AI" feature. *Manifesto B ranked it the #1 tell.*
+- **H2 Labels the feature "AI" / names the model**, "AI-powered", "AI 분석", or an exposed `GPT-4` / `Claude` / `OpenAI` in the UI. Name the function by what it does; reveal the model only in settings.
+- **H3 Generate → preview → insert two-step**, the assistant-panel ceremony. Apply the result into the content and let the user undo (⌘Z).
+- **A4 Multi-color pill-badge inflation**, a row of status pills each in a different bright hue. When everything is colored, color stops meaning anything.
+- **B4 Sub-legible micro-type**, scattered 9–11px labels. Set a 12px floor; build hierarchy with weight, not by shrinking.
+- **E4 Nested card-in-card chrome**, the "double box". One outer card with a divide-y flat list, not a second framed surface.
+
+These fire on the **file/code detector** (`score_design`, the harness you run on
+the UI you just wrote), the use case where the markup is visible. They are not yet
+wired into the live computed-style audit, which is stated as a limit, not hidden.
+
+## The 27 tells
+
+Eight families; each tell has a weight, a severity (**tell** = strong, *smell* =
 weak/context-dependent), a mechanistic reason, and a fix. Source of truth:
 [`src/taxonomy.py`](src/taxonomy.py).
 
@@ -222,9 +253,11 @@ weak/context-dependent), a mechanistic reason, and a fix. Source of truth:
 | **A · Color** | A1 Indigo/violet default palette | 9 | a hue from the product's own brand; a perceptual ramp as semantic tokens |
 | | A2 Blue→purple hero gradient | 7 | a flat brand color or a one-hue gradient; reserve gradients for meaning |
 | | A3 Default-ramp utilities, no tokens *(smell)* | 4 | define `--color-*` semantic tokens before raw values |
+| | A4 Multi-color pill-badge inflation *(smell)* | 4 | one or two status colors; lean on weight and a single dot |
 | **B · Type** | B1 Inter/Roboto/system default font | 9 | commit to a distinctive display face (Geist/Söhne-class) + readable body |
 | | B2 No type scale discipline | 5 | a 4–6 step modular scale; size+weight+color build hierarchy |
 | | B3 No optical tracking on display *(smell)* | 3 | negative tracking on large headings (Linear: −0.22px display) |
+| | B4 Sub-legible micro-type *(smell)* | 3 | a 12px floor for real labels; hierarchy by weight, not by shrinking |
 | **C · Layout** | C1 Hero + three-feature-card template | 8 | let content dictate structure; vary shape, asymmetry, emphasis |
 | | C2 Center-everything composition | 5 | a real grid; left-align long-form; center only focal moments |
 | | C3 One border-radius everywhere | 4 | scale radius with element size; nested radii differ |
@@ -234,12 +267,16 @@ weak/context-dependent), a mechanistic reason, and a fix. Source of truth:
 | **E · Surface** | E1 Generic diffuse shadow | 5 | design elevation: tight contained shadows, or layering + hairlines |
 | | E2 Glassmorphism overuse *(smell)* | 4 | reserve blur for layered surfaces; prefer solid high-contrast panels |
 | | E3 No hairlines / no `:focus-visible` | 6 | low-alpha hairlines + a visible high-contrast focus ring |
+| | E4 Nested card-in-card chrome | 4 | one outer card + a divide-y flat list; hairlines, not a second frame |
 | **F · Motion** | F1 One fade on everything *(smell)* | 4 | animate with intent; motion follows navigation/storytelling |
 | | F2 Missing interactive microstates | 7 | design all six: default, hover, focus, active, disabled, loading |
 | | F3 Uneased transitions *(smell)* | 3 | define curves and durations (~150ms hover, 300ms state change) |
 | **G · Copy** | G1 Vague aspirational headline | 6 | a specific, opinionated claim a founder would actually say |
 | | G2 Only generic CTAs *(smell)* | 4 | a CTA that predicts the next step in the product's own words |
 | | G3 Placeholder / lorem ipsum | 5 | write the real words; copy is UX, not filler |
+| **H · AI self-reference** | H1 AI-cliché iconography | 5 | a function-true icon or the brand mark at AI entry points; never a sparkle |
+| | H2 Labels the feature "AI" / names the model | 5 | name the function by what it does; reveal the model only in settings |
+| | H3 Generate → preview → insert two-step *(smell)* | 3 | apply the result into the content; let the user undo (⌘Z) |
 
 ## The harness
 
@@ -271,7 +308,7 @@ The workflow: **generate → score → fix → re-score.**
 
 <table>
 <tr>
-<td width="50%"><img alt="money shot" src="paper/figs/fig1_moneyshot.png"><br><sub><b>Money shot.</b> Same page, −76 points from the documented fixes.</sub></td>
+<td width="50%"><img alt="money shot" src="paper/figs/fig1_moneyshot.png"><br><sub><b>Money shot.</b> Same page, −77 points from the documented fixes.</sub></td>
 <td width="50%"><img alt="distribution" src="paper/figs/fig4_distribution.png"><br><sub><b>Two clusters.</b> Every corpus page on one axis; no overlap.</sub></td>
 </tr>
 <tr>
@@ -303,6 +340,7 @@ python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt          # only for figures + MCP
 python scripts/run_audit.py              # -> results/scores.json
 python scripts/make_figures.py           # -> paper/figs/*.png
+python scripts/make_figure_field.py      # -> paper/figs/fig13_field.png (v4)
 python scripts/make_gifs.py              # -> paper/figs/*.gif
 bash   scripts/render.sh                 # -> fixture screenshots (needs Chrome)
 typst  compile paper/paper.typ paper/paper.pdf
@@ -316,6 +354,10 @@ typst  compile paper/paper.typ paper/paper.pdf
 - **Authored fixtures.** The corpus is controlled fixtures; designed pages score 0
   by construction. Claims rest on the confound-controlled refactor and the
   separation, not the absolute zeros.
+- **Family H is code-detector only.** The AI-self-reference tells (sparkle icons,
+  "AI" labels, the preview-insert flow) and the nested-box check read markup, so
+  they fire in `score_design`/`score_file`, not yet in the live computed-style
+  `audit_url`. The two source manifestos are a convenience sample, not a random one.
 - **Live auditing works now (v2), with one residual blind spot.** The recalibrated
   detector renders the page and reads computed styles, so it audits deployed URLs.
   The one thing it cannot always see is `:focus-visible`, which the browser blocks
@@ -354,7 +396,7 @@ reflective loop, not AI assistance, is what collapses a population's diversity.
 ## Repo layout
 
 ```
-src/taxonomy.py     the 21 tells, single source of truth (detector, paper, harness derive from it)
+src/taxonomy.py     the 27 tells, single source of truth (detector, paper, harness derive from it)
 src/scorer.py       the static detector + Tell Score
 src/cli.py          the `aidt` command-line linter
 src/scrape.py       render real sites (headless Chrome) and read computed styles (v2 live audit)

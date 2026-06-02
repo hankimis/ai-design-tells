@@ -47,6 +47,7 @@ def _badge(frame, score, col, grade):
 
 
 def reveal():
+    before = DATA["pages"]["ai-default"]["score"]
     a = Image.open(os.path.join(FIGS, "shot_ai-default.png")).convert("RGB")
     b = Image.open(os.path.join(FIGS, "shot_refined.png")).convert("RGB")
     w = 820
@@ -69,14 +70,14 @@ def reveal():
 
     # hold before
     for _ in range(9):
-        frames.append(compose(a, 76, SLOP, "F  ·  AI slop", "Before: the AI default"))
+        frames.append(compose(a, before, SLOP, "F  ·  AI slop", "Before: the AI default"))
         durs.append(80)
     # crossfade with counting score
     N = 16
     for i in range(N + 1):
         t = i / N
         blend = Image.blend(a, b, t)
-        score = 76 * (1 - t)
+        score = before * (1 - t)
         col = _lerp(SLOP, GOOD, t)
         grade = "F  ·  AI slop" if t < 0.5 else "A  ·  human-crafted"
         frames.append(compose(blend, score, col, grade, "Removing the tells…"))

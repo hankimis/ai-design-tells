@@ -29,6 +29,8 @@ tell. Pick from the product's own brand, domain, content, and voice.
   **Do instead:** use a flat brand color or a restrained two-stop gradient within one hue; reserve gradients for meaning.
 - **Don't: Default-ramp utilities, no semantic tokens.** _(minor)_ Scattering *-500/*-600 utilities with no --color-* tokens means color carries no system or meaning.
   **Do instead:** define semantic CSS custom properties (--color-action, --color-danger) before reaching for raw values.
+- **Don't: Multi-color pill-badge inflation.** _(minor)_ A row of status/badge pills each in a different bright hue (amber + blue + red + green) is a generated-dashboard reflex; when everything is colored, color stops meaning anything.
+  **Do instead:** limit status colors to one or two families; lean on weight and a single dot, and reserve a bright pill for one genuine alert.
 
 ## B. Type, Typographic defaulting
 
@@ -38,6 +40,8 @@ tell. Pick from the product's own brand, domain, content, and voice.
   **Do instead:** use a 4-6 step modular scale; size, weight and color together build hierarchy.
 - **Don't: No optical tracking on display type.** _(minor)_ Premium display type carries negative letter-spacing; leaving it at the browser default reads as untouched.
   **Do instead:** apply negative tracking to large headings (Linear uses -0.22px display / -0.11px body).
+- **Don't: Sub-legible micro-type.** _(minor)_ Scattering 9-11px labels under a big headline is a default a model reaches for to fit text; below ~12px both hangul and dense Latin lose legibility.
+  **Do instead:** set a 12px floor for any real label (13-14px body); build hierarchy with weight and color, not by shrinking past readability.
 
 ## C. Layout, Compositional cliche
 
@@ -65,6 +69,8 @@ tell. Pick from the product's own brand, domain, content, and voice.
   **Do instead:** reserve blur for genuinely layered surfaces; prefer solid, high-contrast panels.
 - **Don't: No hairlines / no focus-visible.** Missing 1px low-alpha separators and missing :focus-visible styles reveal that microstates and accessibility were never designed.
   **Do instead:** add designed hairlines (0.5-1px low alpha) and a visible high-contrast focus ring.
+- **Don't: Nested card-in-card chrome.** Wrapping a bordered, rounded card inside another bordered, rounded card (the 'double box') is a generated-layout habit that adds weight and blurs the hierarchy of what contains what.
+  **Do instead:** use one outer card with a divide-y flat list inside; separate sections with a hairline, not a second framed surface.
 
 ## F. Motion, Motion defaults
 
@@ -84,15 +90,26 @@ tell. Pick from the product's own brand, domain, content, and voice.
 - **Don't: Placeholder / lorem ipsum copy.** Shipped lorem ipsum or template placeholder copy means the content was never written.
   **Do instead:** write the real words; copy is UX, not filler (Toss treats text as a foundational design element).
 
+## H. AI self-reference, The UI announces itself as AI
+
+- **Don't: AI-cliche iconography.** The Sparkles / Wand / Bot / Brain / Cpu icon set is the reflexive marker models attach to any 'AI' feature; it signals a capability bolted on by a model rather than designed into the product.
+  **Do instead:** use a function-true icon (a chart, a folder, an activity line) or the product's own brand mark at AI entry points; never a sparkle.
+- **Don't: Labels the feature 'AI' / names the model.** 'AI-powered', 'AI analysis', or an exposed model/vendor name (GPT-4, Claude, OpenAI) in the UI is marketing-of-the-machine; users care about the outcome, not the engine, and the label reads as generated chrome.
+  **Do instead:** name the function by what it does ('auto-sort', 'draft'); reveal the model only in settings, never as the primary label.
+- **Don't: Generate -> preview -> insert two-step.** _(minor)_ The ChatGPT/Notion-style 'generate, show a preview card, then Insert/Apply' flow is the default assistant-panel pattern models reproduce; it reads as a bolted-on AI panel rather than a native action.
+  **Do instead:** apply the result straight into the content and let the user undo (Cmd-Z); skip the preview-then-insert ceremony.
+
 ## Pre-ship checklist (all must be true)
 
 
 - [ ] **A**, Pick a hue from the product's own brand or domain; derive a ramp in a perceptual space (LCH/OKLCH) and expose it as semantic tokens.
 - [ ] **A**, Use a flat brand color or a restrained two-stop gradient within one hue; reserve gradients for meaning.
 - [ ] **A**, Define semantic CSS custom properties (--color-action, --color-danger) before reaching for raw values.
+- [ ] **A**, Limit status colors to one or two families; lean on weight and a single dot, and reserve a bright pill for one genuine alert.
 - [ ] **B**, Commit to one distinctive display face with personality (custom or commissioned, like Geist/Sohne) paired with a readable body face.
 - [ ] **B**, Use a 4-6 step modular scale; size, weight and color together build hierarchy.
 - [ ] **B**, Apply negative tracking to large headings (Linear uses -0.22px display / -0.11px body).
+- [ ] **B**, Set a 12px floor for any real label (13-14px body); build hierarchy with weight and color, not by shrinking past readability.
 - [ ] **C**, Let the content dictate structure; vary section shape, asymmetry and emphasis instead of the template.
 - [ ] **C**, Use a real grid; left-align long-form, reserve centering for genuine focal moments.
 - [ ] **C**, Scale radius with element size; nested radii should differ (outer larger than inner).
@@ -102,12 +119,16 @@ tell. Pick from the product's own brand, domain, content, and voice.
 - [ ] **E**, Add designed hairlines (0.5-1px low alpha) and a visible high-contrast focus ring.
 - [ ] **E**, Design elevation: tight contained shadows, or layering and hairlines instead of blur (Linear's approach).
 - [ ] **E**, Reserve blur for genuinely layered surfaces; prefer solid, high-contrast panels.
+- [ ] **E**, Use one outer card with a divide-y flat list inside; separate sections with a hairline, not a second framed surface.
 - [ ] **F**, Design all six microstates (default, hover, focus, active, disabled, loading) for every interactive element.
 - [ ] **F**, Animate with intent; motion should follow navigation or storytelling, not decorate uniformly.
 - [ ] **F**, Define curves and durations (~150ms hover, 300ms state change) as a small motion system.
 - [ ] **G**, Write in a real voice with a specific, opinionated claim a founder would actually say.
 - [ ] **G**, Write the real words; copy is UX, not filler (Toss treats text as a foundational design element).
 - [ ] **G**, Make the CTA predict what happens next in the product's own words (Toss: a button should hint at the next step).
+- [ ] **H**, Use a function-true icon (a chart, a folder, an activity line) or the product's own brand mark at AI entry points; never a sparkle.
+- [ ] **H**, Name the function by what it does ('auto-sort', 'draft'); reveal the model only in settings, never as the primary label.
+- [ ] **H**, Apply the result straight into the content and let the user undo (Cmd-Z); skip the preview-then-insert ceremony.
 
 ## Concrete target values (measured on 199 real top-tier sites)
 
@@ -171,4 +192,4 @@ signature. The point is not to chase a number, it is that every number you remov
 corresponds to a real decision you made on purpose.
 
 
-<!-- 21 tells across 7 families. Source of truth: src/taxonomy.py -->
+<!-- 27 tells across 8 families. Source of truth: src/taxonomy.py -->
