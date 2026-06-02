@@ -40,6 +40,17 @@ harness so any team or coding agent can audit and prevent the look.
 
 Pick one. All of them give your agent (or your terminal) the same Tell Score detector.
 
+> **Prerequisite for Options 1 & 2:** the MCP server launches with `uvx`, so you need
+> [`uv`](https://docs.astral.sh/uv/) on your PATH (it manages the Python and the install for you):
+>
+> ```bash
+> curl -LsSf https://astral.sh/uv/install.sh | sh     # macOS / Linux
+> brew install uv                                     # or Homebrew
+> powershell -c "irm https://astral.sh/uv/install.ps1 | iex"   # Windows
+> ```
+>
+> Options 3 and 4 (pip / clone) do not need `uv`.
+
 ### Option 1 · Claude Code plugin (recommended)
 
 One command registers the MCP server, no JSON to edit:
@@ -50,7 +61,7 @@ One command registers the MCP server, no JSON to edit:
 ```
 
 Now your agent **audits the UI it just wrote before showing it to you** and gets the exact fixes.
-(Needs [uv](https://docs.astral.sh/uv/) on your PATH; the server runs via `uvx`.)
+(Runs via `uvx`, so it needs `uv`, see the prerequisite above.)
 
 ### Option 2 · MCP in any client (uvx)
 
