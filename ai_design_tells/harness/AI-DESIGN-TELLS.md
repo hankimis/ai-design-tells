@@ -1,0 +1,195 @@
+<!-- AI DESIGN TELLS, drop-in design harness -->
+<!-- Paste this whole block into your coding agent's system prompt, CLAUDE.md, -->
+<!-- .cursorrules, or a v0/Lovable custom-instructions field. It pre-empts the -->
+<!-- machine-default "AI slop" look the same way the detector scores it. -->
+<!-- Generated from the AI Design Tells taxonomy, do not edit by hand. -->
+
+# Design like a person, not the median of the training set
+
+When you build or edit any UI, you tend to fall back to the statistical centre of
+your training data: indigo gradients, Inter, a hero with three emoji cards, one
+border-radius, one soft shadow, a vague headline. That look is instantly legible
+as machine-made. **Make intentional choices instead.** Before you output a page,
+satisfy every rule below; they are exactly what the open `aidt` linter measures
+(Tell Score, 0-100, lower is better).
+
+## The rule: one sentence of intent per dimension
+
+For each design dimension, you must be able to state *why this and not the
+default*. If your only reason is "it's modern / clean / standard," that is the
+tell. Pick from the product's own brand, domain, content, and voice.
+
+
+
+## A. Color, Chromatic conformity
+
+- **Don't, "The House Indigo", indigo/violet default palette.** Indigo-500 is the single most over-represented brand color in the training corpus, so models treat purple as the default 'modern' accent.
+  **Do instead:** pick a hue from the product's own brand or domain; derive a ramp in a perceptual space (LCH/OKLCH) and expose it as semantic tokens.
+- **Don't, "The v0 Gradient", blue->purple hero gradient.** The blue-to-purple linear gradient on a hero/button is the visual signature of v0/Lovable/Bolt output.
+  **Do instead:** use a flat brand color or a restrained two-stop gradient within one hue; reserve gradients for meaning.
+- **Don't, "Raw Ramp", default-ramp utilities, no semantic tokens.** _(minor)_ Scattering *-500/*-600 utilities with no --color-* tokens means color carries no system or meaning.
+  **Do instead:** define semantic CSS custom properties (--color-action, --color-danger) before reaching for raw values.
+- **Don't, "Skittles Status", multi-color pill-badge inflation.** _(minor)_ A row of status/badge pills each in a different bright hue (amber + blue + red + green) is a generated-dashboard reflex; when everything is colored, color stops meaning anything.
+  **Do instead:** limit status colors to one or two families; lean on weight and a single dot, and reserve a bright pill for one genuine alert.
+
+## B. Type, Typographic defaulting
+
+- **Don't, "Inter, Obviously", inter/Roboto/system default font.** Inter and the system stack are the highest-frequency fonts in scraped templates; choosing them by default is the loudest type tell.
+  **Do instead:** commit to one distinctive display face with personality (custom or commissioned, like Geist/Sohne) paired with a readable body face.
+- **Don't, "One Size Fits None", no type scale discipline.** Either an ad-hoc pile of sizes or just one or two sizes signals no modular scale and therefore no hierarchy.
+  **Do instead:** use a 4-6 step modular scale; size, weight and color together build hierarchy.
+- **Don't, "Untracked", no optical tracking on display type.** _(minor)_ Premium display type carries negative letter-spacing; leaving it at the browser default reads as untouched.
+  **Do instead:** apply negative tracking to large headings (Linear uses -0.22px display / -0.11px body).
+- **Don't, "The 10px Squint", sub-legible micro-type.** _(minor)_ Scattering 9-11px labels under a big headline is a default a model reaches for to fit text; below ~12px both hangul and dense Latin lose legibility.
+  **Do instead:** set a 12px floor for any real label (13-14px body); build hierarchy with weight and color, not by shrinking past readability.
+
+## C. Layout, Compositional cliche
+
+- **Don't, "The Three-Card Trick", hero + three-feature-card template.** The hero, then a three-up icon-card grid, then a CTA is the canonical SaaS-template layout AI reproduces from tutorials.
+  **Do instead:** let the content dictate structure; vary section shape, asymmetry and emphasis instead of the template.
+- **Don't, "Dead Center", center-everything composition.** Centering nearly every block is the path of least resistance and erases the tension and rhythm of an intentional grid.
+  **Do instead:** use a real grid; left-align long-form, reserve centering for genuine focal moments.
+- **Don't, "One Radius to Rule Them All", one border-radius everywhere.** A single radius reused on every surface (the shadcn 0.5rem default) flattens the hierarchy of nested elements.
+  **Do instead:** scale radius with element size; nested radii should differ (outer larger than inner).
+- **Don't, "The Emoji Reflex", emoji as iconography.** _(minor)_ Emoji in headings and feature cards is a hallmark of model-written marketing pages.
+  **Do instead:** use a coherent icon set or custom glyphs that match the brand's weight and grid.
+
+## D. Spacing, Undifferentiated rhythm
+
+- **Don't, "24px Everywhere", one padding token on every card.** Identical padding and gaps on every block (the 'same 24px everywhere') is undifferentiated default rhythm.
+  **Do instead:** vary spacing to express grouping and importance; whitespace is the cheapest way to look designed.
+- **Don't, "Metronome Sections", uniform section rhythm.** _(minor)_ Every section sharing one vertical padding means no passage of the page is emphasised over another.
+  **Do instead:** modulate section spacing; give the hero and key moments more air.
+
+## E. Surface, Depth & state defaults
+
+- **Don't, "shadow-lg, Shipped", generic diffuse shadow.** The default soft drop shadow (Tailwind shadow-lg / 0 10px 15px rgba(0,0,0,.1)) applied to every card is an un-designed depth cue.
+  **Do instead:** design elevation: tight contained shadows, or layering and hairlines instead of blur (Linear's approach).
+- **Don't, "Frosted Everything", glassmorphism overuse.** _(minor)_ Backdrop-blur translucency on many surfaces is a trend the models over-apply because it is over-represented recently.
+  **Do instead:** reserve blur for genuinely layered surfaces; prefer solid, high-contrast panels.
+- **Don't, "No Focus Given", no hairlines / no focus-visible.** Missing 1px low-alpha separators and missing :focus-visible styles reveal that microstates and accessibility were never designed.
+  **Do instead:** add designed hairlines (0.5-1px low alpha) and a visible high-contrast focus ring.
+- **Don't, "Box-in-a-Box", nested card-in-card chrome.** Wrapping a bordered, rounded card inside another bordered, rounded card (the 'double box') is a generated-layout habit that adds weight and blurs the hierarchy of what contains what.
+  **Do instead:** use one outer card with a divide-y flat list inside; separate sections with a hairline, not a second framed surface.
+
+## F. Motion, Motion defaults
+
+- **Don't, "Fade-in, Repeat", one fade applied to everything.** _(minor)_ The same entrance fade/slide on every element is the default AI motion gesture.
+  **Do instead:** animate with intent; motion should follow navigation or storytelling, not decorate uniformly.
+- **Don't, "No Hover, No Care", missing interactive microstates.** Buttons and inputs without designed hover/focus/active/disabled states are the strongest craft tell - premium UI designs all six.
+  **Do instead:** design all six microstates (default, hover, focus, active, disabled, loading) for every interactive element.
+- **Don't, "Snap, Not Eased", uneased transitions.** _(minor)_ Transitions with no custom duration/easing snap instead of feeling considered.
+  **Do instead:** define curves and durations (~150ms hover, 300ms state change) as a small motion system.
+
+## G. Copy, Language defaults
+
+- **Don't, "Build the Future of ___", vague aspirational headline.** 'Build the future of work', 'all-in-one platform' - grammatically perfect, topically relevant, completely forgettable copy is the language signature of generated marketing.
+  **Do instead:** write in a real voice with a specific, opinionated claim a founder would actually say.
+- **Don't, "Get Started, Again", only generic CTAs.** _(minor)_ 'Get Started' / 'Learn More' as the sole calls to action carry no product-specific promise.
+  **Do instead:** make the CTA predict what happens next in the product's own words (Toss: a button should hint at the next step).
+- **Don't, "Lorem Shipsum", placeholder / lorem ipsum copy.** Shipped lorem ipsum or template placeholder copy means the content was never written.
+  **Do instead:** write the real words; copy is UX, not filler (Toss treats text as a foundational design element).
+
+## H. AI self-reference, The UI announces itself as AI
+
+- **Don't, "The Sparkle Tax", aI-cliche iconography.** The Sparkles / Wand / Bot / Brain / Cpu icon set is the reflexive marker models attach to any 'AI' feature; it signals a capability bolted on by a model rather than designed into the product.
+  **Do instead:** use a function-true icon (a chart, a folder, an activity line) or the product's own brand mark at AI entry points; never a sparkle.
+- **Don't, "Powered-by Theatre", labels the feature 'AI' / names the model.** 'AI-powered', 'AI analysis', or an exposed model/vendor name (GPT-4, Claude, OpenAI) in the UI is marketing-of-the-machine; users care about the outcome, not the engine, and the label reads as generated chrome.
+  **Do instead:** name the function by what it does ('auto-sort', 'draft'); reveal the model only in settings, never as the primary label.
+- **Don't, "The Insert Dance", generate -> preview -> insert two-step.** _(minor)_ The ChatGPT/Notion-style 'generate, show a preview card, then Insert/Apply' flow is the default assistant-panel pattern models reproduce; it reads as a bolted-on AI panel rather than a native action.
+  **Do instead:** apply the result straight into the content and let the user undo (Cmd-Z); skip the preview-then-insert ceremony.
+
+## Pre-ship checklist (all must be true)
+
+
+- [ ] **A**, Pick a hue from the product's own brand or domain; derive a ramp in a perceptual space (LCH/OKLCH) and expose it as semantic tokens.
+- [ ] **A**, Use a flat brand color or a restrained two-stop gradient within one hue; reserve gradients for meaning.
+- [ ] **A**, Define semantic CSS custom properties (--color-action, --color-danger) before reaching for raw values.
+- [ ] **A**, Limit status colors to one or two families; lean on weight and a single dot, and reserve a bright pill for one genuine alert.
+- [ ] **B**, Commit to one distinctive display face with personality (custom or commissioned, like Geist/Sohne) paired with a readable body face.
+- [ ] **B**, Use a 4-6 step modular scale; size, weight and color together build hierarchy.
+- [ ] **B**, Apply negative tracking to large headings (Linear uses -0.22px display / -0.11px body).
+- [ ] **B**, Set a 12px floor for any real label (13-14px body); build hierarchy with weight and color, not by shrinking past readability.
+- [ ] **C**, Let the content dictate structure; vary section shape, asymmetry and emphasis instead of the template.
+- [ ] **C**, Use a real grid; left-align long-form, reserve centering for genuine focal moments.
+- [ ] **C**, Scale radius with element size; nested radii should differ (outer larger than inner).
+- [ ] **C**, Use a coherent icon set or custom glyphs that match the brand's weight and grid.
+- [ ] **D**, Vary spacing to express grouping and importance; whitespace is the cheapest way to look designed.
+- [ ] **D**, Modulate section spacing; give the hero and key moments more air.
+- [ ] **E**, Add designed hairlines (0.5-1px low alpha) and a visible high-contrast focus ring.
+- [ ] **E**, Design elevation: tight contained shadows, or layering and hairlines instead of blur (Linear's approach).
+- [ ] **E**, Reserve blur for genuinely layered surfaces; prefer solid, high-contrast panels.
+- [ ] **E**, Use one outer card with a divide-y flat list inside; separate sections with a hairline, not a second framed surface.
+- [ ] **F**, Design all six microstates (default, hover, focus, active, disabled, loading) for every interactive element.
+- [ ] **F**, Animate with intent; motion should follow navigation or storytelling, not decorate uniformly.
+- [ ] **F**, Define curves and durations (~150ms hover, 300ms state change) as a small motion system.
+- [ ] **G**, Write in a real voice with a specific, opinionated claim a founder would actually say.
+- [ ] **G**, Write the real words; copy is UX, not filler (Toss treats text as a foundational design element).
+- [ ] **G**, Make the CTA predict what happens next in the product's own words (Toss: a button should hint at the next step).
+- [ ] **H**, Use a function-true icon (a chart, a folder, an activity line) or the product's own brand mark at AI entry points; never a sparkle.
+- [ ] **H**, Name the function by what it does ('auto-sort', 'draft'); reveal the model only in settings, never as the primary label.
+- [ ] **H**, Apply the result straight into the content and let the user undo (Cmd-Z); skip the preview-then-insert ceremony.
+
+## Concrete target values (measured on 199 real top-tier sites)
+
+Not opinions, the medians and shapes of what design-led sites actually ship. Aim
+inside these unless the brand gives you a reason to leave.
+
+- **Primary button:** radius median `8.0px` (the field
+  splits between soft-round 8-12px and a full pill, both fine; pills are ~24% of sites).
+  Padding around `7.9px 15.3px`,
+  label `15.0px`, weight ~`500`
+  (400 is common, a bold label is not required). Only ~13% put a shadow on the button.
+- **Type scale:** h1 median `64.0px`, body `16.0px`.
+  Headlines run a tight line-height (~`1.1`) and ~54%
+  negatively track; body sits at line-height ~`1.5` with normal tracking.
+- **Layout:** content max-width median `1200.0px` (commonly `1440px`, `1280px`, `1200px`).
+  Section vertical rhythm median `64.0px`.
+- **Spacing:** a 4/8px grid, but not religiously, most-used steps are `16px`, `8px`, `24px`, `12px`, `4px`, `32px`, `10px`, `20px`.
+- **Light palette:** page bg almost always `#ffffff` (or a near-white); primary text a near-black, rarely pure `#000` on pure white.
+  Accent is wide open, `#7c3aed`, `#1868db`, `#171321`, `#fcab79`, `#2702c2`, `#222875` all appear once each across sites. The hue is never the tell.
+- **Dark palette:** page bg is usually a *tinted* near-black (`#111111`, `#18181b`, `#14120b`, `#0b0f19`, `#07060d`); pure `#000000` shows up but
+  is the minority. Raised surfaces are a step lighter, not a 1px border on the same color; text is an off-white, not pure `#fff`.
+
+See `reference/COMPONENT-SPECS.md` for the full per-component tables and per-site appendix.
+
+**Building for a Korean (hangul) audience?** Two things change, measured across 48 Korean
+top sites (`reference/KOREAN-SPECS.md`): use Pretendard or a commissioned hangul face (it is
+the Korean Inter, so bare Pretendard with no scale is still the type tell), and set body a
+notch smaller, ~14px not 16px (hangul carries more ink per glyph). Line-height does *not*
+change, keep it ~1.5 to 1.7; Pretendard already ships generous leading.
+
+
+## What 202 real top-tier sites actually do (use these as targets)
+
+Learned by rendering 202 human-crafted sites (Stripe, Linear, Toss, Apple, Vercel,
+Figma, ...) and reading their computed styles:
+
+- **Type:** a custom or commissioned display face is the norm; if you do use Inter
+  or the system stack (a quarter of top sites do, Linear included), earn it with a
+  real scale and optical tracking. ~78% negatively track large headings.
+- **Radius:** a *hierarchy*, not one value. Median 6 distinct radii per site (p90 = 12).
+- **Sizes:** a rich scale is normal, median 10 distinct sizes (p90 = 15). The tell
+  is the degenerate one-or-two-size page, not a high count.
+- **Layout:** top sites almost never center everything, median 2% of blocks centered.
+- **Focus:** ~96% define a visible focus state. Do too.
+- **Color:** a brand purple is fine (Stripe uses 123 purple accents and reads as
+  crafted). What is NOT fine is the *exact* default indigo with nothing else decided.
+
+The rule of thumb: any one default is forgivable if real craft sits next to it.
+The AI look is the *bundle* of defaults with nothing compensating.
+
+## How to verify
+
+Run the detector on your output and drive the Tell Score toward 0:
+
+```bash
+python src/cli.py your_page.html        # or wire up the MCP `score_design` tool
+```
+
+A score under ~12 reads as human-crafted; anything over ~45 is a strong AI-default
+signature. The point is not to chase a number, it is that every number you remove
+corresponds to a real decision you made on purpose.
+
+
+<!-- 27 tells across 8 families. Source of truth: src/taxonomy.py -->

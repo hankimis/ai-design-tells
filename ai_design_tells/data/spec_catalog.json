@@ -1,0 +1,1870 @@
+{
+  "n_sites": 199,
+  "sites": [
+    "a16z.com",
+    "about.gitlab.com",
+    "activetheory.net",
+    "airtable.com",
+    "arc.net",
+    "asana.com",
+    "astro.build",
+    "basement.studio",
+    "bear.app",
+    "bere.al",
+    "bun.sh",
+    "calendly.com",
+    "carta.com",
+    "character.ai",
+    "clerk.com",
+    "clickup.com",
+    "coda.io",
+    "codesandbox.io",
+    "cohere.com",
+    "cursor.com",
+    "deno.com",
+    "discord.com",
+    "elevenlabs.io",
+    "ethereum.org",
+    "every.to",
+    "family.co",
+    "fly.io",
+    "ghost.org",
+    "github.com",
+    "godly.website",
+    "grafana.com",
+    "greylock.com",
+    "gusto.com",
+    "huggingface.co",
+    "igloo.inc",
+    "linear.app",
+    "locomotive.ca",
+    "lusion.co",
+    "mailchimp.com",
+    "make.com",
+    "mercury.com",
+    "metamask.io",
+    "miro.com",
+    "monday.com",
+    "monzo.com",
+    "n26.com",
+    "neon.tech",
+    "nuxt.com",
+    "obsidian.md",
+    "offset.com",
+    "openai.com",
+    "opensea.io",
+    "paulgraham.com",
+    "pentagram.com",
+    "phantom.app",
+    "pitch.com",
+    "plaid.com",
+    "planetscale.com",
+    "polygon.technology",
+    "posthog.com",
+    "qwik.dev",
+    "railway.app",
+    "rainbow.me",
+    "ramp.com",
+    "react.dev",
+    "readwise.io",
+    "redis.io",
+    "remix.run",
+    "render.com",
+    "replicate.com",
+    "replit.com",
+    "resend.com",
+    "robinhood.com",
+    "runwayml.com",
+    "sentry.io",
+    "signal.org",
+    "slack.com",
+    "squareup.com",
+    "stackblitz.com",
+    "strapi.io",
+    "stripe.com",
+    "stripe.press",
+    "substack.com",
+    "suno.com",
+    "supabase.com",
+    "svelte.dev",
+    "tailwindcss.com",
+    "telegram.org",
+    "temporal.io",
+    "todoist.com",
+    "ui.shadcn.com",
+    "uniswap.org",
+    "unseen.co",
+    "upstash.com",
+    "vercel.com",
+    "vuejs.org",
+    "waitbutwhy.com",
+    "weaviate.io",
+    "webflow.com",
+    "wise.com",
+    "www.adyen.com",
+    "www.aesop.com",
+    "www.airbnb.com",
+    "www.allbirds.com",
+    "www.anthropic.com",
+    "www.apple.com",
+    "www.atlassian.com",
+    "www.awwwards.com",
+    "www.behance.net",
+    "www.bloomberg.com",
+    "www.brex.com",
+    "www.calm.com",
+    "www.canva.com",
+    "www.checkout.com",
+    "www.cloudflare.com",
+    "www.cockroachlabs.com",
+    "www.cognition.ai",
+    "www.coinbase.com",
+    "www.contentful.com",
+    "www.craft.do",
+    "www.cuberto.com",
+    "www.datadoghq.com",
+    "www.deel.com",
+    "www.descript.com",
+    "www.docker.com",
+    "www.doordash.com",
+    "www.dribbble.com",
+    "www.dropbox.com",
+    "www.dropbox.com_paper",
+    "www.duolingo.com",
+    "www.economist.com",
+    "www.fastcompany.com",
+    "www.fey.com",
+    "www.figma.com",
+    "www.figma.com_community",
+    "www.firstround.com",
+    "www.framer.com",
+    "www.glossier.com",
+    "www.godaddy.com",
+    "www.hashicorp.com",
+    "www.headspace.com",
+    "www.hubspot.com",
+    "www.ideo.com",
+    "www.instrument.com",
+    "www.intercom.com",
+    "www.klaviyo.com",
+    "www.land-book.com",
+    "www.langchain.com",
+    "www.lennysnewsletter.com",
+    "www.loom.com",
+    "www.lyft.com",
+    "www.medium.com",
+    "www.midjourney.com",
+    "www.mintlify.com",
+    "www.mistral.ai",
+    "www.mongodb.com",
+    "www.netlify.com",
+    "www.nike.com",
+    "www.notion.so",
+    "www.nytimes.com",
+    "www.on.com",
+    "www.onepeloton.com",
+    "www.ouraring.com",
+    "www.patagonia.com",
+    "www.perplexity.ai",
+    "www.pinecone.io",
+    "www.postman.com",
+    "www.prisma.io",
+    "www.producthunt.com",
+    "www.radix-ui.com",
+    "www.raycast.com",
+    "www.reddit.com",
+    "www.retool.com",
+    "www.revolut.com",
+    "www.rippling.com",
+    "www.salesforce.com",
+    "www.sanity.io",
+    "www.sequoiacap.com",
+    "www.shopify.com",
+    "www.solana.com",
+    "www.solidjs.com",
+    "www.spotify.com",
+    "www.squarespace.com",
+    "www.sunsama.com",
+    "www.superhuman.com",
+    "www.tesla.com",
+    "www.theverge.com",
+    "www.toss.im",
+    "www.twilio.com",
+    "www.typeform.com",
+    "www.uber.com",
+    "www.warp.dev",
+    "www.whoop.com",
+    "www.wired.com",
+    "www.wix.com",
+    "www.ycombinator.com",
+    "www.zapier.com",
+    "zoom.us",
+    "zora.co"
+  ],
+  "buttons": {
+    "primary": {
+      "n_sites": 164,
+      "radius_px": {
+        "median": 8.0,
+        "range": [
+          0.0,
+          32.0
+        ],
+        "common": [
+          [
+            8,
+            22
+          ],
+          [
+            0,
+            17
+          ],
+          [
+            6,
+            15
+          ],
+          [
+            4,
+            12
+          ],
+          [
+            12,
+            7
+          ],
+          [
+            16,
+            5
+          ]
+        ],
+        "buckets": [
+          [
+            "pill",
+            39
+          ],
+          [
+            "small (1-6)",
+            37
+          ],
+          [
+            "medium (8-12)",
+            35
+          ],
+          [
+            "large (14+)",
+            27
+          ],
+          [
+            "sharp (0)",
+            17
+          ]
+        ],
+        "pill_pct": 24
+      },
+      "padding_x_px": {
+        "median": 15.3,
+        "range": [
+          0.0,
+          24.0
+        ]
+      },
+      "padding_y_px": {
+        "median": 7.9,
+        "range": [
+          0.0,
+          15.5
+        ]
+      },
+      "font_size_px": {
+        "median": 15.0,
+        "common": [
+          [
+            16,
+            60
+          ],
+          [
+            14,
+            46
+          ],
+          [
+            13,
+            16
+          ],
+          [
+            18,
+            11
+          ],
+          [
+            12,
+            11
+          ],
+          [
+            15,
+            8
+          ]
+        ]
+      },
+      "font_weight": {
+        "median": 500.0,
+        "common": [
+          [
+            400,
+            70
+          ],
+          [
+            500,
+            46
+          ],
+          [
+            600,
+            29
+          ],
+          [
+            700,
+            13
+          ],
+          [
+            300,
+            2
+          ],
+          [
+            660,
+            1
+          ]
+        ]
+      },
+      "with_shadow_pct": 13,
+      "uppercase_pct": 7,
+      "examples": [
+        {
+          "site": "about.gitlab.com",
+          "bg": "#ffffff",
+          "color": "#171321",
+          "radius": "4px",
+          "padding": "11px 16px 11px 16px",
+          "font_size": "18px",
+          "font_weight": "660"
+        },
+        {
+          "site": "airtable.com",
+          "bg": "#181d26",
+          "color": "#ffffff",
+          "radius": "12px",
+          "padding": "16px 24px 16px 24px",
+          "font_size": "16px",
+          "font_weight": "500"
+        },
+        {
+          "site": "arc.net",
+          "bg": "#ffffff",
+          "color": "#2702c2",
+          "radius": "10px",
+          "padding": "8px 0px 8px 0px",
+          "font_size": "14px",
+          "font_weight": "600"
+        },
+        {
+          "site": "asana.com",
+          "bg": "#0d0d0d",
+          "color": "#ffffff",
+          "radius": "100px",
+          "padding": "0px 16px 0px 16px",
+          "font_size": "14px",
+          "font_weight": "500"
+        },
+        {
+          "site": "astro.build",
+          "bg": "#61dafb",
+          "color": "#030712",
+          "radius": "8px",
+          "padding": "8px 16px 8px 16px",
+          "font_size": "16px",
+          "font_weight": "400"
+        },
+        {
+          "site": "bun.sh",
+          "bg": "#282a35",
+          "color": "#ffffff",
+          "radius": "9999px",
+          "padding": "12px 18px 12px 18px",
+          "font_size": "16px",
+          "font_weight": "500"
+        },
+        {
+          "site": "calendly.com",
+          "bg": "#006bff",
+          "color": "#ffffff",
+          "radius": "8px",
+          "padding": "10px 16px 10px 16px",
+          "font_size": "14px",
+          "font_weight": "600"
+        },
+        {
+          "site": "carta.com",
+          "bg": "#1a1a1a",
+          "color": "#ffffff",
+          "radius": "8px",
+          "padding": "8px 16px 10px 16px",
+          "font_size": "16px",
+          "font_weight": "500"
+        }
+      ]
+    },
+    "secondary": {
+      "n_sites": 79,
+      "radius_px": {
+        "median": 6.0,
+        "range": [
+          0.0,
+          16.0
+        ],
+        "common": [
+          [
+            4,
+            12
+          ],
+          [
+            6,
+            11
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            8,
+            6
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            16,
+            3
+          ]
+        ],
+        "buckets": [
+          [
+            "small (1-6)",
+            31
+          ],
+          [
+            "pill",
+            22
+          ],
+          [
+            "medium (8-12)",
+            10
+          ],
+          [
+            "large (14+)",
+            9
+          ],
+          [
+            "sharp (0)",
+            7
+          ]
+        ],
+        "pill_pct": 28
+      },
+      "padding_x_px": {
+        "median": 16.0,
+        "range": [
+          6.0,
+          24.0
+        ]
+      },
+      "padding_y_px": {
+        "median": 8.0,
+        "range": [
+          0.0,
+          15.0
+        ]
+      },
+      "font_size_px": {
+        "median": 14.4,
+        "common": [
+          [
+            16,
+            26
+          ],
+          [
+            14,
+            25
+          ],
+          [
+            13,
+            8
+          ],
+          [
+            18,
+            6
+          ],
+          [
+            12,
+            4
+          ],
+          [
+            15,
+            3
+          ]
+        ]
+      },
+      "font_weight": {
+        "median": 500,
+        "common": [
+          [
+            400,
+            33
+          ],
+          [
+            500,
+            18
+          ],
+          [
+            600,
+            11
+          ],
+          [
+            700,
+            11
+          ],
+          [
+            300,
+            2
+          ],
+          [
+            660,
+            1
+          ]
+        ]
+      },
+      "with_shadow_pct": 8,
+      "uppercase_pct": 8,
+      "examples": [
+        {
+          "site": "about.gitlab.com",
+          "bg": "transparent",
+          "color": "#171321",
+          "radius": "4px",
+          "padding": "11px 16px 11px 16px",
+          "font_size": "18px",
+          "font_weight": "660"
+        },
+        {
+          "site": "airtable.com",
+          "bg": "transparent",
+          "color": "#181d26",
+          "radius": "12px",
+          "padding": "16px 24px 16px 24px",
+          "font_size": "16px",
+          "font_weight": "500"
+        },
+        {
+          "site": "bun.sh",
+          "bg": "#3b3f4b",
+          "color": "#e5e7eb",
+          "radius": "6px",
+          "padding": "8px 16px 8px 16px",
+          "font_size": "16px",
+          "font_weight": "400"
+        },
+        {
+          "site": "calendly.com",
+          "bg": "transparent",
+          "color": "#476788",
+          "radius": "8px",
+          "padding": "10px 16px 10px 16px",
+          "font_size": "14px",
+          "font_weight": "600"
+        },
+        {
+          "site": "character.ai",
+          "bg": "transparent",
+          "color": "#202024",
+          "radius": "30px",
+          "padding": "0px 16px 0px 16px",
+          "font_size": "14px",
+          "font_weight": "400"
+        },
+        {
+          "site": "coda.io",
+          "bg": "transparent",
+          "color": "#212121",
+          "radius": "8px",
+          "padding": "0px 12px 0px 12px",
+          "font_size": "14px",
+          "font_weight": "600"
+        },
+        {
+          "site": "deno.com",
+          "bg": "transparent",
+          "color": "#000000",
+          "radius": "4px",
+          "padding": "8px 8px 8px 8px",
+          "font_size": "20px",
+          "font_weight": "400"
+        },
+        {
+          "site": "ethereum.org",
+          "bg": "transparent",
+          "color": "#6c24e0",
+          "radius": "4px",
+          "padding": "8px 16px 8px 16px",
+          "font_size": "16px",
+          "font_weight": "400"
+        }
+      ]
+    },
+    "ghost": {
+      "n_sites": 182,
+      "radius_px": {
+        "median": 0.0,
+        "range": [
+          0.0,
+          10.0
+        ],
+        "common": [
+          [
+            0,
+            98
+          ],
+          [
+            4,
+            14
+          ],
+          [
+            8,
+            13
+          ],
+          [
+            6,
+            10
+          ],
+          [
+            12,
+            5
+          ],
+          [
+            3,
+            2
+          ]
+        ],
+        "buckets": [
+          [
+            "sharp (0)",
+            98
+          ],
+          [
+            "small (1-6)",
+            27
+          ],
+          [
+            "pill",
+            22
+          ],
+          [
+            "medium (8-12)",
+            21
+          ],
+          [
+            "large (14+)",
+            10
+          ]
+        ],
+        "pill_pct": 12
+      },
+      "padding_x_px": {
+        "median": 1.5,
+        "range": [
+          0.0,
+          16.0
+        ]
+      },
+      "padding_y_px": {
+        "median": 0.0,
+        "range": [
+          0.0,
+          12.0
+        ]
+      },
+      "font_size_px": {
+        "median": 16.0,
+        "common": [
+          [
+            16,
+            78
+          ],
+          [
+            14,
+            42
+          ],
+          [
+            15,
+            13
+          ],
+          [
+            12,
+            13
+          ],
+          [
+            13,
+            10
+          ],
+          [
+            18,
+            6
+          ]
+        ]
+      },
+      "font_weight": {
+        "median": 400.0,
+        "common": [
+          [
+            400,
+            109
+          ],
+          [
+            500,
+            39
+          ],
+          [
+            600,
+            18
+          ],
+          [
+            300,
+            5
+          ],
+          [
+            700,
+            5
+          ],
+          [
+            660,
+            1
+          ]
+        ]
+      },
+      "with_shadow_pct": 6,
+      "uppercase_pct": 6,
+      "examples": [
+        {
+          "site": "a16z.com",
+          "bg": "transparent",
+          "color": "#ffffff",
+          "radius": "0px",
+          "padding": "8px 8px 8px 8px",
+          "font_size": "16px",
+          "font_weight": "300"
+        },
+        {
+          "site": "about.gitlab.com",
+          "bg": "transparent",
+          "color": "#0000ee",
+          "radius": "4px",
+          "padding": "8px 8px 8px 8px",
+          "font_size": "0px",
+          "font_weight": "660"
+        },
+        {
+          "site": "airtable.com",
+          "bg": "transparent",
+          "color": "#070c14",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "font_size": "14px",
+          "font_weight": "400"
+        },
+        {
+          "site": "asana.com",
+          "bg": "transparent",
+          "color": "#ffffff",
+          "radius": "4px",
+          "padding": "0px 0px 0px 0px",
+          "font_size": "14px",
+          "font_weight": "500"
+        },
+        {
+          "site": "astro.build",
+          "bg": "transparent",
+          "color": "#bfc1c9",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "font_size": "16px",
+          "font_weight": "400"
+        },
+        {
+          "site": "basement.studio",
+          "bg": "transparent",
+          "color": "#ffffff",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "font_size": "16px",
+          "font_weight": "400"
+        },
+        {
+          "site": "bear.app",
+          "bg": "transparent",
+          "color": "#dd4c4f",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "font_size": "16px",
+          "font_weight": "400"
+        },
+        {
+          "site": "bere.al",
+          "bg": "transparent",
+          "color": "#d1d6de",
+          "radius": "0px",
+          "padding": "0px 0px 0px 0px",
+          "font_size": "14px",
+          "font_weight": "400"
+        }
+      ]
+    }
+  },
+  "typography": {
+    "h1": {
+      "n_sites": 163,
+      "font_size_px": {
+        "median": 64.0,
+        "range": [
+          28.8,
+          94.0
+        ],
+        "common": [
+          [
+            64,
+            20
+          ],
+          [
+            48,
+            13
+          ],
+          [
+            72,
+            10
+          ],
+          [
+            80,
+            10
+          ],
+          [
+            24,
+            8
+          ],
+          [
+            56,
+            7
+          ]
+        ]
+      },
+      "font_weight": {
+        "median": 500,
+        "common": [
+          [
+            400,
+            48
+          ],
+          [
+            700,
+            34
+          ],
+          [
+            600,
+            28
+          ],
+          [
+            500,
+            28
+          ],
+          [
+            300,
+            11
+          ],
+          [
+            800,
+            4
+          ]
+        ]
+      },
+      "line_height_ratio": {
+        "median": 1.1,
+        "range": [
+          0.98,
+          1.33
+        ]
+      },
+      "neg_tracking_pct": 54,
+      "top_families": [
+        [
+          "inter",
+          13
+        ],
+        [
+          "geist",
+          3
+        ],
+        [
+          "poppins",
+          3
+        ],
+        [
+          "system-ui",
+          2
+        ],
+        [
+          "mona sans",
+          2
+        ],
+        [
+          "inter variable",
+          2
+        ],
+        [
+          "aeonik",
+          2
+        ],
+        [
+          "neue montreal",
+          2
+        ]
+      ]
+    },
+    "h2": {
+      "n_sites": 169,
+      "font_size_px": {
+        "median": 48.0,
+        "range": [
+          21.0,
+          80.0
+        ],
+        "common": [
+          [
+            48,
+            18
+          ],
+          [
+            36,
+            14
+          ],
+          [
+            64,
+            10
+          ],
+          [
+            40,
+            10
+          ],
+          [
+            56,
+            10
+          ],
+          [
+            32,
+            9
+          ]
+        ]
+      },
+      "font_weight": {
+        "median": 500,
+        "common": [
+          [
+            400,
+            57
+          ],
+          [
+            700,
+            34
+          ],
+          [
+            500,
+            28
+          ],
+          [
+            600,
+            26
+          ],
+          [
+            300,
+            9
+          ],
+          [
+            800,
+            4
+          ]
+        ]
+      },
+      "line_height_ratio": {
+        "median": 1.1,
+        "range": [
+          1,
+          1.33
+        ]
+      },
+      "neg_tracking_pct": 46,
+      "top_families": [
+        [
+          "inter",
+          11
+        ],
+        [
+          "poppins",
+          3
+        ],
+        [
+          "geist",
+          2
+        ],
+        [
+          "system-ui",
+          2
+        ],
+        [
+          "ui-sans-serif",
+          2
+        ],
+        [
+          "plus jakarta sans",
+          2
+        ],
+        [
+          "inter variable",
+          2
+        ],
+        [
+          "aeonik",
+          2
+        ]
+      ]
+    },
+    "h3": {
+      "n_sites": 143,
+      "font_size_px": {
+        "median": 32.0,
+        "range": [
+          16.0,
+          48.0
+        ],
+        "common": [
+          [
+            24,
+            18
+          ],
+          [
+            40,
+            17
+          ],
+          [
+            32,
+            14
+          ],
+          [
+            36,
+            13
+          ],
+          [
+            48,
+            11
+          ],
+          [
+            20,
+            11
+          ]
+        ]
+      },
+      "font_weight": {
+        "median": 500,
+        "common": [
+          [
+            400,
+            56
+          ],
+          [
+            600,
+            23
+          ],
+          [
+            500,
+            23
+          ],
+          [
+            700,
+            18
+          ],
+          [
+            300,
+            9
+          ],
+          [
+            800,
+            5
+          ]
+        ]
+      },
+      "line_height_ratio": {
+        "median": 1.2,
+        "range": [
+          1,
+          1.5
+        ]
+      },
+      "neg_tracking_pct": 37,
+      "top_families": [
+        [
+          "inter",
+          12
+        ],
+        [
+          "plus jakarta sans",
+          3
+        ],
+        [
+          "geist",
+          2
+        ],
+        [
+          "poppins",
+          2
+        ],
+        [
+          "inter variable",
+          2
+        ],
+        [
+          "aeonik",
+          2
+        ],
+        [
+          "charlie display",
+          2
+        ],
+        [
+          "figtree",
+          2
+        ]
+      ]
+    },
+    "h4": {
+      "n_sites": 59,
+      "font_size_px": {
+        "median": 23.0,
+        "range": [
+          16.0,
+          32.0
+        ],
+        "common": [
+          [
+            20,
+            9
+          ],
+          [
+            16,
+            9
+          ],
+          [
+            24,
+            9
+          ],
+          [
+            32,
+            8
+          ],
+          [
+            28,
+            4
+          ],
+          [
+            18,
+            4
+          ]
+        ]
+      },
+      "font_weight": {
+        "median": 500,
+        "common": [
+          [
+            500,
+            18
+          ],
+          [
+            600,
+            15
+          ],
+          [
+            400,
+            14
+          ],
+          [
+            700,
+            9
+          ],
+          [
+            300,
+            2
+          ],
+          [
+            590,
+            1
+          ]
+        ]
+      },
+      "line_height_ratio": {
+        "median": 1.2,
+        "range": [
+          1,
+          1.6
+        ]
+      },
+      "neg_tracking_pct": 34,
+      "top_families": [
+        [
+          "inter",
+          9
+        ],
+        [
+          "twk lausanne",
+          1
+        ],
+        [
+          "geist",
+          1
+        ],
+        [
+          "system-ui",
+          1
+        ],
+        [
+          "gilroy",
+          1
+        ],
+        [
+          "sometype mono",
+          1
+        ],
+        [
+          "twk everett",
+          1
+        ],
+        [
+          "unica77 cohere web",
+          1
+        ]
+      ]
+    },
+    "body": {
+      "n_sites": 187,
+      "font_size_px": {
+        "median": 16.0,
+        "range": [
+          14.0,
+          20.0
+        ],
+        "common": [
+          [
+            16,
+            67
+          ],
+          [
+            14,
+            41
+          ],
+          [
+            18,
+            18
+          ],
+          [
+            15,
+            13
+          ],
+          [
+            20,
+            11
+          ],
+          [
+            13,
+            7
+          ]
+        ]
+      },
+      "font_weight": {
+        "median": 400,
+        "common": [
+          [
+            400,
+            136
+          ],
+          [
+            500,
+            22
+          ],
+          [
+            300,
+            9
+          ],
+          [
+            600,
+            7
+          ],
+          [
+            700,
+            4
+          ],
+          [
+            450,
+            2
+          ]
+        ]
+      },
+      "line_height_ratio": {
+        "median": 1.5,
+        "range": [
+          1.2,
+          1.63
+        ]
+      },
+      "neg_tracking_pct": 13,
+      "top_families": [
+        [
+          "inter",
+          33
+        ],
+        [
+          "system-ui",
+          4
+        ],
+        [
+          "ui-sans-serif",
+          3
+        ],
+        [
+          "geist",
+          3
+        ],
+        [
+          "inter variable",
+          3
+        ],
+        [
+          "-apple-system",
+          3
+        ],
+        [
+          "__inter_f367f3",
+          2
+        ],
+        [
+          "mona sans",
+          2
+        ]
+      ]
+    }
+  },
+  "layout": {
+    "container_max_px": {
+      "median": 1200.0,
+      "common": [
+        [
+          1440,
+          33
+        ],
+        [
+          1280,
+          27
+        ],
+        [
+          1200,
+          15
+        ],
+        [
+          1600,
+          12
+        ],
+        [
+          1920,
+          10
+        ],
+        [
+          640,
+          7
+        ]
+      ]
+    },
+    "gap_px": {
+      "common": [
+        [
+          8,
+          156
+        ],
+        [
+          16,
+          145
+        ],
+        [
+          12,
+          126
+        ],
+        [
+          4,
+          123
+        ],
+        [
+          24,
+          121
+        ],
+        [
+          32,
+          95
+        ],
+        [
+          6,
+          61
+        ],
+        [
+          10,
+          59
+        ],
+        [
+          20,
+          58
+        ],
+        [
+          40,
+          52
+        ]
+      ]
+    },
+    "section_padding_top_px": {
+      "median": 64.0,
+      "common": [
+        [
+          64,
+          44
+        ],
+        [
+          80,
+          43
+        ],
+        [
+          48,
+          41
+        ],
+        [
+          32,
+          41
+        ],
+        [
+          24,
+          35
+        ],
+        [
+          96,
+          24
+        ],
+        [
+          40,
+          24
+        ],
+        [
+          120,
+          18
+        ]
+      ]
+    },
+    "grid_columns": {
+      "common": [
+        [
+          1,
+          92
+        ],
+        [
+          2,
+          85
+        ],
+        [
+          3,
+          56
+        ],
+        [
+          12,
+          31
+        ],
+        [
+          4,
+          28
+        ],
+        [
+          6,
+          8
+        ],
+        [
+          5,
+          7
+        ],
+        [
+          16,
+          4
+        ]
+      ]
+    }
+  },
+  "spacing": {
+    "padding_scale_common": [
+      [
+        16,
+        181
+      ],
+      [
+        8,
+        178
+      ],
+      [
+        24,
+        167
+      ],
+      [
+        12,
+        164
+      ],
+      [
+        4,
+        142
+      ],
+      [
+        32,
+        136
+      ],
+      [
+        10,
+        126
+      ],
+      [
+        20,
+        125
+      ],
+      [
+        6,
+        108
+      ],
+      [
+        40,
+        95
+      ],
+      [
+        48,
+        86
+      ],
+      [
+        2,
+        79
+      ],
+      [
+        64,
+        61
+      ],
+      [
+        1,
+        55
+      ]
+    ],
+    "margin_scale_common": [
+      [
+        16,
+        153
+      ],
+      [
+        8,
+        142
+      ],
+      [
+        24,
+        123
+      ],
+      [
+        32,
+        113
+      ],
+      [
+        12,
+        112
+      ],
+      [
+        20,
+        93
+      ],
+      [
+        4,
+        91
+      ],
+      [
+        48,
+        84
+      ],
+      [
+        40,
+        78
+      ],
+      [
+        10,
+        64
+      ],
+      [
+        2,
+        52
+      ],
+      [
+        64,
+        51
+      ],
+      [
+        6,
+        42
+      ],
+      [
+        80,
+        35
+      ]
+    ],
+    "base_unit_padding": {
+      "of_4_pct": 70,
+      "of_8_pct": 47
+    }
+  },
+  "color": {
+    "n_total": 199,
+    "n_dark_mode": 30,
+    "light": {
+      "page_bg_common": [
+        [
+          "#ffffff",
+          84
+        ],
+        [
+          "#000000",
+          12
+        ],
+        [
+          "#121212",
+          3
+        ],
+        [
+          "#fafafa",
+          2
+        ],
+        [
+          "#f7f7f7",
+          2
+        ],
+        [
+          "#f7f6f5",
+          2
+        ],
+        [
+          "#f6f4ee",
+          1
+        ],
+        [
+          "#ebeaec",
+          1
+        ]
+      ],
+      "primary_text_common": [
+        [
+          "#000000",
+          65
+        ],
+        [
+          "#ffffff",
+          29
+        ],
+        [
+          "#212121",
+          4
+        ],
+        [
+          "#333333",
+          3
+        ],
+        [
+          "#0d0d0d",
+          3
+        ],
+        [
+          "#1a1a1a",
+          3
+        ],
+        [
+          "#121212",
+          3
+        ],
+        [
+          "#1b1b1b",
+          3
+        ]
+      ],
+      "accent_common": [
+        [
+          "#7c3aed",
+          2
+        ],
+        [
+          "#1868db",
+          2
+        ],
+        [
+          "#171321",
+          1
+        ],
+        [
+          "#fcab79",
+          1
+        ],
+        [
+          "#2702c2",
+          1
+        ],
+        [
+          "#222875",
+          1
+        ],
+        [
+          "#0c0f19",
+          1
+        ],
+        [
+          "#f472b6",
+          1
+        ],
+        [
+          "#006bff",
+          1
+        ],
+        [
+          "#6c47ff",
+          1
+        ],
+        [
+          "#edf6fd",
+          1
+        ],
+        [
+          "#eaff96",
+          1
+        ]
+      ]
+    },
+    "dark": {
+      "page_bg_common": [
+        [
+          "#000000",
+          3
+        ],
+        [
+          "#111111",
+          2
+        ],
+        [
+          "#18181b",
+          1
+        ],
+        [
+          "#14120b",
+          1
+        ],
+        [
+          "#0b0f19",
+          1
+        ],
+        [
+          "#07060d",
+          1
+        ],
+        [
+          "#1d1f27",
+          1
+        ],
+        [
+          "#101010",
+          1
+        ],
+        [
+          "#23272f",
+          1
+        ],
+        [
+          "#0d0d0d",
+          1
+        ]
+      ],
+      "primary_text_common": [
+        [
+          "#ffffff",
+          10
+        ],
+        [
+          "#fafafa",
+          2
+        ],
+        [
+          "#eeeeee",
+          2
+        ],
+        [
+          "#edecec",
+          1
+        ],
+        [
+          "#e1e1e1",
+          1
+        ],
+        [
+          "#eaecf6",
+          1
+        ],
+        [
+          "#e3e2e9",
+          1
+        ],
+        [
+          "#f6f7f9",
+          1
+        ]
+      ],
+      "surface_common": [
+        [
+          "#ffffff",
+          3
+        ],
+        [
+          "#1f1f1f",
+          2
+        ],
+        [
+          "#26272b",
+          1
+        ],
+        [
+          "#1b1913",
+          1
+        ],
+        [
+          "#fafafa",
+          1
+        ],
+        [
+          "#670de5",
+          1
+        ],
+        [
+          "#25262b",
+          1
+        ],
+        [
+          "#ac7ef4",
+          1
+        ]
+      ]
+    }
+  }
+}

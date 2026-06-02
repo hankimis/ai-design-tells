@@ -39,6 +39,10 @@ harness so any team or coding agent can audit and prevent the look.
 The detector is **pure Python standard library**, no install needed to score a page.
 
 ```bash
+# installed (gives the `ai-design-tells` command + the MCP server)
+pip install ai-design-tells          # or: uvx --from ai-design-tells ai-design-tells page.html
+
+# or clone and run with zero install
 git clone https://github.com/hankimis/ai-design-tells
 cd ai-design-tells
 
@@ -285,18 +289,28 @@ Each tell has a **nickname** (the memorable handle) and a descriptive name.
 The same taxonomy ships three ways, all generated from one source so guidance can
 never drift from measurement.
 
-**1 · CLI**, `python src/cli.py page.html`. Scores, prints fixes, exit-code gates CI.
+**1 · CLI**, `python src/cli.py page.html` (or `ai-design-tells page.html` after
+`pip install ai-design-tells`). Scores, prints fixes, exit-code gates CI.
 
 **2 · MCP server**, so a coding agent can **audit the UI it just wrote before
-showing it to you**, get the specific fixes, and iterate. Register in Claude Code:
+showing it to you**, get the specific fixes, and iterate. The easiest way to use
+it is **zero-clone via `uvx`**, no repo, no install step:
 
 ```jsonc
-// .mcp.json
+// .mcp.json  (Claude Code / Cursor / any MCP client)
 { "mcpServers": { "ai-design-tells": {
-  "command": "python", "args": ["mcp/server.py"] } } }
+  "command": "uvx",
+  "args": ["--from", "ai-design-tells[mcp]", "ai-design-tells-mcp"] } } }
 ```
 
-Tools: `score_design(html)`, `score_file(path)`, **`audit_url(url)`** (live site), `list_tells()`, **`component_specs()`** (measured target values), **`korean_specs()`** (Korean web), `harness_prompt()`.
+Or `pip install "ai-design-tells[mcp]"` and point the command at `ai-design-tells-mcp`.
+Cloned the repo instead? `{ "command": "python", "args": ["mcp/server.py"] }` still works.
+
+Tools: `score_design(html)`, `score_file(path)`, **`audit_url(url)`** (live site), `list_tells()`, **`component_specs()`** (measured target values), **`korean_specs()`** (Korean web), `harness_prompt()`. Each fired tell comes back with its **nickname** (The Sparkle Tax, ...), evidence, and fix.
+
+> Publishing the package: tag a release (`git tag v0.4.0 && git push origin v0.4.0`)
+> and `.github/workflows/publish.yml` builds and uploads to PyPI via Trusted
+> Publishing. Until the first publish lands, use the cloned-repo command above.
 
 **3 · Drop-in prompt module**, [`harness/AI-DESIGN-TELLS.md`](harness/AI-DESIGN-TELLS.md)
 turns each *detected* tell into a *preventive* instruction plus a pre-ship
@@ -398,14 +412,19 @@ reflective loop, not AI assistance, is what collapses a population's diversity.
 ## Repo layout
 
 ```
-src/taxonomy.py     the 27 tells, single source of truth (detector, paper, harness derive from it)
-src/scorer.py       the static detector + Tell Score
-src/cli.py          the `aidt` command-line linter
-src/scrape.py       render real sites (headless Chrome) and read computed styles (v2 live audit)
+ai_design_tells/    the installable package (pip install ai-design-tells)
+  taxonomy.py        the 27 tells, single source of truth (detector, paper, harness derive from it)
+  scorer.py          the static detector + Tell Score
+  cli.py             the `ai-design-tells` command-line linter
+  server.py          the MCP server (ai-design-tells-mcp)
+  scrape.py          render a live site and read computed styles (audit_url)
+  data/ harness/     bundled catalogs + drop-in harness, shipped in the wheel
+src/, mcp/          thin compatibility shims so `python src/cli.py` / `python mcp/server.py` keep working
 src/scrape_detail.py    deep per-component CSS extraction, light + dark (v3 spec catalog)
 scripts/audit_url.py    audit a deployed URL; analyze_corpus.py learns calibration from data/
 scripts/build_spec_catalog.py  aggregate sites_detail/ into reference/COMPONENT-SPECS.md
-mcp/server.py       MCP server (score_design / score_file / audit_url / list_tells / component_specs / harness_prompt)
+scripts/sync_package_assets.py  refresh the wheel's bundled data before a release
+pyproject.toml      packaging (setuptools); .github/workflows/publish.yml = PyPI trusted publishing on tag
 harness/            AI-DESIGN-TELLS.md, drop-in prompt module (generated, now with measured targets)
 reference/          COMPONENT-SPECS.md (199 sites) + KOREAN-SPECS.md (48 Korean sites)
 scripts/build_korean_catalog.py  Korean web catalog + KR-vs-global comparison
